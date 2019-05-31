@@ -1,0 +1,15 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/AIEnterprise/config
+/.vs/AIEnterprise/v16
+/packages
+/src/Foundation/DependencyInjection/code/bin
+/src/Foundation/DependencyInjection/code/obj
+/src/Foundation/Logging/code/bin
+/src/Foundation/Logging/code/obj
+/src/Foundation/Serialization/code/bin
+/src/Foundation/Serialization/code/obj/Debug
+/src/Project/code/bin
+/src/Project/code/obj/Debug
