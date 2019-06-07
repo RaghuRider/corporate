@@ -75,6 +75,7 @@
   <ItemGroup>
     <Content Include="App_Config\AIEnterprise\Project\AIEnterprise.Serialization.config" />
     <None Include="packages.config" />
+    <Content Include="Views\AIE\AIEPageLayout.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
