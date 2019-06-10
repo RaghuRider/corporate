@@ -1,7 +1,7 @@
 module.exports = function () {
     var instanceRoot = "C:\\inetpub\\wwwroot\\dev.aienterprise.com";
     var config = {
-        //websiteRoot: "C:\\inetpub\\wwwroot\\dev.aienterprise.com",
+        websiteRoot: "C:\\inetpub\\wwwroot\\dev.aienterprise.com",
         deployTemp: "C:\\AIE_deploy",
         solutionName: "AIEnterprise",
         buildConfiguration: "Debug",
