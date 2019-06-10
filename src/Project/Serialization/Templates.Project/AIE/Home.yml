@@ -1,0 +1,31 @@
+﻿---
+ID: "1af99e06-ca73-4d83-829c-0a5e2a2fbcc9"
+Parent: "f1723a7b-b4e3-4044-9943-36d32687114d"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/AIE/Home
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Office/32x32/home.png
+- ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+  Hint: __Base template
+  Type: tree list
+  Value: |
+    {FCDFE9CD-364F-46A6-A466-8CEB8CBF74CC}
+    {E9272B0E-3BBA-445F-8634-224D68966BB9}
+- ID: "f7d48a55-2158-4f02-9356-756654404f73"
+  Hint: __Standard values
+  Value: "{82331AB0-A69C-4468-8A72-5338719AA2CB}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190506T091128Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\virtualssuser

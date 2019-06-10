@@ -1,0 +1,76 @@
+﻿---
+ID: "41e3721d-7ce8-4e9b-8506-ffa7ec997087"
+Parent: "e70b240f-0e59-4ce0-9c9e-d3b64fd9a30c"
+Template: "5af3c941-ef7d-4a34-8088-1c26b985cdaf"
+Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Partial Designs/Footer
+DB: master
+SharedFields:
+- ID: "55faae90-3bba-4f7f-96fe-13c3f40055ff"
+  Hint: Signature
+  Value: footer
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{8368BF0C-B7E2-41F1-B527-61F63082AB26}"
+              p:before="*"
+              s:ds="local:/Data/Copyright Information"
+              s:id="{DCEE78E1-1843-4456-A13A-F10A12191630}"
+              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D%7C%7B03EA3C58-9F87-41D5-95D6-4B899C88572E%7D&amp;FieldNames&amp;Styles=%7B5EC876AC-99B7-4504-9426-CC4EEFFBD5A6%7D&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=6"
+              s:ph="/footer/container-5" />
+            <r
+              uid="{B2D49842-328E-4BF2-97CF-ABBCAF2BC0A2}"
+              p:after="r[@uid='{8368BF0C-B7E2-41F1-B527-61F63082AB26}']"
+              s:ds="{AF1E6C5A-6AEA-4999-A603-FAEDF160921D}"
+              s:id="{4646BD4F-05FF-4A19-9600-4D74F2F1548B}"
+              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D%7C%7B03EA3C58-9F87-41D5-95D6-4B899C88572E%7D&amp;FieldNames&amp;Styles=%7BE74A6A49-83DB-4712-9BFE-81FDA716ECE2%7D&amp;TitleHeadingLevel=%7B6A44D9C6-61F0-4B69-8E1A-FDC27F96BA0F%7D&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=7"
+              s:ph="/footer/container-5" />
+            <r
+              uid="{7390F5C3-056C-477A-893B-7B0549FA3F8D}"
+              p:after="r[@uid='{B2D49842-328E-4BF2-97CF-ABBCAF2BC0A2}']"
+              s:ds="local:/Data/About AIE"
+              s:id="{DCEE78E1-1843-4456-A13A-F10A12191630}"
+              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D%7C%7B03EA3C58-9F87-41D5-95D6-4B899C88572E%7D&amp;FieldNames&amp;Styles&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=2"
+              s:ph="/footer/container-1" />
+            <r
+              uid="{3381C293-4EA3-4F9C-97C8-543D4A7183E4}"
+              p:after="r[@uid='{7390F5C3-056C-477A-893B-7B0549FA3F8D}']"
+              s:ds="local:/Data/Contact Information"
+              s:id="{DCEE78E1-1843-4456-A13A-F10A12191630}"
+              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D%7C%7B03EA3C58-9F87-41D5-95D6-4B899C88572E%7D&amp;FieldNames&amp;Styles&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=4"
+              s:ph="/footer/container-1" />
+            <r
+              uid="{2FB4527D-6CAD-4949-A88C-2ADEED12FF68}"
+              p:after="r[@uid='{3381C293-4EA3-4F9C-97C8-543D4A7183E4}']"
+              s:id="{896A2C68-1362-4E88-8BA0-1805AE6D4837}"
+              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;BackgroundImage&amp;Styles&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=1"
+              s:ph="footer" />
+            <r
+              uid="{093ED1D4-A4B0-4EB2-BA0E-1D9ABF1D53B4}"
+              p:after="*[1=2]"
+              s:id="{896A2C68-1362-4E88-8BA0-1805AE6D4837}"
+              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;BackgroundImage&amp;Styles&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=5"
+              s:ph="footer" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190507T070403Z
+    - ID: "4c2f221f-9426-45ed-9eeb-c79bb3169565"
+      Hint: StickyNotes
+      Value: |
+        {"items":[]}
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

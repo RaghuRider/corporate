@@ -1,0 +1,18 @@
+﻿---
+ID: "ffc72f0e-ad13-456a-aef0-a5bcc2d16afc"
+Parent: "384e31c9-4ee7-4e85-abb0-a104e4346970"
+Template: "041c1f9f-99a4-4ee6-8308-985499f91032"
+Path: /sitecore/content/AIE/AIE Corporate Site/Data/Twitters
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190506T091524Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\virtualssuser

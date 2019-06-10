@@ -1,0 +1,18 @@
+﻿---
+ID: "80122390-a00a-444e-a89f-d219c7ebe5ec"
+Parent: "c66037ab-e784-46e0-859e-30b7feb86d20"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Project/AIE/AIE Corporate Site
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190506T091416Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\virtualssuser

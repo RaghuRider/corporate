@@ -1,0 +1,18 @@
+﻿---
+ID: "4f2f92ce-5f49-44c9-97bb-14b3af6c609b"
+Parent: "384e31c9-4ee7-4e85-abb0-a104e4346970"
+Template: "a13a1b91-fd2b-494b-9086-008852175b0a"
+Path: /sitecore/content/AIE/AIE Corporate Site/Data/Carousels
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190506T091436Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\virtualssuser

@@ -1,0 +1,14 @@
+﻿---
+ID: "8553e7f9-1bbf-432c-b772-8ce6753d384c"
+Parent: "3a9b5f2d-4e93-43b2-9e92-773f7825281e"
+Template: "3a9b5f2d-4e93-43b2-9e92-773f7825281e"
+Path: /sitecore/templates/Project/AIE/Tenant/__Standard Values
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190506T091127Z

@@ -1,0 +1,18 @@
+﻿---
+ID: "5e3e47be-f87f-472b-9aec-99d2063780a0"
+Parent: "6f9e458e-e573-4696-80f0-913b9d01e2a1"
+Template: "0339bac0-78c1-43c1-b930-f8c26a5fdf80"
+Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Placeholder Settings
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190506T091423Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\virtualssuser

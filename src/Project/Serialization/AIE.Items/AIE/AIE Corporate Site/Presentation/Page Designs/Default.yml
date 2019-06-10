@@ -1,0 +1,22 @@
+﻿---
+ID: "e619039e-2b1b-49d4-8210-5fdb10741279"
+Parent: "cfbfd3d2-59eb-4521-bb5d-79bbcce94805"
+Template: "f6a655a9-5776-4d0a-a948-759bc9e656cc"
+Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Page Designs/Default
+DB: master
+SharedFields:
+- ID: "0966b999-0d0e-4278-acc9-9da69d461fe6"
+  Hint: PartialDesigns
+  Value: "{E982C93F-A008-4577-A4FA-557C98BACFA2}|{5A62ADAC-47F0-4773-821F-F08BC3696D7E}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190506T091538Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\virtualssuser

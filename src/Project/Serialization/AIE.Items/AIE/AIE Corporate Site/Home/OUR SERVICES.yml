@@ -1,0 +1,27 @@
+﻿---
+ID: "75331564-3ccf-4533-9c32-b8b9f9a0df6b"
+Parent: "cc1bc5e4-5512-4b8e-b38e-7856e6604cd5"
+Template: "fcdfe9cd-364f-46a6-a466-8ceb8cbf74cc"
+Path: /sitecore/content/AIE/AIE Corporate Site/Home/OUR SERVICES
+DB: master
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{E6E33FA3-2659-4750-A1DD-EB8BDFC5F37B}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 150
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190506T122200Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: OUR SERVICES
+    - ID: "bb6835c4-82af-4d11-9102-a61694c17055"
+      Hint: Title
+      Value: OUR SERVICES
