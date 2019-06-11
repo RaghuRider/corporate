@@ -195,6 +195,7 @@ gulp.task("04-Publish-Project-Projects", function (callback) {
         "CreateTempFolder",
         "Nuget-Restore",
         "Publish-Project-Projects",
+        "Sunc-Unicorn",
         //"CopyDll",
         //"Publish-All-Views",
         //"Publish-All-Configs",
