@@ -1,8 +1,8 @@
 ﻿---
-ID: "cd48a13f-5e8a-4079-b509-4c872a31988c"
-Parent: "16be70df-7676-4622-a79f-6c0976466abb"
-Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
-Path: /sitecore/content/AIE/AIE Corporate Site/Home/OUR SERVICES/Data/Text 2
+ID: "6f22c5c6-3a28-483b-8332-d13a9609ff62"
+Parent: "80122390-a00a-444e-a89f-d219c7ebe5ec"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Project/AIE/AIE Corporate Site/OurServiceFeature
 DB: master
 Languages:
 - Language: en
@@ -11,7 +11,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20190605T103235Z
+      Value: 20190610T094956Z
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
