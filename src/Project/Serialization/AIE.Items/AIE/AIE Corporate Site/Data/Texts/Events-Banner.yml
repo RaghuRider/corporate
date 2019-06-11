@@ -1,0 +1,18 @@
+﻿---
+ID: "3d472815-6c5d-4915-b090-ba5f9a5a3e99"
+Parent: "bce7f746-c849-4592-b4ae-af55f5037aab"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: "/sitecore/content/AIE/AIE Corporate Site/Data/Texts/Events-Banner"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190611T070859Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
