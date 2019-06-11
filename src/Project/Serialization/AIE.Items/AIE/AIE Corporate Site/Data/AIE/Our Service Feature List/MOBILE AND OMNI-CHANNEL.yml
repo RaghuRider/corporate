@@ -1,0 +1,25 @@
+﻿---
+ID: "6bbf2ae0-8672-4dcb-9662-47df7f6e9acc"
+Parent: "ab67d5c9-6592-45d6-9480-77056ebf6207"
+Template: "f4d9f467-7714-4920-b47b-e05bb9a8b6e1"
+Path: "/sitecore/content/AIE/AIE Corporate Site/Data/AIE/Our Service Feature List/MOBILE AND OMNI-CHANNEL"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1c3af964-4507-4e02-bc9a-471ed67ba0c8"
+      Hint: Title
+      Value: "MOBILE AND OMNI-CHANNEL"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190610T094758Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "9c364854-777d-4b7b-b5b7-f064aa03d2ee"
+      Hint: Icon
+      Value: |
+        <image mediaid="{7EC64B30-5921-4437-B70E-D5AEEF16CA39}" ></image>

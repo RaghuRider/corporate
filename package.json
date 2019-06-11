@@ -1,7 +1,7 @@
 {
-  "name": "nespackages",
+  "name": "aiepackages",
   "version": "1.0.0",
-  "description": "NES Node Dependencies",
+  "description": "AIE Node Dependencies",
   "main": "gulpfile.js",
   "dependencies": {
     "async": "^1.5.2",

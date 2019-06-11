@@ -1,0 +1,61 @@
+﻿---
+ID: "db728abc-067f-4e68-b87a-32e07e5abf64"
+Parent: "456e432b-9852-4af1-8e87-ff2773540f7c"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: /sitecore/content/AIE/AIE Corporate Site/Home/OUR SERVICES/Digital and Experience Engineering/Data/RichTextDescription
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 150
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190605T125255Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: |
+        <div class="wpb_column vc_column_container vc_col-sm-8">
+        <div class="vc_column-inner ">
+        <div class="wpb_wrapper">
+        <div class="wpb_text_column wpb_content_element ">
+        <div class="wpb_wrapper">
+        <h4>Commerce Cubes<sup>SM</sup></h4>
+        <p class="p1"><span class="s1"><img class="alignright wp-image-25417" src="https://www.aienterprise.com/staging/wp-content/uploads/2018/01/commerce-cubes-aienterprise-284x300.png" alt="Commerce Cube Image by AI Enterprise" width="372" height="393" srcset="https://www.aienterprise.com/wp-content/uploads/2018/01/commerce-cubes-aienterprise-284x300.png 284w, https://www.aienterprise.com/wp-content/uploads/2018/01/commerce-cubes-aienterprise-768x811.png 768w, https://www.aienterprise.com/wp-content/uploads/2018/01/commerce-cubes-aienterprise-970x1024.png 970w, https://www.aienterprise.com/wp-content/uploads/2018/01/commerce-cubes-aienterprise.png 1181w" sizes="(max-width: 372px) 100vw, 372px" />When it&rsquo;s time to add compelling new features across channels and devices, start with Commerce Cubes from AIEnterprise to accelerate your time to value, increase agility and push functionality towards the edge. Commerce Cubes are pre-engineered microsolutions that can be installed, &ldquo;on the side,&rdquo; to quickly integrate with your existing commerce platform instead of spending months wading through complex architecture and costly testing cycles required to extend large systems in situ.</span></p>
+        <p class="p1"><span class="s1">AIEnterprise is constantly evolving its library of Commerce Cubes to zoom in on classic commerce challenges related to inventory, loyalty, promotions, cross device session management and many other omnichannel topics. Commerce Cubes are delivered with well documented APIs and SDKs that facilitate integration into native devices, web interfaces, and platforms. These solutions are delivered as microservices that can be deployed in public or private clouds au-natural or be easily customized to fill bespoke requirements. They are independently scalable, making them ideally suited for core application services or to enhance adaptive interfaces.</span></p>
+        <p class="p1"><span class="s1">Extending your enterprise service portfolio with Commerce Cubes allows you to meet market demand for competitive features with agility. Using Commerce Cubes to jumpstart new customer flows and differentiating new features reduces the cost of innovation and prevents loss due to platform or vendor lock-in that often accompanies traditional customizations. </span></p>
+        </div>
+        </div>
+        <div class="clearboth">&nbsp;</div>
+        <div class="gem-divider ">&nbsp;</div>
+        <div class="clearboth">&nbsp;</div>
+        <div class="gem-divider " style="margin-top: 40px;">&nbsp;</div>
+        <div class="wpb_text_column wpb_content_element ">
+        <div class="wpb_wrapper">
+        <h4>Best Experience Engineering</h4>
+        <p class="p1"><span class="s1">It is more than just delivering UX components that render within a screen.<span class="Apple-converted-space">&nbsp; </span>Our team becomes an extension of your team, your vendors and your customer.<span class="Apple-converted-space">&nbsp; </span>We become embedded in your business until we can design the best possible Customer Experience.<span class="Apple-converted-space">&nbsp; </span>We have even completely transformed the legacy experience to a more personal, human, accessible &ndash; digital one.<span class="Apple-converted-space">&nbsp; </span>An experience that keeps your customers coming back for more. We complement this with offline and online (AI) real-time analytics to continue to customize the customer experience.</span></p>
+        </div>
+        </div>
+        <div class="clearboth">&nbsp;</div>
+        <div class="gem-divider " style="margin-top: 40px;">&nbsp;</div>
+        <div class="clearboth">&nbsp;</div>
+        <div class="gem-divider " style="margin-top: 40px;">&nbsp;</div>
+        <div class="wpb_text_column wpb_content_element ">
+        <div class="wpb_wrapper">
+        <h4>Mobile and Omni-channel</h4>
+        <p class="p1"><span class="s1">Mobile. Voice Recognition AI. Multiple customer touch points. Data Aggregation. All of these play a role in deploying a robust &lsquo;Invigorated&rsquo; commerce. We can help you build the right strategy to deliver in all these areas.<br />
+        </span>
+        </p>
+        </div>
+        </div>
+        </div>
+        </div>
+        </div>
