@@ -10,7 +10,7 @@ SharedFields:
   Value: Office/32x32/document_selection.png
 - ID: "a036b2bc-ba04-44f6-a75f-bae6cd242abf"
   Hint: Path
-  Value: /Views/AIE/PageLayout.cshtml
+  Value: /Views/AIE/AIEPageLayout.cshtml
 Languages:
 - Language: en
   Versions:
