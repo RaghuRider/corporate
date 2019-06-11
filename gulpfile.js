@@ -155,9 +155,9 @@ gulp.task("Publish-Project-Projects", function () {
 gulp.task("Sync-Unicorn",
     function (callback) {
         var options = {};
-        options.siteHostName = options.websiteUrl; //habitat.getSiteUrl();
-
-        options.authenticationConfigFile = config.websiteRoot + "/App_config/Include/Unicorn/Unicorn.zSharedSecret.config";
+        //options.siteHostName = options.websiteUrl; //habitat.getSiteUrl();
+        options.siteHostName = "http://dev.aienterprise.com/";
+        options.authenticationConfigFile = config.websiteRoot + "/App_config/Include/AIEnterprise/Project/Unicorn.SharedSecret.config";
         options.maxBuffer = Infinity;
 
         unicorn(function () {
