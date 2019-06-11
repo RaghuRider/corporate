@@ -1,0 +1,24 @@
+﻿---
+ID: "6fde03c1-c023-412b-96f5-9ddaea966230"
+Parent: "6dc4ae5b-e368-461c-938a-55d49c4b0d99"
+Template: "fcd285da-9ab2-4c8d-b185-5a7487a9ba1b"
+Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Page Content/ConnectWithUs/Section1/div/div/div/div/Image
+DB: master
+SharedFields:
+- ID: "4753764c-c05a-4623-841b-97f85135241c"
+  Hint: FieldName
+  Value: Image
+- ID: "7495124d-09b5-4cb3-b4a6-fe77a95827da"
+  Hint: CssClass
+  Value: "fullwidth-block-background"
+- ID: "c35b2285-b4a8-406f-a91c-24a60391dc12"
+  Hint: DataAttributes
+  Value: "style=background-repeat%3A%20no-repeat%3B%20background-size%3A%20cover%3Bbackground-position%3A%20center%20top%3B"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190607T070711Z

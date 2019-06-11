@@ -1,0 +1,21 @@
+﻿---
+ID: "6dc4ae5b-e368-461c-938a-55d49c4b0d99"
+Parent: "8784bf93-ba7c-4038-a444-4a8983f036b6"
+Template: "aca5c9a3-cda0-49b6-893f-1d4a7cb595b0"
+Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Page Content/ConnectWithUs/Section1/div/div/div/div
+DB: master
+SharedFields:
+- ID: "bea2740e-90d1-4b16-bd1d-7a7cc8605d2d"
+  Hint: CssClass
+  Value: "fullwidth-block clearfix"
+- ID: "c35b2285-b4a8-406f-a91c-24a60391dc12"
+  Hint: DataAttributes
+  Value: "style=padding-top%3A%20100px%3B%20padding-bottom%3A%20200px%3B%20width%3A%201349px%3B%20left%3A%20-89.5px%3B"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190607T070549Z
