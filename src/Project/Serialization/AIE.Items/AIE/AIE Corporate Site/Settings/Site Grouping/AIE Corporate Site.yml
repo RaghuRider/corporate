@@ -13,7 +13,7 @@ SharedFields:
   Value: "formsRoot=%7B208980CA-560E-4CFA-8C91-B1D8C00D6729%7D"
 - ID: "8e0dd914-9afb-4d45-bf8b-7ff5d6e5337e"
   Hint: HostName
-  Value: dev.aienterprise.com
+  Value: aie.local.com
 - ID: "a7803a5d-cd03-4eda-abed-1d9af4bf6660"
   Hint: Database
   Value: web
