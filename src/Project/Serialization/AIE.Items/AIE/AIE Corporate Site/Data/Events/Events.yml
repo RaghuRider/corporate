@@ -1,0 +1,14 @@
+﻿---
+ID: "bf054fe4-dbd8-43ba-a298-7363ede7f5b7"
+Parent: "78d98d63-fd25-4d6f-b3c0-b90e6f5da0d5"
+Template: "af1cc1af-99cc-4e3c-9a26-3ead62890fce"
+Path: /sitecore/content/AIE/AIE Corporate Site/Data/Events/Events
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190611T150527Z
