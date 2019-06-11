@@ -1,0 +1,29 @@
+﻿---
+ID: "eac33ed6-28af-4d10-8dc5-3cde8243da62"
+Parent: "3cc8bfcd-f7e1-42d6-93c2-e98772b9a815"
+Template: "324733cf-afec-4281-9a18-03b6cfc4e535"
+Path: "/sitecore/content/AIE/AIE Corporate Site/Data/Promos/Events-NRF2018"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "14023dd5-30e7-4e3c-bf31-d835f3a87410"
+      Hint: PromoText
+      Value: NRF 2018, New York City
+    - ID: "18f9beb8-0116-40fd-b47e-fd0a2327d7e0"
+      Hint: PromoIcon
+      Value: |
+        <image mediaid="{E71BC00F-B41F-486D-901B-08D360D398CB}" alt="" height="710" width="532" hspace="" vspace=""></image>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190611T063740Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "b59adc09-32a3-46f2-aede-b0c633979263"
+      Hint: PromoText2
+      Value: |
+        "Join us at the NRF 2018 show in New York City.  As usual, it's been held at the legendary Jacob Javits Center.  This is the world's most important retail conference and AIEnterprise will be present.   This is the largest gathering of industry executives, thoughts leaders and partners in the world. Learn about the latest technology trends in retail and how they can help you grow yoru brand".
