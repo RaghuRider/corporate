@@ -1,0 +1,14 @@
+
+#copy-right {
+    background-color: #181828;
+    color: #5f727f;
+    
+    padding: 2.5rem 1.3125rem;
+    
+    font-size: 15px;
+    font-weight: 400;
+}
+
+#copy-right .social-item {
+    margin: .5rem;
+}

@@ -1,0 +1,22 @@
+#about-us {
+    padding: 110px 0px 45px;
+    background-color: #212331;
+    font-size: 18px;
+    line-height: 1.75rem;
+    color: #99a9b5;
+}
+
+#about-us h5 {
+    color: #ffffff;
+    font-weight: 700;
+}
+
+#about-us .iso-certificate {
+    width: 5rem;
+}
+
+#about-us .address {
+    margin-top: 2.5rem;
+    padding-bottom: 1.875rem;
+    border-bottom: .1rem solid #393d50;
+}
