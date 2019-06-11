@@ -1,0 +1,29 @@
+﻿---
+ID: "f1c35447-f88a-4845-9dd8-653f57f84725"
+Parent: "57176e0b-d0ce-4485-8940-a663e890b1c9"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: /sitecore/content/AIE/AIE Corporate Site/Home/Data/Text 1
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190606T101546Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: |
+        <div class="gem-custom-header-conteiner">
+        <div class="custom-header-title"><span style="max-width: 900px;"></span>
+        <p>&nbsp;</p>
+        <div class="title-xlarge" style="text-align: center; margin-bottom: 0; padding-bottom: 0;"><span class="light" style="color: #ffffff;">About Us</span></div>
+        <p>&nbsp;</p>
+        <span style="max-width: 900px;"><center>We have been there. We understand.</center></span></div>
+        <div class="custom-header-subtitle styled-subtitle" style="padding-bottom:80px;"><span class="light" style="max-width: 900px; color: #ffffff;"></span></div>
+        <!-- .breadcrumbs --></div>

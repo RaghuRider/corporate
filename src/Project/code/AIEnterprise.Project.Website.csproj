@@ -67,13 +67,14 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Web.config" />
+    <None Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="App_Config\AIEnterprise\Project\AIEnterprise.Serialization.config" />
+    <Content Include="App_Config\Include\AIEnterprise\Project\AIEnterprise.Serialization.config" />
+    <Content Include="App_Config\Include\AIEnterprise\Project\z.Common.Settings.config" />
     <None Include="packages.config" />
     <Content Include="Views\AIE\AIEPageLayout.cshtml" />
     <None Include="Web.Debug.config">

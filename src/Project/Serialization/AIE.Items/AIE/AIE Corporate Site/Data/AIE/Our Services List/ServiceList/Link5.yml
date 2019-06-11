@@ -1,0 +1,22 @@
+﻿---
+ID: "d0284e0d-ad1a-4442-b0b1-e270e354501f"
+Parent: "21c378a1-4adf-45ef-b2de-e9e19469b055"
+Template: "e24e0789-a058-48bf-abb6-c69c0e60b6b7"
+Path: /sitecore/content/AIE/AIE Corporate Site/Data/AIE/Our Services List/ServiceList/Link5
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190607T111716Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "dd05144a-bd66-4ea3-956a-4b7104daaba3"
+      Hint: Link
+      Value: |
+        <link text="Premium Business Consulting" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{807F53D5-5F25-45C3-8ACB-C5C512566ED1}" />

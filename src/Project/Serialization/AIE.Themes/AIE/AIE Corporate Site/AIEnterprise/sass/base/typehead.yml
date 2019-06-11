@@ -1,0 +1,14 @@
+﻿---
+ID: "42c4f1a0-17b0-473c-9591-867dd9f718ac"
+Parent: "d1ea5fa6-31d3-4f78-8da1-cea8696831b6"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Themes/AIE/AIE Corporate Site/AIEnterprise/sass/base/typehead
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170615T075142Z

@@ -1,0 +1,18 @@
+﻿---
+ID: "c85118e6-9b51-4df2-aa8c-fdc96e84b5e0"
+Parent: "fcdfe9cd-364f-46a6-a466-8ceb8cbf74cc"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/AIE/Page/Content
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190506T091147Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\virtualssuser

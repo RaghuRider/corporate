@@ -1,0 +1,26 @@
+﻿---
+ID: "ab2bc3f1-52eb-41f5-b121-2bf825468a2f"
+Parent: "b65fb026-7967-4782-8396-ed8c804f0b19"
+Template: "b65fb026-7967-4782-8396-ed8c804f0b19"
+Path: /sitecore/templates/Project/AIE/Partial Design Folder/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {B65FB026-7967-4782-8396-ED8C804F0B19}
+    {5AF3C941-EF7D-4A34-8088-1C26B985CDAF}
+    {C2A8E276-1757-4957-9DD5-8669B79FD80D}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190506T091128Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\virtualssuser

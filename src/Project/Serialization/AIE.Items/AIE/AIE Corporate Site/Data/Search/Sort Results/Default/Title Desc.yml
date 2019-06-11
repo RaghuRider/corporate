@@ -1,0 +1,28 @@
+﻿---
+ID: "9211c3ab-591b-4de9-8a15-dfe8cc2a7c3b"
+Parent: "df573e5e-4dc5-4137-9572-e590e99826db"
+Template: "3e53ac1b-65e8-4ae2-8c5b-8baf9c3d655e"
+Path: /sitecore/content/AIE/AIE Corporate Site/Data/Search/Sort Results/Default/Title Desc
+DB: master
+SharedFields:
+- ID: "c95b7bad-fa93-41f0-82de-c2c2bf0a0e89"
+  Hint: Facet
+  Value: "{B9638DB8-2F18-4EF8-91D0-B5FF948AE343}"
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{51206C99-3DD6-497B-A147-8D65ABFAEB86}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190506T091532Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\virtualssuser
+    - ID: "f3b01c7d-bd46-4972-ab13-4c9c95c4f23d"
+      Hint: Title
+      Value: Title Desc

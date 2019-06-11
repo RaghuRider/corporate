@@ -1,0 +1,18 @@
+﻿---
+ID: "2ae63d94-757d-4063-96e2-c76bab6f12cd"
+Parent: "d1ea5fa6-31d3-4f78-8da1-cea8696831b6"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Themes/AIE/AIE Corporate Site/AIEnterprise/sass/base/search
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: applications/16x16/folder.png
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170614T063705Z

@@ -1,0 +1,14 @@
+﻿---
+ID: "f3a0ec04-8ac7-4653-9231-909a0ebcb10a"
+Parent: "23f596d5-42f1-4276-acc5-6dc99f20818c"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: "/sitecore/media library/Themes/AIE/AIE Corporate Site/AIEnterprise/sass/variants/page-list"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170614T063833Z

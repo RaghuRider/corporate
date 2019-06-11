@@ -1,0 +1,18 @@
+﻿---
+ID: "be62a8ac-5fb3-449b-94a9-7e92e3627836"
+Parent: "384e31c9-4ee7-4e85-abb0-a104e4346970"
+Template: "68c00cb0-320b-4324-903a-f6ad56a2a105"
+Path: /sitecore/content/AIE/AIE Corporate Site/Data/Accordions
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190506T091435Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\virtualssuser

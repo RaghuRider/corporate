@@ -1,0 +1,21 @@
+﻿---
+ID: "21c378a1-4adf-45ef-b2de-e9e19469b055"
+Parent: "3c6941ea-fcf2-4735-a200-d89c731a1193"
+Template: "f7561ffc-c0d8-477f-b53d-2703a4060be1"
+Path: /sitecore/content/AIE/AIE Corporate Site/Data/AIE/Our Services List/ServiceList
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190607T111010Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "aa9c8d1c-b210-4efa-86db-83e8fa32c672"
+      Hint: Title
+      Value: Our Services

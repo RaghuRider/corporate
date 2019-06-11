@@ -1,0 +1,30 @@
+﻿---
+ID: "36b0ebff-54d9-4f8c-8053-3b58984b5922"
+Parent: "ba7bc6ae-0f6f-496f-bf98-61ae0c573cbe"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Partial Designs/Header/Data/Header information
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190506T124806Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: |
+        <div class="top-area-items inline-inside">
+        <div class="top-area-block top-area-contacts">
+        <div class="gem-contacts inline-inside">
+        <div class="gem-contacts-item gem-contacts-phone">+1 833-AIE-0247</div>
+        <div class="gem-contacts-item gem-contacts-email"><a href="mailto:sales@aienterprise.com">sales@aienterprise.com</a></div>
+        <div class="gem-contacts-item gem-contacts-website"><a href="https://www.aienterprise.com">www.aienterprise.com</a></div>
+        </div>
+        </div>
+        </div>

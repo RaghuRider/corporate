@@ -1,0 +1,18 @@
+﻿---
+ID: "d4dffe61-b766-4ca0-894c-a20edb9b4bdc"
+Parent: "6b8b9a1e-1365-44ee-a868-151d8a00e4be"
+Template: "e1cf805e-7f49-4ec9-a25a-182dc798cb5f"
+Path: /sitecore/content/AIE/AIE Corporate Site/Settings/Redirects
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190506T091419Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\virtualssuser

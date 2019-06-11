@@ -1,0 +1,22 @@
+﻿---
+ID: "5ca4e5be-f83d-4b00-a7c9-da608339ee86"
+Parent: "af1e6c5a-6aea-4999-a603-faedf160921d"
+Template: "e24e0789-a058-48bf-abb6-c69c0e60b6b7"
+Path: /sitecore/content/AIE/AIE Corporate Site/Data/Link Lists/Social Media Items/Twitter
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190506T125923Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "dd05144a-bd66-4ea3-956a-4b7104daaba3"
+      Hint: Link
+      Value: |
+        <link text="Twitter" linktype="external" url="https://twitter.com/AiEnterpriseInc" anchor="" class="socials-item-icon twitter " target="_blank" />
