@@ -50,7 +50,7 @@ Languages:
               p:after="r[@uid='{F2724650-B418-49E6-8E58-A4F41D433099}']"
               s:ds=""
               s:id="{C25766C8-9AFD-4D28-87FE-147774F6806D}"
-              s:par="SplitterSize=2&amp;EnabledPlaceholders=1%2C3%2C2&amp;Styles1&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles8&amp;ColumnWidth1=%7B742CA7FF-6640-441F-A4AC-4A7446A3B895%7D&amp;ColumnWidth2=%7B742CA7FF-6640-441F-A4AC-4A7446A3B895%7D&amp;ColumnWidth3=%7B742CA7FF-6640-441F-A4AC-4A7446A3B895%7D&amp;ColumnWidth4&amp;ColumnWidth5&amp;ColumnWidth6&amp;ColumnWidth7&amp;ColumnWidth8&amp;Reset Caching Options&amp;DynamicPlaceholderId=6"
+              s:par="SplitterSize=2&amp;EnabledPlaceholders=1%2C3%2C2&amp;Styles1&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles8&amp;ColumnWidth1=%7B9AD9D6FB-28FC-43C5-8DA4-4A6A63CE802F%7D&amp;ColumnWidth2=%7B9AD9D6FB-28FC-43C5-8DA4-4A6A63CE802F%7D&amp;ColumnWidth3=%7B9AD9D6FB-28FC-43C5-8DA4-4A6A63CE802F%7D&amp;ColumnWidth4&amp;ColumnWidth5&amp;ColumnWidth6&amp;ColumnWidth7&amp;ColumnWidth8&amp;Reset Caching Options&amp;DynamicPlaceholderId=6"
               s:ph="/main/container-5" />
             <r
               uid="{409D5A85-3D04-4D8C-9774-5A440C8BEDDC}"
@@ -81,11 +81,11 @@ Languages:
               s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7B036A120A-AF7A-4B1B-994B-EB70ADF2A086%7D&amp;Styles&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=4"
               s:ph="main" />
             <r
-              uid="{0D52E7D8-9484-4E3B-87A0-80AE2D752BBD}"
+              uid="{D51256EA-751B-4E0D-941F-2CD580614481}"
               p:after="*[1=2]"
-              s:ds="{AAB01484-432B-40C1-B155-8616F7E56AFD}"
-              s:id="{00E2C7CF-2247-4596-B878-E6BB3850A77F}"
-              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;Styles&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=10"
+              s:ds=""
+              s:id="{896A2C68-1362-4E88-8BA0-1805AE6D4837}"
+              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;BackgroundImage&amp;Styles&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=5"
               s:ph="main" />
           </d>
         </r>
@@ -95,6 +95,14 @@ Languages:
     - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
       Hint: NavigationTitle
       Value: PARTNERS
+    - ID: "4f441595-f0b8-48fc-8f58-8ceda868003e"
+      Hint: Content
+      Value: |
+        <span style="max-width: 900px;"></span>
+        <p>&nbsp;</p>
+        <div class="title-xlarge" style="text-align: center; margin-bottom: 0; padding-bottom: 0;"><span class="light" style="color: #ffffff;">Partners</span></div>
+        <p>&nbsp;</p>
+        <span style="max-width: 900px;"><center>A bond is only as strong as the commitment of the parts.</center></span>
     - ID: "bb6835c4-82af-4d11-9102-a61694c17055"
       Hint: Title
       Value: PARTNERS

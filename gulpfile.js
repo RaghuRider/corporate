@@ -155,8 +155,8 @@ gulp.task("Publish-Project-Projects", function () {
 gulp.task("Sync-Unicorn",
     function (callback) {
         var options = {};
-        options.siteHostName = options.websiteUrl; //habitat.getSiteUrl();
-
+        //options.siteHostName = options.websiteUrl; //habitat.getSiteUrl();
+        options.siteHostName = "http://dev.aienterprise.com/";
         options.authenticationConfigFile = config.websiteRoot + "/App_config/Include/Unicorn/Unicorn.zSharedSecret.config";
         options.maxBuffer = Infinity;
 
@@ -210,7 +210,8 @@ gulp.task("05-Publish-Complete-Solution", function (callback) {
     return runSequence(
         "02-Publish-Feature-Projects",
         "03-Publish-Foundation-Projects",
-        "04-Publish-Project-Projects", callback);
+        "04-Publish-Project-Projects",
+        "Sync-Unicorn",callback);
 });
 
 gulp.task('CopyDll', function () {
