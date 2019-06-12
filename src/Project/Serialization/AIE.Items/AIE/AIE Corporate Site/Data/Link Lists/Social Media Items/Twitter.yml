@@ -19,4 +19,4 @@ Languages:
     - ID: "dd05144a-bd66-4ea3-956a-4b7104daaba3"
       Hint: Link
       Value: |
-        <link text="Twitter" linktype="external" url="https://twitter.com/AiEnterpriseInc" anchor="" class="socials-item-icon twitter " target="_blank" />
+        <link text="Twitter" linktype="external" url="https://twitter.com/AiEnterpriseInc" anchor="" class="social-item p-2 social-twitter" target="_blank" />

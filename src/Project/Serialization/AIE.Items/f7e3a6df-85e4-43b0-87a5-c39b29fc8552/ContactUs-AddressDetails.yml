@@ -1,0 +1,52 @@
+﻿---
+ID: "beed663a-31b7-4c43-930d-c1ebf8f06345"
+Parent: "f7e3a6df-85e4-43b0-87a5-c39b29fc8552"
+Template: "2b35e65c-137a-4641-b683-d223ca7cfac0"
+Path: "/sitecore/content/AIE/AIE Corporate Site/Data/Snippets/ContactUs-AddressDetail/ContactUs-AddressDetails"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{FAC70B5C-893D-4262-A5CD-0C4693E423FA}"
+              p:before="*"
+              s:ds="/sitecore/content/AIE/AIE Corporate Site/Data/Texts/AddressDetails-SocialIcons"
+              s:id="{DCEE78E1-1843-4456-A13A-F10A12191630}"
+              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames&amp;Styles&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=5"
+              s:ph="/section-content/column-2-2" />
+            <r
+              uid="{6B65BDF3-3E6D-45CA-B09F-5BFD9B4B79B5}"
+              p:after="r[@uid='{FAC70B5C-893D-4262-A5CD-0C4693E423FA}']"
+              s:ds="/sitecore/content/AIE/AIE Corporate Site/Data/Texts/AddressDetails-PhoneNo"
+              s:id="{DCEE78E1-1843-4456-A13A-F10A12191630}"
+              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames&amp;Styles&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=4"
+              s:ph="/section-content/column-3-2" />
+            <r
+              uid="{C9AABC54-8861-4363-B897-2B9094110E2B}"
+              p:after="r[@uid='{6B65BDF3-3E6D-45CA-B09F-5BFD9B4B79B5}']"
+              s:ds="/sitecore/content/AIE/AIE Corporate Site/Data/Texts/AddressDetails-Address"
+              s:id="{DCEE78E1-1843-4456-A13A-F10A12191630}"
+              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames&amp;Styles&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=3"
+              s:ph="/section-content/column-1-2" />
+            <r
+              uid="{A1562972-0048-42F2-ADF0-5CF7772179B6}"
+              p:after="*[1=2]"
+              s:ds=""
+              s:id="{C25766C8-9AFD-4D28-87FE-147774F6806D}"
+              s:par="SplitterSize=2&amp;EnabledPlaceholders=1%2C3%2C2&amp;Styles1&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles8&amp;ColumnWidth1=%7B9AD9D6FB-28FC-43C5-8DA4-4A6A63CE802F%7D&amp;ColumnWidth2=%7B9AD9D6FB-28FC-43C5-8DA4-4A6A63CE802F%7D&amp;ColumnWidth3=%7B9AD9D6FB-28FC-43C5-8DA4-4A6A63CE802F%7D&amp;ColumnWidth4&amp;ColumnWidth5&amp;ColumnWidth6&amp;ColumnWidth7&amp;ColumnWidth8&amp;Reset Caching Options&amp;DynamicPlaceholderId=2"
+              s:ph="section-content" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190611T113618Z

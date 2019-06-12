@@ -11,11 +11,11 @@ Languages:
     Fields:
     - ID: "14023dd5-30e7-4e3c-bf31-d835f3a87410"
       Hint: PromoText
-      Value: We are proud to be associated with these brands
+      Value: "What is AIEnterprise?"
     - ID: "18f9beb8-0116-40fd-b47e-fd0a2327d7e0"
       Hint: PromoIcon
       Value: |
-        <image mediaid="{19440D17-4E29-44B6-9F17-32CDA8CDABBF}" ></image>
+        <image mediaid="{64858F36-03E3-460A-88E4-51C2E9A776D8}" />
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20190606T125402Z
@@ -26,4 +26,4 @@ Languages:
     - ID: "b59adc09-32a3-46f2-aede-b0c633979263"
       Hint: PromoText2
       Value: |
-        <span style="color: #46485c;">Our partnerships allow us to scale our services in a thoughtful, value-add, customised way. It is our strategic way to adapt to the needs of very large multi – national brands and smaller businesses in emerging markets. The bottom line is, only the best of the best gets to be presented on this page. </span>
+        <span class="s1">We are a team of experts with 20 years of experience in Digital Commerce.<span class="Apple-converted-space">&nbsp;&nbsp;</span>We have been there since the birth of these technologies and have been faithful witnesses to their growth. <span class="Apple-converted-space">&nbsp; </span>They have changed the way we read books, get a taxi and even find somebody to love. <span class="Apple-converted-space">&nbsp; </span>All throughout these exciting times, we have excelled in helping companies like yours take advantage of these changing times.<span class="Apple-converted-space">&nbsp; </span>We have an envy-inducing track record of proven results in building the right strategy, pairing it to the best technology and ultimately deliver a top notch customer experience that produces results.</span>

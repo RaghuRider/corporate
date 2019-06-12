@@ -1,0 +1,54 @@
+﻿---
+ID: "de05f280-b239-4901-88ae-3378c5db130b"
+Parent: "bce7f746-c849-4592-b4ae-af55f5037aab"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: "/sitecore/content/AIE/AIE Corporate Site/Data/Texts/AddressDetails-Address"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190611T113755Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: |
+        <div class="wpb_column vc_column_container vc_col-sm-4 vc_col-lg-3">
+        <div class="vc_column-inner ">
+        <div class="wpb_wrapper">
+        <div class="gem-icon-with-text gem-icon-with-text-icon-size-small gem-icon-with-text-flow">
+        <div style="margin-bottom:0px;margin-top:0px;" class="gem-icon-with-text-icon">
+        <div class="gem-icon gem-icon-pack-material gem-icon-size-small  gem-icon-shape-square gem-simple-icon" style="opacity: 1;">
+        <div class="gem-icon-inner"><span class="gem-icon-half-1"><span class="back-angle"></span></span><span class="gem-icon-half-2"><span class="back-angle"></span></span></div>
+        </div>
+        </div>
+        <div class="gem-icon-with-text-content">
+        <div class="gem-icon-with-text-text">
+        <div class="wpb_text_column wpb_content_element ">
+        <div class="wpb_wrapper">
+        <p>Address:</p>
+        </div>
+        </div>
+        <div class="clearboth">&nbsp;</div>
+        <div class="gem-divider " style="margin-top: 18px;">&nbsp;</div>
+        <div class="wpb_text_column wpb_content_element ">
+        <div class="wpb_wrapper">
+        <p>2603 Camino Ramon<br />
+        <span class="contextualExtensionHighlight ms-font-color-themePrimary ms-border-color-themePrimary ident_1298_1323" tabindex="0" role="button">Suite 200<br />
+        </span><span class="contextualExtensionHighlight ms-font-color-themePrimary ms-border-color-themePrimary ident_1298_1323" tabindex="0" role="button">San Ramon<br />
+        </span><span class="contextualExtensionHighlight ms-font-color-themePrimary ms-border-color-themePrimary ident_1298_1323" tabindex="0" role="button">94583</span></p>
+        </div>
+        </div>
+        </div>
+        </div>
+        <div class="clearboth">&nbsp;</div>
+        </div>
+        </div>
+        </div>
+        </div>

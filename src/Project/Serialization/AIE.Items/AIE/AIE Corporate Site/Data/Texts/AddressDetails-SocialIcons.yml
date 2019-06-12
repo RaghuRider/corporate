@@ -1,0 +1,59 @@
+﻿---
+ID: "f0804db6-f6ac-4a8b-ab7e-3c4f0078b302"
+Parent: "bce7f746-c849-4592-b4ae-af55f5037aab"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: "/sitecore/content/AIE/AIE Corporate Site/Data/Texts/AddressDetails-SocialIcons"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190611T113823Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: |
+        <div class="wpb_column vc_column_container vc_col-sm-4 vc_col-lg-3">
+        <div class="vc_column-inner ">
+        <div class="wpb_wrapper">
+        <div class="vc_row wpb_row vc_inner vc_row-fluid">
+        <div class="wpb_column vc_column_container vc_col-sm-4">
+        <div class="vc_column-inner ">
+        <div class="wpb_wrapper">
+        <div class="vc_icon_element vc_icon_element-outer vc_icon_element-align-left">
+        <div class="vc_icon_element-inner vc_icon_element-color-blue vc_icon_element-size-lg vc_icon_element-style- vc_icon_element-background-color-grey">
+        <span class="vc_icon_element-icon fa fa-facebook-square"></span><a class="vc_icon_element-link" href="https://www.facebook.com/aienterpriseinc/" target=" _blank"></a></div>
+        </div>
+        </div>
+        </div>
+        </div>
+        <div class="wpb_column vc_column_container vc_col-sm-4">
+        <div class="vc_column-inner ">
+        <div class="wpb_wrapper">
+        <div class="vc_icon_element vc_icon_element-outer vc_icon_element-align-left">
+        <div class="vc_icon_element-inner vc_icon_element-color-custom vc_icon_element-size-lg vc_icon_element-style- vc_icon_element-background-color-grey">
+        <span class="vc_icon_element-icon fa fa-linkedin-square" style="color: #0288d1;"></span><a class="vc_icon_element-link" href="https://www.linkedin.com/company/13431077/" target=" _blank"></a></div>
+        </div>
+        </div>
+        </div>
+        </div>
+        <div class="wpb_column vc_column_container vc_col-sm-4">
+        <div class="vc_column-inner ">
+        <div class="wpb_wrapper">
+        <div class="vc_icon_element vc_icon_element-outer vc_icon_element-align-left">
+        <div class="vc_icon_element-inner vc_icon_element-color-custom vc_icon_element-size-lg vc_icon_element-style- vc_icon_element-background-color-grey">
+        <span class="vc_icon_element-icon fa fa-twitter-square" style="color: #00aced;"></span><a class="vc_icon_element-link" href="https://twitter.com/AiEnterpriseInc" target=" _blank"></a></div>
+        </div>
+        </div>
+        </div>
+        </div>
+        </div>
+        </div>
+        </div>
+        </div>
