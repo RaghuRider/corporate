@@ -19,12 +19,24 @@ Languages:
     - ID: "b3635965-6786-457c-9dee-28de73c0a331"
       Hint: Text
       Value: |
-        <div class="top-area-items inline-inside">
-        <div class="top-area-block top-area-contacts">
-        <div class="gem-contacts inline-inside">
-        <div class="gem-contacts-item gem-contacts-phone">+1 833-AIE-0247</div>
-        <div class="gem-contacts-item gem-contacts-email"><a href="mailto:sales@aienterprise.com">sales@aienterprise.com</a></div>
-        <div class="gem-contacts-item gem-contacts-website"><a href="https://www.aienterprise.com">www.aienterprise.com</a></div>
+        <!-- Top Area -->
+        <div id="top-area">
+        <div class="container">
+        <div class="d-flex align-items-center">
+        <div class="p-2">
+        <span>
+        <em class="fa fa-phone"></em>
+        +1 833-AIE-0247
+        </span>
+        </div>
+        <div class="p-2">
+        <em class="fa fa-envelope-o"></em>
+        <a href="mailto:sales@aienterprise.com">sales@aienterprise.com</a>
+        </div>
+        <div class="p-2 globe">
+        <em class="fa fa-globe"></em>
+        <a href="https://www.aienterprise.com">www.aienterprise.com</a>
+        </div>
         </div>
         </div>
         </div>

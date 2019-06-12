@@ -1,0 +1,47 @@
+#what-we-do {
+    background-color: rgb(240, 243, 242);
+    padding-top: 150px;
+    padding-bottom: 90px;
+}
+
+#what-we-do .highlighted-text{
+    letter-spacing: 0.05em;
+}
+
+#what-we-do .horizontal-what-we-do {
+    border: 1px solid #00bcd4;
+    width: 12%;
+}
+
+#what-we-do .operations-box {
+    padding-right: 60px;
+    padding-bottom: 55px;
+    padding-left: 60px;
+    padding-top: 10%;
+}
+
+#what-we-do .operations-box > h3 {
+    color: #000;
+}
+
+#what-we-do .operations-box > p {
+    color: #5f727f;
+}
+
+#what-we-do .operations-box > img {
+    border-radius: 50px;
+    width: 100%;
+    height: 50%;
+
+    border-top-left-radius: 0px;
+}
+
+
+#what-we-do .operations-box > button {
+   display: flex;
+   margin: 20px auto;
+   padding: 0 14px;
+   font-size: 14px;
+   border-width: 2px;
+}
+

@@ -1,0 +1,12 @@
+#navigation {
+    background: #ffffff;
+    opacity: .95;
+}
+
+#navigation {
+    transition: all 1s ease;
+ }
+
+ #navigation.navbar-shrink img{
+    width: 54px;
+ }

@@ -1,0 +1,17 @@
+﻿---
+ID: "b06a93e1-3b64-495d-bbf0-676f90ce81e3"
+Parent: "01ac15f3-ae76-49c2-8ffa-e74377512f88"
+Template: "62c2b7d0-1c34-4aa6-b3d3-5d612c0891bd"
+Path: /sitecore/content/AIE/AIE Corporate Site/Data/Events/Events/About Us/Calendar Event
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1fb9f55d-2c43-49c2-a61d-df8552c88c20"
+      Hint: EventName
+      Value: Calendar Event
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190611T150624Z

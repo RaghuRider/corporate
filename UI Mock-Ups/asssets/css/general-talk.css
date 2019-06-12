@@ -1,0 +1,20 @@
+#general-talk {
+    padding: 60px 0;
+}
+
+#general-talk .general-talk-block {
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+#general-talk .general-talk-icon{
+    border-radius: 50%;
+    border: 1px solid #8080808c;
+    background: #8080808c;
+    padding: 20%;
+}
+
+#general-talk .general-talk-block:hover{
+ background: #80808017;
+ cursor: pointer;
+}
