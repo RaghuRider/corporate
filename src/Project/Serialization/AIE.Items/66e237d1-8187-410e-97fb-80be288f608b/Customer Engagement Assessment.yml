@@ -1,0 +1,34 @@
+﻿---
+ID: "38c64311-304e-442d-a8d4-4f90764a137e"
+Parent: "66e237d1-8187-410e-97fb-80be288f608b"
+Template: "324733cf-afec-4281-9a18-03b6cfc4e535"
+Path: /sitecore/content/AIE/AIE Corporate Site/Home/OUR SERVICES/Premium Business Consulting/Data/Customer Engagement Assessment
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "14023dd5-30e7-4e3c-bf31-d835f3a87410"
+      Hint: PromoText
+      Value: Customer Engagement Assessment
+    - ID: "18f9beb8-0116-40fd-b47e-fd0a2327d7e0"
+      Hint: PromoIcon
+      Value: |
+        <image mediaid="{8733539A-B9C3-4F99-A9F6-02F1F11D3F9E}"></image>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190605T114128Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "82a6ce45-59b5-4bc8-83b9-79ccb8174a2a"
+      Hint: PromoIcon2
+      Value: 
+    - ID: "832d3c97-5c05-49bf-89ef-9c29d30345e7"
+      Hint: PromoText3
+      Value: 
+    - ID: "b59adc09-32a3-46f2-aede-b0c633979263"
+      Hint: PromoText2
+      Value: "Personalization, Loyalty and Outreach are not just keywords to us.  We know that getting them right can make a huge difference to your bottom line and market penetration.  We have offline and online tools to understand what your customers are looking for from your brand.  Yes, in all channels.  We can then use our award-winning AI technology to help you shape that Customer Experience.  To be clear, we will match your strategy to our AI engine capabilities.  This can do wonders for your segmentation and ability to respond to your customers."

@@ -7,7 +7,7 @@ DB: master
 SharedFields:
 - ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
   Hint: Page Design
-  Value: "{E6E33FA3-2659-4750-A1DD-EB8BDFC5F37B}"
+  Value: "{CBE603FF-5DFF-4584-9EF0-440B05133ECF}"
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
   Value: 600
@@ -16,6 +16,38 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+            s:l="{269BDDC7-E377-4C61-9B26-A00BA2CCD14D}">
+            <r
+              uid="{1D88D3F3-9545-4447-B45D-4AA6659AD994}"
+              p:before="*"
+              s:ds="{21C378A1-4ADF-45EF-B2DE-E9E19469B055}"
+              s:id="{4646BD4F-05FF-4A19-9600-4D74F2F1548B}"
+              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames&amp;Styles&amp;TitleHeadingLevel=%7B6A44D9C6-61F0-4B69-8E1A-FDC27F96BA0F%7D&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=3"
+              s:ph="/main/sxa-ourservicebody/row-2-1/row-2-2/column-2-3" />
+            <r
+              uid="{B57689ED-7D7F-423D-89AE-034F299F5E93}"
+              p:after="r[@uid='{1D88D3F3-9545-4447-B45D-4AA6659AD994}']"
+              s:ds="local:/Data/RichTextDescription"
+              s:id="{87182F78-4399-4896-8D59-9D6A45282F8A}"
+              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames&amp;Styles&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=2"
+              s:ph="/main/sxa-ourservicebody/row-2-1/row-2-2/column-1-3" />
+            <r
+              uid="{5DCB9D2E-19C5-43D0-929D-E248794172C4}"
+              p:after="*[1=2]"
+              s:ds="local:/Data/RichTextTitle"
+              s:id="{87182F78-4399-4896-8D59-9D6A45282F8A}"
+              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames&amp;Styles&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=1"
+              s:ph="/main/sxa-ourservicebody/row-2-1/row-1-2" />
+          </d>
+        </r>
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20190506T122625Z

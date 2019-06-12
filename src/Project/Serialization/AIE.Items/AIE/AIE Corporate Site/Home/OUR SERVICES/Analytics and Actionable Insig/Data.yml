@@ -1,0 +1,22 @@
+﻿---
+ID: "8a1e3ed1-4a51-4231-9504-8fe993e5e14e"
+Parent: "4085d841-c45b-46f9-bbd2-e63c12f47675"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: /sitecore/content/AIE/AIE Corporate Site/Home/OUR SERVICES/Analytics and Actionable Insights/Data
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190605T094441Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
