@@ -21,7 +21,7 @@
 }
 
 #what-we-do .operations-box > h3 {
-    color: #3c3950;
+    color: #000;
 }
 
 #what-we-do .operations-box > p {
@@ -42,8 +42,6 @@
    margin: 20px auto;
    padding: 0 14px;
    font-size: 14px;
-
-   border: 2px solid rgb(0, 188, 212);
-   color: rgb(0, 188, 212);
+   border-width: 2px;
 }
 
