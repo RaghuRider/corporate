@@ -1,0 +1,14 @@
+﻿---
+ID: "0dfa2ee8-f0ca-42c8-8672-42fdc8635e54"
+Parent: "569c37fc-ebfb-4b20-baa0-9fb4515ad2cf"
+Template: "fb3e3034-33f8-4ce8-be98-dd05010f4c22"
+Path: "/sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Promo/Corporate-OurMission"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190612T053225Z

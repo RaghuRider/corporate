@@ -1,0 +1,21 @@
+﻿---
+ID: "76e7aa62-15b9-4e58-ad16-57a542355616"
+Parent: "a743360c-37d7-4562-8293-91f913207f90"
+Template: "fcd285da-9ab2-4c8d-b185-5a7487a9ba1b"
+Path: "/sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Promo/Corporate-ValueProposition/div/PromoText3"
+DB: master
+SharedFields:
+- ID: "4753764c-c05a-4623-841b-97f85135241c"
+  Hint: FieldName
+  Value: PromoText3
+- ID: "db805bdc-8eec-4238-b174-2427b6f1f077"
+  Hint: Tag
+  Value: 
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190612T124343Z
