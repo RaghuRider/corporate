@@ -1,0 +1,18 @@
+﻿---
+ID: "66a26b61-ca4c-4667-afe3-96d2deadc1bb"
+Parent: "32982d09-a418-4128-bc0d-0814cfd3f417"
+Template: "aca5c9a3-cda0-49b6-893f-1d4a7cb595b0"
+Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Promo/OurMission/Section/div/div
+DB: master
+SharedFields:
+- ID: "bea2740e-90d1-4b16-bd1d-7a7cc8605d2d"
+  Hint: CssClass
+  Value: row
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190613T093643Z
