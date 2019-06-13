@@ -1,0 +1,29 @@
+﻿---
+ID: "c07c568c-2ce9-455b-ac0d-27629b389b52"
+Parent: "738b8270-686e-4e7a-b277-691b9c02d592"
+Template: "520083b0-d965-4bad-ab2b-b4f89e16d1b7"
+Path: /sitecore/content/AIE/AIE Corporate Site/Data/AIE/FeatureComponent/FeatureComponent
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190613T105435Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "9ac91cdf-f40e-4457-9dc6-ced75bc0d83e"
+      Hint: Heading
+      Value: FEATURES OF OUR CORPORATE DNA
+    - ID: "dfce37ca-7289-4d54-aa7e-07de69080ac6"
+      Hint: Text
+      Type: Multilist
+      Value: |
+        {0479DEC5-ABFC-4293-98A8-79B1B3693AC2}
+        {58D19988-910B-44A9-A4DE-395C522048CE}
+        {FE0ECCB3-3FFA-4886-81E2-47BB1574CE79}
+        {00C00BEA-68F1-489D-A092-DBA490EEC556}
