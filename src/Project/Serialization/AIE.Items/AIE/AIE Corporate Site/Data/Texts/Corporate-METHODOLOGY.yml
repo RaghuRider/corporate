@@ -1,0 +1,47 @@
+﻿---
+ID: "b600b5f5-6431-41aa-be30-089fefe86802"
+Parent: "bce7f746-c849-4592-b4ae-af55f5037aab"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: "/sitecore/content/AIE/AIE Corporate Site/Data/Texts/Corporate-METHODOLOGY"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190613T105756Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: |
+        <div class="wpb_column vc_column_container vc_col-sm-4">
+        <div class="vc_column-inner ">
+        <div class="wpb_wrapper">
+        <div class="wpb_text_column wpb_content_element ">
+        <div class="wpb_wrapper">
+        <div class="title-h4">METHODOLOGY</div>
+        </div>
+        </div>
+        <div class="clearboth">&nbsp;</div>
+        <div class="gem-divider " style="margin-top: 45px;">&nbsp;</div>
+        <div class="wpb_text_column wpb_content_element ">
+        <div class="wpb_wrapper">
+        <p>Our Methodology is focused, sticky and delivers results</p>
+        <ul class="ul1">
+            <li class="li1"><span class="s2">Business Consulting with exposure to B2C and B2B global markets</span></li>
+            <li class="li1"><span class="s2">Architecture and Technical know-how on the best platforms the market has to offer</span></li>
+            <li class="li1"><span class="s2">A team of professionals with diverse training with a history of delivering complex systems</span></li>
+            <li class="li1"><span class="s2">Award winning AI engine with an emphasis on positively impacting your bottom line</span></li>
+        </ul>
+        </div>
+        </div>
+        <div class="clearboth">&nbsp;</div>
+        <div class="gem-divider " style="margin-top: 20px;">&nbsp;</div>
+        </div>
+        </div>
+        </div>
