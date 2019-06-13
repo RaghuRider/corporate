@@ -1,0 +1,14 @@
+﻿---
+ID: "5030b9ae-149a-481d-a77d-4ec1d6babec3"
+Parent: "bfc5026e-2ec3-4368-acc6-bdc62a95babf"
+Template: "aca5c9a3-cda0-49b6-893f-1d4a7cb595b0"
+Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Page Content/FullRangeOfServices/Section
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190613T121526Z

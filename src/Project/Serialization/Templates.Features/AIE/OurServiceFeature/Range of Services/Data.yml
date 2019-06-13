@@ -1,0 +1,18 @@
+﻿---
+ID: "04a5b0a4-5cc9-49cc-be7e-28e8483af67a"
+Parent: "71027bef-7c0a-40fb-ae6e-34c65b14a29a"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Feature/AIE/OurServiceFeature/Range of Services/Data
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190613T122552Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

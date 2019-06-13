@@ -1,0 +1,28 @@
+﻿---
+ID: "2eb449c2-7d9f-41c7-8d5d-a4ec10471c80"
+Parent: "8867b1d7-26c3-4fbc-9069-a130730d2462"
+Template: "71027bef-7c0a-40fb-ae6e-34c65b14a29a"
+Path: /sitecore/content/AIE/AIE Corporate Site/Data/AIE/Range of Services/Invigorated Commerce
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "125623e6-9702-4d0c-9138-60c1f17588b4"
+      Hint: Service Links
+      Type: Multilist
+      Value: |
+        {53BE3275-706E-46FA-88C7-B4D185DB137C}
+        {777E8C7D-CC3E-41AD-888E-2A6C07AF0CAE}
+        {A576D591-8590-4C5F-A836-71FA0B88A331}
+        {AA3449CB-C5B2-4157-8FCA-FCB290AAA802}
+        {8FE0DAD4-B967-4117-A59C-5EDC414BC4AC}
+        {EF10447B-A0B5-4760-B5DC-535B36490C52}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190613T123646Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
