@@ -1,0 +1,30 @@
+﻿---
+ID: "b4c161a7-aeee-40de-aa05-c17ced3e2967"
+Parent: "31a45f65-9455-4aa5-aaee-5950d42f9979"
+Template: "05da7244-0aa5-44a1-8d44-207044c5d9a6"
+Path: /sitecore/content/AIE/AIE Corporate Site/Home/Home/Data/General Talk/General Talk List
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 12
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190614T081909Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "aeb7812f-7265-40da-87f3-1822604b12f6"
+      Hint: GeneralTalkList
+      Type: Multilist
+      Value: |
+        {BF6A5A3D-1D20-4CA4-B8C6-01A62FC5A0C1}
+        {DB7F4FCA-18EA-4CF8-A4E5-73C9E729BF43}
+        {CE6670EC-69EA-48D2-94BB-3018C1ECCC01}
+        {D82E4807-FA86-4D69-A67E-2E9334412F31}
