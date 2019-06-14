@@ -1,0 +1,18 @@
+﻿---
+ID: "940f8fe3-63be-4baf-9ae6-db0e54c22922"
+Parent: "fe65e304-21d2-4da7-ba36-b0e59a0d0d22"
+Template: "8cddb194-f456-4a75-89b7-346f8f39f95c"
+Path: /sitecore/Forms/Aie/Aie Corporate Form/Contact Corporate Form/Page/form/div/div/div/div/p/span
+DB: master
+SharedFields:
+- ID: "7abaa3f6-6ec0-4b65-a463-7919bfae55aa"
+  Hint: Css Class
+  Value: "wpcf7-form-control-wrap your-message"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190614T124612Z

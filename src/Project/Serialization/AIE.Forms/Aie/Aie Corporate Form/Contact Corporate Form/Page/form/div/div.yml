@@ -1,0 +1,18 @@
+﻿---
+ID: "7810ea64-bec3-4efb-a516-65a32bf55c39"
+Parent: "6a73bce0-b718-4b10-be23-16e019854b51"
+Template: "8cddb194-f456-4a75-89b7-346f8f39f95c"
+Path: /sitecore/Forms/Aie/Aie Corporate Form/Contact Corporate Form/Page/form/div/div
+DB: master
+SharedFields:
+- ID: "7abaa3f6-6ec0-4b65-a463-7919bfae55aa"
+  Hint: Css Class
+  Value: widget widget_text
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190614T112613Z
