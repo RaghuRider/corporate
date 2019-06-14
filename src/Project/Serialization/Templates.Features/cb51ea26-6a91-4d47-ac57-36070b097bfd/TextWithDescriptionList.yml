@@ -1,19 +1,19 @@
 ﻿---
-ID: "125623e6-9702-4d0c-9138-60c1f17588b4"
-Parent: "04a5b0a4-5cc9-49cc-be7e-28e8483af67a"
+ID: "a77eb567-8707-431f-8fbc-48c6b2037e12"
+Parent: "cb51ea26-6a91-4d47-ac57-36070b097bfd"
 Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Feature/AIE/OurServiceFeature/Range of Services/Data/Service Links
+Path: "/sitecore/templates/Feature/AIE/Home-Why-AIE/TextWithDescriptionList/TextWithDescriptionList/TextWithDescriptionList"
 DB: master
 SharedFields:
 - ID: "1eb8ae32-e190-44a6-968d-ed904c794ebf"
   Hint: Source
-  Value: /sitecore/content/AIE/AIE Corporate Site/Data/AIE/Range of Services/Range of Services
+  Value: /sitecore/content/AIE/AIE Corporate Site/Data/AIE/Text With Description List
 - ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
   Hint: Type
-  Value: Multilist
+  Value: TreelistEx
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
-  Value: 100
+  Value: 200
 Languages:
 - Language: en
   Versions:
@@ -21,4 +21,4 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20190613T122552Z
+      Value: 20190613T125549Z

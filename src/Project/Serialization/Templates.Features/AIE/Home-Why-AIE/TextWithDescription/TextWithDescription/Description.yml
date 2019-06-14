@@ -1,0 +1,21 @@
+﻿---
+ID: "29676470-6390-48a6-b6d2-047287940c15"
+Parent: "f27e4cd2-8878-444b-abb1-bbaaa5d661c8"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: "/sitecore/templates/Feature/AIE/Home-Why-AIE/TextWithDescription/TextWithDescription/Description"
+DB: master
+SharedFields:
+- ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
+  Hint: Type
+  Value: "Single-Line Text"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190613T125357Z
