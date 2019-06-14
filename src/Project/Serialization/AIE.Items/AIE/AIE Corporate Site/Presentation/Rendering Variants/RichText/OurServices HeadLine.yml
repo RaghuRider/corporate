@@ -1,0 +1,18 @@
+﻿---
+ID: "1c3d54b0-ef9a-4ef1-a25a-52c214d1d4fc"
+Parent: "7ed55b26-d55f-4b91-bf8d-93ad061bd56f"
+Template: "fb3e3034-33f8-4ce8-be98-dd05010f4c22"
+Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/RichText/OurServices HeadLine
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 125
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190613T064345Z

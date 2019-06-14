@@ -1,0 +1,42 @@
+﻿---
+ID: "dbf59505-696a-4e77-9720-1ce4e7ca2ecb"
+Parent: "301ca276-6018-425f-ba8f-a75bebb89c2f"
+Template: "ddd64e03-4fc5-4cb1-85c5-a5506a1fc1ab"
+Path: "/sitecore/content/AIE/AIE Corporate Site/Home/Data/Why AIE/Why-AIE"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190614T055621Z
+    - ID: "3b50b6a2-2752-4a0d-ab56-2f205e1cb856"
+      Hint: Image
+      Value: |
+        <image mediaid="{1E0688CF-F797-44EC-9A03-A50BF1F9A52E}" ></image>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8f8fdb57-19ae-4617-8d22-fa535a0164c3"
+      Hint: Title
+      Value: |
+        <h2>
+        WHY AIENTERPRISE ?
+        </h2>
+        <p class="why-aie-text">
+        We are your biggest fans. We want you to succeed. Our Mission then is to become an extension
+        of
+        your
+        team. We. Deliver. Results.
+        </p>
+    - ID: "a77eb567-8707-431f-8fbc-48c6b2037e12"
+      Hint: TextWithDescriptionList
+      Type: TreelistEx
+      Value: |
+        {04DC4E2E-7476-47C7-BA74-DB8E02E135EF}
+        {54273716-AB9E-4E60-A18F-EE72B2ED5694}
+        {569496BE-B2BD-4E28-B9EF-5AD142621D3A}
+        {4D4ED764-2ADB-4A8B-A1C2-7422DB05EE5D}

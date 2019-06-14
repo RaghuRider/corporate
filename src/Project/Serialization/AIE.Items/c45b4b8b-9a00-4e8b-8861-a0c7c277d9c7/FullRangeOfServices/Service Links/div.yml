@@ -1,0 +1,18 @@
+﻿---
+ID: "5a24b687-c765-42c9-8a05-f94b21befd58"
+Parent: "b43cccb3-5acf-4f33-a64a-febe74edc5ef"
+Template: "aca5c9a3-cda0-49b6-893f-1d4a7cb595b0"
+Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Page Content/FullRangeOfServices/Service Links/div
+DB: master
+SharedFields:
+- ID: "bea2740e-90d1-4b16-bd1d-7a7cc8605d2d"
+  Hint: CssClass
+  Value: "col-6"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190614T065200Z
