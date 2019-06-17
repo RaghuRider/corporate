@@ -74,7 +74,9 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="App_Config\Include\AIEnterprise\Project\AIEnterprise.Serialization.config" />
-    <Content Include="App_Config\Include\AIEnterprise\Project\z.Common.Settings.config" />
+    <Content Include="App_Config\Include\AIEnterprise\Project\z.Common.Settings.config">
+      <SubType>Designer</SubType>
+    </Content>
     <None Include="packages.config" />
     <Content Include="Views\AIE\AIEPageLayout.cshtml" />
     <None Include="Web.Debug.config">
