@@ -1,0 +1,32 @@
+﻿---
+ID: "f8cfe318-d6ac-4998-8718-2114ea319b83"
+Parent: "875cafb7-fbc7-42dd-b3db-a677b4fa6290"
+Template: "324733cf-afec-4281-9a18-03b6cfc4e535"
+Path: "/sitecore/content/AIE/AIE Corporate Site/Data/AIE/Home-WhatWeDo/Home-WhatWeDo/Home-WhatToDo/Promo1"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "14023dd5-30e7-4e3c-bf31-d835f3a87410"
+      Hint: PromoText
+      Value: INVIGORATED COMMERCE
+    - ID: "18f9beb8-0116-40fd-b47e-fd0a2327d7e0"
+      Hint: PromoIcon
+      Value: |
+        <image mediaid="{6FF9288A-558B-42CE-B0D8-413964DBA55D}" alt="invigorated-commerce-image" height="" width="" hspace="" vspace="" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190614T080314Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "b59adc09-32a3-46f2-aede-b0c633979263"
+      Hint: PromoText2
+      Value: It is in our DNA.  Global.  With a local flavor.
+    - ID: "b8c1a9d2-de76-4519-aff4-1442525f32b0"
+      Hint: PromoLink
+      Value: |
+        <link text="VIEW MORE" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{3E0011B0-72FE-4B2E-80EE-3DBB3972ABAA}" />
