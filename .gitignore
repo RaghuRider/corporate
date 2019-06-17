@@ -16,3 +16,4 @@
 /.vs
 /**/*.user
 /node_modules
+/src/Feature/Forms/AIEnterprise.Feature.Forms
