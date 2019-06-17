@@ -1,0 +1,18 @@
+﻿---
+ID: "6b512572-f8ad-4b2a-a000-cfdabfb2a735"
+Parent: "5c234cb2-d0f8-4659-a0cc-586f9cf29c1c"
+Template: "aca5c9a3-cda0-49b6-893f-1d4a7cb595b0"
+Path: "/sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Promo/Career-Job Listing/div/div"
+DB: master
+SharedFields:
+- ID: "bea2740e-90d1-4b16-bd1d-7a7cc8605d2d"
+  Hint: CssClass
+  Value: wpb_text_column wpb_content_element
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190617T102320Z

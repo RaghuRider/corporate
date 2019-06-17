@@ -1,0 +1,18 @@
+﻿---
+ID: "fe2fc544-2752-46df-ba88-9af8fa2868a0"
+Parent: "f5457ecf-78ee-45ac-9c04-c1582747b071"
+Template: "fcd285da-9ab2-4c8d-b185-5a7487a9ba1b"
+Path: "/sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Page Content/Home-WhatWeDo/Section/div/div/div/h1"
+DB: master
+SharedFields:
+- ID: "4753764c-c05a-4623-841b-97f85135241c"
+  Hint: FieldName
+  Value: Title
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190614T095720Z

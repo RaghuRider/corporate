@@ -1,0 +1,18 @@
+﻿---
+ID: "63f95d81-8206-47a0-90fd-e43e579e3363"
+Parent: "edd27509-5bfe-4ba6-8cb4-daea62244f4c"
+Template: "fcd285da-9ab2-4c8d-b185-5a7487a9ba1b"
+Path: "/sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Promo/Career-Job Listing/div/PromoText2"
+DB: master
+SharedFields:
+- ID: "4753764c-c05a-4623-841b-97f85135241c"
+  Hint: FieldName
+  Value: PromoText2
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190617T102916Z

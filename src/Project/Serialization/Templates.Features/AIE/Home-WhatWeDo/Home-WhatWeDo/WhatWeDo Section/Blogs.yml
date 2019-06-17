@@ -1,0 +1,24 @@
+﻿---
+ID: "3417a88e-c77d-4b05-8d5e-eb8828925fa5"
+Parent: "750d3c92-7a13-4475-a5a0-8ceedab79a92"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: "/sitecore/templates/Feature/AIE/Home-WhatWeDo/Home-WhatWeDo/WhatWeDo Section/Blogs"
+DB: master
+SharedFields:
+- ID: "1eb8ae32-e190-44a6-968d-ed904c794ebf"
+  Hint: Source
+  Value: "/sitecore/content/AIE/AIE Corporate Site/Data/AIE/Home-WhatWeDo/Home-WhatWeDo/Home-WhatToDo"
+- ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
+  Hint: Type
+  Value: Multilist
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190614T063614Z
