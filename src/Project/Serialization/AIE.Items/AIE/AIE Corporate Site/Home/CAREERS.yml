@@ -25,24 +25,30 @@ Languages:
           <d
             id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
             <r
-              uid="{4A6813E4-C737-4CFC-BF67-48EB22496B4F}"
+              uid="{24F73B64-C559-4B8F-A4D0-C67256D24005}"
               p:before="*"
-              s:ds="local:/Data/Job Listing-Sitecore"
-              s:id="{51C13F03-8364-4F61-B860-2EC6CA7439B3}"
-              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7B677CE166-9213-4D06-A0B3-7AB1D35D090D%7D&amp;Styles&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=2"
-              s:ph="/main/row-2-1" />
+              s:id="{BFBD9DE2-3ABF-4078-BBCB-C95C5B2D863F}"
+              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames&amp;Styles&amp;BreadcrumbRoot&amp;Separator=%3E&amp;IsNavigation&amp;Filter&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=4"
+              s:ph="/main/container-1/row-2-2" />
             <r
-              uid="{2D7D7C8C-2939-40C7-BE48-3C8688EF1810}"
-              p:after="r[@uid='{4A6813E4-C737-4CFC-BF67-48EB22496B4F}']"
-              s:ds="local:/Data/Job Listing-Sitecore"
-              s:id="{51C13F03-8364-4F61-B860-2EC6CA7439B3}"
+              uid="{BC8B7FB2-B059-4EFD-8EEE-51801627260C}"
+              p:after="r[@uid='{24F73B64-C559-4B8F-A4D0-C67256D24005}']"
+              s:ds="{DA3A869B-7D7D-4F93-A6E2-79A5BAB60D9B}"
+              s:id="{DCEE78E1-1843-4456-A13A-F10A12191630}"
               s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames&amp;Styles&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=3"
-              s:ph="/main/row-2-1" />
+              s:ph="/main/container-1/row-1-2" />
             <r
-              uid="{3584F842-E52E-45EC-88A7-5EBBD62618BF}"
-              p:after="*[1=2]"
+              uid="{CC034BF5-AB64-47AA-8EAD-54723B628849}"
+              p:after="r[@uid='{BC8B7FB2-B059-4EFD-8EEE-51801627260C}']"
               s:id="{2DA9B139-FB9C-4FD7-BE84-CB066B2D7CC3}"
-              s:par="SplitterSize=2&amp;EnabledPlaceholders=1%2C2&amp;Styles1&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles8&amp;Reset Caching Options&amp;DynamicPlaceholderId=1"
+              s:par="SplitterSize=2&amp;EnabledPlaceholders=1%2C2&amp;Styles1&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles8&amp;Reset Caching Options&amp;DynamicPlaceholderId=2"
+              s:ph="/main/container-1" />
+            <r
+              uid="{46652560-1E32-4BE8-8E52-CAE9BD3D6CC1}"
+              p:after="*[1=2]"
+              s:ds=""
+              s:id="{896A2C68-1362-4E88-8BA0-1805AE6D4837}"
+              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;BackgroundImage=%3Cimage%20mediaid%3D%22%7BDDDA52B8-D7D0-4739-8405-3A449654BEAD%7D%22%20%2F%3E&amp;Styles&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=1"
               s:ph="main" />
           </d>
         </r>

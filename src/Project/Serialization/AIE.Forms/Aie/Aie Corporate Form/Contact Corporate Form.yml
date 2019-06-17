@@ -1,0 +1,29 @@
+﻿---
+ID: "1c182292-9102-4c7e-bcf1-31b3f8daea96"
+Parent: "aeabd2a1-1096-4669-a931-a5876d28b04f"
+Template: "6abee1f2-4ab4-47f0-ad8b-bdb36f37f64c"
+Path: /sitecore/Forms/Aie/Aie Corporate Form/Contact Corporate Form
+DB: master
+SharedFields:
+- ID: "589a7ade-81d4-4a60-b9e2-7eaf6ae8a563"
+  Hint: Field Type
+  Value: "{3A4DF9C0-7C82-4415-90C3-25440257756D}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+- ID: "d99833ea-238a-4505-90ef-c69bf3eba946"
+  Hint: Is Tracking Enabled
+  Type: Checkbox
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20181011T062026Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

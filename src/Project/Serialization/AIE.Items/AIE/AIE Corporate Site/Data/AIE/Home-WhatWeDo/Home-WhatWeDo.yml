@@ -1,0 +1,31 @@
+﻿---
+ID: "207a18ba-77f6-4c01-93f1-d129ec42f53c"
+Parent: "107c665d-393e-4cbe-a9ea-de1702b0e0be"
+Template: "fd73eee8-0636-4037-88cc-aa4f953dd399"
+Path: "/sitecore/content/AIE/AIE Corporate Site/Data/AIE/Home-WhatWeDo/Home-WhatWeDo"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190614T095029Z
+    - ID: "3417a88e-c77d-4b05-8d5e-eb8828925fa5"
+      Hint: Blogs
+      Type: Multilist
+      Value: |
+        {F8CFE318-D6AC-4998-8718-2114EA319B83}
+        {9FFDA5D4-F4E8-465B-86F0-AA8EF1DDAD9F}
+        {B9B87F84-3DBF-46AA-A039-D9941C43D920}
+        {08EC6860-512E-49ED-998F-8DD982737655}
+        {C0C54C58-4434-467E-81A5-7A2388CCBD16}
+        {E4ADF296-89CC-4AD0-B097-8B669AF24821}
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "bae5c2a5-8e34-4e9e-bb46-ffe1d91e3d9b"
+      Hint: Title
+      Value: WHAT WE DO
