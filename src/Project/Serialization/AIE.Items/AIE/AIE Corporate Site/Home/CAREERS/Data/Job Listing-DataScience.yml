@@ -1,0 +1,56 @@
+﻿---
+ID: "b2692839-d781-43f8-bcd5-abfe4cbbec55"
+Parent: "7e556fad-bb3e-4c48-a2f0-39717910469d"
+Template: "324733cf-afec-4281-9a18-03b6cfc4e535"
+Path: "/sitecore/content/AIE/AIE Corporate Site/Home/CAREERS/Data/Job Listing-DataScience"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "14023dd5-30e7-4e3c-bf31-d835f3a87410"
+      Hint: PromoText
+      Value: |
+        <p style="text-align: center;">
+        <strong><strong style="text-align: center;">DATA SCIENTIST</strong><br style="text-align: center;" />
+        <strong style="text-align: center;">Exp :</strong><span style="text-align: center;">&nbsp;3+ Years.</span><br style="text-align: center;" />
+        <strong style="text-align: center;">Location :</strong><span style="text-align: center;">&nbsp;Bangalore</span></strong>
+        </p>
+    - ID: "18f9beb8-0116-40fd-b47e-fd0a2327d7e0"
+      Hint: PromoIcon
+      Value: |
+        <image mediaid="{112222B4-CF66-490D-866D-461A4C69DC59}" ></image>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190605T114128Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "82a6ce45-59b5-4bc8-83b9-79ccb8174a2a"
+      Hint: PromoIcon2
+      Value: 
+    - ID: "832d3c97-5c05-49bf-89ef-9c29d30345e7"
+      Hint: PromoText3
+      Value: |
+        1. Should be a strong individual contributor in a complex data warehousing project.<br />
+        2. Should highlight and resolves issues in the current data models and design.<br />
+        3. Very good understanding of relational databases with ability to write/ modify complex SQL queries to generate required datasets and tune query performance.<br />
+        4. Advanced ETL writing and performance tuning experience in Scala &amp;amp; Python. Knowledge of data integration tools like Pentaho, etc.<br />
+        5. Experience with using big data technologies like Spark, Map-Reduce, Hive, Kafka.<br />
+        6. Experience with using NoSQL databases such as MongoDB, Cassandra, Hbase, etc.<br />
+        7. Experience with using GCP / AWS cloud services.<br />
+        8. Experience with using stream processing systems like Storm, Spark-streaming, etc.<br />
+        9. Experience with using OOPs languages like Java, Scala, Python, etc.<br />
+        10. Knowledge of Pig, Shell Scripting and familiarity with Unix/Linux OS a strong plus.<br />
+        11. Strong analytical and problem solving skills. Should provide solutions to complex problems without known solutions.<br />
+        12. Excellent communication skills and capability to effectively work with both Business and Technology teams.<br />
+        13. Qualification &amp;ndash; BE / BTECH in MIS, CS or related field. 5+ years of technology experience as a Data Engineer.
+    - ID: "b59adc09-32a3-46f2-aede-b0c633979263"
+      Hint: PromoText2
+      Value: <p><strong>JOB DESCRIPTION</strong></p>
+    - ID: "b8c1a9d2-de76-4519-aff4-1442525f32b0"
+      Hint: PromoLink
+      Value: |
+        <link text="APPLY NOW" linktype="external" url="" anchor="" title="APPLY NOW" target="" />

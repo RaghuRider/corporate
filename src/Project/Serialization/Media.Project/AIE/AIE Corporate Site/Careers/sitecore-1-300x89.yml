@@ -1,8 +1,8 @@
 ﻿---
 ID: "0e544ad9-1055-4481-bd41-d124e72941c7"
-Parent: "72ddd143-e0b1-466c-8dc5-8c1cd7cdd12b"
+Parent: "b99c06d1-7d77-404b-8c72-29583a097f1f"
 Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
-Path: "/sitecore/media library/Project/AIE/AIE Corporate Site/Career/sitecore-1-300x89"
+Path: "/sitecore/media library/Project/AIE/AIE Corporate Site/Careers/sitecore-1-300x89"
 DB: master
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
