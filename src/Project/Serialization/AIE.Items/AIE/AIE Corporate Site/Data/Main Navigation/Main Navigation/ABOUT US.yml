@@ -1,0 +1,22 @@
+﻿---
+ID: "07168d1e-2389-452c-864b-04b56f2c1f99"
+Parent: "ac17892b-92fa-4d26-8701-15b677b22c60"
+Template: "e24e0789-a058-48bf-abb6-c69c0e60b6b7"
+Path: /sitecore/content/AIE/AIE Corporate Site/Data/Main Navigation/Main Navigation/ABOUT US
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190506T125923Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "dd05144a-bd66-4ea3-956a-4b7104daaba3"
+      Hint: Link
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title="ABOUT US" target="|Custom" querystring="" id="{BD1179C0-5CB3-44E0-A9DA-D56F4878B2EF}" />

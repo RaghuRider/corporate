@@ -1,0 +1,22 @@
+﻿---
+ID: "7820a88d-741d-4935-a08b-7bc129c785e0"
+Parent: "4411acef-1203-4d38-9764-f058aa215022"
+Template: "e24e0789-a058-48bf-abb6-c69c0e60b6b7"
+Path: /sitecore/content/AIE/AIE Corporate Site/Data/Main Navigation/Our Services/Operations and Process Automations
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190618T144458Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "dd05144a-bd66-4ea3-956a-4b7104daaba3"
+      Hint: Link
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title="Operations and Process Automations" target="|Custom" querystring="" id="{90A54944-597D-459C-B103-8F56E5FB13D3}" />
