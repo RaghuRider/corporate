@@ -2,7 +2,7 @@
 ID: "1c182292-9102-4c7e-bcf1-31b3f8daea96"
 Parent: "aeabd2a1-1096-4669-a931-a5876d28b04f"
 Template: "6abee1f2-4ab4-47f0-ad8b-bdb36f37f64c"
-Path: /sitecore/Forms/Aie/Aie Corporate Form/Contact Corporate Form
+Path: /sitecore/Forms/AIE/AIE Corporate Site/Contact Corporate Form
 DB: master
 SharedFields:
 - ID: "589a7ade-81d4-4a60-b9e2-7eaf6ae8a563"
