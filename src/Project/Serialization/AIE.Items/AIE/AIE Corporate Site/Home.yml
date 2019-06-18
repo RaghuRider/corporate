@@ -57,15 +57,8 @@ Languages:
               s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;BackgroundImage&amp;Styles&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=3"
               s:ph="main" />
             <r
-              uid="{1B5FEB96-0002-4391-911A-6B5689CB5501}"
-              p:after="r[@uid='{661F34F9-A800-4E9A-9EFF-D5E8D1BF5C21}']"
-              s:ds=""
-              s:id="{99A633FC-B9A9-44A0-B78A-BCBB08DD02C9}"
-              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames&amp;Styles&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=1"
-              s:ph="main" />
-            <r
               uid="{BECAECEE-4068-48F3-8C99-75D320AA8BB8}"
-              p:after="r[@uid='{1B5FEB96-0002-4391-911A-6B5689CB5501}']"
+              p:after="r[@uid='{661F34F9-A800-4E9A-9EFF-D5E8D1BF5C21}']"
               s:ds=""
               s:id="{896A2C68-1362-4E88-8BA0-1805AE6D4837}"
               s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;BackgroundImage&amp;Styles&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=5"
