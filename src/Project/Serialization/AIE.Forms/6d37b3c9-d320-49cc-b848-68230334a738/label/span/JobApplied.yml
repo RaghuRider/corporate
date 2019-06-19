@@ -1,0 +1,42 @@
+﻿---
+ID: "76483ca7-91c6-4446-ab43-23c653acc397"
+Parent: "9f310d3a-a391-439e-a5a1-dbf01bdb30c7"
+Template: "0908030b-4564-42ea-a6fa-c7a5a2d921a8"
+Path: /sitecore/Forms/AIE/AIE Corporate Site/Profile Form/Page/div/div/form/p/label/span/JobApplied
+DB: master
+SharedFields:
+- ID: "10e5829a-1943-4597-b9ee-406ce3d13e13"
+  Hint: Validations
+  Type: Treelist
+  Value: "{83E96D09-11C8-4132-8A8A-76D8DB8208D6}"
+- ID: "589a7ade-81d4-4a60-b9e2-7eaf6ae8a563"
+  Hint: Field Type
+  Value: "{4EE89EA7-CEFE-4C8E-8532-467EF64591FC}"
+- ID: "7abaa3f6-6ec0-4b65-a463-7919bfae55aa"
+  Hint: Css Class
+  Value: "wpcf7-form-control wpcf7-text"
+- ID: "8a43af61-0812-4b37-a343-96cde3f12bb1"
+  Hint: Required
+  Type: Checkbox
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190614T124631Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "71ffd7b2-8b09-4f7b-8a66-1e4cef653e8d"
+      Hint: Title
+      Value:  Job Applied for
+    - ID: "a6972f08-cbb5-4830-a8c9-8a0ae34650d1"
+      Hint: Placeholder Text
+      Value: 
+    - ID: "b775bca9-2605-4d60-b367-a0c354be2504"
+      Hint: Default Value
+      Value: 
