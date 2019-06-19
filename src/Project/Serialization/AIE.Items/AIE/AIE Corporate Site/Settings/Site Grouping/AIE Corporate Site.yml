@@ -16,7 +16,11 @@ SharedFields:
   Value: dev.aienterprise.com
 - ID: "a7803a5d-cd03-4eda-abed-1d9af4bf6660"
   Hint: Database
-  Value: web
+  Value: master
+- ID: "c2613027-60cf-4791-affb-74c9f5fa3da5"
+  Hint: CacheHtml
+  Type: Checkbox
+  Value: 0
 - ID: "cb4e9e2e-2b66-43dc-ad3f-9caf363d28d3"
   Hint: SiteName
   Value: AIE Corporate Site
