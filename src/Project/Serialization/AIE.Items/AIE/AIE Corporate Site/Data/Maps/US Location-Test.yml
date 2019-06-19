@@ -1,0 +1,14 @@
+﻿---
+ID: "eacc2b8f-a76c-44aa-8d5b-f55ae8dbdf97"
+Parent: "18e4da3b-a07a-4fbc-9ca6-50ba1a70e6b9"
+Template: "0aacd498-cea9-4e37-8ca0-61d1f024fb34"
+Path: "/sitecore/content/AIE/AIE Corporate Site/Data/Maps/US Location-Test"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190617T074217Z
