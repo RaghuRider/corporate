@@ -2,7 +2,7 @@
 ID: "7c7bc449-0894-4c21-9aad-414940ea100d"
 Parent: "169e2286-4c23-427f-9eb6-af9b8545d3d0"
 Template: "2b35e65c-137a-4641-b683-d223ca7cfac0"
-Path: /sitecore/content/AIE/AIE Corporate Site/Home/PARTNERS/Data/3 column
+Path: /sitecore/content/AIE/AIE Corporate Site/Home/partners/Data/3 column
 DB: master
 SharedFields:
 - ID: "c80e6f3c-5bcd-426b-b1eb-6d10672e985d"

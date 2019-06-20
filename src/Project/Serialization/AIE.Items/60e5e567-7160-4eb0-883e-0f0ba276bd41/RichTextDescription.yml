@@ -2,7 +2,7 @@
 ID: "bef80d02-fef2-4bfb-996a-78c1bdd10fc2"
 Parent: "60e5e567-7160-4eb0-883e-0f0ba276bd41"
 Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
-Path: /sitecore/content/AIE/AIE Corporate Site/Home/OUR SERVICES/Operations and Process Automations/Data/RichTextDescription
+Path: "/sitecore/content/AIE/AIE Corporate Site/Home/our-services/operations-and-process-automations/Data/RichTextDescription"
 DB: master
 SharedFields:
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"

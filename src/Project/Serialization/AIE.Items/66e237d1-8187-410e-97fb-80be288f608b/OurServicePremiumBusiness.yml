@@ -2,7 +2,7 @@
 ID: "87ca167c-f67a-4b5e-a3bb-f04afee93d9f"
 Parent: "66e237d1-8187-410e-97fb-80be288f608b"
 Template: "2b35e65c-137a-4641-b683-d223ca7cfac0"
-Path: /sitecore/content/AIE/AIE Corporate Site/Home/OUR SERVICES/Premium Business Consulting/Data/OurServicePremiumBusiness
+Path: "/sitecore/content/AIE/AIE Corporate Site/Home/our-services/consulting/Data/OurServicePremiumBusiness"
 DB: master
 SharedFields:
 - ID: "c80e6f3c-5bcd-426b-b1eb-6d10672e985d"
