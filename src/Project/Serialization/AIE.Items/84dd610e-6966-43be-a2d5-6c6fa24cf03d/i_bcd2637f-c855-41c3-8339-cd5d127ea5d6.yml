@@ -1,0 +1,24 @@
+﻿---
+ID: "bcd2637f-c855-41c3-8339-cd5d127ea5d6"
+Parent: "84dd610e-6966-43be-a2d5-6c6fa24cf03d"
+Template: "fcd285da-9ab2-4c8d-b185-5a7487a9ba1b"
+Path: "/sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Promo/AboutUs-ContactWithUs_3columns/div/div/div/i"
+DB: master
+SharedFields:
+- ID: "4753764c-c05a-4623-841b-97f85135241c"
+  Hint: FieldName
+  Value: PromoText3
+- ID: "c35b2285-b4a8-406f-a91c-24a60391dc12"
+  Hint: DataAttributes
+  Value: "class=material-icons"
+- ID: "db805bdc-8eec-4238-b174-2427b6f1f077"
+  Hint: Tag
+  Value: "{8F007B01-2AB4-4968-8665-2AE033929D13}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190620T125044Z

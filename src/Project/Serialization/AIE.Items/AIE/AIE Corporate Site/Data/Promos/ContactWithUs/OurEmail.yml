@@ -11,14 +11,7 @@ Languages:
     Fields:
     - ID: "14023dd5-30e7-4e3c-bf31-d835f3a87410"
       Hint: PromoText
-      Value: |
-        <div class="quickfinder-item-image-content">
-        <div class="quickfinder-item-image-wrapper">
-        <div class="gem-icon gem-icon-pack-material gem-icon-size-medium gem-icon-shape-circle" style="border-color: #7954a2;opacity: 1;">
-        <div class="gem-icon-inner" style="background-color: #7954a2;"><span class="gem-icon-half-1" style="color: #ffffff;"><span class="back-angle"></span></span><span class="gem-icon-half-2" style="color: #ffffff;"><span class="back-angle"></span></span></div>
-        </div>
-        </div>
-        </div>
+      Value: OUR EMAIL
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20190607T061726Z
@@ -28,12 +21,11 @@ Languages:
         sitecore\admin
     - ID: "832d3c97-5c05-49bf-89ef-9c29d30345e7"
       Hint: PromoText3
+      Value: mail_outline
+    - ID: "b59adc09-32a3-46f2-aede-b0c633979263"
+      Hint: PromoText2
       Value: |
-        <div class="quickfinder-item-text" style="color: #5f727f;">We would love to hear from you<br />
+        We would love to hear from you<br />
         <br />
         sales@aienterprise.com<br />
         <br />
-        </div>
-    - ID: "b59adc09-32a3-46f2-aede-b0c633979263"
-      Hint: PromoText2
-      Value: OUR EMAIL

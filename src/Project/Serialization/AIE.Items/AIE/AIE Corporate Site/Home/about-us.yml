@@ -47,10 +47,17 @@ Languages:
               s:ph="main" />
             <r
               uid="{D154B9C5-DA5D-4C16-B90C-48CDAF9963EB}"
-              p:after="*[1=2]"
+              p:after="r[@uid='{89E8987D-21DE-4ED6-97FA-A263D6B09A67}']"
               s:ds="{EC9DDE3D-BE73-492C-AF98-23BDE9429650}"
               s:id="{51C13F03-8364-4F61-B860-2EC6CA7439B3}"
               s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7BF9899152-46B2-43BF-9F2B-66760CB9456A%7D&amp;Styles&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=4"
+              s:ph="main" />
+            <r
+              uid="{D82CB2EC-6132-4B3E-BA69-DE81329B4A74}"
+              p:after="*[1=2]"
+              s:ds="{7D56CC5C-9AE0-4EA8-B6A0-486161B87352}"
+              s:id="{00E2C7CF-2247-4596-B878-E6BB3850A77F}"
+              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;Styles&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=7"
               s:ph="main" />
           </d>
         </r>
