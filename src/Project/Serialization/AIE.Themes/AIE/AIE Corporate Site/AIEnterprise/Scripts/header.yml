@@ -1,0 +1,31 @@
+﻿---
+ID: "509a1acc-df93-42ca-aa47-7cf36df0f0ba"
+Parent: "cdd7e9dc-6bbd-4c64-89ae-1e1dc449b940"
+Template: "962b53c4-f93b-4df9-9821-415c867b8903"
+Path: /sitecore/media library/Themes/AIE/AIE Corporate Site/AIEnterprise/Scripts/header
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/509A1ACCDF9342CAAA477CF36DF0F0BA.ashx?h=16&thn=1&w=16"
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "fa1e9b6d-42d2-4613-86eb-75f982acc5ae"
+  Value: JChkb2N1bWVudCkucmVhZHkoZnVuY3Rpb24oKSB7DQogICAgJChmdW5jdGlvbigpIHsNCiAgICAgICAgRmFzdENsaWNrLmF0dGFjaChkb2N1bWVudC5ib2R5KQ0KICAgIH0pOw0KICAgIGlmICgkKHdpbmRvdykud2lkdGgoKSA+PSA4MjApDQogICAgICAgICQoIi5zaXRlLW5hdiAuaGFzLWRyb3Bkb3duID4gYSIpLm9uKCJ0b3VjaHN0YXJ0IiwgZnVuY3Rpb24oZSkgew0KICAgICAgICAgICAgdmFyIGxpbmsgPSAkKHRoaXMpOw0KICAgICAgICAgICAgaWYgKGxpbmsuaGFzQ2xhc3MoImhvdmVyIikpDQogICAgICAgICAgICAgICAgcmV0dXJuIHRydWU7DQogICAgICAgICAgICBlbHNlIHsNCiAgICAgICAgICAgICAgICBsaW5rLmFkZENsYXNzKCJob3ZlciIpOw0KICAgICAgICAgICAgICAgICQoIi5wcmltYXJ5LWxpbmsgPiBhIikubm90KHRoaXMpLnJlbW92ZUNsYXNzKCJob3ZlciIpOw0KICAgICAgICAgICAgICAgIGUucHJldmVudERlZmF1bHQoKTsNCiAgICAgICAgICAgICAgICByZXR1cm4gZmFsc2UNCiAgICAgICAgICAgIH0NCiAgICAgICAgfSk7DQogICAgJCgiI25hdi10cmlnZ2VyIikuY2xpY2soZnVuY3Rpb24oZXZlbnQpIHsNCiAgICAgICAgZXZlbnQucHJldmVudERlZmF1bHQoKTsNCiAgICAgICAgJCh0aGlzKS50b2dnbGVDbGFzcygiYW5pbWF0ZSIpOw0KICAgICAgICAkKCIuc2l0ZS1uYXYtd3JhcHBlciIpLnRvZ2dsZUNsYXNzKCJzaG93LW1lbnUiKTsNCiAgICAgICAgJCgiYm9keSIpLnRvZ2dsZUNsYXNzKCJtZW51LW9wZW4iKQ0KICAgIH0pOw0KICAgICQoIi5leHBhbmQtYXJyb3ciKS5vbigiY2xpY2siLCBmdW5jdGlvbihldmVudCkgew0KICAgICAgICBldmVudC5wcmV2ZW50RGVmYXVsdCgpOw0KICAgICAgICAkKHRoaXMpLnBhcmVudHMoImRpdiIpLm5leHQoIi5zaXRlLWRyb3Bkb3duIikudG9nZ2xlQ2xhc3MoInNob3ctc3ViLW1lbnUiKTsNCiAgICAgICAgJCh0aGlzKS50b2dnbGVDbGFzcygiYWN0aXZlIikNCiAgICB9KTsNCiAgICANCn0pOw0K
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 1005
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: "application/x-javascript"
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: js
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190620T072210Z
