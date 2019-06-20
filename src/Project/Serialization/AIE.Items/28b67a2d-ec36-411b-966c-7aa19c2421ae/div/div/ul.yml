@@ -1,0 +1,24 @@
+﻿---
+ID: "a7cce971-1048-46e0-9868-4e70b0b0455f"
+Parent: "5a34db7f-d4ab-453d-9f49-8f2962884992"
+Template: "aca5c9a3-cda0-49b6-893f-1d4a7cb595b0"
+Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Page Content/Main Navigation/div/div/ul
+DB: master
+SharedFields:
+- ID: "a4d004e6-2a4b-4c53-a4f3-9c481df71cdc"
+  Hint: Tag
+  Value: "{B2EA310B-EB7F-48C9-82AB-B8F76B658596}"
+- ID: "bea2740e-90d1-4b16-bd1d-7a7cc8605d2d"
+  Hint: CssClass
+  Value: "site-nav"
+- ID: "c35b2285-b4a8-406f-a91c-24a60391dc12"
+  Hint: DataAttributes
+  Value: role=menubar
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190620T060337Z

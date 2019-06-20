@@ -1,0 +1,25 @@
+﻿---
+ID: "92c80195-f5f6-46c9-81bd-4904af565374"
+Parent: "a8ce5a20-b8c5-4c01-9b48-e82251d48e29"
+Template: "1151b2a9-08af-4f4d-a892-c2cc9a92ea6a"
+Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Page Content/Main Navigation/div/div/ul/Our Services/Our Services Link
+DB: master
+SharedFields:
+- ID: "06882697-dc92-477d-a99a-5d79bd2ccb8d"
+  Hint: RenderingItem
+  Value: "{3972C278-7E7A-4C2B-A293-66AF860F5C3A}"
+- ID: "af48c671-dd3e-41ed-95b3-534560bef882"
+  Hint: RenderingParameters
+  Value: "Data Source=%7b2D50B31C-AE7F-414D-989D-5A7FD2F4A71B%7d&FieldNames=%7bD58C6034-1AC4-4989-BA50-E6A89B818A86%7d&Caching=0%7c0%7c0%7c0%7c0%7c0%7c0%7c0"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190620T060655Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
