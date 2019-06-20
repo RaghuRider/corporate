@@ -1,0 +1,30 @@
+﻿---
+ID: "890ca222-0489-445d-8303-ac2fda94604a"
+Parent: "ba7bc6ae-0f6f-496f-bf98-61ae0c573cbe"
+Template: "2ad23d55-aecd-43dd-ae0d-72d2ebcba60f"
+Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Partial Designs/Header/Data/HTML Code 1
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "24cce27c-05db-4473-a1ed-e69b1725ff1c"
+      Hint: HtmlCode
+      Value: |
+        <nav class="site-header__nav">
+                    <!-- Hamburger Button -->
+                    <a id="nav-trigger" href="javascript:void(0)">
+                        <div id="menu-icon">
+                            <span></span><span></span><span></span><span></span>
+                        </div>
+                    </a>
+                    <!-- End -->
+         </nav> 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190620T074853Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

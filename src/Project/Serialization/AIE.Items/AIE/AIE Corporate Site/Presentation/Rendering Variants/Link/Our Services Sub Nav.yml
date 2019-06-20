@@ -1,0 +1,14 @@
+﻿---
+ID: "d58c6034-1ac4-4989-ba50-e6a89b818a86"
+Parent: "69ecb6ed-8022-4ee4-b38d-db876de1c49c"
+Template: "fb3e3034-33f8-4ce8-be98-dd05010f4c22"
+Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Link/Our Services Sub Nav
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190620T062903Z
