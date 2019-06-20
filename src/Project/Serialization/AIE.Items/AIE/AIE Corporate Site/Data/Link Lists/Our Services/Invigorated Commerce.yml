@@ -1,8 +1,8 @@
 ﻿---
-ID: "679713e8-cd64-465a-a243-75a991b25e3b"
+ID: "b81f6157-5159-4c09-8a20-01cc8ee8af65"
 Parent: "4411acef-1203-4d38-9764-f058aa215022"
 Template: "e24e0789-a058-48bf-abb6-c69c0e60b6b7"
-Path: /sitecore/content/AIE/AIE Corporate Site/Data/Link Lists/Our Services/Analytics and Actionable Insights
+Path: /sitecore/content/AIE/AIE Corporate Site/Data/Link Lists/Our Services/Invigorated Commerce
 DB: master
 Languages:
 - Language: en
@@ -11,7 +11,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20190618T144432Z
+      Value: 20190618T144344Z
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
@@ -19,4 +19,4 @@ Languages:
     - ID: "dd05144a-bd66-4ea3-956a-4b7104daaba3"
       Hint: Link
       Value: |
-        <link text="" anchor="" linktype="internal" class="" title="Analytics and Actionable Insights" target="|Custom" querystring="" id="{4085D841-C45B-46F9-BBD2-E63C12F47675}" />
+        <link text="" anchor="" linktype="internal" class="" title="Invigorated Commerce" target="|Custom" querystring="" id="{3E0011B0-72FE-4B2E-80EE-3DBB3972ABAA}" />
