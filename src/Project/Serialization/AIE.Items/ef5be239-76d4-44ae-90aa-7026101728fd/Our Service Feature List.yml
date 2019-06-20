@@ -2,7 +2,7 @@
 ID: "1d81527c-e243-4877-8f67-e751a93d7ec7"
 Parent: "ef5be239-76d4-44ae-90aa-7026101728fd"
 Template: "2f5b73a7-dfab-4073-9dc3-c8405bb078d0"
-Path: /sitecore/content/AIE/AIE Corporate Site/Home/Home/Data/Our Service Feature List
+Path: "/sitecore/content/AIE/AIE Corporate Site/Home/our-services/invigorated-commerce/Data/Our Service Feature List"
 DB: master
 Languages:
 - Language: en

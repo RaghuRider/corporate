@@ -2,7 +2,7 @@
 ID: "1679255e-5ca3-4681-a79f-08d0fa794c5e"
 Parent: "60e5e567-7160-4eb0-883e-0f0ba276bd41"
 Template: "2f5b73a7-dfab-4073-9dc3-c8405bb078d0"
-Path: /sitecore/content/AIE/AIE Corporate Site/Home/OUR SERVICES/Operations and Process Automations/Data/Our Service Feature List
+Path: "/sitecore/content/AIE/AIE Corporate Site/Home/our-services/operations-and-process-automations/Data/Our Service Feature List"
 DB: master
 SharedFields:
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"

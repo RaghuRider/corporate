@@ -62,4 +62,4 @@ Languages:
     - ID: "b31d5ddd-1eda-4b22-b97d-ff71fc8e72bc"
       Hint: SlideLink
       Value: |
-        <link linktype="internal" text="VIEW MORE" class="btn carousel-btn" querystring="" target="" id="{807F53D5-5F25-45C3-8ACB-C5C512566ED1}" />
+        <link id="{807F53D5-5F25-45C3-8ACB-C5C512566ED1}" querystring="" text="VIEW MORE" url="/AIE/AIE Corporate Site/Home/our-services/consulting" class="btn carousel-btn" linktype="internal" target="" />

@@ -2,7 +2,7 @@
 ID: "f24d71eb-2f6b-4186-b502-4a0f6023b2ea"
 Parent: "8a1e3ed1-4a51-4231-9504-8fe993e5e14e"
 Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
-Path: /sitecore/content/AIE/AIE Corporate Site/Home/OUR SERVICES/Analytics and Actionable Insights/Data/RichTextDescription
+Path: "/sitecore/content/AIE/AIE Corporate Site/Home/our-services/analytics-actionable-insights/Data/RichTextDescription"
 DB: master
 SharedFields:
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"

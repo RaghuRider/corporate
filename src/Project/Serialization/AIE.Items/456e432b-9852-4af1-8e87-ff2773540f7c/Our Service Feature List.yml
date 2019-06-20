@@ -2,7 +2,7 @@
 ID: "fa394d15-8055-4f5d-95f6-d6d7f1ce0b4b"
 Parent: "456e432b-9852-4af1-8e87-ff2773540f7c"
 Template: "2f5b73a7-dfab-4073-9dc3-c8405bb078d0"
-Path: /sitecore/content/AIE/AIE Corporate Site/Home/OUR SERVICES/Digital and Experience Engineering/Data/Our Service Feature List
+Path: "/sitecore/content/AIE/AIE Corporate Site/Home/our-services/digital-experience-engineering/Data/Our Service Feature List"
 DB: master
 SharedFields:
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"

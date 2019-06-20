@@ -1,0 +1,34 @@
+﻿---
+ID: "bde4ea8f-3f5a-47af-8825-c4872a925266"
+Parent: "ef5be239-76d4-44ae-90aa-7026101728fd"
+Template: "324733cf-afec-4281-9a18-03b6cfc4e535"
+Path: "/sitecore/content/AIE/AIE Corporate Site/Home/our-services/invigorated-commerce/Data/MobileOmniChannel"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "14023dd5-30e7-4e3c-bf31-d835f3a87410"
+      Hint: PromoText
+      Value: "Mobile and Omni-channel"
+    - ID: "18f9beb8-0116-40fd-b47e-fd0a2327d7e0"
+      Hint: PromoIcon
+      Value: |
+        <image mediaid="{A84D5CF9-4659-4C17-99AC-7FAF6AF64A15}"></image>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190605T114128Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "82a6ce45-59b5-4bc8-83b9-79ccb8174a2a"
+      Hint: PromoIcon2
+      Value: 
+    - ID: "832d3c97-5c05-49bf-89ef-9c29d30345e7"
+      Hint: PromoText3
+      Value: 
+    - ID: "b59adc09-32a3-46f2-aede-b0c633979263"
+      Hint: PromoText2
+      Value: Mobile. Voice Recognition AI. Multiple customer touch points. Data Aggregation. All of these play a role in deploying a robust ‘Invigorated’ commerce. We can help you build the right strategy to deliver in all these areas.

@@ -2,7 +2,7 @@
 ID: "4f6aff88-edd6-4775-ac7f-f8bd98ac050c"
 Parent: "66e237d1-8187-410e-97fb-80be288f608b"
 Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
-Path: /sitecore/content/AIE/AIE Corporate Site/Home/OUR SERVICES/Premium Business Consulting/Data/RichTextDescription
+Path: "/sitecore/content/AIE/AIE Corporate Site/Home/our-services/consulting/Data/RichTextDescription"
 DB: master
 SharedFields:
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"

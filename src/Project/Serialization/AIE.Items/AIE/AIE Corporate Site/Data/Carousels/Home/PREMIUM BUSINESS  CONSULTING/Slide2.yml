@@ -62,4 +62,4 @@ Languages:
     - ID: "b31d5ddd-1eda-4b22-b97d-ff71fc8e72bc"
       Hint: SlideLink
       Value: |
-        <link linktype="internal" text="VIEW MORE" class="btn carousel-btn" querystring="" target="" id="{3E0011B0-72FE-4B2E-80EE-3DBB3972ABAA}" />
+        <link id="{3E0011B0-72FE-4B2E-80EE-3DBB3972ABAA}" querystring="" text="VIEW MORE" url="/AIE/AIE Corporate Site/Home/our-services/invigorated-commerce" class="btn carousel-btn" linktype="internal" target="" />
