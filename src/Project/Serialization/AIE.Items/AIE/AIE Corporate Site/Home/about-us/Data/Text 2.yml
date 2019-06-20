@@ -2,7 +2,7 @@
 ID: "ba3971c7-2965-4019-9a73-03025d8e0a0f"
 Parent: "b456a6ca-a64c-438f-b06a-5e64b68e1e9f"
 Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
-Path: /sitecore/content/AIE/AIE Corporate Site/Home/ABOUT US/Data/Text 2
+Path: "/sitecore/content/AIE/AIE Corporate Site/Home/about-us/Data/Text 2"
 DB: master
 Languages:
 - Language: en
