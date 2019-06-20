@@ -1,0 +1,31 @@
+﻿---
+ID: "b1d921af-0913-4879-9aac-40cf56beca57"
+Parent: "48429094-4c3c-485e-9d3c-7eedfe229a6a"
+Template: "962b53c4-f93b-4df9-9821-415c867b8903"
+Path: /sitecore/media library/Themes/AIE/AIE Corporate Site/AIEnterprise/styles/AIE/common
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/B1D921AF091348799AAC40CF56BECA57.ashx?h=16&thn=1&w=16"
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "f8ef1943-3e00-4eb6-bec5-b56993a0e9fb"
+  Value: DQpAZm9udC1mYWNlIHsNCglmb250LWZhbWlseTogJ3RoZWdlbS1pY29ucyc7DQoJc3JjOnVybCgnLi4vLi4vZm9udHMvdGhlZ2VtL3RoZWdlbS1pY29ucy5lb3Q/LXlpcXlteicpOw0KCXNyYzp1cmwoJy4uLy4uL2ZvbnRzL3RoZWdlbS90aGVnZW0taWNvbnMuZW90PyNpZWZpeC15aXF5bXonKSBmb3JtYXQoJ2VtYmVkZGVkLW9wZW50eXBlJyksDQoJCXVybCgnLi4vLi4vZm9udHMvdGhlZ2VtL3RoZWdlbS1pY29ucy53b2ZmPy15aXF5bXonKSBmb3JtYXQoJ3dvZmYnKSwNCgkJdXJsKCcuLi8uLi9mb250cy90aGVnZW0vdGhlZ2VtLWljb25zLnR0Zj8teWlxeW16JykgZm9ybWF0KCd0cnVldHlwZScpLA0KCQl1cmwoJy4uLy4uL2ZvbnRzL3RoZWdlbS90aGVnZW0taWNvbnMuc3ZnPy15aXF5bXojdGhlZ2VtLWljb25zJykgZm9ybWF0KCdzdmcnKTsNCglmb250LXdlaWdodDogbm9ybWFsOw0KCWZvbnQtc3R5bGU6IG5vcm1hbDsNCn0NCg0KYm9keXsNCiAgICBvdmVyZmxvdy14OiBoaWRkZW47DQp9DQovKiANCiN0b3AtYXJlYSB7DQogICAgYm9yZGVyLXRvcDogNXB4IHNvbGlkICMwMGJjZDQ7DQogICAgY29sb3I6ICM1ZjcyN2Y7DQogICAgYm9yZGVyLWJvdHRvbTogMXB4IHNvbGlkICNkZmU1ZTg7DQogICAgYmFja2dyb3VuZC1jb2xvcjogI2Y0ZjZmNzsNCiAgICBwYWRkaW5nOiAxMHB4IDA7DQogICAgYm9yZGVyLWJvdHRvbTogMXB4IHNvbGlkICM0OTRjNjQ7DQogICAgcG9zaXRpb246IHJlbGF0aXZlOw0KfQ0KDQouY29udGFpbmVyIHsNCiAgICBtYXJnaW4tcmlnaHQ6IGF1dG87DQogICAgbWFyZ2luLWxlZnQ6IGF1dG87DQogICAgcGFkZGluZy1sZWZ0OiAyMXB4Ow0KICAgIHBhZGRpbmctcmlnaHQ6IDIxcHg7DQp9DQoNCmltZ3sNCiAgICB3aWR0aDogMjBweDsNCiAgICBoZWlnaHQ6IDIwcHg7DQp9DQoNCi5pbWctYmxvY2t7DQogICAgZGlzcGxheTogYmxvY2s7DQp9ICovDQo=
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 953
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: text/css
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: css
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190617T103425Z
