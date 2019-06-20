@@ -20,7 +20,8 @@ Languages:
         <r xmlns:p="p" xmlns:s="s"
           p:p="1">
           <d
-            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+            s:l="{269BDDC7-E377-4C61-9B26-A00BA2CCD14D}">
             <r
               uid="{8368BF0C-B7E2-41F1-B527-61F63082AB26}"
               p:before="*"
@@ -57,9 +58,16 @@ Languages:
               s:ph="footer" />
             <r
               uid="{093ED1D4-A4B0-4EB2-BA0E-1D9ABF1D53B4}"
-              p:after="*[1=2]"
+              p:after="r[@uid='{2FB4527D-6CAD-4949-A88C-2ADEED12FF68}']"
               s:id="{896A2C68-1362-4E88-8BA0-1805AE6D4837}"
               s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;BackgroundImage&amp;Styles&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=5"
+              s:ph="footer" />
+            <r
+              uid="{6BA2B41B-CC45-4D26-A892-D6343A2254AA}"
+              p:after="*[1=2]"
+              s:ds="{0BB9ED5E-AB75-439F-A45B-12D5A0A30955}"
+              s:id="{87182F78-4399-4896-8D59-9D6A45282F8A}"
+              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames&amp;Styles&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=8"
               s:ph="footer" />
           </d>
         </r>
