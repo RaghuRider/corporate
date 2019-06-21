@@ -199,6 +199,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="EmailTemplate\AIE_CareersEmail.html" />
     <Content Include="EmailTemplate\AIE_ContactEmail.html" />
     <None Include="Web.config" />
   </ItemGroup>
