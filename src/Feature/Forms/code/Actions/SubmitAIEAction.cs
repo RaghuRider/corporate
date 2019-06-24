@@ -13,6 +13,7 @@ using Sitecore.ExperienceForms.Processing.Actions.Models;
 using AIEnterprise.Feature.Forms.DataDictionary;
 using AIEnterprise.Feature.Forms.Helper;
 using AIEnterprise.Feature.Forms.Models;
+using Feature.FormsExtensions.Fields.FileUpload;
 //using ServiceMaster.SVMBrands.Feature.SVMForms.Models;
 //using ServiceMaster.SVMBrands.Feature.SVMForms.Helper;
 //using ServiceMaster.SVMBrands.Foundation.Common;
@@ -27,7 +28,9 @@ namespace AIEnterprise.Feature.Forms.Actions
         List<string>> hstable = new Dictionary<string,
         List<string>>();
 
-
+        bool isJobApplicationForm;
+        string EmailTemplate = "AIE_ContactEmail";
+        FileUploadModel fileUpload = null;
         string toEmailID = Sitecore.Context.Site.SiteInfo.Properties.Get("AIEToEmail");
         string subjectEmail = Sitecore.Context.Site.SiteInfo.Properties.Get("AIEEmailSubject");
         string isOAFMailEnabled = Sitecore.Context.Site.SiteInfo.Properties.Get("AIEEmailEnabled");
@@ -73,10 +76,22 @@ namespace AIEnterprise.Feature.Forms.Actions
         {
             Assert.ArgumentNotNull(data, nameof(data));
             Assert.ArgumentNotNull(formSubmitContext, nameof(formSubmitContext));
-
+            if (formSubmitContext.Fields[4] != null && formSubmitContext.Fields[4] is FileUploadModel)
+            {
+                 fileUpload = formSubmitContext.Fields[4] as FileUploadModel;
+            }
             //Get all Data Posted from FORM
             var formDict = new FormDictionary();
             var hstable = formDict.GetFieldsDictionary(formSubmitContext.Fields);
+            Dictionary<string, string> attributeList = new Dictionary<string, string>();
+
+            if (hstable.ContainsKey("JobApplied"))
+            {
+                isJobApplicationForm = true;
+                EmailTemplate = "AIE_CareersEmail";
+
+            }
+
             bool isMailSent = SendEmailNotification(hstable);
             return true;
         }
@@ -91,7 +106,7 @@ namespace AIEnterprise.Feature.Forms.Actions
                 string subject = subjectEmail;
                 var allEmails = toEmailID.Split(';');
                 var isMailSent = false;
-                var emailBody = emailHeler.GetEmailBody(formdata);
+                var emailBody = emailHeler.GetEmailBody(formdata, EmailTemplate);
 
                 foreach (var email in allEmails)
                 {
@@ -100,10 +115,11 @@ namespace AIEnterprise.Feature.Forms.Actions
                         To = email,
                         Subject = subject,
                         From = emailFrom,
-                        Body = emailBody
+                        Body = emailBody,
+                        IsAttachement = isJobApplicationForm
                     };
 
-                    isMailSent = emailHeler.Send(aieEmail);
+                    isMailSent = emailHeler.Send(aieEmail, fileUpload);
                     if (!isMailSent)
                     {
                         Log.Error("$Email sender failed", "FormSubmission");

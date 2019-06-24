@@ -7,17 +7,18 @@ using System.Net;
 using System.Net.Mail;
 using System.Web;
 using AIEnterprise.Feature.Forms.Models;
+using Feature.FormsExtensions.Fields.FileUpload;
 
 namespace AIEnterprise.Feature.Forms.Helper
 {
     public class EmailHelper
     {
-        public string GetEmailBody(Dictionary<string, List<string>> formData)
+        public string GetEmailBody(Dictionary<string, List<string>> formData, string EmailTemplate)
         {
             string emailHtml = string.Empty;
             try
             {
-                var htmlEmailTemplate = GetEmailTemplate("AIE_ContactEmail");
+                var htmlEmailTemplate = GetEmailTemplate(EmailTemplate);
 
                 if (htmlEmailTemplate == null)
                 {
@@ -29,6 +30,8 @@ namespace AIEnterprise.Feature.Forms.Helper
                 htmlEmailTemplate = htmlEmailTemplate.Replace("#Name#", GetValuefromDictionary(formData, "your-name"));
                 htmlEmailTemplate = htmlEmailTemplate.Replace("#Email#", GetValuefromDictionary(formData, "your-email"));
                 htmlEmailTemplate = htmlEmailTemplate.Replace("#Message#", GetValuefromDictionary(formData, "your-message"));
+                htmlEmailTemplate = htmlEmailTemplate.Replace("#Phone#", GetValuefromDictionary(formData, "phone"));
+                htmlEmailTemplate = htmlEmailTemplate.Replace("#JobApplied#", GetValuefromDictionary(formData, "JobApplied"));
                 
                 //emailHtml = htmlEmailTemplate.ReplacePatternCaseInsensitive(replacements);
                 emailHtml = htmlEmailTemplate;
@@ -56,10 +59,17 @@ namespace AIEnterprise.Feature.Forms.Helper
             }
         }
 
-        public bool Send(Email email)
+        public bool Send(Email email, FileUploadModel fileUpload)
         {
             var recipients = GetRecipients(email);
             var sitecoreEmail = new MailMessage(email.From, recipients.First(), email.Subject, email.Body);
+
+            if (email.IsAttachement && fileUpload != null && fileUpload.File.ContentLength > 0)
+            {
+                Attachment attachment = new Attachment(fileUpload.File.InputStream, fileUpload.File.FileName);
+                sitecoreEmail.Attachments.Add(attachment);
+            }
+
             sitecoreEmail.IsBodyHtml = true;
             try
             {
