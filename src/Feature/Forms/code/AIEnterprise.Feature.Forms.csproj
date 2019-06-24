@@ -201,6 +201,8 @@
   <ItemGroup>
     <Content Include="EmailTemplate\AIE_CareersEmail.html" />
     <Content Include="EmailTemplate\AIE_ContactEmail.html" />
+    <Content Include="Views\FormBuilder\FieldTemplates\ConfirmationPopup.cshtml" />
+    <Content Include="Views\FormBuilder\FieldTemplates\AIEHiddenField.cshtml" />
     <None Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
