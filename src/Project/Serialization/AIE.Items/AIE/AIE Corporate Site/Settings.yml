@@ -27,6 +27,10 @@ SharedFields:
 - ID: "af332c24-fe17-41e7-8caf-8e64c588fe72"
   Hint: EditingTheme
   Value: "{2BD9E33D-91C6-4F0D-BD5A-EAECF0C01167}"
+- ID: "b31a3b74-d75c-477a-be16-f44c4593dfe9"
+  Hint: Favicon
+  Value: |
+    <image mediaid="{EF03D996-9654-4F86-B898-187E91B2A8D8}" />
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
   Value: 500
