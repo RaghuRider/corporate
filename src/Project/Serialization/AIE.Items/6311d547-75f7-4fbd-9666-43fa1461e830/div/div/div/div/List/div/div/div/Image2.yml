@@ -1,0 +1,21 @@
+﻿---
+ID: "71f6d5fa-d7c5-4331-9f9d-42682202cfa6"
+Parent: "17147ac8-e0dc-41f7-9151-a87546fbb5f0"
+Template: "fcd285da-9ab2-4c8d-b185-5a7487a9ba1b"
+Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Page Content/OurCoreValues/div/div/div/div/List/div/div/div/Image2
+DB: master
+SharedFields:
+- ID: "4753764c-c05a-4623-841b-97f85135241c"
+  Hint: FieldName
+  Value: Image2
+- ID: "db805bdc-8eec-4238-b174-2427b6f1f077"
+  Hint: Tag
+  Value: 
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190621T133418Z

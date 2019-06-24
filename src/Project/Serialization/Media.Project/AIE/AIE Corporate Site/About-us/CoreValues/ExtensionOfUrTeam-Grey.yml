@@ -1,0 +1,40 @@
+﻿---
+ID: "4392a289-b858-49cd-9286-6e99517d6fdc"
+Parent: "bdab6a1d-89b7-41b0-b140-c398eacbe2b1"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/Project/AIE/AIE Corporate Site/About-us/CoreValues/ExtensionOfUrTeam-Grey"
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/4392A289B85849CD92866E99517D6FDC.ashx?h=16&thn=1&w=16"
+- ID: "22eac599-f13b-4607-a89d-c091763a467d"
+  Hint: Width
+  Value: 77
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "165aa84e-60a3-4148-babe-9589061f4fa4"
+  Value: iVBORw0KGgoAAAANSUhEUgAAAE0AAABLCAYAAAA1UAqtAAAACXBIWXMAAAsSAAALEgHS3X78AAAB3UlEQVR4Ae3c0U3DMBRG4QtigG4AG9B3ywI2qDeASYANugHdIGxAUZT3jkBHYIIiS+GJOOKemqZU/yfxElTXPWA1caOe7XY7E59z9fJTNEDRAEUDFA1QNOBiiieNId2b2VWFoVZt13xUGMdlkmhmlqPdVBhnbWYHj6blCSgaoGiAogGKBigaoGiAogGKBigaoGiAogGKBigaoGiAogFTbUJuCsdLG5PbvEs7cPzgG5DZUX3CHkMqTea97ZrbA0+nSMsTUDRA0QBFAxQNUDRA0QB8nhZDyrcVLMxsVnE+j4XjnyMnxMRr/qG3NLijxZBm/ZPWuK1gag9t1wxdaYwiy/NUgmUvMaSF90GuaP0TnEqwb0vvA7z/ae6/yj9wGUNyXdd6o9W4p+wYzT1zqrU1tK20TVNa+jXePfMb2PXI737NG630ovIdiU/OsX4Y2Rra7Ls11C/Bt33naDq5ZRQNUDRA0QBFAxQNUDRgcJcjhrQsnCV7rzvv2q5ZD4xf63PD0vjrStfIg+OXTm7nJ3hhXo2WJ6BogKIBigYoGqBogKIBigYoGqBogKIBigYoGqBogKIBigaUNiFX/VfS7Kt0q8JzpfmXxv/T+es7IQEtT0DRAEUDFA1QNEDRvMzsC44EWWA25ri0AAAAAElFTkSuQmCC
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 555
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/png
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: png
+- ID: "cb09946f-3218-4823-87d2-d5007c199a96"
+  Hint: Dimensions
+  Value: 77 x 75
+- ID: "de2ca9e4-c117-4c8a-a139-1ff4b199d15a"
+  Hint: Height
+  Value: 75
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190621T132211Z

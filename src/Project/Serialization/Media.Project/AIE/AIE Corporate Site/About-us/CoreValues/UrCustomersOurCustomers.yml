@@ -1,0 +1,40 @@
+﻿---
+ID: "b17e4e8e-2f32-4828-b92f-c83bb0244f36"
+Parent: "bdab6a1d-89b7-41b0-b140-c398eacbe2b1"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/Project/AIE/AIE Corporate Site/About-us/CoreValues/UrCustomersOurCustomers"
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/B17E4E8E2F324828B92FC83BB0244F36.ashx?h=16&thn=1&w=16"
+- ID: "22eac599-f13b-4607-a89d-c091763a467d"
+  Hint: Width
+  Value: 77
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "64120f93-6c40-43af-ad42-7d414527ef63"
+  Value: iVBORw0KGgoAAAANSUhEUgAAAE0AAABKCAYAAAD+DNkIAAAACXBIWXMAAAsSAAALEgHS3X78AAADVUlEQVR4nO2au3HbQBBA1x7lco5AzBGQHUhGA2QHYgdCB2YHpjqgO5AbgKEO6AA5GSAXKqDnxgsPzbkFbvf2JEizb4aRhMXdw+I+e/h0Op3A4PHZfPExaQJMmgCTJsCkCTBpAkyaAJMmwKQJMGkCTJoAkybApAkwaQJMmoCrVIGzqpkBwAoAFgAwO/vTHgBq92uL/CUi/gLj3138aY+/p5j4Q6gXIVHWDgBuR/61A4BtW+SbKcUPQVVaVjVr11AAuGZc9uwyJiQrMLtqZvzfLhs1s05tTMMOcYUBZswuIP5MIMwxd68q85pBNCcCibCeJWZpqvi3AfGDUZGGWTY2xoxRDsR3WbZMFZ+LVqZpPMU5ykkZ/4tCHDVpC6U4lLTLZYUUlXZObXGrJZ+CeigspiZN5fUZ4ENKqxPH32sE0ZJ2UIpDLUC14qvE0ZKmkSHHtsipTNBYnHYD8VmoSGuLfId7vRjIXUFb5E7aMTL+NvL6f2iOaTEb42NAp2IWp90kpbVF7hr1Q3BpF7Jhx2yTxp/mhh3+dmzN7FjfoaCxBuM/poofivqSAzv2FUsyQzi5M26H2iIvMf5zivghJP0SEveSd77Krcbrkjo+hX0+KsAOVgSYNAEmTYBJE6B27okz2eysYBhSOKxxk75vi5y9f8VKbIn37WfQw9nG/AVn00Nb5Fqb/rjZM6ua1dmB7Y1Ce36iyKfQTjKODbv+kJoT3wdbGmbUBmVJT4dCcIvXHRYDxtrkHtqvVPEvCZZ2Juuee5NI+s32dmjBmlWNe02/C27ligUbjrwgaVnVOFnfBA3SpMPOkdWKrGrqiKNEJ28dMrYOSsOBtsZT6qng9pSlL+uEr+klj/hwyKwmlxwTFQY4PHhfJcySsULBGA9jleihddpmgsJ6ljiG+WAP7B7mOCR58UrDLHtQuHlKKGlapaCSOpGnMk3tY5GE3OAY9h+SRTLBNXV4TUlbvamOcFKfyHt3NZQ0lZPoV4A6kR+r6kZBSdPYEn1Y3nuVQ20TTuAdH02aAKunDcOaPd8LqWdP1jot6eyjSOrv2bxQldvyrRrEhBrTtNrvjW/nngJsIhBg0gSYNAEmTYBJE2DSBJg0ASZNgEkTYNIEmDQBJk2ASRNg0rgAwB9b4hXnyFI66AAAAABJRU5ErkJggg==
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 931
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/png
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: png
+- ID: "cb09946f-3218-4823-87d2-d5007c199a96"
+  Hint: Dimensions
+  Value: 77 x 74
+- ID: "de2ca9e4-c117-4c8a-a139-1ff4b199d15a"
+  Hint: Height
+  Value: 74
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190621T132212Z

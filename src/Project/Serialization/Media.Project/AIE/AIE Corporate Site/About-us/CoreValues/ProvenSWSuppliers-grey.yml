@@ -1,0 +1,40 @@
+﻿---
+ID: "22e1a8ec-0c58-4f56-94b2-75c79024e2bc"
+Parent: "bdab6a1d-89b7-41b0-b140-c398eacbe2b1"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/Project/AIE/AIE Corporate Site/About-us/CoreValues/ProvenSWSuppliers-grey"
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/22E1A8EC0C584F5694B275C79024E2BC.ashx?h=16&thn=1&w=16"
+- ID: "22eac599-f13b-4607-a89d-c091763a467d"
+  Hint: Width
+  Value: 77
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "a7b4b614-10ed-4336-8ffe-5af9e643d99f"
+  Value: iVBORw0KGgoAAAANSUhEUgAAAE0AAABKCAYAAAD+DNkIAAAACXBIWXMAAAsSAAALEgHS3X78AAAD0ElEQVR4Ae2c4bHSQBDHV8fvagW8DsDPmczDCiQVoBUYKxA7wA54FQQ7gMnks1CB0AGpAGfHxYnhLsnt7WHI2/9MPgAvl8sve3e7e5v34nw+g8pNL5WXuxQaQwqNIYXGkEJjSKExpNAYUmgMKTSGFBpDCo2hV7e4SBwlbwBgAgDT2k8nANjkRba7RT+kFDRgj6MEIaUA8KHlT0sAWOKRF9kpWIeEFARaHCUPALACgEfHUxFemhfZSrxTghKHFkcJDsMNALz2aOYpL7KPgt0SlehCIAQMNY+jpLfWJmZpNNnjhD4SafCPkrzI1oLtiUjS0lJhYKgVPYxeSRqatHCY925uE4EWR8lMYB6zaZjQDE6rpMbkwniL/EZvSUGbBIQm0n4cJWixC4nO3EvsKfFQENqjhLU9i4CdhvclOvG2tueS5aiCevSdI+8Fmm8QP6t99nKPpKCFzkywU0cWd6gO0UlS0DZC7RiVF5lP+yarGvksCFLQQsaHT5yTMPyioN+WnlpzwUkG7NjBuUhj/+q9ydJoMsdhdolNH+i4aNIxSjkCwKHyeVedbvIiu1ptJdPdC7oJyXDqe8PQPJHvNfa8xqiWaKha5ifTCWKrZ15kB+Ggfd/kU2FaPC+yCXf4tggzyO9sGWRRl4MuYnw6jsIhM+uyX0AZ3i+Ct4HApk2bPeJ+WgVcyWxii/MRWW7Xa+KmTOJxzYv2bcAg5G4UTdQLh8UBb3hBALjX9Em3/8A5sot1B6+5JXgppY/qk3ZJN7mW2oEicD8dT9vmRdbZ/RhkoXIcJTvHVfWbybWwaagBu2tA7rQPMThozNS7U2QwREvjhEZjl12vIUKzZXm3dBwtv3eGHbRqqFItBA2dOtBxEqoeqgfoW3Il/vp9tF+wrA3jadfEg/QO+5SOiUPAXNeRguaNaxkWuTe/6OORimmMIKi/uGJ+pq/2FJa1ygtaJdMgETjbVJIFrNtKFGgRyDDQJ0e51VGtVTi9DeLc0hOakcMaCpRNF4BLkwUStANnmLuc2xkawUJQacDddBdtyZqCZo1N6gQtjpKUxn8fYNV1NdGHViu0gBlZSZUE7iZlWY1+2p0AAxoBGbkSwWW1tDhKcDh+veWdC6h0zcVxZLQ0WobvDRiQxYkUuTTJNjyDXzig5qGrJ23QvHage6Cg/b+CRpnPProWLhIpArTJZGm9Kwzum4aauQ1ZzjpYaEFfUBsqtKClXyZovX8L7n/rCtq9vXtpUdCIQP9BE0P6OjZDCo0hhcaQQmNIoTGk0BhSaAwpNIYUGkMKjSGFxpBCcxUA/AaIwkKOvqaXYAAAAABJRU5ErkJggg==
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 1054
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/png
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: png
+- ID: "cb09946f-3218-4823-87d2-d5007c199a96"
+  Hint: Dimensions
+  Value: 77 x 74
+- ID: "de2ca9e4-c117-4c8a-a139-1ff4b199d15a"
+  Hint: Height
+  Value: 74
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190621T132212Z
