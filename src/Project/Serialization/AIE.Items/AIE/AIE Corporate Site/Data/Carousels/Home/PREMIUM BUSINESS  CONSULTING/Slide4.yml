@@ -35,7 +35,7 @@ Languages:
     - ID: "427ec0bd-3bf2-45b9-880f-bdb0054e7925"
       Hint: SlideImage
       Value: |
-        <image mediaid="{BB9B7189-71D3-49EF-85A8-B3C817885414}" />
+        <image mediaid="{BB9B7189-71D3-49EF-85A8-B3C817885414}" ></image>
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
