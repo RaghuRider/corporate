@@ -56,7 +56,7 @@ Languages:
               p:after="r[@uid='{1DFE7483-FC1F-4104-AD7D-8B7384C7A3E0}']"
               s:ds="{21C378A1-4ADF-45EF-B2DE-E9E19469B055}"
               s:id="{4646BD4F-05FF-4A19-9600-4D74F2F1548B}"
-              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames&amp;Styles&amp;TitleHeadingLevel=%7B6A44D9C6-61F0-4B69-8E1A-FDC27F96BA0F%7D&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=8"
+              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames&amp;Styles=%7BB02D7BD6-2056-4EB0-86D3-FDF31AA18517%7D&amp;TitleHeadingLevel=%7B6A44D9C6-61F0-4B69-8E1A-FDC27F96BA0F%7D&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=8"
               s:ph="/main/sxa-ourservicebody/row-2-1/row-2-2/column-2-3" />
             <r
               uid="{B4CA0FE4-E653-47A8-B10A-75284FD2B19C}"

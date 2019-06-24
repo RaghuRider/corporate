@@ -1,0 +1,51 @@
+﻿---
+ID: "bd8f73ae-0530-45be-bb19-2b7ca963be5a"
+Parent: "22169c6d-af8e-4917-ae01-aa6c426336e6"
+Template: "142e5fc1-ec62-4540-bad9-cd88f337cd2e"
+Path: /sitecore/content/AIE/AIE Corporate Site/Data/Carousels/Home/Main Carousel/Slide5
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 500
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{B8AB7438-FF88-41A2-B0FD-493FB644E1B2}">
+        <r
+          ds=""
+          id="{8B0393E9-EE25-4F0B-A5FD-777B3AD2C737}"
+          par="FieldNames=%7B7C5FEDFB-F002-4136-99B0-5ED23040938B%7D&amp;Styles&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D"
+          ph="section-content"
+          uid="{38387039-27DD-4526-9D1F-D31A830CAA68}" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190620T121311Z
+    - ID: "427ec0bd-3bf2-45b9-880f-bdb0054e7925"
+      Hint: SlideImage
+      Value: |
+        <image mediaid="{33A152E0-86ED-44E8-B461-E314B5ABAD2E}" ></image>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "7209159d-6b3e-4281-983e-f7f82104fa1b"
+      Hint: SlideText
+      Value: |
+        <p>OPERATIONS &amp; PROCESS MANAGEMENT</p>
+        <p>Reducing Costs. Improving Quality.</p>
+    - ID: "b31d5ddd-1eda-4b22-b97d-ff71fc8e72bc"
+      Hint: SlideLink
+      Value: |
+        <link text="VIEW MORE" anchor="" linktype="internal" class="btn carousel-btn" title="" target="" querystring="" id="{90A54944-597D-459C-B103-8F56E5FB13D3}" />

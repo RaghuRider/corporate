@@ -1,0 +1,18 @@
+﻿---
+ID: "daf97885-3f1d-4867-8323-b08a980b2f1a"
+Parent: "57b3ff8d-2e42-4ce6-a462-8c377bfa1eb9"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Themes/AIE/AIE Corporate Site/AIEnterprise/fonts/MontserratUltralight
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190624T075354Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
