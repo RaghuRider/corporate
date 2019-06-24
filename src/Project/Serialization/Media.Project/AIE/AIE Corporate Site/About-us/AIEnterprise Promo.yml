@@ -2,7 +2,7 @@
 ID: "64858f36-03e3-460a-88e4-51c2e9a776d8"
 Parent: "0e71c462-b841-4a52-9724-b312f6852b7c"
 Template: "daf085e8-602e-43a6-8299-038ff171349f"
-Path: "/sitecore/media library/Project/AIE/AIE Corporate Site/About-us/about-us-new-img-2"
+Path: "/sitecore/media library/Project/AIE/AIE Corporate Site/About-us/AIEnterprise Promo"
 DB: master
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
@@ -10,7 +10,7 @@ SharedFields:
   Value: "-/media/64858F3603E3460A88E451C2E9A776D8.ashx?h=16&thn=1&w=16"
 - ID: "22eac599-f13b-4607-a89d-c091763a467d"
   Hint: Width
-  Value: 1003
+  Value: 606
 - ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
   Hint: Blob
   BlobID: "f5d86799-3710-495f-a8f0-2e5291722d6f"
@@ -32,7 +32,7 @@ SharedFields:
   Value: 1003 x 1001
 - ID: "de2ca9e4-c117-4c8a-a139-1ff4b199d15a"
   Hint: Height
-  Value: 1001
+  Value: 500
 Languages:
 - Language: en
   Versions:
