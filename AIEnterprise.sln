@@ -36,6 +36,16 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Forms", "Forms", "{24B9782B
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIEnterprise.Feature.Forms", "src\Feature\Forms\code\AIEnterprise.Feature.Forms.csproj", "{51C49364-61F9-47F2-A423-5E1A2AA505A0}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SiteMap", "SiteMap", "{27F12A85-1928-497C-AA54-6BA771B094CB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIEnterprise.Feature.SiteMap", "src\Feature\SiteMap\code\AIEnterprise.Feature.SiteMap.csproj", "{39546613-6DF9-4168-983E-69C45DDFC6E6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Common", "Common", "{D8B0B959-AB8D-4952-96D8-B7DA8EFD70EC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DependencyInjection", "DependencyInjection", "{71C864BD-09E9-4FAD-9965-63152A643DB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIEnterprise.Foundation.Common", "src\Foundation\Common\code\AIEnterprise.Foundation.Common.csproj", "{DB8FA138-AB80-4274-A07B-E6186A96AC77}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -62,6 +72,14 @@ Global
 		{51C49364-61F9-47F2-A423-5E1A2AA505A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{51C49364-61F9-47F2-A423-5E1A2AA505A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{51C49364-61F9-47F2-A423-5E1A2AA505A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39546613-6DF9-4168-983E-69C45DDFC6E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39546613-6DF9-4168-983E-69C45DDFC6E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39546613-6DF9-4168-983E-69C45DDFC6E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39546613-6DF9-4168-983E-69C45DDFC6E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB8FA138-AB80-4274-A07B-E6186A96AC77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB8FA138-AB80-4274-A07B-E6186A96AC77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB8FA138-AB80-4274-A07B-E6186A96AC77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB8FA138-AB80-4274-A07B-E6186A96AC77}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -74,9 +92,14 @@ Global
 		{93869644-A845-43EC-B06E-B97E53568206} = {4C02AFF0-E86C-4CC8-A7DD-B87AF56E437D}
 		{24B9782B-4134-42C8-8CBC-5BFDA90D2A77} = {66AE5F89-5C3A-40AE-8747-CCA0E15537D8}
 		{51C49364-61F9-47F2-A423-5E1A2AA505A0} = {24B9782B-4134-42C8-8CBC-5BFDA90D2A77}
+		{27F12A85-1928-497C-AA54-6BA771B094CB} = {66AE5F89-5C3A-40AE-8747-CCA0E15537D8}
+		{39546613-6DF9-4168-983E-69C45DDFC6E6} = {27F12A85-1928-497C-AA54-6BA771B094CB}
+		{D8B0B959-AB8D-4952-96D8-B7DA8EFD70EC} = {DE4CF2EE-D108-40E7-A79F-E1D003E82FEC}
+		{71C864BD-09E9-4FAD-9965-63152A643DB6} = {DE4CF2EE-D108-40E7-A79F-E1D003E82FEC}
+		{DB8FA138-AB80-4274-A07B-E6186A96AC77} = {D8B0B959-AB8D-4952-96D8-B7DA8EFD70EC}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {6C0DE10B-66A0-4B7A-B792-B2EA695FFC71}
 		EnterpriseLibraryConfigurationToolBinariesPathV6 = packages\EnterpriseLibrary.Common.6.0.1304.0\lib\NET45;packages\EnterpriseLibrary.TransientFaultHandling.6.0.1304.0\lib\portable-net45+win+wp8;packages\EnterpriseLibrary.TransientFaultHandling.Caching.6.0.1304.0\lib\NET45;packages\EnterpriseLibrary.TransientFaultHandling.Data.6.0.1304.1\lib\NET45;packages\EnterpriseLibrary.TransientFaultHandling.ServiceBus.6.0.1304.0\lib\NET45;packages\EnterpriseLibrary.TransientFaultHandling.WindowsAzure.Storage.6.0.1304.0\lib\NET45;packages\EnterpriseLibrary.TransientFaultHandling.Configuration.6.0.1304.0\lib\NET45
+		SolutionGuid = {6C0DE10B-66A0-4B7A-B792-B2EA695FFC71}
 	EndGlobalSection
 EndGlobal

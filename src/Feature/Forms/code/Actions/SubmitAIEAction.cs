@@ -47,7 +47,7 @@ namespace AIEnterprise.Feature.Forms.Actions
             return true;
         }
 
-        string currentPage = "/";
+        //string currentPage = "/";
         public override void ExecuteAction(FormSubmitContext formSubmitContext, string parameters)
         {
             try
