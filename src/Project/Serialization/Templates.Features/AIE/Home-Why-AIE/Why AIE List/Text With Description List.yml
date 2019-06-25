@@ -2,7 +2,7 @@
 ID: "cb51ea26-6a91-4d47-ac57-36070b097bfd"
 Parent: "ddd64e03-4fc5-4cb1-85c5-a5506a1fc1ab"
 Template: "e269fbb5-3750-427a-9149-7aa950b49301"
-Path: "/sitecore/templates/Feature/AIE/Home-Why-AIE/TextWithDescriptionList/TextWithDescriptionList"
+Path: "/sitecore/templates/Feature/AIE/Home-Why-AIE/Why AIE List/Text With Description List"
 DB: master
 Languages:
 - Language: en

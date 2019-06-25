@@ -1,19 +1,16 @@
 ﻿---
-ID: "a77eb567-8707-431f-8fbc-48c6b2037e12"
+ID: "8f8fdb57-19ae-4617-8d22-fa535a0164c3"
 Parent: "cb51ea26-6a91-4d47-ac57-36070b097bfd"
 Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: "/sitecore/templates/Feature/AIE/Home-Why-AIE/TextWithDescriptionList/TextWithDescriptionList/TextWithDescriptionList"
+Path: "/sitecore/templates/Feature/AIE/Home-Why-AIE/Why AIE List/Text With Description List/Title"
 DB: master
 SharedFields:
-- ID: "1eb8ae32-e190-44a6-968d-ed904c794ebf"
-  Hint: Source
-  Value: /sitecore/content/AIE/AIE Corporate Site/Data/AIE/Text With Description List
 - ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
   Hint: Type
-  Value: TreelistEx
+  Value: "Single-Line Text"
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
-  Value: 200
+  Value: 100
 Languages:
 - Language: en
   Versions:

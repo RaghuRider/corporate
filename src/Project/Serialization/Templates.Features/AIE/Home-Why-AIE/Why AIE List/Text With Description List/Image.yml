@@ -2,7 +2,7 @@
 ID: "3b50b6a2-2752-4a0d-ab56-2f205e1cb856"
 Parent: "cb51ea26-6a91-4d47-ac57-36070b097bfd"
 Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: "/sitecore/templates/Feature/AIE/Home-Why-AIE/TextWithDescriptionList/TextWithDescriptionList/Image"
+Path: "/sitecore/templates/Feature/AIE/Home-Why-AIE/Why AIE List/Text With Description List/Image"
 DB: master
 SharedFields:
 - ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"

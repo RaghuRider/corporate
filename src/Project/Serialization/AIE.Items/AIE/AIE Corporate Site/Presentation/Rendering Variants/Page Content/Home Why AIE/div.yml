@@ -10,7 +10,7 @@ SharedFields:
   Value: 200
 - ID: "bea2740e-90d1-4b16-bd1d-7a7cc8605d2d"
   Hint: CssClass
-  Value: "vc_row wpb_row vc_inner vc_row-fluid"
+  Value: row
 Languages:
 - Language: en
   Versions:
