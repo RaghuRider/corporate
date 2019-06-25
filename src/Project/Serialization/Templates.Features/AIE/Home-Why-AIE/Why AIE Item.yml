@@ -2,9 +2,12 @@
 ID: "9921ad64-12f4-4c8f-99a0-3151e49a3536"
 Parent: "b6650ab9-71d8-4ab1-a85e-1f59c7360e8d"
 Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
-Path: "/sitecore/templates/Feature/AIE/Home-Why-AIE/TextWithDescription"
+Path: "/sitecore/templates/Feature/AIE/Home-Why-AIE/Why AIE Item"
 DB: master
 SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Office/32x32/element.png
 - ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
   Hint: __Base template
   Type: tree list

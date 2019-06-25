@@ -20,20 +20,15 @@ Languages:
       Hint: __Created by
       Value: |
         sitecore\admin
+    - ID: "6263f84c-88d7-4a35-acc7-8161732f201a"
+      Hint: Description
+      Value: |
+        <p class="why-aie-text">We are your biggest fans. We want you to succeed. Our Mission then is to become an extensionofyourteam. We. Deliver. Results.</p>
     - ID: "8f8fdb57-19ae-4617-8d22-fa535a0164c3"
       Hint: Title
-      Value: |
-        <h2>
-        WHY AIENTERPRISE ?
-        </h2>
-        <p class="why-aie-text">
-        We are your biggest fans. We want you to succeed. Our Mission then is to become an extension
-        of
-        your
-        team. We. Deliver. Results.
-        </p>
+      Value: "WHY AIENTERPRISE ?"
     - ID: "a77eb567-8707-431f-8fbc-48c6b2037e12"
-      Hint: TextWithDescriptionList
+      Hint: FeaturesList
       Type: TreelistEx
       Value: |
         {04DC4E2E-7476-47C7-BA74-DB8E02E135EF}
