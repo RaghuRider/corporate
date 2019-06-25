@@ -19,13 +19,5 @@ Languages:
     - ID: "b3635965-6786-457c-9dee-28de73c0a331"
       Hint: Text
       Value: |
-        <div class="wpb_text_column wpb_content_element " style="color: #5f727f; background-color: #ffffff; margin-top: 0px; margin-bottom: 1.1em;">
-        <div class="wpb_wrapper" style="margin-bottom: 0px;">
-        <div class="title-h2" style="color: #3c3950; margin: 0px; text-align: center; letter-spacing: 0.05em;">The perfect intersection of technology expertise and business driven results</div>
-        </div>
-        </div>
-        <div class="wpb_text_column wpb_content_element " style="color: #5f727f; background-color: #ffffff; margin-bottom: 1.1em;">
-        <div class="wpb_wrapper" style="margin-bottom: 0px;">
-        <div class="title-h4" style="color: #3c3950; margin: 0px; text-align: center; letter-spacing: 0.05em;"><span class="light" style="margin-bottom: 0px;">STRATEGIZE. DEPLOY. MEASURE. RESULTS. REPEAT.</span></div>
-        </div>
-        </div>
+        <h2>The perfect intersection of technology expertise and business driven results</h2>
+        <h3>STRATEGIZE. DEPLOY. MEASURE. RESULTS. REPEAT.</h3>
