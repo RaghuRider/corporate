@@ -52,14 +52,40 @@ namespace AIEnterprise.Feature.Forms.Actions
         {
             try
             {
-                bool excutethis = this.Execute("", formSubmitContext);
+                Log.Error("Error in Form Submission", "");
+
+
+                string currentPage = "/";
+                currentPage = HttpContext.Current.Request.Headers["Referer"];
+                if (string.IsNullOrEmpty(currentPage) || currentPage == "/")
+                {
+                    Uri referrer = HttpContext.Current.Request.UrlReferrer;
+                    currentPage = referrer.ToString();
+                }
+                if (currentPage.Contains("?"))
+                {
+                    currentPage = currentPage.Split('?')[0];
+                }
+
+                if (this.Execute("", formSubmitContext))
+                {
+
                 var thankyou = currentPage + "?status=success";
-                Sitecore.Diagnostics.Log.Info("thank you page url" + thankyou, "");
                 var defaultUrlOptions = LinkManager.GetDefaultUrlOptions();
                 defaultUrlOptions.SiteResolving = Settings.Rendering.SiteResolving;
                 formSubmitContext.RedirectUrl = thankyou;
                 formSubmitContext.RedirectOnSuccess = true;
                 formSubmitContext.Abort();
+                }
+                 else
+                {
+                    var errorpage = currentPage + "?status=failed";
+                    var defaultUrlOptions = LinkManager.GetDefaultUrlOptions();
+                    defaultUrlOptions.SiteResolving = Settings.Rendering.SiteResolving;
+                    formSubmitContext.RedirectUrl = errorpage;
+                    formSubmitContext.RedirectOnSuccess = true;
+                    formSubmitContext.Abort();
+                }
             }
             catch (Exception e)
             {
