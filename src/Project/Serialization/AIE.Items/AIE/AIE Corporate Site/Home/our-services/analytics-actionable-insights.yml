@@ -31,35 +31,28 @@ Languages:
               s:ds="local:/Data/Our Service Feature List"
               s:id="{8B0393E9-EE25-4F0B-A5FD-777B3AD2C737}"
               s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7B6304A76A-BD86-4B3F-91BD-01807091FAD8%7D&amp;Styles&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=5"
-              s:ph="/main/sxa-ourservicebody/row-3-1/container-4" />
+              s:ph="/main/sxa-ourservicebody/container-5/row-3-1/container-4" />
             <r
               uid="{3C401457-77E5-4E1F-AA6F-39C15C2A92A6}"
               p:after="r[@uid='{D6915588-58A8-4FED-9861-227E3323BC77}']"
               s:ds=""
               s:id="{896A2C68-1362-4E88-8BA0-1805AE6D4837}"
               s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;BackgroundImage=%3Cimage%20mediaid%3D%22%7B66C88D47-D96A-4B68-840C-5FB44A99368E%7D%22%20%2F%3E&amp;Styles&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=4"
-              s:ph="/main/sxa-ourservicebody/row-3-1" />
-            <r
-              uid="{103BEABB-EA55-4124-B126-EDA46D73111C}"
-              p:after="r[@uid='{3C401457-77E5-4E1F-AA6F-39C15C2A92A6}']"
-              s:ds="{21C378A1-4ADF-45EF-B2DE-E9E19469B055}"
-              s:id="{4646BD4F-05FF-4A19-9600-4D74F2F1548B}"
-              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames&amp;Styles=%7BB02D7BD6-2056-4EB0-86D3-FDF31AA18517%7D&amp;TitleHeadingLevel=%7B6A44D9C6-61F0-4B69-8E1A-FDC27F96BA0F%7D&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=3"
-              s:ph="/main/sxa-ourservicebody/row-2-1/row-2-2/column-2-3" />
+              s:ph="/main/sxa-ourservicebody/container-5/row-3-1" />
             <r
               uid="{A25ABB70-4BEC-4830-915A-509D597B29B4}"
-              p:after="r[@uid='{103BEABB-EA55-4124-B126-EDA46D73111C}']"
+              p:after="r[@uid='{3C401457-77E5-4E1F-AA6F-39C15C2A92A6}']"
               s:ds="local:/Data/RichTextDescription"
               s:id="{87182F78-4399-4896-8D59-9D6A45282F8A}"
               s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames&amp;Styles&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=2"
-              s:ph="/main/sxa-ourservicebody/row-2-1/row-2-2/column-1-3" />
+              s:ph="/main/sxa-ourservicebody/container-5/row-2-1/row-2-2/column-1-3" />
             <r
               uid="{48ED090F-BE90-411A-885F-3494510ABA73}"
               p:after="*[1=2]"
               s:ds="local:/Data/RichTextTitle"
               s:id="{87182F78-4399-4896-8D59-9D6A45282F8A}"
               s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames&amp;Styles&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=1"
-              s:ph="/main/sxa-ourservicebody/row-2-1/row-1-2" />
+              s:ph="/main/sxa-ourservicebody/container-5/row-2-1/row-1-2" />
           </d>
         </r>
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
