@@ -4,6 +4,10 @@ Parent: "f1579bda-db1f-4d37-aca1-5436b67192fd"
 Template: "8cddb194-f456-4a75-89b7-346f8f39f95c"
 Path: /sitecore/Forms/AIE/AIE Corporate Site/Contact Corporate Form/Page/form/div/div/div/div/p
 DB: master
+SharedFields:
+- ID: "7abaa3f6-6ec0-4b65-a463-7919bfae55aa"
+  Hint: Css Class
+  Value: "form-space"
 Languages:
 - Language: en
   Versions:
