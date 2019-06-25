@@ -1,0 +1,26 @@
+﻿---
+ID: "be2dd587-fa95-4d78-bd65-fddba6cdb1a9"
+Parent: "36c94ecd-0638-493d-88ee-f0994d3de7f2"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: "/sitecore/content/AIE/AIE Corporate Site/Home/our-services/Data/Text 6"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190625T074027Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: |
+        <p>Over the years we have helped our customers grow and we have bonded with them in their journey. We see this as a business-centric ‘higher call’.</p>
+        <div class="abouot-balck-box">
+        <p>“The AIEnterprise team rescued our project and were able to deliver superior results than anticipated. They were responsive, professional and a complete pleasure to deal with”
+        VP of eCommerce at global Retailer</p>
+        </div>
