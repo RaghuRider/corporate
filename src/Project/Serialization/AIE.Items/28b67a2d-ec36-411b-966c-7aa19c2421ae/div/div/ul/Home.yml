@@ -10,7 +10,7 @@ SharedFields:
   Value: "{36795C64-E060-4AEF-B209-A1F20A64FC3F}"
 - ID: "bea2740e-90d1-4b16-bd1d-7a7cc8605d2d"
   Hint: CssClass
-  Value: "primary-link has-dropdown"
+  Value: "primary-link"
 - ID: "c35b2285-b4a8-406f-a91c-24a60391dc12"
   Hint: DataAttributes
   Value: role=menuitem
