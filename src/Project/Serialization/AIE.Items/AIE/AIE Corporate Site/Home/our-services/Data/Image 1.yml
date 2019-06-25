@@ -1,0 +1,22 @@
+﻿---
+ID: "af937404-f00b-45ff-b8f8-b42e5cb7c839"
+Parent: "36c94ecd-0638-493d-88ee-f0994d3de7f2"
+Template: "bb8a85ab-1f6d-4518-8772-1c9f4f8dac18"
+Path: "/sitecore/content/AIE/AIE Corporate Site/Home/our-services/Data/Image 1"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190625T091018Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "ebe4fdef-16d5-4d19-833c-24a241628a3a"
+      Hint: Image
+      Value: |
+        <image mediaid="{C2EB0139-A1B7-4CFF-98CC-8E034A751637}" />

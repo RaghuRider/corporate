@@ -1,0 +1,33 @@
+﻿---
+ID: "32b768fa-dbc6-474d-9a3c-b021b3df1561"
+Parent: "36c94ecd-0638-493d-88ee-f0994d3de7f2"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: "/sitecore/content/AIE/AIE Corporate Site/Home/our-services/Data/Text 10"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190625T080506Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: |
+        <p>Our team is responsible for launching multi-national digital commerce websites on multiple platforms. Multi-language? Check. Multi-currency? Check. Multi-tenant? Check. Cloud? Check. On-Prem? Check. Multi-layers of tax authorities? Check. Complex Order Management and Supply Chain Management challenges? Check.</p>
+        <p>We have architected, designed and built complex back-end systems based on APIs and/or webservices in support of these websites.</p>
+        <p>We have architected, designed and built complex back-end systems based on APIs and/or webservices in support of these websites.</p>
+        <p>We are adept at:</p>
+        <ul>
+            <li>Oracle Commerce On-Prem (Formerly ATG and Endeca)</li>
+            <li>Oracle Commerce Cloud</li>
+            <li>SiteCore</li>
+            <li>Magento</li>
+            <li>Multiple OMS and WMS package integrations</li>
+            <li>Native, Home-grown applications and many more</li>
+        </ul>
