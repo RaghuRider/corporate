@@ -1,0 +1,18 @@
+﻿---
+ID: "e3d18e50-ea10-4b62-8a11-83ffd56076c5"
+Parent: "9c3cfe4f-b879-44e0-9547-93f9d0fad432"
+Template: "fcd285da-9ab2-4c8d-b185-5a7487a9ba1b"
+Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Promo/Career Jobs/div/div/div/PromoLink
+DB: master
+SharedFields:
+- ID: "4753764c-c05a-4623-841b-97f85135241c"
+  Hint: FieldName
+  Value: PromoLink
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190626T114017Z
