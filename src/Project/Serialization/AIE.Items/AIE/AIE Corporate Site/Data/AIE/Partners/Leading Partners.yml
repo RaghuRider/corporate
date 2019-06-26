@@ -1,0 +1,34 @@
+﻿---
+ID: "0a4f94bb-baf3-4c62-8e2b-a17359b503e6"
+Parent: "ceba00fe-6f2e-453e-8ebd-4138c4f90e16"
+Template: "2aa49812-11f9-49b2-bd74-74c5587379a7"
+Path: /sitecore/content/AIE/AIE Corporate Site/Data/AIE/Partners/Leading Partners
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "12268774-7ad6-4e80-8978-ebf67468cdc5"
+      Hint: Title
+      Value: LEADING PARTNERS
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190626T104641Z
+    - ID: "4c5cc3f2-7d5e-48f3-8300-813ab8ab0fce"
+      Hint: Partners List
+      Type: Multilist
+      Value: |
+        {9FE6CFD9-CE18-4AD6-BC08-8878C382B6DD}
+        {FAA8FBA5-7DCB-4159-9FBB-EAB7D8A747AD}
+        {9DBFA2B6-7B71-4DF4-8BED-E342934D694D}
+        {10E036FE-4BCF-4990-A63B-F14EBAE4DBEE}
+        {B4723B07-DB62-44D8-AD36-949DC1034F39}
+        {2A8D8F7E-AE8F-4353-B8FB-64BF1F804F22}
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "95932c96-7a1c-41af-bccb-8c0a218f35b1"
+      Hint: Description
+      Value: Our team continues to grow, as our company has expanded and developed over the years. Our resources are in New York, Dallas, San Jose, Bengaluru (India) and Guayaquil, Ecuador coming up.
