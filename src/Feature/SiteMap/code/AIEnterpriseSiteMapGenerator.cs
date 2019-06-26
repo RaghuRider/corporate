@@ -15,7 +15,7 @@ using System.Xml.Serialization;
 
 namespace AIEnterprise.Feature.SiteMap
 {
-    public class SVMSiteMapGenerator : HttpRequestProcessor
+    public class AIEnterpriseSiteMapGenerator : HttpRequestProcessor
     {
         public override void Process(HttpRequestArgs args)
         {
@@ -155,7 +155,9 @@ namespace AIEnterprise.Feature.SiteMap
 
         private static bool IsDerivedFromTemplate(Item item)
         {
-            return item.IsDerived(new ID(Sitecore.Configuration.Settings.GetSetting(SiteMapConstants.SxaPageTemplateID)));
+            return item.IsDerived(Sitecore.XA.Foundation.Multisite.Templates.Page.ID);
+
+            //return item.IsDerived(new ID(Sitecore.Configuration.Settings.GetSetting(SiteMapConstants.SxaPageTemplateID)));
         }
     }
 
