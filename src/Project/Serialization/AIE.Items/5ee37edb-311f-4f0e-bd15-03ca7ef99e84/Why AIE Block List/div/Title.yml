@@ -2,7 +2,7 @@
 ID: "92f430f7-5026-4305-acfd-8aa39362c258"
 Parent: "5bf3eb4a-3cb8-40ed-abb5-de81f4c2e611"
 Template: "fcd285da-9ab2-4c8d-b185-5a7487a9ba1b"
-Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Page Content/Home Why AIE/div/div/Why AIE Block List/div/Title
+Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Page Content/Home Why AIE/div/Why AIE Block List/div/Title
 DB: master
 SharedFields:
 - ID: "4753764c-c05a-4623-841b-97f85135241c"
@@ -16,7 +16,7 @@ SharedFields:
   Value: 
 - ID: "db805bdc-8eec-4238-b174-2427b6f1f077"
   Hint: Tag
-  Value: "{F515A116-7F1D-4E55-BAB1-097E750CFD54}"
+  Value: "{6E84D69B-7F26-4B19-906D-469C3354EBB0}"
 Languages:
 - Language: en
   Versions:

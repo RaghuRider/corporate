@@ -1,13 +1,13 @@
 ﻿---
-ID: "de7b3123-ee11-4352-836d-d02de685062f"
-Parent: "500ed776-93e4-4e32-b071-1996df770da6"
+ID: "4f71d5fe-4c71-488c-8861-0a5a90ff2244"
+Parent: "5ee37edb-311f-4f0e-bd15-03ca7ef99e84"
 Template: "aca5c9a3-cda0-49b6-893f-1d4a7cb595b0"
 Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Page Content/Home Why AIE/div/div
 DB: master
 SharedFields:
 - ID: "bea2740e-90d1-4b16-bd1d-7a7cc8605d2d"
   Hint: CssClass
-  Value: "col-lg-8 col-xs-12"
+  Value: "whyAie-header"
 Languages:
 - Language: en
   Versions:
@@ -15,4 +15,4 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20190625T130541Z
+      Value: 20190626T073614Z
