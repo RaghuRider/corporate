@@ -23,21 +23,7 @@ Languages:
     - ID: "b3635965-6786-457c-9dee-28de73c0a331"
       Hint: Text
       Value: |
-        <div class="wpb_wrapper">
-        <div class="clearboth">
-        </div>
-        <div class="gem-divider " style="margin-top: 60px;">
-        </div>
-        <div class="wpb_text_column wpb_content_element ">
-        <div class="wpb_wrapper">
-        <div class="title-h2" style="text-align: center;">What do we mean by ‘invigorated’ ?</div>
-        </div>
-        </div>
-        <div class="wpb_text_column wpb_content_element ">
-        <div class="wpb_wrapper">
-        <div class="title-h4" style="text-align: center;"><span class="light"> It is in our DNA. Global. With a local flavor. </span></div>
-        </div>
-        </div>
-        <div class="clearboth">&nbsp;</div>
-        <div class="gem-divider " style="margin-top: 60px;">&nbsp;</div>
-        </div>
+        <h2>What do we mean by &lsquo;invigorated&rsquo; ?</h2>
+        <h2>
+        </h2>
+        <h3> It is in our DNA. Global. With a local flavor. </h3>
