@@ -1,16 +1,16 @@
 ﻿---
-ID: "9c3cfe4f-b879-44e0-9547-93f9d0fad432"
-Parent: "5e2ba065-8f6b-4cf3-8f94-a977ef4db6d4"
+ID: "85e7f504-e2ce-4ca1-bfe5-4194c8232110"
+Parent: "e5487834-c545-4032-8225-2b40fbc256b0"
 Template: "aca5c9a3-cda0-49b6-893f-1d4a7cb595b0"
-Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Promo/Career Jobs/div/div/div
+Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Page Content/Leading Partners/div
 DB: master
 SharedFields:
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
-  Value: 100
+  Value: 0
 - ID: "bea2740e-90d1-4b16-bd1d-7a7cc8605d2d"
   Hint: CssClass
-  Value: "col-3"
+  Value: 
 Languages:
 - Language: en
   Versions:
@@ -18,4 +18,4 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20190626T113724Z
+      Value: 20190626T105150Z

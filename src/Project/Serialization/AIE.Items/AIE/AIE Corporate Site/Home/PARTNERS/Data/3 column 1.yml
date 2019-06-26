@@ -21,28 +21,28 @@ SharedFields:
           p:before="*"
           s:ds="{10E036FE-4BCF-4990-A63B-F14EBAE4DBEE}"
           s:id="{51C13F03-8364-4F61-B860-2EC6CA7439B3}"
-          s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7B96AEEADA-91A8-4A6C-B9F8-FB6A400BCF27%7D&amp;Styles&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=13"
+          s:par="GridParameters=%7b908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7d&amp;DynamicPlaceholderId=13&amp;Caching=0%7c0%7c0%7c0%7c0%7c0%7c0%7c0"
           s:ph="/section-content/column-3-11" />
         <r
           uid="{4E1A2953-3588-475E-9646-FC354C4CC7E4}"
           p:after="r[@uid='{85C0A5F2-4360-44E7-96A1-00714178AEC3}']"
           s:ds="{B4723B07-DB62-44D8-AD36-949DC1034F39}"
           s:id="{51C13F03-8364-4F61-B860-2EC6CA7439B3}"
-          s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7B96AEEADA-91A8-4A6C-B9F8-FB6A400BCF27%7D&amp;Styles&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=12"
+          s:par="GridParameters=%7b908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7d&amp;DynamicPlaceholderId=12&amp;Caching=0%7c0%7c0%7c0%7c0%7c0%7c0%7c0"
           s:ph="/section-content/column-1-11" />
         <r
           uid="{F2553BAA-7ADD-4BD4-89FA-77D0DD0281CE}"
           p:after="r[@uid='{4E1A2953-3588-475E-9646-FC354C4CC7E4}']"
           s:ds=""
           s:id="{C25766C8-9AFD-4D28-87FE-147774F6806D}"
-          s:par="SplitterSize=2&amp;EnabledPlaceholders=1%2C3%2C2&amp;Styles1&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles8&amp;ColumnWidth1=%7B742CA7FF-6640-441F-A4AC-4A7446A3B895%7D&amp;ColumnWidth2=%7B742CA7FF-6640-441F-A4AC-4A7446A3B895%7D&amp;ColumnWidth3=%7B742CA7FF-6640-441F-A4AC-4A7446A3B895%7D&amp;ColumnWidth4&amp;ColumnWidth5&amp;ColumnWidth6&amp;ColumnWidth7&amp;ColumnWidth8&amp;Reset Caching Options&amp;DynamicPlaceholderId=11"
+          s:par="DynamicPlaceholderId=11&amp;EnabledPlaceholders=1%2c3%2c2&amp;Caching=0%7c0%7c0%7c0%7c0%7c0%7c0%7c0&amp;ColumnWidth3=%7b742CA7FF-6640-441F-A4AC-4A7446A3B895%7d&amp;ColumnWidth1=%7b742CA7FF-6640-441F-A4AC-4A7446A3B895%7d&amp;ColumnWidth2=%7b742CA7FF-6640-441F-A4AC-4A7446A3B895%7d"
           s:ph="section-content" />
         <r
           uid="{D0285B78-1573-43D1-A1D7-86AB59EE7AEB}"
           p:after="*[1=2]"
           s:ds="{2A8D8F7E-AE8F-4353-B8FB-64BF1F804F22}"
           s:id="{51C13F03-8364-4F61-B860-2EC6CA7439B3}"
-          s:par="GridParameters&amp;FieldNames=%7B96AEEADA-91A8-4A6C-B9F8-FB6A400BCF27%7D&amp;Styles&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=14"
+          s:par="DynamicPlaceholderId=14&amp;Caching=0%7c0%7c0%7c0%7c0%7c0%7c0%7c0"
           s:ph="/section-content/column-2-11" />
       </d>
     </r>
@@ -61,13 +61,19 @@ Languages:
             id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
             <r
               uid="{85C0A5F2-4360-44E7-96A1-00714178AEC3}"
-              s:ds="/sitecore/content/AIE/AIE Corporate Site/Data/Promos/ServicesOffered/CommerceTools" />
+              s:ds="/sitecore/content/AIE/AIE Corporate Site/Data/Promos/ServicesOffered/CommerceTools"
+              s:par="GridParameters=%7b908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7d&amp;DynamicPlaceholderId=13&amp;Caching=0%7c0%7c0%7c0%7c0%7c0%7c0%7c0" />
             <r
               uid="{4E1A2953-3588-475E-9646-FC354C4CC7E4}"
-              s:ds="/sitecore/content/AIE/AIE Corporate Site/Data/Promos/ServicesOffered/UniversiDadCasaGrande" />
+              s:ds="/sitecore/content/AIE/AIE Corporate Site/Data/Promos/ServicesOffered/UniversiDadCasaGrande"
+              s:par="GridParameters=%7b908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7d&amp;DynamicPlaceholderId=12&amp;Caching=0%7c0%7c0%7c0%7c0%7c0%7c0%7c0" />
+            <r
+              uid="{F2553BAA-7ADD-4BD4-89FA-77D0DD0281CE}"
+              s:par="DynamicPlaceholderId=11&amp;EnabledPlaceholders=1%2c3%2c2&amp;Caching=0%7c0%7c0%7c0%7c0%7c0%7c0%7c0&amp;ColumnWidth3=%7b742CA7FF-6640-441F-A4AC-4A7446A3B895%7d&amp;ColumnWidth1=%7b742CA7FF-6640-441F-A4AC-4A7446A3B895%7d&amp;ColumnWidth2=%7b742CA7FF-6640-441F-A4AC-4A7446A3B895%7d" />
             <r
               uid="{D0285B78-1573-43D1-A1D7-86AB59EE7AEB}"
-              s:ds="/sitecore/content/AIE/AIE Corporate Site/Data/Promos/ServicesOffered/OceanTel" />
+              s:ds="/sitecore/content/AIE/AIE Corporate Site/Data/Promos/ServicesOffered/OceanTel"
+              s:par="DynamicPlaceholderId=14&amp;Caching=0%7c0%7c0%7c0%7c0%7c0%7c0%7c0" />
           </d>
         </r>
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
