@@ -1,0 +1,14 @@
+﻿---
+ID: "6b1041b0-6ca1-4706-b2a0-c40450786d71"
+Parent: "3cc8bfcd-f7e1-42d6-93c2-e98772b9a815"
+Template: "f07cbe89-73ae-4de6-9217-2570260cac6e"
+Path: /sitecore/content/AIE/AIE Corporate Site/Data/Promos/Job Listings carreer
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190626T080533Z

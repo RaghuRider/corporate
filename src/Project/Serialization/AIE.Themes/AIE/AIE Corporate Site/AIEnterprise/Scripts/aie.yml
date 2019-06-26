@@ -1,0 +1,34 @@
+﻿---
+ID: "87f3b4ee-3b09-4110-9cce-adf9887219c7"
+Parent: "cdd7e9dc-6bbd-4c64-89ae-1e1dc449b940"
+Template: "962b53c4-f93b-4df9-9821-415c867b8903"
+Path: /sitecore/media library/Themes/AIE/AIE Corporate Site/AIEnterprise/Scripts/aie
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/87F3B4EE3B0941109CCEADF9887219C7.ashx?h=16&thn=1&w=16"
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "773a941a-6539-4953-bf00-55096e181b54"
+  Value: JCggZG9jdW1lbnQgKS5yZWFkeShmdW5jdGlvbigpIHsNCiAgICAkKCcub3VyLXNlcnZpY2VzLWlubmVyJykucGFyZW50KCkucGFyZW50KCkucGFyZW50KCkuYWRkQ2xhc3MoJ2luZXJzZXJ2aWNlLXBhZ2UnKTsNCn0pOw==
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 124
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: "application/x-javascript"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: js
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190626T095106Z

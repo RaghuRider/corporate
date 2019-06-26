@@ -1,0 +1,89 @@
+﻿---
+ID: "2ba95929-5cae-457f-afd1-d7023a8c0576"
+Parent: "36c94ecd-0638-493d-88ee-f0994d3de7f2"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: "/sitecore/content/AIE/AIE Corporate Site/Home/our-services/Data/Spot Container"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190626T092300Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: |
+        <h2>Full range of Services</h2>
+        <h3>WE GOT YOU COVERED</h3>
+        <div class="col-6">
+        <div class="3">
+        <a>
+        </a>
+        <div class="ourservice-6-black"><a>
+        </a>
+        <div class="down-arrow-our"><a>
+        </a></div>
+        <h4><a>Invigorated Commerce</a></h4>
+        </div>
+        </div>
+        <div class="3">
+        <a>
+        </a>
+        <div class="ourservice-6-black"><a>
+        </a>
+        <div class="down-arrow-our"><a>
+        </a></div>
+        <h4><a>Digital &amp; Experience Engineering</a></h4>
+        </div>
+        </div>
+        </div>
+        <div class="col-6">
+        <div class="3">
+        <a>
+        </a>
+        <div class="ourservice-6-black"><a>
+        </a>
+        <div class="down-arrow-our"><a>
+        </a></div>
+        <h4><a>Analytics &amp; Actionable Insights</a></h4>
+        </div>
+        </div>
+        <div class="3">
+        <a>
+        </a>
+        <div class="ourservice-6-black"><a>
+        </a>
+        <div class="down-arrow-our"><a>
+        </a></div>
+        <h4><a>Operation &amp; Process Automation</a></h4>
+        </div>
+        </div>
+        </div>
+        <div class="col-6">
+        <div class="3">
+        <a>
+        </a>
+        <div class="ourservice-6-black"><a>
+        </a>
+        <div class="down-arrow-our"><a>
+        </a></div>
+        <h4><a>Premium Business Consulting </a></h4>
+        </div>
+        </div>
+        <div class="3">
+        <a>
+        </a>
+        <div class="ourservice-6-black"><a>
+        </a>
+        <div class="down-arrow-our"><a>
+        </a></div>
+        <h4><a>ALL SERVICES</a></h4>
+        </div>
+        </div>
+        </div>
