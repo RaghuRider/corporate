@@ -1,8 +1,8 @@
 ﻿---
-ID: "65273d7d-967e-4155-92e6-51042d555793"
-Parent: "931f7052-b492-4f01-b189-69c0595e282c"
+ID: "cb6070c2-5d8b-4041-b5cc-b9f340566dad"
+Parent: "985a039d-ee4a-4161-9213-8d37ddad6f87"
 Template: "aca5c9a3-cda0-49b6-893f-1d4a7cb595b0"
-Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Promo/ServicePromoImageRight/BodySection/div
+Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Promo/ServicePromoImageLeft/div
 DB: master
 SharedFields:
 - ID: "bea2740e-90d1-4b16-bd1d-7a7cc8605d2d"
@@ -15,4 +15,4 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20190626T140116Z
+      Value: 20190626T141414Z

@@ -1,8 +1,8 @@
 ﻿---
-ID: "62fefe27-d749-4b54-b2b7-a8b93a36db73"
-Parent: "8976aee8-9c2a-4a0b-a779-4e693d61cc6e"
+ID: "f347c8b8-df0b-45a7-8835-482f704a0e4d"
+Parent: "65273d7d-967e-4155-92e6-51042d555793"
 Template: "fcd285da-9ab2-4c8d-b185-5a7487a9ba1b"
-Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Promo/ServicePromoImageLeft/BodySection/Image
+Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Promo/ServicePromoImageRight/div/Image
 DB: master
 SharedFields:
 - ID: "4753764c-c05a-4623-841b-97f85135241c"
@@ -10,10 +10,7 @@ SharedFields:
   Value: PromoIcon
 - ID: "7495124d-09b5-4cb3-b4a6-fe77a95827da"
   Hint: CssClass
-  Value: "col-2"
-- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
-  Hint: __Sortorder
-  Value: 0
+  Value: "alignright wp-image-25401 size-full"
 - ID: "db805bdc-8eec-4238-b174-2427b6f1f077"
   Hint: Tag
   Value: 
