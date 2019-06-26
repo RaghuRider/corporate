@@ -1,8 +1,8 @@
 ﻿---
-ID: "211d851e-d76d-4284-afd4-145ecc6c86c0"
-Parent: "3cc8bfcd-f7e1-42d6-93c2-e98772b9a815"
-Template: "324733cf-afec-4281-9a18-03b6cfc4e535"
-Path: /sitecore/content/AIE/AIE Corporate Site/Data/Promos/x
+ID: "b0ba60d5-980c-4c86-ae45-4e395e99395a"
+Parent: "864a445e-475f-4ef6-a901-241801acea26"
+Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
+Path: /sitecore/templates/Feature/AIE/Leading Partners
 DB: master
 Languages:
 - Language: en
@@ -11,7 +11,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20190606T114337Z
+      Value: 20190626T103813Z
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
