@@ -2,7 +2,7 @@
 ID: "6af12a31-785e-4413-baf7-2c91cdce79ec"
 Parent: "05da7244-0aa5-44a1-8d44-207044c5d9a6"
 Template: "e269fbb5-3750-427a-9149-7aa950b49301"
-Path: "/sitecore/templates/Feature/AIE/Home-General-Talk/GeneralTalkList/GeneralTalkList"
+Path: "/sitecore/templates/Feature/AIE/Home-General-Talk/GeneralTalkList/General Talk List"
 DB: master
 Languages:
 - Language: en
