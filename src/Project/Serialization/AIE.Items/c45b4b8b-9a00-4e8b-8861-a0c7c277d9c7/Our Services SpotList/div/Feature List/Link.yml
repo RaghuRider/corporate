@@ -1,13 +1,19 @@
 ﻿---
 ID: "beb40aab-9b8e-4fe0-8024-85dc79b018ad"
 Parent: "2ce136df-d754-4439-b763-018a783276d5"
-Template: "fcd285da-9ab2-4c8d-b185-5a7487a9ba1b"
+Template: "aca5c9a3-cda0-49b6-893f-1d4a7cb595b0"
 Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Page Content/Our Services SpotList/div/Feature List/Link
 DB: master
 SharedFields:
 - ID: "4753764c-c05a-4623-841b-97f85135241c"
   Hint: FieldName
   Value: Link
+- ID: "a4d004e6-2a4b-4c53-a4f3-9c481df71cdc"
+  Hint: Tag
+  Value: "{FF819CDE-E98A-4AB7-B8B0-65EE989369F7}"
+- ID: "c35b2285-b4a8-406f-a91c-24a60391dc12"
+  Hint: DataAttributes
+  Value: href=%24%28Link%29
 - ID: "db805bdc-8eec-4238-b174-2427b6f1f077"
   Hint: Tag
   Value: "{FF819CDE-E98A-4AB7-B8B0-65EE989369F7}"
