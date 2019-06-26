@@ -2,7 +2,7 @@
 ID: "aeb7812f-7265-40da-87f3-1822604b12f6"
 Parent: "6af12a31-785e-4413-baf7-2c91cdce79ec"
 Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: "/sitecore/templates/Feature/AIE/Home-General-Talk/GeneralTalkList/GeneralTalkList/GeneralTalkList"
+Path: "/sitecore/templates/Feature/AIE/Home-General-Talk/GeneralTalkList/General Talk List/General Talk List"
 DB: master
 SharedFields:
 - ID: "1eb8ae32-e190-44a6-968d-ed904c794ebf"
