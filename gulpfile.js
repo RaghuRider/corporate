@@ -165,7 +165,21 @@ gulp.task("Sync-Unicorn",
         }, options);
     });
 
-gulp.task("02-Publish-Feature-Projects", function (callback) {
+gulp.task("02-Publish-Foundation-Projects", function (callback) {
+    return runSequence(
+        "CreateTempFolder",
+        "Nuget-Restore",
+        "Publish-Foundation-Projects",
+        // "CopyDll",
+        // "CopyThirdPartyDll",
+        // "Publish-All-Views",
+        //"Publish-All-Configs",
+        //"CopyAppConfig",
+        //  "RemoveTempFolder",
+        callback);
+});
+
+gulp.task("03-Publish-Feature-Projects", function (callback) {
     return runSequence(
         "CreateTempFolder",
         "Nuget-Restore",
@@ -177,20 +191,6 @@ gulp.task("02-Publish-Feature-Projects", function (callback) {
         // "CopyAppConfig",
         callback);
     //"RemoveTempFolder", callback);
-});
-
-gulp.task("03-Publish-Foundation-Projects", function (callback) {
-    return runSequence(
-        "CreateTempFolder",
-        "Nuget-Restore",
-        "Publish-Foundation-Projects",
-       // "CopyDll",
-       // "CopyThirdPartyDll",
-       // "Publish-All-Views",
-        //"Publish-All-Configs",
-        //"CopyAppConfig",
-        //  "RemoveTempFolder",
-        callback);
 });
 
 gulp.task("04-Publish-Project-Projects", function (callback) {
@@ -208,8 +208,8 @@ gulp.task("04-Publish-Project-Projects", function (callback) {
 
 gulp.task("05-Publish-Complete-Solution", function (callback) {
     return runSequence(
-        "02-Publish-Feature-Projects",
-        "03-Publish-Foundation-Projects",
+        "02-Publish-Foundation-Projects",
+        "03-Publish-Feature-Projects",
         "04-Publish-Project-Projects",
         "Sync-Unicorn",callback);
 });
