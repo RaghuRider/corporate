@@ -77,7 +77,7 @@ Languages:
               p:after="r[@uid='{661F34F9-A800-4E9A-9EFF-D5E8D1BF5C21}']"
               s:ds=""
               s:id="{896A2C68-1362-4E88-8BA0-1805AE6D4837}"
-              s:par="GridParameters&amp;BackgroundImage&amp;Styles&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=4"
+              s:par="GridParameters&amp;BackgroundImage&amp;Styles=%7BB4927B36-2817-43CE-A198-D3548E96A3D9%7D&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=4"
               s:ph="main" />
             <r
               uid="{BECAECEE-4068-48F3-8C99-75D320AA8BB8}"
