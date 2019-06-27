@@ -55,7 +55,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="SiteMapConstants.cs" />
     <Compile Include="Models\Url.cs" />
     <Compile Include="Models\Urlset.cs" />
     <Compile Include="AIEnterpriseSiteMapGenerator.cs" />
