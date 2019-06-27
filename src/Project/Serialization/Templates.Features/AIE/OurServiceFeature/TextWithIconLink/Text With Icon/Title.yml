@@ -2,7 +2,7 @@
 ID: "1c3af964-4507-4e02-bc9a-471ed67ba0c8"
 Parent: "b539882c-bae5-422a-a71f-2a0bebd8760d"
 Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Feature/AIE/OurServiceFeature/TextWithIcon/Text With Icon/Title
+Path: /sitecore/templates/Feature/AIE/OurServiceFeature/TextWithIconLink/Text With Icon/Title
 DB: master
 SharedFields:
 - ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
