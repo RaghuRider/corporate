@@ -2,7 +2,7 @@
 ID: "a54ba4dc-22ba-4e3c-b4ab-6e65bb7f737b"
 Parent: "04629842-b3c6-4716-a357-6ba971641328"
 Template: "cd8fa6dd-0c3d-4c2e-be11-a678daee0a66"
-Path: "/sitecore/content/AIE/AIE Corporate Site/Data/AIE/OurCorerValues/OurCoreValues/We only prescribe the best results-driven strategy"
+Path: "/sitecore/content/AIE/AIE Corporate Site/Data/AIE/About Us/Our Core Values/Our Core Values/We only prescribe the best results-driven strategy"
 DB: master
 SharedFields:
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
@@ -17,7 +17,7 @@ Languages:
       Hint: __Created
       Value: 20190621T131447Z
     - ID: "4766927d-fd6e-4bf5-bb57-c27f6edab763"
-      Hint: Image2
+      Hint: Hover Image
       Value: |
         <image mediaid="{FFF07C44-6BB1-475A-B0E6-1082E21EB6D3}" alt="BestResult-grey" height="" width="" hspace="" vspace="" ></image>
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
@@ -25,9 +25,9 @@ Languages:
       Value: |
         sitecore\admin
     - ID: "887a9e54-127f-4685-b104-0f4de995e182"
-      Hint: Image1
+      Hint: Image Icon
       Value: |
         <image mediaid="{1EE82EE2-87F8-4EDB-99A7-6AE473705606}" alt="BestResult" height="" width="" hspace="" vspace="" ></image>
     - ID: "bd597c36-b2a9-4216-b1f3-528b36238065"
       Hint: Text
-      Value: "We only prescribe the best, results-driven strategy"
+      Value: "WE ONLY PRESCRIBE THE BEST, RESULTS-DRIVEN STRATEGY"
