@@ -43,7 +43,7 @@ Languages:
               p:after="r[@uid='{5C9A4CB0-4DEF-436D-BB85-E69C70C82AB7}']"
               s:ds=""
               s:id="{896A2C68-1362-4E88-8BA0-1805AE6D4837}"
-              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;BackgroundImage=%3Cimage%20mediaid%3D%22%7BDDDA52B8-D7D0-4739-8405-3A449654BEAD%7D%22%20%2F%3E&amp;Styles&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=1"
+              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;BackgroundImage=%3Cimage%20mediaid%3D%22%7BDDDA52B8-D7D0-4739-8405-3A449654BEAD%7D%22%20%2F%3E&amp;Styles=%7B1226A1A0-DA51-429D-9341-F9DE247AD3E8%7D&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=1"
               s:ph="main" />
             <r
               uid="{51D4154A-406B-4DB5-B159-9D4658501663}"
@@ -86,4 +86,4 @@ Languages:
         </div>
     - ID: "bb6835c4-82af-4d11-9102-a61694c17055"
       Hint: Title
-      Value: CAREERS
+      Value: Careers
