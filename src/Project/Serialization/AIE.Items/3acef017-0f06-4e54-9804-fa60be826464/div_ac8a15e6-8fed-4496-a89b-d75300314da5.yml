@@ -2,12 +2,15 @@
 ID: "ac8a15e6-8fed-4496-a89b-d75300314da5"
 Parent: "3acef017-0f06-4e54-9804-fa60be826464"
 Template: "aca5c9a3-cda0-49b6-893f-1d4a7cb595b0"
-Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Page Content/Our Services SpotList/h4
+Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Page Content/Our Services SpotList/div
 DB: master
 SharedFields:
+- ID: "bea2740e-90d1-4b16-bd1d-7a7cc8605d2d"
+  Hint: CssClass
+  Value: "fullrange-h"
 - ID: "c35b2285-b4a8-406f-a91c-24a60391dc12"
   Hint: DataAttributes
-  Value: "style=text-align%3A%20center%3B"
+  Value: 
 Languages:
 - Language: en
   Versions:

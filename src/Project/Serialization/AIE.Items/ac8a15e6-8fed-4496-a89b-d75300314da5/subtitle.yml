@@ -1,16 +1,19 @@
 ﻿---
 ID: "293fb623-8aeb-4d4f-b430-02fb5c431c1d"
-Parent: "541f1821-bc8a-478c-b5cb-07a28749fd0e"
+Parent: "ac8a15e6-8fed-4496-a89b-d75300314da5"
 Template: "fcd285da-9ab2-4c8d-b185-5a7487a9ba1b"
-Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Page Content/Our Services SpotList/h3/subtitle
+Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Page Content/Our Services SpotList/div/subtitle
 DB: master
 SharedFields:
 - ID: "4753764c-c05a-4623-841b-97f85135241c"
   Hint: FieldName
   Value: SubTitle
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
 - ID: "db805bdc-8eec-4238-b174-2427b6f1f077"
   Hint: Tag
-  Value: "{E8E2C26D-2F96-4A9C-9C17-D095E6CE46CC}"
+  Value: "{6E84D69B-7F26-4B19-906D-469C3354EBB0}"
 Languages:
 - Language: en
   Versions:
