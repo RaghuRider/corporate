@@ -10,10 +10,10 @@ SharedFields:
   Value: Title
 - ID: "c35b2285-b4a8-406f-a91c-24a60391dc12"
   Hint: DataAttributes
-  Value: style=color%3A%20%23ffffff%3B
+  Value: 
 - ID: "db805bdc-8eec-4238-b174-2427b6f1f077"
   Hint: Tag
-  Value: "{10CDAEA8-DD82-4A45-A4C6-85D03E5FC725}"
+  Value: "{AD7A95FD-05D0-484E-8AFB-FB1DDD5F44AB}"
 Languages:
 - Language: en
   Versions:
