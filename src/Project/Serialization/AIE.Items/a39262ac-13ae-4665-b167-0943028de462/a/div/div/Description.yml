@@ -1,8 +1,8 @@
 ﻿---
-ID: "34c1ef17-81ee-45d4-a3d5-ee95631b03af"
-Parent: "68676aaa-c073-4c06-8f47-a29c08de7e8e"
+ID: "ef04f7e9-9ea3-4ce4-a4e2-243714ae59dc"
+Parent: "028f27ed-6847-4dd4-ac3f-ae41a3a17985"
 Template: "fcd285da-9ab2-4c8d-b185-5a7487a9ba1b"
-Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Page Content/Home General Talk/GeneralTalkList/div/div/Description
+Path: "/sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Promo/Home-Content Navigation/a/div/div/Description"
 DB: master
 SharedFields:
 - ID: "4753764c-c05a-4623-841b-97f85135241c"
@@ -21,4 +21,4 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20190614T081229Z
+      Value: 20190627T101310Z

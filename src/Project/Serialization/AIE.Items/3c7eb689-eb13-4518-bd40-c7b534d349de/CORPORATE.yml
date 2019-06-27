@@ -2,7 +2,7 @@
 ID: "bf6a5a3d-1d20-4ca4-b8c6-01a62fc5a0c1"
 Parent: "3c7eb689-eb13-4518-bd40-c7b534d349de"
 Template: "324733cf-afec-4281-9a18-03b6cfc4e535"
-Path: /sitecore/content/AIE/AIE Corporate Site/Data/AIE/General Talk List/CORPORATE
+Path: /sitecore/content/AIE/AIE Corporate Site/Data/Promos/Home/Content Navigation List/CORPORATE
 DB: master
 Languages:
 - Language: en
@@ -31,3 +31,7 @@ Languages:
     - ID: "b59adc09-32a3-46f2-aede-b0c633979263"
       Hint: PromoText2
       Value: Proven Track record of results. Fanatical commitment to the best technology.
+    - ID: "b8c1a9d2-de76-4519-aff4-1442525f32b0"
+      Hint: PromoLink
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title=""  querystring="" id="{3A2E1004-D75F-409E-AFF9-8D4410DF6C51}" />

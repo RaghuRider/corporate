@@ -1,0 +1,24 @@
+﻿---
+ID: "f75d9362-6efa-4b76-9c55-bc681b7389d4"
+Parent: "a39262ac-13ae-4665-b167-0943028de462"
+Template: "aca5c9a3-cda0-49b6-893f-1d4a7cb595b0"
+Path: "/sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Promo/Home-Content Navigation/a"
+DB: master
+SharedFields:
+- ID: "34400b24-5666-4295-bbc2-b87c2020aa6d"
+  Hint: LinkAttributes
+  Value: 
+- ID: "a4d004e6-2a4b-4c53-a4f3-9c481df71cdc"
+  Hint: Tag
+  Value: "{FF819CDE-E98A-4AB7-B8B0-65EE989369F7}"
+- ID: "c35b2285-b4a8-406f-a91c-24a60391dc12"
+  Hint: DataAttributes
+  Value: href=%24%28PromoLink%29
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190627T101042Z

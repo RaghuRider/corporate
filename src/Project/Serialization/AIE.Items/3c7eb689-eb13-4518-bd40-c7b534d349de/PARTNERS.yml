@@ -2,7 +2,7 @@
 ID: "db7f4fca-18ea-4cf8-a4e5-73c9e729bf43"
 Parent: "3c7eb689-eb13-4518-bd40-c7b534d349de"
 Template: "324733cf-afec-4281-9a18-03b6cfc4e535"
-Path: /sitecore/content/AIE/AIE Corporate Site/Data/AIE/General Talk List/PARTNERS
+Path: /sitecore/content/AIE/AIE Corporate Site/Data/Promos/Home/Content Navigation List/PARTNERS
 DB: master
 Languages:
 - Language: en
@@ -31,3 +31,7 @@ Languages:
     - ID: "b59adc09-32a3-46f2-aede-b0c633979263"
       Hint: PromoText2
       Value: A bond is only as strong as the commitment of the parts.
+    - ID: "b8c1a9d2-de76-4519-aff4-1442525f32b0"
+      Hint: PromoLink
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title=""  querystring="" id="{C964242D-2D55-4A90-90C4-AD7D068959D2}" />

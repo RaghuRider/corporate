@@ -1,0 +1,18 @@
+﻿---
+ID: "ffb3de0b-ce5b-41ab-885e-e91a7b384da8"
+Parent: "3cc8bfcd-f7e1-42d6-93c2-e98772b9a815"
+Template: "f07cbe89-73ae-4de6-9217-2570260cac6e"
+Path: /sitecore/content/AIE/AIE Corporate Site/Data/Promos/Home
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190627T100438Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
