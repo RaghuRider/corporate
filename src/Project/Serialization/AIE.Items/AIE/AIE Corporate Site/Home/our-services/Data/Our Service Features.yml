@@ -1,0 +1,34 @@
+﻿---
+ID: "e48e2fa0-5f6a-4e96-97ab-83eaf8c35a6f"
+Parent: "36c94ecd-0638-493d-88ee-f0994d3de7f2"
+Template: "2f5b73a7-dfab-4073-9dc3-c8405bb078d0"
+Path: "/sitecore/content/AIE/AIE Corporate Site/Home/our-services/Data/Our Service Features"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190626T120315Z
+    - ID: "3e38e8bf-d4e7-44fa-85b7-eceb2e21921d"
+      Hint: Title
+      Value: Full Range of Services
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "9dddfb6e-18eb-4915-b888-638bacbe6739"
+      Hint: Feature List
+      Type: TreelistEx
+      Value: |
+        {43EEB5B5-4AB7-4BEA-ABD1-8356167A0039}
+        {E6274800-85C7-43B0-A72D-1C3D8F1555EB}
+        {D85BCFD7-7D29-438B-A89A-AF64E84C5AE1}
+        {AF259F81-654C-45AD-B360-442183EA5386}
+        {C71DF4A4-12B3-4FB6-BFED-301EEAE33230}
+        {600A5664-5DA9-4CE0-9D63-789D7E80606E}
+    - ID: "d6cf29d8-2236-4a76-a402-c8ef0e404b31"
+      Hint: SubTitle
+      Value: WE GOT YOU COVERED

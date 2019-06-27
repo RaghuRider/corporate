@@ -1,19 +1,19 @@
 ﻿---
-ID: "a06c144b-e701-4cc0-a061-e90379cc112d"
-Parent: "85e7f504-e2ce-4ca1-bfe5-4194c8232110"
+ID: "fcf61cf1-e76b-4676-adcc-40ad02a127d4"
+Parent: "beb40aab-9b8e-4fe0-8024-85dc79b018ad"
 Template: "fcd285da-9ab2-4c8d-b185-5a7487a9ba1b"
-Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Page Content/Leading Partners/div/Title
+Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Page Content/Our Services SpotList/div/Feature List/Link/Icon
 DB: master
 SharedFields:
 - ID: "4753764c-c05a-4623-841b-97f85135241c"
   Hint: FieldName
-  Value: Title
+  Value: Icon
 - ID: "7495124d-09b5-4cb3-b4a6-fe77a95827da"
   Hint: CssClass
-  Value: "partner-heading"
+  Value: "fullrange-service"
 - ID: "db805bdc-8eec-4238-b174-2427b6f1f077"
   Hint: Tag
-  Value: "{AD7A95FD-05D0-484E-8AFB-FB1DDD5F44AB}"
+  Value: "{18C8C889-C723-452A-970C-7CE4D41EE371}"
 Languages:
 - Language: en
   Versions:
@@ -21,4 +21,4 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20190626T105200Z
+      Value: 20190610T130958Z

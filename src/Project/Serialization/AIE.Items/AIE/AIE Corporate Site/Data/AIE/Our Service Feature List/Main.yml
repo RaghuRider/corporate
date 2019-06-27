@@ -1,8 +1,8 @@
 ﻿---
-ID: "ab67d5c9-6592-45d6-9480-77056ebf6207"
-Parent: "8e889b30-8d68-4313-97e8-60c0e8d141e1"
+ID: "67f63555-b314-4d84-aae9-f1ace193b35c"
+Parent: "ab67d5c9-6592-45d6-9480-77056ebf6207"
 Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
-Path: /sitecore/content/AIE/AIE Corporate Site/Data/AIE/Our Service Feature List
+Path: /sitecore/content/AIE/AIE Corporate Site/Data/AIE/Our Service Feature List/Main
 DB: master
 SharedFields:
 - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
@@ -11,6 +11,9 @@ SharedFields:
   Value: |
     {A87A00B1-E6DB-45AB-8B54-636FEC3B5523}
     {F4D9F467-7714-4920-B47B-E05BB9A8B6E1}
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 50
 Languages:
 - Language: en
   Versions:
@@ -18,7 +21,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20190610T094642Z
+      Value: 20190626T114109Z
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
