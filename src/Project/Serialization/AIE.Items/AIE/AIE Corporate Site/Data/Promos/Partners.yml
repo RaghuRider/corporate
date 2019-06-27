@@ -1,8 +1,8 @@
 ﻿---
-ID: "b114daf8-20b8-4984-a78a-7c17d49a4037"
+ID: "fec566b6-e1f6-4849-9e81-aced479e7adf"
 Parent: "3cc8bfcd-f7e1-42d6-93c2-e98772b9a815"
 Template: "f07cbe89-73ae-4de6-9217-2570260cac6e"
-Path: /sitecore/content/AIE/AIE Corporate Site/Data/Promos/HeadLine_Info
+Path: /sitecore/content/AIE/AIE Corporate Site/Data/Promos/Partners
 DB: master
 Languages:
 - Language: en
@@ -11,4 +11,4 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20190610T103732Z
+      Value: 20190627T061437Z

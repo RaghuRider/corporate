@@ -1,13 +1,13 @@
 ﻿---
-ID: "9fe6cfd9-ce18-4ad6-bc08-8878c382b6dd"
+ID: "2a8d8f7e-ae8f-4353-b8fb-64bf1f804f22"
 Parent: "a06bb100-0a93-4ee5-a42e-590b2d7fcf2b"
 Template: "324733cf-afec-4281-9a18-03b6cfc4e535"
-Path: /sitecore/content/AIE/AIE Corporate Site/Data/Promos/Services Offered/Vtex
+Path: /sitecore/content/AIE/AIE Corporate Site/Data/Promos/Partners/Services Offered/OceanTel
 DB: master
 SharedFields:
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
-  Value: 0
+  Value: 300
 Languages:
 - Language: en
   Versions:
@@ -15,14 +15,14 @@ Languages:
     Fields:
     - ID: "14023dd5-30e7-4e3c-bf31-d835f3a87410"
       Hint: PromoText
-      Value: The legendary eCommerce brand. 2,000 online stores in 20 countries. 18 million orders transacted every year.
+      Value: "Oceantel S.A. is a technology company with more than 10 years of experience in the LatinAmerican market. They have been a source of integration of diverse solutions achieving value-add services for its customers."
     - ID: "18f9beb8-0116-40fd-b47e-fd0a2327d7e0"
       Hint: PromoIcon
       Value: |
-        <image mediaid="{AD416B9A-6D79-408D-A00A-4AA2251AAAD1}" alt="vtex" height="" width="" hspace="" vspace=""></image>
+        <image mediaid="{C8F61155-494E-41D6-9EA5-A7E3E1CA52C9}" ></image>
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20190610T163937Z
+      Value: 20190611T080934Z
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |

@@ -1,9 +1,13 @@
 ﻿---
 ID: "a06bb100-0a93-4ee5-a42e-590b2d7fcf2b"
-Parent: "3cc8bfcd-f7e1-42d6-93c2-e98772b9a815"
+Parent: "fec566b6-e1f6-4849-9e81-aced479e7adf"
 Template: "f07cbe89-73ae-4de6-9217-2570260cac6e"
-Path: /sitecore/content/AIE/AIE Corporate Site/Data/Promos/Services Offered
+Path: /sitecore/content/AIE/AIE Corporate Site/Data/Promos/Partners/Services Offered
 DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
 Languages:
 - Language: en
   Versions:
