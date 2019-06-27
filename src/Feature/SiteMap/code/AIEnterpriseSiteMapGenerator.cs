@@ -142,7 +142,7 @@ namespace AIEnterprise.Feature.SiteMap
             var selectedPageItems = new List<Item>();
             var tempPageItems = new List<Item>();
 
-            allPageItems = item.Axes.GetDescendants().Where(x => x.TemplateID.ToString().Equals(Sitecore.Configuration.Settings.GetSetting(SiteMapConstants.SxaPageTemplateID)) || IsDerivedFromTemplate(x)).ToList();
+            allPageItems = item.Axes.GetDescendants().Where(x => x.TemplateID.ToString().Equals(Sitecore.XA.Foundation.Multisite.Templates.Page.ID) || IsDerivedFromTemplate(x)).ToList();
             foreach (var tempPageItem in allPageItems)
             {
                 if ((tempPageItem != null) && (tempPageItem.Fields != null))
