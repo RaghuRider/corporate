@@ -1,0 +1,34 @@
+﻿---
+ID: "04629842-b3c6-4716-a357-6ba971641328"
+Parent: "5ab59ef8-d1e8-49c3-b32c-c828dac1d5f1"
+Template: "ee3d57d8-d804-4e46-8d54-0e01071e0fa9"
+Path: /sitecore/content/AIE/AIE Corporate Site/Data/AIE/About Us/Our Core Values/Our Core Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: "{CD8FA6DD-0C3D-4C2E-BE11-A678DAEE0A66}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1aeccc9f-bcbe-4d74-9eb9-9a4ca8254b42"
+      Hint: Title
+      Value: OUR CORE VALUES
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190621T131300Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "a2efa514-fc46-4f90-8c4c-f30b7cc9fd04"
+      Hint: List
+      Type: Multilist
+      Value: |
+        {55D1809E-4475-48D5-B1D6-CB7CCED237F3}
+        {14C4C4C0-573A-49C7-824C-D8A2377E4990}
+        {A54BA4DC-22BA-4E3C-B4AB-6E65BB7F737B}
+        {E2DDE05E-B97A-4768-AC09-A0B781BB0890}

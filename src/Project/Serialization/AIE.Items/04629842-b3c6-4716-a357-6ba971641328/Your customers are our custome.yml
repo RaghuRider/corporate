@@ -2,7 +2,7 @@
 ID: "55d1809e-4475-48d5-b1d6-cb7cced237f3"
 Parent: "04629842-b3c6-4716-a357-6ba971641328"
 Template: "cd8fa6dd-0c3d-4c2e-be11-a678daee0a66"
-Path: /sitecore/content/AIE/AIE Corporate Site/Data/AIE/OurCorerValues/OurCoreValues/Your customers are our customers
+Path: /sitecore/content/AIE/AIE Corporate Site/Data/AIE/About Us/Our Core Values/Our Core Values/Your customers are our customers
 DB: master
 Languages:
 - Language: en
@@ -13,7 +13,7 @@ Languages:
       Hint: __Created
       Value: 20190621T131343Z
     - ID: "4766927d-fd6e-4bf5-bb57-c27f6edab763"
-      Hint: Image2
+      Hint: Hover Image
       Value: |
         <image mediaid="{63CF6F06-F84C-41DB-A248-494DDF0BCEDB}" alt="UrCustomersrOurCustomers-grey" height="" width="" hspace="" vspace="" ></image>
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
@@ -21,9 +21,9 @@ Languages:
       Value: |
         sitecore\admin
     - ID: "887a9e54-127f-4685-b104-0f4de995e182"
-      Hint: Image1
+      Hint: Image Icon
       Value: |
         <image mediaid="{B17E4E8E-2F32-4828-B92F-C83BB0244F36}" alt="UrCustomersOurCustomers" height="" width="" hspace="" vspace="" ></image>
     - ID: "bd597c36-b2a9-4216-b1f3-528b36238065"
       Hint: Text
-      Value: Your customers are our customers
+      Value: YOUR CUSTOMERS ARE OUR CUSTOMERS
