@@ -33,11 +33,24 @@ Languages:
         <r xmlns:p="p" xmlns:s="s"
           p:p="1">
           <d
-            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
-            s:l="{269BDDC7-E377-4C61-9B26-A00BA2CCD14D}">
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{D5EADC91-011E-4AFB-8F01-8F22FADA7400}"
+              p:before="*"
+              s:ds=""
+              s:id="{8B0393E9-EE25-4F0B-A5FD-777B3AD2C737}"
+              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames&amp;Styles=%7BD874F1FF-8E9C-45CA-B29C-DC151E22A0C3%7D&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=9"
+              s:ph="/main/sxa-ourservicebody/container-5/row-1-1/container-8" />
+            <r
+              uid="{437EF580-E2E6-4FED-B428-81D86F301E56}"
+              p:after="r[@uid='{D5EADC91-011E-4AFB-8F01-8F22FADA7400}']"
+              s:ds=""
+              s:id="{896A2C68-1362-4E88-8BA0-1805AE6D4837}"
+              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;BackgroundImage=%3Cimage%20mediaid%3D%22%7B2927A15D-3BF6-48B1-ADE6-2A7087546E75%7D%22%20%2F%3E&amp;Styles&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=8"
+              s:ph="/main/sxa-ourservicebody/container-5/row-1-1" />
             <r
               uid="{8BCE4D4C-AEB9-4253-A025-DA6DE6A2C2B1}"
-              p:before="*"
+              p:after="r[@uid='{437EF580-E2E6-4FED-B428-81D86F301E56}']"
               s:ds="local:/Data/Our Service Feature List"
               s:id="{8B0393E9-EE25-4F0B-A5FD-777B3AD2C737}"
               s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7B6304A76A-BD86-4B3F-91BD-01807091FAD8%7D&amp;Styles&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=7"
@@ -85,6 +98,13 @@ Languages:
     - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
       Hint: NavigationTitle
       Value: Premium Business Consulting
+    - ID: "4f441595-f0b8-48fc-8f58-8ceda868003e"
+      Hint: Content
+      Value: |
+        <div class="banner-header">
+        <h1>PREMIUM BUSINESS CONSULTING</h1>
+        <h4>Your goals. Our know-how. Digital Nirvana.</h4>
+        </div>
     - ID: "bb6835c4-82af-4d11-9102-a61694c17055"
       Hint: Title
       Value: Premium Business Consulting
