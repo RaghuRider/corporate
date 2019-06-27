@@ -1,0 +1,25 @@
+﻿---
+ID: "7f8417ba-7536-4f5d-b3c1-84bc821aaf89"
+Parent: "0bfacbd1-8d12-424f-9fc7-8a344b8b5a14"
+Template: "dff87b2e-4cbf-4da3-ac0c-cb6b8a54e74f"
+Path: /sitecore/content/AIE/AIE Corporate Site/Data/AIE/Job Listing/Job List
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190626T140326Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8b14244d-f148-42fc-8d89-93b6fdcf40ba"
+      Hint: Job Listing
+      Type: Multilist
+      Value: |
+        {A2D8A2DF-B5C6-4623-8A1C-318FD8297429}
+        {10386149-331B-4C14-A756-1C4B9D48924F}
+        {9783BF59-D049-4C85-9871-B6F19F114239}

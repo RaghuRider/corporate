@@ -1,0 +1,18 @@
+﻿---
+ID: "cf136274-a31c-4892-aaf3-51a3dc621942"
+Parent: "dff87b2e-4cbf-4da3-ac0c-cb6b8a54e74f"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Feature/AIE/Job Listing/Job List/Data
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190626T131336Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

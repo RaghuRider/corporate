@@ -203,6 +203,7 @@
     <Content Include="EmailTemplate\AIE_ContactEmail.html" />
     <Content Include="Views\FormBuilder\FieldTemplates\ConfirmationPopup.cshtml" />
     <Content Include="Views\FormBuilder\FieldTemplates\AIEHiddenField.cshtml" />
+    <Content Include="App_Config\Include\Feature\FormsExtensions\Feature.FormsExtensions.FileUploadStorageProviders.config" />
     <None Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
