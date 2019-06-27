@@ -12,6 +12,9 @@
 /src/**/**/code/obj
 /src/**/**/code/obj/debug
 
+/src/Feature/Forms/Code/bin
+/src/Feature/Forms/Code/obj
+
 /src/**/code/bin
 /src/**/code/obj
 
@@ -21,3 +24,4 @@
 /**/*.user
 /node_modules
 
+/src/Project/code/App_Config/Include/AIEnterprise/Project/z.Common.Settings.config
