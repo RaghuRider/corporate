@@ -2,7 +2,7 @@
 ID: "8339e568-04c6-48b1-9c52-365851e19066"
 Parent: "ac8a15e6-8fed-4496-a89b-d75300314da5"
 Template: "fcd285da-9ab2-4c8d-b185-5a7487a9ba1b"
-Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Page Content/Our Services SpotList/h4/Title
+Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Page Content/Our Services SpotList/div/Title
 DB: master
 SharedFields:
 - ID: "4753764c-c05a-4623-841b-97f85135241c"
@@ -13,7 +13,7 @@ SharedFields:
   Value: style=color%3A%20%23ffffff%3B
 - ID: "db805bdc-8eec-4238-b174-2427b6f1f077"
   Hint: Tag
-  Value: "{E8E2C26D-2F96-4A9C-9C17-D095E6CE46CC}"
+  Value: "{10CDAEA8-DD82-4A45-A4C6-85D03E5FC725}"
 Languages:
 - Language: en
   Versions:
