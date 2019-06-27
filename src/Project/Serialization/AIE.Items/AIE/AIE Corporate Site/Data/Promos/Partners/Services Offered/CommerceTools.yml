@@ -1,0 +1,29 @@
+﻿---
+ID: "10e036fe-4bcf-4990-a63b-f14ebae4dbee"
+Parent: "a06bb100-0a93-4ee5-a42e-590b2d7fcf2b"
+Template: "324733cf-afec-4281-9a18-03b6cfc4e535"
+Path: /sitecore/content/AIE/AIE Corporate Site/Data/Promos/Partners/Services Offered/CommerceTools
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "14023dd5-30e7-4e3c-bf31-d835f3a87410"
+      Hint: PromoText
+      Value: "commercetools revolutionizes the enterprise e-commerce platform market with an API-first, cloud-based solution that reduces complexity and increases both flexibility and speed for omnichannel brands and retailers."
+    - ID: "18f9beb8-0116-40fd-b47e-fd0a2327d7e0"
+      Hint: PromoIcon
+      Value: |
+        <image mediaid="{C58C4862-922B-4C5E-B663-CA61964629F3}" ></image>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190611T080934Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

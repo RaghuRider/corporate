@@ -1,0 +1,29 @@
+﻿---
+ID: "03735bf3-1fd4-42fc-9e3f-5c101f27d44e"
+Parent: "fec566b6-e1f6-4849-9e81-aced479e7adf"
+Template: "324733cf-afec-4281-9a18-03b6cfc4e535"
+Path: /sitecore/content/AIE/AIE Corporate Site/Data/Promos/Partners/PartnersPromo
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "14023dd5-30e7-4e3c-bf31-d835f3a87410"
+      Hint: PromoText
+      Value: We are proud to be associated with these brands
+    - ID: "18f9beb8-0116-40fd-b47e-fd0a2327d7e0"
+      Hint: PromoIcon
+      Value: |
+        <image mediaid="{19440D17-4E29-44B6-9F17-32CDA8CDABBF}" ></image>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190611T104013Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "b59adc09-32a3-46f2-aede-b0c633979263"
+      Hint: PromoText2
+      Value: |
+        <span style="color: #46485c;">Our partnerships allow us to scale our services in a thoughtful, value-add, customised way. It is our strategic way to adapt to the needs of very large multi – national brands and smaller businesses in emerging markets. The bottom line is, only the best of the best gets to be presented on this page. </span>
