@@ -1,0 +1,14 @@
+﻿---
+ID: "a43968e0-7347-46bd-ab92-32a334aace28"
+Parent: "beb40aab-9b8e-4fe0-8024-85dc79b018ad"
+Template: "aca5c9a3-cda0-49b6-893f-1d4a7cb595b0"
+Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Page Content/Our Services SpotList/div/Feature List/div/Link/div
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190627T100613Z

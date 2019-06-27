@@ -1,8 +1,8 @@
 ﻿---
 ID: "fcf61cf1-e76b-4676-adcc-40ad02a127d4"
-Parent: "beb40aab-9b8e-4fe0-8024-85dc79b018ad"
+Parent: "a43968e0-7347-46bd-ab92-32a334aace28"
 Template: "fcd285da-9ab2-4c8d-b185-5a7487a9ba1b"
-Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Page Content/Our Services SpotList/div/Feature List/div/Link/Icon
+Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Page Content/Our Services SpotList/div/Feature List/div/Link/div/Icon
 DB: master
 SharedFields:
 - ID: "4753764c-c05a-4623-841b-97f85135241c"
@@ -13,7 +13,7 @@ SharedFields:
   Value: "fullrange-service"
 - ID: "db805bdc-8eec-4238-b174-2427b6f1f077"
   Hint: Tag
-  Value: "{18C8C889-C723-452A-970C-7CE4D41EE371}"
+  Value: 
 Languages:
 - Language: en
   Versions:
