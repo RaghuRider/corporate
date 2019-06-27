@@ -1,40 +1,37 @@
 ﻿---
-ID: "e606c3aa-1692-4b6b-9368-79691a5dfc7a"
-Parent: "7e556fad-bb3e-4c48-a2f0-39717910469d"
-Template: "324733cf-afec-4281-9a18-03b6cfc4e535"
-Path: "/sitecore/content/AIE/AIE Corporate Site/Home/careers/Data/Job Listing-Sitecore"
+ID: "9783bf59-d049-4c85-9871-b6f19f114239"
+Parent: "1aa3e7a2-56b0-4def-a95b-1aeefb06e340"
+Template: "e58828f9-5b4c-477c-a414-1aad308fba5f"
+Path: /sitecore/content/AIE/AIE Corporate Site/Data/AIE/Job Listing/Job Details/Sitecore
 DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
 Languages:
 - Language: en
   Versions:
   - Version: 1
     Fields:
-    - ID: "14023dd5-30e7-4e3c-bf31-d835f3a87410"
-      Hint: PromoText
-      Value: |
-        <p style="text-align: center;">
-        <strong>SITECORE DEVELOPER</strong><br />
-        <strong>Exp :</strong> 3+ Years.<br />
-        <strong>Location :</strong> Bangalore
-        </p>
-    - ID: "18f9beb8-0116-40fd-b47e-fd0a2327d7e0"
-      Hint: PromoIcon
-      Value: |
-        <image mediaid="{0E544AD9-1055-4481-BD41-D124E72941C7}"></image>
+    - ID: "16108162-879f-4846-bf88-a2fe3eebf35a"
+      Hint: Experience
+      Value: 3+ Years.
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20190605T114128Z
-    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
-      Hint: __Created by
+      Value: 20190626T131512Z
+    - ID: "aa2242e8-e723-4914-b73b-3ab39bdb70e0"
+      Hint: ExpTitle
+      Value: "Exp :"
+    - ID: "aa990eb1-dee2-4b0b-9366-b5607c147200"
+      Hint: Button
       Value: |
-        sitecore\admin
-    - ID: "82a6ce45-59b5-4bc8-83b9-79ccb8174a2a"
-      Hint: PromoIcon2
-      Value: 
-    - ID: "832d3c97-5c05-49bf-89ef-9c29d30345e7"
-      Hint: PromoText3
+        <link text="APPLY NOW" linktype="anchor" url="JavaScript:Void(0)" anchor="JavaScript:Void(0)" title="" class="" />
+    - ID: "b1578035-981a-441e-88f2-35aa18d6805b"
+      Hint: LocationTitle
+      Value: "Location :"
+    - ID: "b4836c11-2322-4a1d-a690-12911e25e9f6"
+      Hint: Job Description
       Value: |
-        <div style="height: 160px; overflow:auto; padding-right: 10px;">
         1. Provide expertise in the planning, constructing and execution of test scripts.<br />
         2. Apply business and functional knowledge including testing standards, guidelines, and testing methodology to meet the teams overall test objectives.<br />
         3. Ensure all testing results are easily accessible and understandable.<br />
@@ -52,11 +49,13 @@ Languages:
         - Drives technical analysis, design, coding and testing for development and support initiatives.<br />
         - Drives Design and development of user interfaces to Internet/Intranet CMS applications by setting expectations and features priorities throughout development life cycle; determining design methodologies and tool sets; completing programming using languages and software products; designing and conducting tests.<br />
         - Promotes standard patterns and practices to implement scalable, high performance application frameworks for enterprise applications.
-        </div>
-    - ID: "b59adc09-32a3-46f2-aede-b0c633979263"
-      Hint: PromoText2
-      Value: <p><strong>JOB DESCRIPTION</strong></p>
-    - ID: "b8c1a9d2-de76-4519-aff4-1442525f32b0"
-      Hint: PromoLink
+    - ID: "c5c8e313-007d-4456-870e-e4b11829720b"
+      Hint: Technology Logo
       Value: |
-        <link text="APPLY NOW" linktype="external" url="" anchor="" title="APPLY NOW" target="" />
+        <image mediaid="{45730FAF-2902-4D2F-BB4C-42EBCF6991F3}" alt="sitecore" height="" width="" hspace="" vspace="" />
+    - ID: "c7aa4a32-7ab1-40fe-9698-d11d78bdbaba"
+      Hint: Job Title
+      Value: SITECORE DEVELOPER
+    - ID: "ed666357-43a0-4097-a073-529892e4a4c9"
+      Hint: Location
+      Value: Bangalore

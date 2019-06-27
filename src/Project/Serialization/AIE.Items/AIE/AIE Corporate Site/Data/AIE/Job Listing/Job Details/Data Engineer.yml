@@ -1,0 +1,57 @@
+﻿---
+ID: "a2d8a2df-b5c6-4623-8a1c-318fd8297429"
+Parent: "1aa3e7a2-56b0-4def-a95b-1aeefb06e340"
+Template: "e58828f9-5b4c-477c-a414-1aad308fba5f"
+Path: /sitecore/content/AIE/AIE Corporate Site/Data/AIE/Job Listing/Job Details/Data Engineer
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "16108162-879f-4846-bf88-a2fe3eebf35a"
+      Hint: Experience
+      Value: 3+ Years.
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190626T131512Z
+    - ID: "aa2242e8-e723-4914-b73b-3ab39bdb70e0"
+      Hint: ExpTitle
+      Value: "Exp :"
+    - ID: "aa990eb1-dee2-4b0b-9366-b5607c147200"
+      Hint: Button
+      Value: |
+        <link text="APPLY NOW" linktype="anchor" url="JavaScript:Void(0)" anchor="JavaScript:Void(0)" title="" class="" />
+    - ID: "b1578035-981a-441e-88f2-35aa18d6805b"
+      Hint: LocationTitle
+      Value: "Location :"
+    - ID: "b4836c11-2322-4a1d-a690-12911e25e9f6"
+      Hint: Job Description
+      Value: |
+        <span style="background-color: #f4f4f4; color: #5f727f;">1. Provide expertise in the planning, constructing and execution of test scripts.</span><br style="color: #5f727f; background-color: #f4f4f4;" />
+        <span style="background-color: #f4f4f4; color: #5f727f;">2. Apply business and functional knowledge including testing standards, guidelines, and testing methodology to meet the teams overall test objectives.</span><br style="color: #5f727f; background-color: #f4f4f4;" />
+        <span style="background-color: #f4f4f4; color: #5f727f;">3. Ensure all testing results are easily accessible and understandable.</span><br style="color: #5f727f; background-color: #f4f4f4;" />
+        <span style="background-color: #f4f4f4; color: #5f727f;">4. Track defects to closure and keep defect repository up- to- date.</span><br style="color: #5f727f; background-color: #f4f4f4;" />
+        <span style="background-color: #f4f4f4; color: #5f727f;">- Overall 10+ years of which 5+ years exp in Sitecore 8.2 (architect), project(starting to release) , can Translate client requirements to Sitecore technical designs.</span><br style="color: #5f727f; background-color: #f4f4f4;" />
+        <span style="background-color: #f4f4f4; color: #5f727f;">- Exp of delivering large scale SiteCore engagements with extensive customization.</span><br style="color: #5f727f; background-color: #f4f4f4;" />
+        <span style="background-color: #f4f4f4; color: #5f727f;">- At least 3-6 projects experience implementing solutions using Sitecore with knowledge of best practices.</span><br style="color: #5f727f; background-color: #f4f4f4;" />
+        <span style="background-color: #f4f4f4; color: #5f727f;">- Experience with SITECORE Ver 8.1 and above.</span><br style="color: #5f727f; background-color: #f4f4f4;" />
+        <span style="background-color: #f4f4f4; color: #5f727f;">- Experience in .NET Framework 3.5 and above along with Proficiency in C# .NET MVC, COM, ASP.NET and SiteCore module skills.</span><br style="color: #5f727f; background-color: #f4f4f4;" />
+        <span style="background-color: #f4f4f4; color: #5f727f;">- Should have hands on experience of RESTful API.</span><br style="color: #5f727f; background-color: #f4f4f4;" />
+        <span style="background-color: #f4f4f4; color: #5f727f;">- Expert in SiteCore foundational concepts, Layouts, Sublayouts, Templates, Workflows and Security.</span><br style="color: #5f727f; background-color: #f4f4f4;" />
+        <span style="background-color: #f4f4f4; color: #5f727f;">- Javascript, Angular/React expertise is a big plus.</span><br style="color: #5f727f; background-color: #f4f4f4;" />
+        <span style="background-color: #f4f4f4; color: #5f727f;">- Good understanding of UX and UI design with an emphasis on intuitive, slick, modern designs.</span><br style="color: #5f727f; background-color: #f4f4f4;" />
+        <span style="background-color: #f4f4f4; color: #5f727f;">- They will create user information solutions by developing, implementing, and maintaining .NET based templates, components, and interfaces.</span><br style="color: #5f727f; background-color: #f4f4f4;" />
+        <span style="background-color: #f4f4f4; color: #5f727f;">- Drives technical analysis, design, coding and testing for development and support initiatives.</span><br style="color: #5f727f; background-color: #f4f4f4;" />
+        <span style="background-color: #f4f4f4; color: #5f727f;">- Drives Design and development of user interfaces to Internet/Intranet CMS applications by setting expectations and features priorities throughout development life cycle; determining design methodologies and tool sets; completing programming using languages and software products; designing and conducting tests.</span><br style="color: #5f727f; background-color: #f4f4f4;" />
+        <span style="background-color: #f4f4f4; color: #5f727f;">- Promotes standard patterns and practices to implement scalable, high performance application frameworks for enterprise applications.</span>
+    - ID: "c5c8e313-007d-4456-870e-e4b11829720b"
+      Hint: Technology Logo
+      Value: |
+        <image mediaid="{BF83B9C4-DE53-47D4-B61B-144A6DFA52CE}" alt="sitecore" height="" width="" hspace="" vspace="" />
+    - ID: "c7aa4a32-7ab1-40fe-9698-d11d78bdbaba"
+      Hint: Job Title
+      Value: DATA ENGINEER
+    - ID: "ed666357-43a0-4097-a073-529892e4a4c9"
+      Hint: Location
+      Value: Bangalore

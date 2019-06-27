@@ -1,8 +1,8 @@
 ﻿---
 ID: "5e2ba065-8f6b-4cf3-8f94-a977ef4db6d4"
-Parent: "60ceff7a-161a-4d14-bae1-6157572c2b43"
+Parent: "1cdf2731-9e5c-42d0-98a8-8af91f9c4aa3"
 Template: "aca5c9a3-cda0-49b6-893f-1d4a7cb595b0"
-Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Promo/Career Jobs/div/div
+Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Page Content/Job Listing Variant/div/Job Listing/div
 DB: master
 SharedFields:
 - ID: "bea2740e-90d1-4b16-bd1d-7a7cc8605d2d"

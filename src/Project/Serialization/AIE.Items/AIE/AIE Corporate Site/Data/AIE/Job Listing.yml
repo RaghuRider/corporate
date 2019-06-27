@@ -1,0 +1,25 @@
+﻿---
+ID: "0bfacbd1-8d12-424f-9fc7-8a344b8b5a14"
+Parent: "8e889b30-8d68-4313-97e8-60c0e8d141e1"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/content/AIE/AIE Corporate Site/Data/AIE/Job Listing
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {A87A00B1-E6DB-45AB-8B54-636FEC3B5523}
+    {DFF87B2E-4CBF-4DA3-AC0C-CB6B8A54E74F}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190626T131407Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

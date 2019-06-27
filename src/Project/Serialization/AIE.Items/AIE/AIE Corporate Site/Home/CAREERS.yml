@@ -1,8 +1,8 @@
 ﻿---
-ID: "8b29be34-4d28-42f1-a499-cc06f64edc16"
+ID: "8d3d3c6c-5ac0-4e2e-87a4-4f169d3badbc"
 Parent: "cc1bc5e4-5512-4b8e-b38e-7856e6604cd5"
 Template: "fcdfe9cd-364f-46a6-a466-8ceb8cbf74cc"
-Path: /sitecore/content/AIE/AIE Corporate Site/Home/careers
+Path: /sitecore/content/AIE/AIE Corporate Site/Home/Careers
 DB: master
 SharedFields:
 - ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
@@ -10,17 +10,7 @@ SharedFields:
   Value: "{E6E33FA3-2659-4750-A1DD-EB8BDFC5F37B}"
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
-  Value: 200
-- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
-  Hint: __Renderings
-  Type: layout
-  Value: |
-    <r xmlns:p="p" xmlns:s="s"
-      p:p="1">
-      <d
-        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
-        s:l="{269BDDC7-E377-4C61-9B26-A00BA2CCD14D}" />
-    </r>
+  Value: 244
 Languages:
 - Language: en
   Versions:
@@ -35,74 +25,65 @@ Languages:
           <d
             id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
             <r
-              uid="{2E1CDDC5-B82D-40FA-95C8-5C0ECA60301F}"
+              uid="{BF815631-4557-4480-9E57-DF230C201C4A}"
               p:before="*"
-              s:ds="{3C63E239-4DE8-4615-8C1F-B1C35A2167D8}"
-              s:id="{6B5B0FE6-5C85-4487-BA7E-F8C2ECC186A8}"
-              s:par=""
-              s:ph="/main/container-1/row-2-2/sitecoreFormsWrapper-7" />
-            <r
-              uid="{24F73B64-C559-4B8F-A4D0-C67256D24005}"
-              p:after="r[@uid='{2E1CDDC5-B82D-40FA-95C8-5C0ECA60301F}']"
               s:ds=""
-              s:id="{BFBD9DE2-3ABF-4078-BBCB-C95C5B2D863F}"
-              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7BBA114D58-DD01-4B6E-9FF8-93F0B78E73D7%7D&amp;Styles=%7BD874F1FF-8E9C-45CA-B29C-DC151E22A0C3%7D&amp;BreadcrumbRoot&amp;Separator=%3E&amp;IsNavigation&amp;Filter&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=4"
-              s:ph="/main/container-1/row-2-2" />
-            <r
-              uid="{A11AC581-1343-45F3-9B08-DFB6FBA69827}"
-              p:after="r[@uid='{24F73B64-C559-4B8F-A4D0-C67256D24005}']"
-              s:ds="{62B4DC13-2D6E-447C-B11C-47AD0938EDD0}"
-              s:id="{51C13F03-8364-4F61-B860-2EC6CA7439B3}"
-              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames&amp;Styles&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=8"
-              s:ph="/main/container-1/row-2-2" />
-            <r
-              uid="{85D7B8EA-F1E6-4C0A-AFEF-8DF0966D6CF0}"
-              p:after="r[@uid='{A11AC581-1343-45F3-9B08-DFB6FBA69827}']"
-              s:ds="local:/Data/Job Listing-Sitecore"
-              s:id="{51C13F03-8364-4F61-B860-2EC6CA7439B3}"
-              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7B677CE166-9213-4D06-A0B3-7AB1D35D090D%7D&amp;Styles&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=5"
-              s:ph="/main/container-1/row-2-2" />
-            <r
-              uid="{86FB60C2-2492-467C-9042-79BEF1E03915}"
-              p:after="r[@uid='{85D7B8EA-F1E6-4C0A-AFEF-8DF0966D6CF0}']"
-              s:id="{6AB4EE29-CB78-4DCE-A316-3E6C3D5513F5}"
-              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;Styles&amp;RenderingIdentifier&amp;DynamicPlaceholderId=7"
-              s:ph="/main/container-1/row-2-2" />
-            <r
-              uid="{CD98E6B7-9E74-4CE9-922E-C386F665F0A5}"
-              p:after="r[@uid='{86FB60C2-2492-467C-9042-79BEF1E03915}']"
-              s:ds="local:/Data/Job Listing-DataScience"
-              s:id="{51C13F03-8364-4F61-B860-2EC6CA7439B3}"
-              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7B677CE166-9213-4D06-A0B3-7AB1D35D090D%7D&amp;Styles&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=6"
-              s:ph="/main/container-1/row-2-2" />
-            <r
-              uid="{BC8B7FB2-B059-4EFD-8EEE-51801627260C}"
-              p:after="r[@uid='{CD98E6B7-9E74-4CE9-922E-C386F665F0A5}']"
-              s:ds="{DA3A869B-7D7D-4F93-A6E2-79A5BAB60D9B}"
-              s:id="{DCEE78E1-1843-4456-A13A-F10A12191630}"
-              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames&amp;Styles&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=3"
-              s:ph="/main/container-1/row-1-2" />
-            <r
-              uid="{CC034BF5-AB64-47AA-8EAD-54723B628849}"
-              p:after="r[@uid='{BC8B7FB2-B059-4EFD-8EEE-51801627260C}']"
-              s:id="{2DA9B139-FB9C-4FD7-BE84-CB066B2D7CC3}"
-              s:par="SplitterSize=2&amp;EnabledPlaceholders=1%2C2&amp;Styles1&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles8&amp;Reset Caching Options&amp;DynamicPlaceholderId=2"
+              s:id="{8B0393E9-EE25-4F0B-A5FD-777B3AD2C737}"
+              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames&amp;Styles=%7BD874F1FF-8E9C-45CA-B29C-DC151E22A0C3%7D&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=2"
               s:ph="/main/container-1" />
             <r
-              uid="{46652560-1E32-4BE8-8E52-CAE9BD3D6CC1}"
-              p:after="*[1=2]"
+              uid="{5C9A4CB0-4DEF-436D-BB85-E69C70C82AB7}"
+              p:after="r[@uid='{BF815631-4557-4480-9E57-DF230C201C4A}']"
+              s:ds=""
+              s:id="{BFBD9DE2-3ABF-4078-BBCB-C95C5B2D863F}"
+              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames&amp;Styles=%7BD874F1FF-8E9C-45CA-B29C-DC151E22A0C3%7D&amp;BreadcrumbRoot&amp;Separator=%3E&amp;IsNavigation&amp;Filter&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=3"
+              s:ph="/main/container-1" />
+            <r
+              uid="{356BE845-8EA2-4EF2-9228-7A4DEEC3875D}"
+              p:after="r[@uid='{5C9A4CB0-4DEF-436D-BB85-E69C70C82AB7}']"
               s:ds=""
               s:id="{896A2C68-1362-4E88-8BA0-1805AE6D4837}"
               s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;BackgroundImage=%3Cimage%20mediaid%3D%22%7BDDDA52B8-D7D0-4739-8405-3A449654BEAD%7D%22%20%2F%3E&amp;Styles&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=1"
+              s:ph="main" />
+            <r
+              uid="{51D4154A-406B-4DB5-B159-9D4658501663}"
+              p:after="r[@uid='{356BE845-8EA2-4EF2-9228-7A4DEEC3875D}']"
+              s:ds="{7F8417BA-7536-4F5D-B3C1-84BC821AAF89}"
+              s:id="{8B0393E9-EE25-4F0B-A5FD-777B3AD2C737}"
+              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7B9895F94E-63C8-44FC-B2D0-D133C9AF660D%7D&amp;Styles&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=6"
+              s:ph="main" />
+            <r
+              uid="{6CAD575A-F128-405A-AAC4-C561155A85C2}"
+              p:after="r[@uid='{51D4154A-406B-4DB5-B159-9D4658501663}']"
+              s:ds="{7F8417BA-7536-4F5D-B3C1-84BC821AAF89}"
+              s:id="{8B0393E9-EE25-4F0B-A5FD-777B3AD2C737}"
+              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7B9895F94E-63C8-44FC-B2D0-D133C9AF660D%7D&amp;Styles&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=4"
+              s:ph="main" />
+            <r
+              uid="{884787CD-2B0C-47D9-9F70-5E421DFF53AA}"
+              p:after="*[1=2]"
+              s:ds="{7F8417BA-7536-4F5D-B3C1-84BC821AAF89}"
+              s:id="{8B0393E9-EE25-4F0B-A5FD-777B3AD2C737}"
+              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7B9895F94E-63C8-44FC-B2D0-D133C9AF660D%7D&amp;Styles&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=5"
               s:ph="main" />
           </d>
         </r>
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20190506T122232Z
+      Value: 20190627T053607Z
     - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
       Hint: NavigationTitle
-      Value: CAREERS
+      Value: Careers
+    - ID: "4f441595-f0b8-48fc-8f58-8ceda868003e"
+      Hint: Content
+      Value: |
+        <div class="container">
+        <div class="page-title-title">
+        <h1 style="text-align: center;">WORK WITH US</h1>
+        <p style="text-align: center;margin-top: 20px;">We are looking to grow our team with people who share our energy and enthusiasm<br />
+        for creating the best experience for our customers.</p>
+        </div>
+        </div>
     - ID: "bb6835c4-82af-4d11-9102-a61694c17055"
       Hint: Title
       Value: CAREERS
