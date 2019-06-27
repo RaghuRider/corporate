@@ -1,13 +1,16 @@
 ﻿---
-ID: "63ee15e8-343d-4545-bb95-8df10ecaaae4"
-Parent: "388883f5-8235-49b0-80c6-fc80de90af55"
+ID: "434486c7-e855-4bc9-bcfa-1eae5d1780a6"
+Parent: "b15b8073-9455-4a97-b2b2-c79f498aa343"
 Template: "fcd285da-9ab2-4c8d-b185-5a7487a9ba1b"
-Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Page Content/Invigorated commerce Variant/div/Feature List/Icon
+Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Page Content/Invigorated commerce Variant/div/Feature List/div/div/Title
 DB: master
 SharedFields:
 - ID: "4753764c-c05a-4623-841b-97f85135241c"
   Hint: FieldName
-  Value: Icon
+  Value: Title
+- ID: "c35b2285-b4a8-406f-a91c-24a60391dc12"
+  Hint: DataAttributes
+  Value: 
 - ID: "db805bdc-8eec-4238-b174-2427b6f1f077"
   Hint: Tag
   Value: "{6C08DBD3-67FF-454C-B526-1EE5F77D5093}"
@@ -18,4 +21,4 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20190610T130958Z
+      Value: 20190610T131122Z
