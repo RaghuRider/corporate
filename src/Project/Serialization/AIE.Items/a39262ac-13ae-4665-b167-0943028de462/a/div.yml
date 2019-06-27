@@ -1,13 +1,13 @@
 ﻿---
-ID: "45268855-0798-423f-8506-0ec530781a1b"
-Parent: "eee9d29c-f0ea-4615-97cf-7668b5b0240b"
+ID: "0181fcaf-909c-4a61-bfa8-bbfcb2f57f75"
+Parent: "f75d9362-6efa-4b76-9c55-bc681b7389d4"
 Template: "aca5c9a3-cda0-49b6-893f-1d4a7cb595b0"
-Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Page Content/Home General Talk/GeneralTalkList/div/div/div
+Path: "/sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Promo/Home-Content Navigation/a/div"
 DB: master
 SharedFields:
 - ID: "bea2740e-90d1-4b16-bd1d-7a7cc8605d2d"
   Hint: CssClass
-  Value: "i-icons"
+  Value: "col-3"
 Languages:
 - Language: en
   Versions:
@@ -15,4 +15,4 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20190621T072101Z
+      Value: 20190627T101113Z
