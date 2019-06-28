@@ -29,10 +29,12 @@ Languages:
         <div class="wpb_text_column wpb_content_element ">
         <div class="wpb_wrapper">
         <h4>Commerce Cubes<sup>SM</sup></h4>
-        <p class="p1"><span class="s1"><img alt="" src="-/media/A125D686315F4DEC979DAE437C919C93.ashx?h=300&amp;w=284" class="alignright wp-image-25417" style="width: 284px; height: 300px;" />When it’s time to add compelling new features across channels and devices, start with Commerce Cubes from AIEnterprise to accelerate your time to value, increase agility and push functionality towards the edge. Commerce Cubes are pre-engineered microsolutions that can be installed, “on the side,” to quickly integrate with your existing commerce platform instead of spending months wading through complex architecture and costly testing cycles required to extend large systems in situ.</span></p>
+        <div class="commerce-cubes">
+        <p class="p1">When it&rsquo;s time to add compelling new features across channels and devices, start with Commerce Cubes from AIEnterprise to accelerate your time to value, increase agility and push functionality towards the edge. Commerce Cubes are pre-engineered microsolutions that can be installed, &ldquo;on the side,&rdquo; to quickly integrate with your existing commerce platform instead of spending months wading through complex architecture and costly testing cycles required to extend large systems in situ.</p>
+        <span class="s1"><img alt="" src="-/media/A125D686315F4DEC979DAE437C919C93.ashx?h=300&amp;w=284" class="alignright wp-image-25417" style="width: 284px; height: 300px;" />
+        </span></div>
         <p class="p1"><span class="s1">AIEnterprise is constantly evolving its library of Commerce Cubes to zoom in on classic commerce challenges related to inventory, loyalty, promotions, cross device session management and many other omnichannel topics. Commerce Cubes are delivered with well documented APIs and SDKs that facilitate integration into native devices, web interfaces, and platforms. These solutions are delivered as microservices that can be deployed in public or private clouds au-natural or be easily customized to fill bespoke requirements. They are independently scalable, making them ideally suited for core application services or to enhance adaptive interfaces.</span></p>
         <p class="p1"><span class="s1">Extending your enterprise service portfolio with Commerce Cubes allows you to meet market demand for competitive features with agility. Using Commerce Cubes to jumpstart new customer flows and differentiating new features reduces the cost of innovation and prevents loss due to platform or vendor lock-in that often accompanies traditional customizations. </span></p>
-        </div>
         </div>
         <div class="clearboth">&nbsp;</div>
         <div class="gem-divider ">&nbsp;</div>
@@ -41,7 +43,7 @@ Languages:
         <div class="wpb_text_column wpb_content_element ">
         <div class="wpb_wrapper">
         <h4>Best Experience Engineering</h4>
-        <p class="p1"><span class="s1">It is more than just delivering UX components that render within a screen.<span class="Apple-converted-space">&nbsp; </span>Our team becomes an extension of your team, your vendors and your customer.<span class="Apple-converted-space">&nbsp; </span>We become embedded in your business until we can design the best possible Customer Experience.<span class="Apple-converted-space">&nbsp; </span>We have even completely transformed the legacy experience to a more personal, human, accessible – digital one.<span class="Apple-converted-space">&nbsp; </span>An experience that keeps your customers coming back for more. We complement this with offline and online (AI) real-time analytics to continue to customize the customer experience.</span></p>
+        <p class="p1"><span class="s1">It is more than just delivering UX components that render within a screen.<span class="Apple-converted-space">&nbsp; </span>Our team becomes an extension of your team, your vendors and your customer.<span class="Apple-converted-space">&nbsp; </span>We become embedded in your business until we can design the best possible Customer Experience.<span class="Apple-converted-space">&nbsp; </span>We have even completely transformed the legacy experience to a more personal, human, accessible &ndash; digital one.<span class="Apple-converted-space">&nbsp; </span>An experience that keeps your customers coming back for more. We complement this with offline and online (AI) real-time analytics to continue to customize the customer experience.</span></p>
         </div>
         </div>
         <div class="clearboth">&nbsp;</div>
@@ -51,9 +53,10 @@ Languages:
         <div class="wpb_text_column wpb_content_element ">
         <div class="wpb_wrapper">
         <h4>Mobile and Omni-channel</h4>
-        <p class="p1"><span class="s1">Mobile. Voice Recognition AI. Multiple customer touch points. Data Aggregation. All of these play a role in deploying a robust ‘Invigorated’ commerce. We can help you build the right strategy to deliver in all these areas.<br />
+        <p class="p1"><span class="s1">Mobile. Voice Recognition AI. Multiple customer touch points. Data Aggregation. All of these play a role in deploying a robust &lsquo;Invigorated&rsquo; commerce. We can help you build the right strategy to deliver in all these areas.<br />
         </span>
         </p>
+        </div>
         </div>
         </div>
         </div>
