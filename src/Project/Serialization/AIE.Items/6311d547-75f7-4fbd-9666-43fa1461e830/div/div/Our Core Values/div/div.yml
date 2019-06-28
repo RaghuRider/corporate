@@ -8,7 +8,7 @@ SharedFields:
 - ID: "4a997ffd-136b-409e-8dc9-fde53ac545a3"
   Hint: IsLink
   Type: Checkbox
-  Value: 1
+  Value: 0
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
   Value: 250
