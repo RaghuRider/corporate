@@ -19,4 +19,4 @@ Languages:
     - ID: "dd05144a-bd66-4ea3-956a-4b7104daaba3"
       Hint: Link
       Value: |
-        <link text="CAREERS" anchor="" linktype="internal" class="" title="CAREERS" target="" querystring="" id="{8D3D3C6C-5AC0-4E2E-87A4-4F169D3BADBC}" />
+        <link id="{8D3D3C6C-5AC0-4E2E-87A4-4F169D3BADBC}" querystring="" target="" text="CAREERS" anchor="" title="CAREERS" class="" url="/AIE/AIE Corporate Site/Home/careers" linktype="internal" />
