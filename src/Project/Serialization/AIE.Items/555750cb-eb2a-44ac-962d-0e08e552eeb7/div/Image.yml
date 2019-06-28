@@ -7,7 +7,7 @@ DB: master
 SharedFields:
 - ID: "4753764c-c05a-4623-841b-97f85135241c"
   Hint: FieldName
-  Value: PromoIcon
+  Value: PromoText3
 - ID: "db805bdc-8eec-4238-b174-2427b6f1f077"
   Hint: Tag
   Value: "{E8E2C26D-2F96-4A9C-9C17-D095E6CE46CC}"
