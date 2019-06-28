@@ -2,12 +2,12 @@
 ID: "19ece5b8-ba05-4299-adab-1ec31709dd49"
 Parent: "ed10e94b-cf5b-47b1-bbcd-70bc47bbed1e"
 Template: "aca5c9a3-cda0-49b6-893f-1d4a7cb595b0"
-Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Page Content/Our Core Values/div/div/Our Core Values/div
+Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Page Content/Our Core Values/div/div/div/Our Core Values/div
 DB: master
 SharedFields:
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
-  Value: 200
+  Value: 0
 - ID: "bea2740e-90d1-4b16-bd1d-7a7cc8605d2d"
   Hint: CssClass
   Value: "col-lg-3"
