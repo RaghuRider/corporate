@@ -21,3 +21,6 @@ Languages:
       Hint: __Created by
       Value: |
         sitecore\admin
+    - ID: "aa9c8d1c-b210-4efa-86db-83e8fa32c672"
+      Hint: Title
+      Value: Our Services
