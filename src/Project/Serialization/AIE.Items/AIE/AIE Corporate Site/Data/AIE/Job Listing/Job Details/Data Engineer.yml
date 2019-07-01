@@ -20,8 +20,7 @@ Languages:
       Value: "Exp :"
     - ID: "aa990eb1-dee2-4b0b-9366-b5607c147200"
       Hint: Button
-      Value: |
-        <link text="APPLY NOW" linktype="anchor" url="JavaScript:Void(0)" anchor="JavaScript:Void(0)" title="" class="" />
+      Value: 
     - ID: "b1578035-981a-441e-88f2-35aa18d6805b"
       Hint: LocationTitle
       Value: "Location :"
@@ -30,25 +29,19 @@ Languages:
       Value: |
         <div class="carrer-cont">
         <ol>
-            <li>Provide expertise in the planning, constructing and execution of test scripts.</li>
-            <li>Apply business and functional knowledge including testing standards, guidelines, and testing methodology to meet the teams overall test objectives.</li>
-            <li>Ensure all testing results are easily accessible and understandable.</li>
-            <li>Track defects to closure and keep defect repository up- to- date.</li>
-            <ul>
-                <li>Overall 10+ years of which 5+ years exp in Sitecore 8.2 (architect), project(starting to release) , can Translate client requirements to Sitecore technical designs.</li>
-                <li>Exp of delivering large scale SiteCore engagements with extensive customization.</li>
-                <li>At least 3-6 projects experience implementing solutions using Sitecore with knowledge of best practices.</li>
-                <li>Experience with SITECORE Ver 8.1 and above.</li>
-                <li>Experience in .NET Framework 3.5 and above along with Proficiency in C# .NET MVC, COM, ASP.NET and SiteCore module skills.</li>
-                <li>Should have hands on experience of RESTful API.</li>
-                <li>Expert in SiteCore foundational concepts, Layouts, Sublayouts, Templates, Workflows and Security.</li>
-                <li>Javascript, Angular/React expertise is a big plus.</li>
-                <li>Good understanding of UX and UI design with an emphasis on intuitive, slick, modern designs.</li>
-                <li>They will create user information solutions by developing, implementing, and maintaining .NET based templates, components, and interfaces.</li>
-                <li>Drives technical analysis, design, coding and testing for development and support initiatives.</li>
-                <li>Drives Design and development of user interfaces to Internet/Intranet CMS applications by setting expectations and features priorities throughout development life cycle; determining design methodologies and tool sets; completing programming using languages and software products; designing and conducting tests.</li>
-                <li>Promotes standard patterns and practices to implement scalable, high performance application frameworks for enterprise applications.</li>
-            </ul>
+            <li>Should be a strong individual contributor in a complex data warehousing project. </li>
+            <li>Should highlight and resolves issues in the current data models and design.</li>
+            <li>Very good understanding of relational databases with ability to write/ modify complex SQL queries to generate required datasets and tune query performance.</li>
+            <li>Advanced ETL writing and performance tuning experience in Scala &amp; Python. Knowledge of data integration tools like Pentaho, etc.</li>
+            <li>Experience with using big data technologies like Spark, Map-Reduce, Hive, Kafka.</li>
+            <li>Experience with using NoSQL databases such as MongoDB, Cassandra, Hbase, etc.</li>
+            <li>Experience with using GCP / AWS cloud services.</li>
+            <li>Experience with using stream processing systems like Storm, Spark-streaming, etc.</li>
+            <li>Experience with using OOPs languages like Java, Scala, Python, etc.</li>
+            <li>Knowledge of Pig, Shell Scripting and familiarity with Unix/Linux OS a strong plus.</li>
+            <li>Strong analytical and problem solving skills. Should provide solutions to complex problems without known solutions.</li>
+            <li>Excellent communication skills and capability to effectively work with both Business and Technology teams.</li>
+            <li>Qualification &ndash; BE / BTECH in MIS, CS or related field. 5+ years of technology experience as a Data Engineer.</li>
         </ol>
         </div>
     - ID: "c5c8e313-007d-4456-870e-e4b11829720b"

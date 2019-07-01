@@ -63,8 +63,15 @@ Languages:
               s:par="GridParameters&amp;BackgroundImage&amp;Styles&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=16"
               s:ph="main" />
             <r
-              uid="{89E8987D-21DE-4ED6-97FA-A263D6B09A67}"
+              uid="{FA2FA4D6-9E40-4CA2-84B0-2029825A837C}"
               p:after="r[@uid='{2D41D47A-B6E2-4407-86AE-36026DAF1A96}']"
+              s:ds="{86B10C5D-0C3D-4A3A-9AEF-5BFF9F190EE9}"
+              s:id="{8B0393E9-EE25-4F0B-A5FD-777B3AD2C737}"
+              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7BB92446BF-563D-48EB-BFA4-9A9E796B1960%7D&amp;Styles&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=17"
+              s:ph="main" />
+            <r
+              uid="{89E8987D-21DE-4ED6-97FA-A263D6B09A67}"
+              p:after="r[@uid='{FA2FA4D6-9E40-4CA2-84B0-2029825A837C}']"
               s:ds="{AE828822-7B99-42F7-A4E8-EDE3F6540837}"
               s:id="{51C13F03-8364-4F61-B860-2EC6CA7439B3}"
               s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7BE5AF05E7-454B-41AD-9515-99928B20C50E%7D&amp;Styles=%7B898BBA11-18AF-4311-8E53-DE63E827CEEF%7D&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=3"
@@ -76,13 +83,6 @@ Languages:
               s:id="{51C13F03-8364-4F61-B860-2EC6CA7439B3}"
               s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7BFB0F2C96-474B-429E-83FB-B88BF37F3C45%7D&amp;Styles=%7B1DB85AAF-B87B-492B-846C-68DB952A7289%7D&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=4"
               s:ph="/main/container-16" />
-            <r
-              uid="{D82CB2EC-6132-4B3E-BA69-DE81329B4A74}"
-              p:after="r[@uid='{D154B9C5-DA5D-4C16-B90C-48CDAF9963EB}']"
-              s:ds="{7D56CC5C-9AE0-4EA8-B6A0-486161B87352}"
-              s:id="{00E2C7CF-2247-4596-B878-E6BB3850A77F}"
-              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;Styles&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=7"
-              s:ph="main" />
             <r
               uid="{7E1CCED7-F5A7-449D-A0B6-ACEEEE18784A}"
               p:after="*[1=2]"

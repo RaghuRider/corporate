@@ -1,13 +1,13 @@
 ﻿---
-ID: "8784bf93-ba7c-4038-a444-4a8983f036b6"
-Parent: "b0d08f79-4675-4be7-9076-ea9c9c2360c0"
+ID: "28434e84-ebc2-4d43-b6b7-f6c0b8389fc9"
+Parent: "57f4a43b-2ab1-4c21-836c-04d487470ff0"
 Template: "aca5c9a3-cda0-49b6-893f-1d4a7cb595b0"
-Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Page Content/ConnectWithUs/Section1/div/div/div
+Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Page Content/Connect With Us/div/div/div
 DB: master
 SharedFields:
 - ID: "bea2740e-90d1-4b16-bd1d-7a7cc8605d2d"
   Hint: CssClass
-  Value: wpb_wrapper
+  Value: "col-8 connect-content-about"
 Languages:
 - Language: en
   Versions:
@@ -15,4 +15,4 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20190607T070504Z
+      Value: 20190701T130916Z
