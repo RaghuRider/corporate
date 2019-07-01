@@ -1,9 +1,13 @@
 ﻿---
-ID: "90ce1a63-2f8f-4081-bc8f-1c02a261e722"
+ID: "ed53763e-e2d9-4b8e-b30b-72a80cf54060"
 Parent: "3cc8bfcd-f7e1-42d6-93c2-e98772b9a815"
 Template: "f07cbe89-73ae-4de6-9217-2570260cac6e"
-Path: /sitecore/content/AIE/AIE Corporate Site/Data/Promos/OurMission
+Path: /sitecore/content/AIE/AIE Corporate Site/Data/Promos/Corporate
 DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
 Languages:
 - Language: en
   Versions:
@@ -11,4 +15,4 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20190613T094518Z
+      Value: 20190701T071328Z

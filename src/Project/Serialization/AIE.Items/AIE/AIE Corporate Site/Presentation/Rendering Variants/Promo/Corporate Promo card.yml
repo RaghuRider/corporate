@@ -1,8 +1,8 @@
 ﻿---
-ID: "dfd00afa-d58e-445a-8314-dc9ec6f18bcb"
+ID: "37527e12-8663-4d6d-8113-744270bddc02"
 Parent: "569c37fc-ebfb-4b20-baa0-9fb4515ad2cf"
 Template: "fb3e3034-33f8-4ce8-be98-dd05010f4c22"
-Path: "/sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Promo/Corporate-ValueProposition"
+Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Promo/Corporate Promo card
 DB: master
 Languages:
 - Language: en
@@ -11,4 +11,4 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20190612T123629Z
+      Value: 20190606T115026Z

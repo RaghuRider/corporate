@@ -1,8 +1,8 @@
 ﻿---
-ID: "11678b61-b420-45e0-af71-ecae75ee5d8f"
-Parent: "ccf3d719-e4d5-4897-9a3c-1834aa8df798"
+ID: "2721189d-c8fd-4c08-a33a-95a4ab079877"
+Parent: "ac985c90-5672-4e49-b461-387a0305d7d7"
 Template: "fcd285da-9ab2-4c8d-b185-5a7487a9ba1b"
-Path: "/sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Promo/Corporate-OurMission/div/PromoText3"
+Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Promo/Corporate Promo card/div/div/Promo Content2
 DB: master
 SharedFields:
 - ID: "4753764c-c05a-4623-841b-97f85135241c"
@@ -15,4 +15,4 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20190612T120455Z
+      Value: 20190624T102923Z
