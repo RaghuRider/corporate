@@ -1,8 +1,8 @@
 ﻿---
 ID: "f4d0dcbf-60bb-4842-8ae6-27228cf1cee3"
-Parent: "80122390-a00a-444e-a89f-d219c7ebe5ec"
+Parent: "df5fd4af-8cda-47a2-9e73-46b398081c0d"
 Template: "daf085e8-602e-43a6-8299-038ff171349f"
-Path: "/sitecore/media library/Project/AIE/AIE Corporate Site/value-proposition-300x206"
+Path: "/sitecore/media library/Project/AIE/AIE Corporate Site/Corporate/value-proposition-300x206"
 DB: master
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
@@ -21,6 +21,9 @@ SharedFields:
 - ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
   Hint: Mime Type
   Value: image/jpeg
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 250
 - ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
   Hint: Extension
   Value: jpg
