@@ -1,0 +1,18 @@
+﻿---
+ID: "f4033d37-2ac6-4475-ad04-1239a697ed20"
+Parent: "d445fc6a-431b-4774-a760-52f9b48e6a2d"
+Template: "8cddb194-f456-4a75-89b7-346f8f39f95c"
+Path: /sitecore/Forms/AIE/AIE Corporate Site/Profile Form/Page/modal/div
+DB: master
+SharedFields:
+- ID: "7abaa3f6-6ec0-4b65-a463-7919bfae55aa"
+  Hint: Css Class
+  Value: "modal-dialog"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190701T075054Z
