@@ -19,7 +19,7 @@ Languages:
     - ID: "18f9beb8-0116-40fd-b47e-fd0a2327d7e0"
       Hint: PromoIcon
       Value: |
-        <image mediaid="{F4D0DCBF-60BB-4842-8AE6-27228CF1CEE3}" ></image>
+        <image mediaid="{F4D0DCBF-60BB-4842-8AE6-27228CF1CEE3}" alt="" height="" width="" hspace="" vspace=""></image>
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20190612T124442Z
@@ -42,5 +42,6 @@ Languages:
     - ID: "b59adc09-32a3-46f2-aede-b0c633979263"
       Hint: PromoText2
       Value: |
-        <p class="p1"><span class="s1">When you have such a robust offering it becomes easy to oversell.<span class="Apple-converted-space">&nbsp; </span>Not here.<span class="Apple-converted-space">&nbsp; </span>We know what we are doing.<span class="Apple-converted-space">&nbsp; </span>We have been in your shoes.<span class="Apple-converted-space">&nbsp; </span>We know what it means to be responsible for P&amp;L.<span class="Apple-converted-space">&nbsp; </span>We know what it means to have the right strategy to acquire customers.<span class="Apple-converted-space">&nbsp; </span>We know what it feels to be promoted.<span class="Apple-converted-space">&nbsp; </span>We know what it&rsquo;s like to deliver above and beyond results.<span class="Apple-converted-space">&nbsp; </span>Many of us have run omni-channel businesses. <span class="Apple-converted-space">&nbsp; </span>In private companies.<span class="Apple-converted-space">&nbsp; </span>In public companies.<span class="Apple-converted-space">&nbsp; </span>We know how to execute.<span class="Apple-converted-space">&nbsp; </span>We know the difference between a fad and a trend.<span class="Apple-converted-space">&nbsp; </span>Your problems become ours.<span class="Apple-converted-space">&nbsp; </span>Your pain points become ours.<span class="Apple-converted-space">&nbsp; </span>We execute.<span class="Apple-converted-space">&nbsp; </span>You look good.</span></p>
-        <p class="p1"><span class="s1">We have architected, designed and built complex back-end systems based on APIs and/or webservices in support of these websites. We are adept at:</span></p>
+        <p class="corporate-content">When you have such a robust offering it becomes easy to oversell. Not here. We know what we are doing. We have been in your shoes. We know what it means to be responsible for P&amp;L. We know what it means to have the right strategy to acquire customers.We know what it feels to be promoted. We know what it&rsquo;s like to deliver above and beyond results. Many of us have run omni-channel businesses. In private companies. In public companies. We know how to execute. We know the difference between a fad and a trend. Your problems become ours. Your pain points become ours. We execute. You look good.</p>
+        
+        <p class="corporate-content">We have architected, designed and built complex back-end systems based on APIs and/or webservices in support of these websites. We are adept at:</p>
