@@ -1,0 +1,32 @@
+﻿---
+ID: "86b10c5d-0c3d-4a3a-9aef-5bff9f190ee9"
+Parent: "0b69ba82-29ac-4be7-a15c-b1ce26347cd9"
+Template: "e0ce9cc7-94ea-4825-86dd-b67487a46de1"
+Path: /sitecore/content/AIE/AIE Corporate Site/Data/AIE/About Us/Connect with us/Connect with us
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190701T111934Z
+    - ID: "57bf3e2e-78c4-480a-902d-d9a2dfac1ba8"
+      Hint: Image
+      Value: |
+        <image mediaid="{B5A61BE9-60E0-44F5-ABD2-0C26896FB45B}" ></image>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "becc4c67-0918-45c2-8f76-88345c1f7f46"
+      Hint: Title
+      Value: CONNECT WITH US
+    - ID: "f71cda17-8716-4d69-93f7-0bb931ce05ae"
+      Hint: Connect List
+      Type: Multilist
+      Value: |
+        {A9FF2910-B4A4-4A4C-9D8F-E2C81E27CE12}
+        {7DE689D5-148E-4160-8C7D-F2937C1CB874}
+        {87C5E5F8-0008-49F0-BF19-DBA8BC182F89}

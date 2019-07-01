@@ -20,8 +20,7 @@ Languages:
       Value: "Exp :"
     - ID: "aa990eb1-dee2-4b0b-9366-b5607c147200"
       Hint: Button
-      Value: |
-        <link text="APPLY NOW" linktype="anchor" url="JavaScript:Void(0)" anchor="JavaScript:Void(0)" title="" class="" />
+      Value: 
     - ID: "b1578035-981a-441e-88f2-35aa18d6805b"
       Hint: LocationTitle
       Value: "Location :"
