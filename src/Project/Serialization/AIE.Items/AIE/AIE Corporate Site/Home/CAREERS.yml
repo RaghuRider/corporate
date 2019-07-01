@@ -25,8 +25,21 @@ Languages:
           <d
             id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
             <r
-              uid="{BF815631-4557-4480-9E57-DF230C201C4A}"
+              uid="{E39DBC61-7416-4B1B-B069-56EDEFC5A3EA}"
               p:before="*"
+              s:ds="{3C63E239-4DE8-4615-8C1F-B1C35A2167D8}"
+              s:id="{6B5B0FE6-5C85-4487-BA7E-F8C2ECC186A8}"
+              s:par=""
+              s:ph="/main/container-7/sitecoreFormsWrapper-8" />
+            <r
+              uid="{5976FA9D-1E19-4756-8C6B-1BE4D11801B1}"
+              p:after="r[@uid='{E39DBC61-7416-4B1B-B069-56EDEFC5A3EA}']"
+              s:id="{6AB4EE29-CB78-4DCE-A316-3E6C3D5513F5}"
+              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;Styles&amp;RenderingIdentifier&amp;DynamicPlaceholderId=8"
+              s:ph="/main/container-7" />
+            <r
+              uid="{BF815631-4557-4480-9E57-DF230C201C4A}"
+              p:after="r[@uid='{5976FA9D-1E19-4756-8C6B-1BE4D11801B1}']"
               s:ds=""
               s:id="{8B0393E9-EE25-4F0B-A5FD-777B3AD2C737}"
               s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames&amp;Styles=%7BD874F1FF-8E9C-45CA-B29C-DC151E22A0C3%7D&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=2"
@@ -61,10 +74,16 @@ Languages:
               s:ph="main" />
             <r
               uid="{884787CD-2B0C-47D9-9F70-5E421DFF53AA}"
-              p:after="*[1=2]"
+              p:after="r[@uid='{6CAD575A-F128-405A-AAC4-C561155A85C2}']"
               s:ds="{7F8417BA-7536-4F5D-B3C1-84BC821AAF89}"
               s:id="{8B0393E9-EE25-4F0B-A5FD-777B3AD2C737}"
               s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7B9895F94E-63C8-44FC-B2D0-D133C9AF660D%7D&amp;Styles&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=5"
+              s:ph="main" />
+            <r
+              uid="{38FC9798-79FD-41AD-8EFA-0EF50FB68EAE}"
+              p:after="*[1=2]"
+              s:id="{896A2C68-1362-4E88-8BA0-1805AE6D4837}"
+              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;BackgroundImage&amp;Styles&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=7"
               s:ph="main" />
           </d>
         </r>
