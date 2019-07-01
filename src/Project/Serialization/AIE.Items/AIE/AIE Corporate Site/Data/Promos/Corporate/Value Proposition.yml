@@ -1,9 +1,13 @@
 ﻿---
 ID: "129e0786-1e34-4b73-8b5f-302d76234fb3"
-Parent: "3cc8bfcd-f7e1-42d6-93c2-e98772b9a815"
+Parent: "ed53763e-e2d9-4b8e-b30b-72a80cf54060"
 Template: "324733cf-afec-4281-9a18-03b6cfc4e535"
-Path: "/sitecore/content/AIE/AIE Corporate Site/Data/Promos/Corporate-ValueProposition"
+Path: /sitecore/content/AIE/AIE Corporate Site/Data/Promos/Corporate/Value Proposition
 DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 50
 Languages:
 - Language: en
   Versions:

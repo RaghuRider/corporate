@@ -4,6 +4,10 @@ Parent: "3cc8bfcd-f7e1-42d6-93c2-e98772b9a815"
 Template: "f07cbe89-73ae-4de6-9217-2570260cac6e"
 Path: /sitecore/content/AIE/AIE Corporate Site/Data/Promos/Partners
 DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 800
 Languages:
 - Language: en
   Versions:

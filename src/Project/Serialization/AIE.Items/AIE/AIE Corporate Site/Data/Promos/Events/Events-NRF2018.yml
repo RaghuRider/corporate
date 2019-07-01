@@ -1,9 +1,13 @@
 ﻿---
 ID: "eac33ed6-28af-4d10-8dc5-3cde8243da62"
-Parent: "3cc8bfcd-f7e1-42d6-93c2-e98772b9a815"
+Parent: "f2417cbe-2390-42be-ad28-eef3f7acf02e"
 Template: "324733cf-afec-4281-9a18-03b6cfc4e535"
-Path: "/sitecore/content/AIE/AIE Corporate Site/Data/Promos/Events-NRF2018"
+Path: "/sitecore/content/AIE/AIE Corporate Site/Data/Promos/Events/Events-NRF2018"
 DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 350
 Languages:
 - Language: en
   Versions:
