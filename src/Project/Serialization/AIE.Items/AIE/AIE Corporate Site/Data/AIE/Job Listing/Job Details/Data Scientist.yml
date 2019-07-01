@@ -32,23 +32,29 @@ Languages:
     - ID: "b4836c11-2322-4a1d-a690-12911e25e9f6"
       Hint: Job Description
       Value: |
-        <span style="background-color: #f4f4f4; color: #5f727f;">1. Provide expertise in the planning, constructing and execution of test scripts.</span><br style="color: #5f727f; background-color: #f4f4f4;" />
-        <span style="background-color: #f4f4f4; color: #5f727f;">2. Apply business and functional knowledge including testing standards, guidelines, and testing methodology to meet the teams overall test objectives.</span><br style="color: #5f727f; background-color: #f4f4f4;" />
-        <span style="background-color: #f4f4f4; color: #5f727f;">3. Ensure all testing results are easily accessible and understandable.</span><br style="color: #5f727f; background-color: #f4f4f4;" />
-        <span style="background-color: #f4f4f4; color: #5f727f;">4. Track defects to closure and keep defect repository up- to- date.</span><br style="color: #5f727f; background-color: #f4f4f4;" />
-        <span style="background-color: #f4f4f4; color: #5f727f;">- Overall 10+ years of which 5+ years exp in Sitecore 8.2 (architect), project(starting to release) , can Translate client requirements to Sitecore technical designs.</span><br style="color: #5f727f; background-color: #f4f4f4;" />
-        <span style="background-color: #f4f4f4; color: #5f727f;">- Exp of delivering large scale SiteCore engagements with extensive customization.</span><br style="color: #5f727f; background-color: #f4f4f4;" />
-        <span style="background-color: #f4f4f4; color: #5f727f;">- At least 3-6 projects experience implementing solutions using Sitecore with knowledge of best practices.</span><br style="color: #5f727f; background-color: #f4f4f4;" />
-        <span style="background-color: #f4f4f4; color: #5f727f;">- Experience with SITECORE Ver 8.1 and above.</span><br style="color: #5f727f; background-color: #f4f4f4;" />
-        <span style="background-color: #f4f4f4; color: #5f727f;">- Experience in .NET Framework 3.5 and above along with Proficiency in C# .NET MVC, COM, ASP.NET and SiteCore module skills.</span><br style="color: #5f727f; background-color: #f4f4f4;" />
-        <span style="background-color: #f4f4f4; color: #5f727f;">- Should have hands on experience of RESTful API.</span><br style="color: #5f727f; background-color: #f4f4f4;" />
-        <span style="background-color: #f4f4f4; color: #5f727f;">- Expert in SiteCore foundational concepts, Layouts, Sublayouts, Templates, Workflows and Security.</span><br style="color: #5f727f; background-color: #f4f4f4;" />
-        <span style="background-color: #f4f4f4; color: #5f727f;">- Javascript, Angular/React expertise is a big plus.</span><br style="color: #5f727f; background-color: #f4f4f4;" />
-        <span style="background-color: #f4f4f4; color: #5f727f;">- Good understanding of UX and UI design with an emphasis on intuitive, slick, modern designs.</span><br style="color: #5f727f; background-color: #f4f4f4;" />
-        <span style="background-color: #f4f4f4; color: #5f727f;">- They will create user information solutions by developing, implementing, and maintaining .NET based templates, components, and interfaces.</span><br style="color: #5f727f; background-color: #f4f4f4;" />
-        <span style="background-color: #f4f4f4; color: #5f727f;">- Drives technical analysis, design, coding and testing for development and support initiatives.</span><br style="color: #5f727f; background-color: #f4f4f4;" />
-        <span style="background-color: #f4f4f4; color: #5f727f;">- Drives Design and development of user interfaces to Internet/Intranet CMS applications by setting expectations and features priorities throughout development life cycle; determining design methodologies and tool sets; completing programming using languages and software products; designing and conducting tests.</span><br style="color: #5f727f; background-color: #f4f4f4;" />
-        <span style="background-color: #f4f4f4; color: #5f727f;">- Promotes standard patterns and practices to implement scalable, high performance application frameworks for enterprise applications.</span>
+        <div class="carrer-cont">
+        <ol>
+            <li>Provide expertise in the planning, constructing and execution of test scripts.</li>
+            <li>Apply business and functional knowledge including testing standards, guidelines, and testing methodology to meet the teams overall test objectives.</li>
+            <li>Ensure all testing results are easily accessible and understandable.</li>
+            <li>Track defects to closure and keep defect repository up- to- date.</li>
+            <ul>
+                <li>Overall 10+ years of which 5+ years exp in Sitecore 8.2 (architect), project(starting to release) , can Translate client requirements to Sitecore technical designs.</li>
+                <li>Exp of delivering large scale SiteCore engagements with extensive customization.</li>
+                <li>At least 3-6 projects experience implementing solutions using Sitecore with knowledge of best practices.</li>
+                <li>Experience with SITECORE Ver 8.1 and above.</li>
+                <li>Experience in .NET Framework 3.5 and above along with Proficiency in C# .NET MVC, COM, ASP.NET and SiteCore module skills.</li>
+                <li>Should have hands on experience of RESTful API.</li>
+                <li>Expert in SiteCore foundational concepts, Layouts, Sublayouts, Templates, Workflows and Security.</li>
+                <li>Javascript, Angular/React expertise is a big plus.</li>
+                <li>Good understanding of UX and UI design with an emphasis on intuitive, slick, modern designs.</li>
+                <li>They will create user information solutions by developing, implementing, and maintaining .NET based templates, components, and interfaces.</li>
+                <li>Drives technical analysis, design, coding and testing for development and support initiatives.</li>
+                <li>Drives Design and development of user interfaces to Internet/Intranet CMS applications by setting expectations and features priorities throughout development life cycle; determining design methodologies and tool sets; completing programming using languages and software products; designing and conducting tests.</li>
+                <li>Promotes standard patterns and practices to implement scalable, high performance application frameworks for enterprise applications.</li>
+            </ul>
+        </ol>
+        </div>
     - ID: "c5c8e313-007d-4456-870e-e4b11829720b"
       Hint: Technology Logo
       Value: |
