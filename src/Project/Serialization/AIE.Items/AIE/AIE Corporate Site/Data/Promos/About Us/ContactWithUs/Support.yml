@@ -33,5 +33,5 @@ Languages:
       Hint: PromoText2
       Value: |
         <div class="circleBase type3">
-        <em class="material-icons" style="font-size:48px;color:white;">place</em>
+        <em class="material-icons"></em>
         </div>

@@ -35,5 +35,5 @@ Languages:
       Hint: PromoText2
       Value: |
         <div class="circleBase type1">
-        <em class="about-service">mail_outline</em>
+        <em class="about-service"></em>
         </div>
