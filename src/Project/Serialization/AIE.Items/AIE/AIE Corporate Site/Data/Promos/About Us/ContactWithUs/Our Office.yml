@@ -1,0 +1,43 @@
+﻿---
+ID: "a9ff2910-b4a4-4a4c-9d8f-e2c81e27ce12"
+Parent: "2fdcb638-535c-4407-a2ff-5a2336866a4b"
+Template: "324733cf-afec-4281-9a18-03b6cfc4e535"
+Path: /sitecore/content/AIE/AIE Corporate Site/Data/Promos/About Us/ContactWithUs/Our Office
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "14023dd5-30e7-4e3c-bf31-d835f3a87410"
+      Hint: PromoText
+      Value: |
+        <div class="connectUs-item-title">
+        <h3>OUR OFFICE</h3>
+        </div>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190607T061726Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "832d3c97-5c05-49bf-89ef-9c29d30345e7"
+      Hint: PromoText3
+      Value: |
+        <div class="connectUs-item-text">
+        <p>Stop by for a visit and meet the team</p>
+        <br />
+        <br />
+        <p>2603 Camino Ramon, Suite 200, San Ramon 94583 </p>
+        </div>
+    - ID: "b59adc09-32a3-46f2-aede-b0c633979263"
+      Hint: PromoText2
+      Value: |
+        <div class="circleBase type2">
+        <em class="about-location">place</em>
+        </div>

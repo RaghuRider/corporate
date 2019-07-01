@@ -2,7 +2,7 @@
 ID: "ce83c3c7-d1bd-4e51-9f01-d7acead78d0a"
 Parent: "6124f1cc-0766-4cc6-b6b3-be4a72d9262e"
 Template: "fcd285da-9ab2-4c8d-b185-5a7487a9ba1b"
-Path: "/sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Promo/Events-NRF2018/div/div/div/div/div/p/PromoIcon"
+Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Promo/Events Promo/div/div/div/div/div/p/PromoIcon
 DB: master
 SharedFields:
 - ID: "4753764c-c05a-4623-841b-97f85135241c"
