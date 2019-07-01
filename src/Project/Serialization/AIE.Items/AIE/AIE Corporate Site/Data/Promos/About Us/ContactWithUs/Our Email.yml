@@ -1,8 +1,8 @@
 ﻿---
-ID: "87c5e5f8-0008-49f0-bf19-dba8bc182f89"
+ID: "7de689d5-148e-4160-8c7d-f2937c1cb874"
 Parent: "2fdcb638-535c-4407-a2ff-5a2336866a4b"
 Template: "324733cf-afec-4281-9a18-03b6cfc4e535"
-Path: /sitecore/content/AIE/AIE Corporate Site/Data/Promos/ContactWithUs/Support
+Path: /sitecore/content/AIE/AIE Corporate Site/Data/Promos/About Us/ContactWithUs/Our Email
 DB: master
 Languages:
 - Language: en
@@ -11,7 +11,10 @@ Languages:
     Fields:
     - ID: "14023dd5-30e7-4e3c-bf31-d835f3a87410"
       Hint: PromoText
-      Value: SUPPORT
+      Value: |
+        <div class="connectUs-item-title">
+        <h3>OUR EMAIL</h3>
+        </div>
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20190607T061726Z
@@ -21,11 +24,16 @@ Languages:
         sitecore\admin
     - ID: "832d3c97-5c05-49bf-89ef-9c29d30345e7"
       Hint: PromoText3
-      Value: place
+      Value: |
+        <div class="connectUs-item-text">
+        <p>We would love to hear from you</p>
+        <br />
+        <br />
+        <p>sales@aienterprise.com </p>
+        </div>
     - ID: "b59adc09-32a3-46f2-aede-b0c633979263"
       Hint: PromoText2
       Value: |
-        We are here for you 24x7x365<br />
-        <br />
-        Phone: +1 833-AIE-0247<br />
-        <br />
+        <div class="circleBase type1">
+        <em class="about-service">mail_outline</em>
+        </div>
