@@ -1,0 +1,18 @@
+﻿---
+ID: "2d56f439-13f0-499a-a4ca-26b02d8cbd8f"
+Parent: "b6f88eb7-a29f-4084-8b42-eb4eda82c057"
+Template: "8cddb194-f456-4a75-89b7-346f8f39f95c"
+Path: /sitecore/Forms/AIE/AIE Corporate Site/Profile Form/Page/modal/div/div/div body/form/p/label/span
+DB: master
+SharedFields:
+- ID: "7abaa3f6-6ec0-4b65-a463-7919bfae55aa"
+  Hint: Css Class
+  Value: "wpcf7-form-control-wrap your-email"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190618T130408Z

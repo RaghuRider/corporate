@@ -1,0 +1,27 @@
+﻿---
+ID: "ea5b1813-9fcf-4948-b301-1f48cf032b98"
+Parent: "cc74a151-2658-4067-b2ac-4bc5f83c367b"
+Template: "06510e4d-13dd-480a-909a-06392bdfa89e"
+Path: /sitecore/Forms/AIE/AIE Corporate Site/Profile Form/Page/modal/div/div/div header/header
+DB: master
+SharedFields:
+- ID: "589a7ade-81d4-4a60-b9e2-7eaf6ae8a563"
+  Hint: Field Type
+  Value: "{F6ABF2D4-D864-48D7-A464-75025A42162E}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190701T095246Z
+    - ID: "318b47e2-a908-4aad-b595-9dbdeeffbcf3"
+      Hint: Html
+      Value: |
+        <h4 class="modal-title">Upload Resume</h4>
+        <button type="button" class="close" data-dismiss="modal">&times;</button>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

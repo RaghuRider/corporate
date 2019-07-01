@@ -1,0 +1,18 @@
+﻿---
+ID: "fa575f87-9656-438e-a757-71e51f7ace3b"
+Parent: "1effadb7-0e4b-40a5-8bd6-1919b577dc41"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/Forms/AIE/AIE Corporate Site/Profile Form/Page/modal/div/div/div body/form/p/label/span/JobApplied/Settings
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190621T092220Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
