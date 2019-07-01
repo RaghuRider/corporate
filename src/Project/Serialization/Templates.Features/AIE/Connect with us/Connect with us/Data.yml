@@ -1,0 +1,18 @@
+﻿---
+ID: "5929cb3a-71e0-4a2d-937a-c19168934956"
+Parent: "e0ce9cc7-94ea-4825-86dd-b67487a46de1"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Feature/AIE/Connect with us/Connect with us/Data
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190701T102455Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
