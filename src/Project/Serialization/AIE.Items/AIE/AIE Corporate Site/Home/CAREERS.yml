@@ -66,20 +66,6 @@ Languages:
               s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7B9895F94E-63C8-44FC-B2D0-D133C9AF660D%7D&amp;Styles&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=6"
               s:ph="main" />
             <r
-              uid="{6CAD575A-F128-405A-AAC4-C561155A85C2}"
-              p:after="r[@uid='{51D4154A-406B-4DB5-B159-9D4658501663}']"
-              s:ds="{7F8417BA-7536-4F5D-B3C1-84BC821AAF89}"
-              s:id="{8B0393E9-EE25-4F0B-A5FD-777B3AD2C737}"
-              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7B9895F94E-63C8-44FC-B2D0-D133C9AF660D%7D&amp;Styles&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=4"
-              s:ph="main" />
-            <r
-              uid="{884787CD-2B0C-47D9-9F70-5E421DFF53AA}"
-              p:after="r[@uid='{6CAD575A-F128-405A-AAC4-C561155A85C2}']"
-              s:ds="{7F8417BA-7536-4F5D-B3C1-84BC821AAF89}"
-              s:id="{8B0393E9-EE25-4F0B-A5FD-777B3AD2C737}"
-              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7B9895F94E-63C8-44FC-B2D0-D133C9AF660D%7D&amp;Styles&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=5"
-              s:ph="main" />
-            <r
               uid="{38FC9798-79FD-41AD-8EFA-0EF50FB68EAE}"
               p:after="*[1=2]"
               s:id="{896A2C68-1362-4E88-8BA0-1805AE6D4837}"
