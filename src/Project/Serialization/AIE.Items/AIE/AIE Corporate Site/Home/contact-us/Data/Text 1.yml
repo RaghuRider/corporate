@@ -1,0 +1,25 @@
+﻿---
+ID: "3a58506f-ba91-47d6-a960-773bf8e76b82"
+Parent: "efcaa539-8b53-48bf-96c2-bf8b91107576"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: "/sitecore/content/AIE/AIE Corporate Site/Home/contact-us/Data/Text 1"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190702T070719Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: |
+        <br />
+        <br />
+        <p>INDIA OFFICE</p>
+        <br />
