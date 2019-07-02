@@ -32,17 +32,19 @@ Languages:
       Hint: Job Description
       Value: |
         <div class="carrer-cont">
-        <p>Expert in cleansing data, removing anomalies, selecting features, reducing dimensions, building/optimizing classifiers, correlating hard business / technology generated data with social media data (like tweets / blogs / posts / etc.) to discover hidden or unseen data or trend from vast amounts of data by applying various data mining techniques, statistical analysis and thus building high quality prediction systems.</p>
-        <p>Excellent understanding of machine and deep learning concepts / techniques like k-NN, SVM, Decision Forests, linear regression models, gradient descent, etc.</p>
-        <p>Experience in using data science tools like R, Python, Matlab / Octave (at least one of them)</p>
-        <p>Knowledge of NoSQL databases such as MongoDB, Cassandra, Hbase, etc.</p>
-        <p>Knowledge of Hadoop stack, Spark, Map-Reduce, Hive, Pig, Shell Scripting and familiarity Unix/Linux OS.</p>
-        <p>Good understanding of relational databases with ability to write/ modify complex SQL queries to generate required datasets and tune query performance.</p>
-        <p>Understands dimensional data model, logical data model and physical data model for analytics and reporting. Understands data design that supports integration of data and information flow across various applications, systems and platforms.</p>
-        <p>Strong analytical and problem solving skills. Should provide solutions to complex problems without known solutions.</p>
-        <p>Excellent communication skills and capability to effectively work with both Business and Technology teams.</p>
-        <p>Qualification &ndash; Degree in applied math, statistics, engineering, computer science or other quantitative field required. PhD or MS/MTech preferred.</p>
-        <p>BE / BTECH in MIS, CS or related field. 5+ years of technology experience as a Data Scientist</p>
+        <ol>
+            <li>Expert in cleansing data, removing anomalies, selecting features, reducing dimensions, building/optimizing classifiers, correlating hard business / technology generated data with social media data (like tweets / blogs / posts / etc.) to discover hidden or unseen data or trend from vast amounts of data by applying various data mining techniques, statistical analysis and thus building high quality prediction systems.</li>
+        <li>Excellent understanding of machine and deep learning concepts / techniques like k-NN, SVM, Decision Forests, linear regression models, gradient descent, etc.</li>
+        <li>Experience in using data science tools like R, Python, Matlab / Octave (at least one of them)</li>
+        <li>Knowledge of NoSQL databases such as MongoDB, Cassandra, Hbase, etc.</li>
+        <li>Knowledge of Hadoop stack, Spark, Map-Reduce, Hive, Pig, Shell Scripting and familiarity Unix/Linux OS.</li>
+        <li>Good understanding of relational databases with ability to write/ modify complex SQL queries to generate required datasets and tune query performance.</li>
+        <li>Understands dimensional data model, logical data model and physical data model for analytics and reporting. Understands data design that supports integration of data and information flow across various applications, systems and platforms.</li>
+        <li>Strong analytical and problem solving skills. Should provide solutions to complex problems without known solutions.</li>
+        <li>Excellent communication skills and capability to effectively work with both Business and Technology teams.</li>
+        <li>Qualification &ndash; Degree in applied math, statistics, engineering, computer science or other quantitative field required. PhD or MS/MTech preferred.</li>
+        <li>BE / BTECH in MIS, CS or related field. 5+ years of technology experience as a Data Scientist</li>
+        </ol>
         </div>
     - ID: "c5c8e313-007d-4456-870e-e4b11829720b"
       Hint: Technology Logo
