@@ -19,27 +19,30 @@ Languages:
     - ID: "b3635965-6786-457c-9dee-28de73c0a331"
       Hint: Text
       Value: |
-        <div class="col-9 contactus">
-        <div class="col-3 contactus-right">
+        <div class="col-12 contactus">
+        <div class="col-4 contactus-right">
         <div class="contacts-address">
         <ul class="contact-list">
             <li class="gem-contacts-item gem-contacts-address">Address:</li>
             <li> 2603 Camino Ramon, </li>
             <li>Suite 200,</li>
-            <li> San Ramon 94583</li>
+            <li> San Ramon</li>
+            <li> 94583</li>
         </ul>
         </div>
         </div>
-        <div class="col-3 icon-cont">
-        <ul class="contact-left-list">
-            <li class="con-sales"><a href="mailto:Sales@aienterprise.com">sales@aienterprise.com</a></li>
-            <li class="con-enter"><a href="~/link.aspx?_id=CC1BC5E455124B8EB38E7856E6604CD5&amp;_z=z">www.aienterprise.com</a></li>
-        </ul>
+        <div class="col-4 icon-cont">
+        <div class="gem-contacts-item gem-contacts-phone address">
+        <p>Phone:&nbsp; <a href="tel:+1 (833) 243-0247">+1 833-AIE-0247</a></p>
         </div>
-        <div class="col-3 contact-icon">
-        <ul>
-            <li><a></a></li>
-            <li><a></a></li>
+        <div class="gem-contacts-item gem-contacts-email address"><a href="mailto:sales@aienterprise.com">sales@aienterprise.com</a></div>
+        <div class="gem-contacts-item gem-contacts-website address"><a href="https://www.aienterprise.com">www.aienterprise.com</a></div>
+        </div>
+        <div class="col-4 contact-icon">
+        <ul class="contacts-social-icons">
+            <li class="facebook-icon fa fa-facebook-square"><a></a></li>
+            <li class="linkedin-icon fa fa-linkedin-square"><a></a></li>
+            <li class="twitter-icon fa fa-twitter-square"><a></a></li>
         </ul>
         </div>
         </div>
