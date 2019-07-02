@@ -19,10 +19,10 @@ Languages:
     - ID: "b3635965-6786-457c-9dee-28de73c0a331"
       Hint: Text
       Value: |
-        <div class="col-9">
-        <div class="col-3">
+        <div class="col-9 contactus">
+        <div class="col-3 contactus-right">
         <div class="contacts-address">
-        <ul>
+        <ul class="contact-list">
             <li class="gem-contacts-item gem-contacts-address">Address:</li>
             <li> 2603 Camino Ramon, </li>
             <li>Suite 200,</li>
@@ -31,7 +31,7 @@ Languages:
         </div>
         </div>
         <div class="col-3 icon-cont">
-        <ul>
+        <ul class="contact-left-list">
             <li class="con-sales"><a href="mailto:Sales@aienterprise.com">sales@aienterprise.com</a></li>
             <li class="con-enter"><a href="~/link.aspx?_id=CC1BC5E455124B8EB38E7856E6604CD5&amp;_z=z">www.aienterprise.com</a></li>
         </ul>
