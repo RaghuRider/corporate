@@ -9,12 +9,15 @@ SharedFields:
   Hint: Validations
   Type: Treelist
   Value: 
+- ID: "467c22b4-b1a2-4620-b8bb-74c2d8b369fc"
+  Hint: Label Css Class
+  Value: "career-label-fileupload"
 - ID: "589a7ade-81d4-4a60-b9e2-7eaf6ae8a563"
   Hint: Field Type
   Value: "{687A7B09-47E3-4FAA-AB2D-A4BF83DB0F1B}"
 - ID: "7abaa3f6-6ec0-4b65-a463-7919bfae55aa"
   Hint: Css Class
-  Value: "wpcf7-form-control wpcf7-file wpcf7-validates-as-required"
+  Value: "career-field-fileupload"
 - ID: "8a43af61-0812-4b37-a343-96cde3f12bb1"
   Hint: Required
   Type: Checkbox
