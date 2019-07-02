@@ -7,7 +7,7 @@ DB: master
 SharedFields:
 - ID: "21ed172d-97e2-4ac4-8eaf-0a8860b891f4"
   Hint: Default Selection
-  Value: "{F9338549-53F1-44D6-8846-E408011A4C78}"
+  Value: 
 - ID: "8a43af61-0812-4b37-a343-96cde3f12bb1"
   Hint: Required
   Type: Checkbox

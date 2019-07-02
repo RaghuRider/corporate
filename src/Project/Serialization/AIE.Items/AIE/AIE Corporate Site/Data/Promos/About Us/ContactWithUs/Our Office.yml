@@ -39,5 +39,5 @@ Languages:
       Hint: PromoText2
       Value: |
         <div class="circleBase type2">
-        <em class="about-location">place</em>
+        <div class="about-location">&nbsp;</div>
         </div>
