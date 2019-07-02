@@ -33,5 +33,5 @@ Languages:
       Hint: PromoText2
       Value: |
         <div class="circleBase type1">
-        <div class="about-service">&nbsp;</div>
+        <em class="fa fa-envelope" aria-hidden="true"></em>
         </div>

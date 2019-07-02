@@ -37,5 +37,5 @@ Languages:
       Hint: PromoText2
       Value: |
         <div class="circleBase type2">
-        <div class="about-location">&nbsp;</div>
+        <em class="fa fa-map-marker" aria-hidden="true"></em>
         </div>
