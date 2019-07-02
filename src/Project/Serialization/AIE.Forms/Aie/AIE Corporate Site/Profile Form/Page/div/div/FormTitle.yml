@@ -7,7 +7,7 @@ DB: master
 SharedFields:
 - ID: "7abaa3f6-6ec0-4b65-a463-7919bfae55aa"
   Hint: Css Class
-  Value: "ult_modal-title ult-responsive"
+  Value: "career-field-title"
 - ID: "c6caa979-c3ac-4ffc-861e-2961f5fc3c48"
   Hint: Html Tag
   Value: h3

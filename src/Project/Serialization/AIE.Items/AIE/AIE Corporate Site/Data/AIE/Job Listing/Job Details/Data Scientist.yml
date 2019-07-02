@@ -31,6 +31,7 @@ Languages:
     - ID: "b4836c11-2322-4a1d-a690-12911e25e9f6"
       Hint: Job Description
       Value: |
+        <div class="carrer-cont">
         <p>Expert in cleansing data, removing anomalies, selecting features, reducing dimensions, building/optimizing classifiers, correlating hard business / technology generated data with social media data (like tweets / blogs / posts / etc.) to discover hidden or unseen data or trend from vast amounts of data by applying various data mining techniques, statistical analysis and thus building high quality prediction systems.</p>
         <p>Excellent understanding of machine and deep learning concepts / techniques like k-NN, SVM, Decision Forests, linear regression models, gradient descent, etc.</p>
         <p>Experience in using data science tools like R, Python, Matlab / Octave (at least one of them)</p>
@@ -42,6 +43,7 @@ Languages:
         <p>Excellent communication skills and capability to effectively work with both Business and Technology teams.</p>
         <p>Qualification &ndash; Degree in applied math, statistics, engineering, computer science or other quantitative field required. PhD or MS/MTech preferred.</p>
         <p>BE / BTECH in MIS, CS or related field. 5+ years of technology experience as a Data Scientist</p>
+        </div>
     - ID: "c5c8e313-007d-4456-870e-e4b11829720b"
       Hint: Technology Logo
       Value: |
