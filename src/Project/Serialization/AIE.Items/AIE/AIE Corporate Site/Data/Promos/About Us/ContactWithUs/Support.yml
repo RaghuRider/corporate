@@ -31,5 +31,5 @@ Languages:
       Hint: PromoText2
       Value: |
         <div class="circleBase type3">
-        <em class="fas fa-headset"></em>
+        <em class="fa fa-headphones fa_custom fa-3x"></em>
         </div>
