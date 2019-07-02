@@ -4,6 +4,10 @@ Parent: "24308d92-9e8c-47c9-9328-83078011786f"
 Template: "8e1f74db-15c0-43f3-85f0-86e4651df912"
 Path: /sitecore/content/AIE/AIE Corporate Site/Data/IFrames/Contactus Maps/US Office
 DB: master
+SharedFields:
+- ID: "a791f095-2521-4b4d-bef9-21dda221f608"
+  Hint: __Style
+  Value: 
 Languages:
 - Language: en
   Versions:

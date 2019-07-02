@@ -19,7 +19,4 @@ Languages:
     - ID: "b3635965-6786-457c-9dee-28de73c0a331"
       Hint: Text
       Value: |
-        <br />
-        <br />
-        <p>US OFFICE</p>
-        <br />
+        <p class="us-para">US OFFICE</p>

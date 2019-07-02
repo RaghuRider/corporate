@@ -20,6 +20,4 @@ Languages:
       Hint: Text
       Value: |
         <br />
-        <br />
-        <p>INDIA OFFICE</p>
-        <br />
+        <p class="india-para">INDIA OFFICE</p>
