@@ -7,7 +7,7 @@ DB: master
 SharedFields:
 - ID: "7abaa3f6-6ec0-4b65-a463-7919bfae55aa"
   Hint: Css Class
-  Value: 
+  Value: "div-job-applied"
 Languages:
 - Language: en
   Versions:
