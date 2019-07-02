@@ -2,7 +2,7 @@
 ID: "ed491f54-14cd-48ab-ab85-b872b5254a75"
 Parent: "618bf784-2736-4233-bae2-3be3990391a9"
 Template: "7c02e9f5-54b5-4ef4-bd10-f4c5d448a48c"
-Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Page Content/Job Listing Variant/div/Job Listing/div/div/Button/text
+Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Page Content/Job Listing Variant/div/Job Listing/div/div/div/Button/text
 DB: master
 SharedFields:
 - ID: "1aa68c0b-eb67-4575-9ca8-1689c2aff091"
