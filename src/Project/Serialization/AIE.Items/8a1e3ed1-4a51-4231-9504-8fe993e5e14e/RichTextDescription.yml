@@ -23,27 +23,20 @@ Languages:
     - ID: "b3635965-6786-457c-9dee-28de73c0a331"
       Hint: Text
       Value: |
-        <div class="wpb_column vc_column_container vc_col-sm-8">
-        <div class="vc_column-inner ">
-        <div class="wpb_wrapper">
-        <div class="wpb_text_column wpb_content_element ">
-        <div class="wpb_wrapper">
-        <h4>AI Engine</h4>
-        <p class="p1"><span class="s1"><img class="alignright wp-image-25412" src="../../staging/wp-content/uploads/2018/01/AI-Engine-300x218.png" alt="AI Engine image by AIEnterprise" width="356" height="259" srcset="https://www.aienterprise.com/wp-content/uploads/2018/01/AI-Engine-300x218.png 300w, https://www.aienterprise.com/wp-content/uploads/2018/01/AI-Engine-768x558.png 768w, https://www.aienterprise.com/wp-content/uploads/2018/01/AI-Engine-1024x744.png 1024w, https://www.aienterprise.com/wp-content/uploads/2018/01/AI-Engine.png 1487w" sizes="(max-width: 356px) 100vw, 356px" />Our AI Engine </span><span class="s2">is a state machine that is capable of real-time engagement</span><span class="s3"></span><span class="s2">regardless of any customer touch-point. The secret sauce behind this machine</span><span class="s3"></span><span class="s2">is the ability to compute in</span><span class="s3"></span><span class="s2">real-time and output customer states,</span><span class="s3"></span><span class="s2">which is consumed by the automation engine to respond based on rules</span><span class="s3"></span><span class="s2">for any kind of customer request. Everything in real-time. 24/7.<span class="Apple-converted-space">&nbsp; </span>This results in a gamut of the most productive segmentation possible and reports on affinities that you probably did not know existed. </span></p>
-        <p class="p1"><span class="s1">Most solutions are bundled silos which create latency and inaccuracy,&nbsp;bringing down the effectiveness of your business. Plumb5 offers a&nbsp;</span><span class="s2">perfect platform</span><span class="s1">&nbsp;to unify&nbsp;your data so that accuracy in&nbsp;</span><span class="s3">customer engagement automation</span><span class="s1">&nbsp;is upheld and a seamless machine driven decisive system enhance your business.</span></p>
-        </div>
-        </div>
-        <div class="clearboth">&nbsp;</div>
-        <div class="gem-divider ">&nbsp;</div>
-        <div class="clearboth">&nbsp;</div>
-        <div class="gem-divider " style="margin-top: 40px;">&nbsp;</div>
-        <div class="wpb_text_column wpb_content_element ">
-        <div class="wpb_wrapper">
-        <h4>Google Adwords, Facebook, Instagram and the rest of Social Media</h4>
-        <p><strong style="font-size: 18px;"><br />
-        </strong><span class="s1"><img class="alignleft wp-image-25413" src="../../staging/wp-content/uploads/2018/01/social-media-300x196.png" alt="Google Adwords, Facebook, Instagram image by AI Enterprise" width="347" height="227" srcset="https://www.aienterprise.com/wp-content/uploads/2018/01/social-media-300x196.png 300w, https://www.aienterprise.com/wp-content/uploads/2018/01/social-media-768x502.png 768w, https://www.aienterprise.com/wp-content/uploads/2018/01/social-media.png 798w" sizes="(max-width: 347px) 100vw, 347px" />Once you know what segments are the most productive, investing in Digital Marketing and Social Media Marketing becomes a no-brainer.<span class="Apple-converted-space">&nbsp; </span>It also becomes much more productive than doing it the old way.<span class="Apple-converted-space">&nbsp; </span>You know, without AI, looking at long reports and trying to guess what would work.<span class="Apple-converted-space">&nbsp; </span>We have partnerships with many different Social Media apps worldwide.<span class="Apple-converted-space">&nbsp; </span>We speak your language.<span class="Apple-converted-space">&nbsp; </span>In some cases, we can even forecast your ROI.</span></p>
+        <div class="col-lg-12">
+        <div class="col-lg-8">
+        <div class="aie-engine">
+        <h3 class="aie-engine-header">
+        AI Engine
+        </h3>
+        <span><img height="558" alt="AI-Engine" width="768" src="-/media/B568BD4D7001464FA1A9CBEC9979A643.ashx" /></span>
+        <p>
+        Our AI Engine is a state machine that is capable of real-time engagement regardless of any customer touch-point. The secret sauce behind this machine is the ability to compute in real-time and output customer states, which is consumed by the automation engine to respond based on rules for any kind of customer request. Everything in real-time. 24/7.  This results in a gamut of the most productive segmentation possible and reports on affinities that you probably did not know existed.
+        </p>
+        <p>
+        Our AI Engine is a state machine that is capable of real-time engagement regardless of any customer touch-point. The secret sauce behind this machine is the ability to compute in real-time and output customer states, which is consumed by the automation engine to respond based on rules for any kind of customer request. Everything in real-time. 24/7.  This results in a gamut of the most productive segmentation possible and reports on affinities that you probably did not know existed.
+        </p>
         </div>
         </div>
         </div>
-        </div>
-        </div>
+        <div class="row">&nbsp;</div>

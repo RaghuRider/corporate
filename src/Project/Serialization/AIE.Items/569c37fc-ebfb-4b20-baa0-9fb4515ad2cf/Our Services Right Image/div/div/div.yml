@@ -1,13 +1,13 @@
 ﻿---
-ID: "e1b4a1fc-397d-4cfa-99ae-19262b42ab99"
-Parent: "4e66e19a-d342-4fa5-a03a-2b7056fba733"
+ID: "a9a0edac-ff24-419a-b84b-98d0fdb2eea9"
+Parent: "0c604685-80fa-4ebc-91e9-972dcbf92ce7"
 Template: "aca5c9a3-cda0-49b6-893f-1d4a7cb595b0"
-Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Promo/Event Promo Card/div/div/div
+Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Promo/Our Services Right Image/div/div/div
 DB: master
 SharedFields:
 - ID: "bea2740e-90d1-4b16-bd1d-7a7cc8605d2d"
   Hint: CssClass
-  Value: "back-image2"
+  Value: "header-content2"
 Languages:
 - Language: en
   Versions:
@@ -15,4 +15,4 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20190606T121856Z
+      Value: 20190606T122855Z
