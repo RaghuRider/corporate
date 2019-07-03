@@ -1,8 +1,8 @@
 ﻿---
 ID: "6d272ee4-e636-4690-bae6-2376b1b6bb75"
-Parent: "e43a0b17-3e0b-4416-b38c-65e2c3315f12"
+Parent: "2a3ec7c3-052b-4f6f-ba5c-63c083d5ad8a"
 Template: "fcd285da-9ab2-4c8d-b185-5a7487a9ba1b"
-Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Page Content/Connect With Us/div/div/div/div/div/div/Connect List/Icon
+Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Page Content/Connect With Us/div/div/div/div/div/Connect List/div/Icon
 DB: master
 SharedFields:
 - ID: "4753764c-c05a-4623-841b-97f85135241c"

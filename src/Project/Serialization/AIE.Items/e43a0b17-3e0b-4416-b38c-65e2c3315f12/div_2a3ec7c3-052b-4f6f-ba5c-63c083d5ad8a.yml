@@ -1,10 +1,13 @@
 ﻿---
 ID: "2a3ec7c3-052b-4f6f-ba5c-63c083d5ad8a"
-Parent: "33398e19-c71e-473f-aad6-e52f4a81a7e6"
+Parent: "e43a0b17-3e0b-4416-b38c-65e2c3315f12"
 Template: "aca5c9a3-cda0-49b6-893f-1d4a7cb595b0"
-Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Page Content/Connect With Us/div/div/div/div/div/div
+Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Page Content/Connect With Us/div/div/div/div/div/Connect List/div
 DB: master
 SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: "-100"
 - ID: "bea2740e-90d1-4b16-bd1d-7a7cc8605d2d"
   Hint: CssClass
   Value: "connect-main-4"
