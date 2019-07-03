@@ -24,21 +24,21 @@ Languages:
             <r
               uid="{BCA57E55-6712-4177-A95F-8D84617AE3EE}"
               p:before="*"
-              s:ds="{ACB69EFF-F18D-4455-AAD7-958663C9CD5A}"
+              s:ds="/sitecore/content/AIE/AIE Corporate Site/Data/Promos/OurServicePremiumBusiness/Microservice Readiness Assessment"
               s:id="{51C13F03-8364-4F61-B860-2EC6CA7439B3}"
               s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7B985A039D-EE4A-4161-9213-8D37DDAD6F87%7D&amp;Styles&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=4"
               s:ph="/section-content/column-2-1" />
             <r
               uid="{CA89C50A-92CD-4492-892C-590AA4B2E4BB}"
               p:after="r[@uid='{BCA57E55-6712-4177-A95F-8D84617AE3EE}']"
-              s:ds="{38C64311-304E-442D-A8D4-4F90764A137E}"
+              s:ds="/sitecore/content/AIE/AIE Corporate Site/Data/Promos/OurServicePremiumBusiness/Customer Engagement Assessment"
               s:id="{51C13F03-8364-4F61-B860-2EC6CA7439B3}"
               s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7B985A039D-EE4A-4161-9213-8D37DDAD6F87%7D&amp;Styles&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=3"
               s:ph="/section-content/column-3-1" />
             <r
               uid="{5308E4EE-73B6-40CF-B0D6-3E51D1AA36D2}"
               p:after="r[@uid='{CA89C50A-92CD-4492-892C-590AA4B2E4BB}']"
-              s:ds="{5E67FB05-F956-4D15-B3E8-28C4D5315612}"
+              s:ds="/sitecore/content/AIE/AIE Corporate Site/Data/Promos/OurServicePremiumBusiness/Road Map Construction"
               s:id="{51C13F03-8364-4F61-B860-2EC6CA7439B3}"
               s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7B985A039D-EE4A-4161-9213-8D37DDAD6F87%7D&amp;Styles&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=2"
               s:ph="/section-content/column-1-1" />
