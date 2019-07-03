@@ -1,13 +1,16 @@
 ﻿---
-ID: "a8b41209-9dd5-4f86-9436-c0986561eb0a"
+ID: "d8c64b1a-78c3-4795-886c-253d62fa46ea"
 Parent: "f64293ae-714e-4c8d-8112-32d1f23c4bf2"
 Template: "fcd285da-9ab2-4c8d-b185-5a7487a9ba1b"
-Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Page Content/Connect With Us/div/div/div/div/div/Connect List/div/div/Title
+Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Page Content/Connect With Us/div/div/div/div/div/div/Connect List/div/div/Description
 DB: master
 SharedFields:
 - ID: "4753764c-c05a-4623-841b-97f85135241c"
   Hint: FieldName
-  Value: PromoText
+  Value: PromoText3
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
 - ID: "db805bdc-8eec-4238-b174-2427b6f1f077"
   Hint: Tag
   Value: 
@@ -18,4 +21,4 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20190701T112643Z
+      Value: 20190701T112656Z
