@@ -2,8 +2,12 @@
 ID: "28180243-17fd-46bb-900b-7272ac4e74da"
 Parent: "569c37fc-ebfb-4b20-baa0-9fb4515ad2cf"
 Template: "fb3e3034-33f8-4ce8-be98-dd05010f4c22"
-Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Promo/Our Services Right Image
+Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Promo/Ai Engine Resuable
 DB: master
+SharedFields:
+- ID: "e1d5adba-8348-4127-9bb6-455936653839"
+  Hint: CssClass
+  Value: "analytics-aiengine"
 Languages:
 - Language: en
   Versions:
