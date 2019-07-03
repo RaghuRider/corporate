@@ -22,6 +22,10 @@ Languages:
         {08EC6860-512E-49ED-998F-8DD982737655}
         {C0C54C58-4434-467E-81A5-7A2388CCBD16}
         {E4ADF296-89CC-4AD0-B097-8B669AF24821}
+    - ID: "414526f7-42c2-4054-861c-11d46a3b010c"
+      Hint: Description
+      Value: |
+        <svg width="140" height="70"><path d="M 0,0 Q 65,5 70,70 Q 75,5 140,0"></path></svg>
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
