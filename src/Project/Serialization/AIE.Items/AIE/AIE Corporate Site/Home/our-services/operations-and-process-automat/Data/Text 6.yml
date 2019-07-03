@@ -1,0 +1,24 @@
+﻿---
+ID: "c6ddceb3-2748-46dc-8cc8-ce5d9feef1f1"
+Parent: "60e5e567-7160-4eb0-883e-0f0ba276bd41"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: "/sitecore/content/AIE/AIE Corporate Site/Home/our-services/operations-and-process-automations/Data/Text 6"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190703T140504Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: |
+        <h2 class="event-headline field-promotext">Optimization Services</h2>
+        <p>We are experts on fine tuning Performance.  We can help you prepare for holiday readiness to make sure you spend your Black Friday and Cyber Monday focusing on your business and not on any down time.  We can prescribe Edge caching, Stateful-to-Stateless component migration, client-side session management and performance tuning.
+        </p>
