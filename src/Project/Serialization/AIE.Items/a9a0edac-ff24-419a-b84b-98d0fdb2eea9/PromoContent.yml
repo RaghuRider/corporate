@@ -2,7 +2,7 @@
 ID: "4c4ba550-5a16-4c53-963e-f50ff6b70d05"
 Parent: "a9a0edac-ff24-419a-b84b-98d0fdb2eea9"
 Template: "fcd285da-9ab2-4c8d-b185-5a7487a9ba1b"
-Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Promo/Ai Engine/div/div/div/PromoContent
+Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Promo/Our Services Right Image/div/div/div/PromoContent
 DB: master
 SharedFields:
 - ID: "4753764c-c05a-4623-841b-97f85135241c"
@@ -13,7 +13,7 @@ SharedFields:
   Value: 75
 - ID: "db805bdc-8eec-4238-b174-2427b6f1f077"
   Hint: Tag
-  Value: "{6C08DBD3-67FF-454C-B526-1EE5F77D5093}"
+  Value: 
 Languages:
 - Language: en
   Versions:
