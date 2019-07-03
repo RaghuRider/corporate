@@ -1,0 +1,33 @@
+﻿---
+ID: "ffb4a14e-35ff-40d6-9540-3ec69c8c59e3"
+Parent: "2082c55a-92de-48e2-850c-6c40b783c8ac"
+Template: "324733cf-afec-4281-9a18-03b6cfc4e535"
+Path: /sitecore/content/AIE/AIE Corporate Site/Data/Promos/Our Services/Cloud Migration
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "14023dd5-30e7-4e3c-bf31-d835f3a87410"
+      Hint: PromoText
+      Value: Cloud Migration
+    - ID: "18f9beb8-0116-40fd-b47e-fd0a2327d7e0"
+      Hint: PromoIcon
+      Value: |
+        <image mediaid="{AFA8DCA0-7802-4F5C-A5D0-04E868FC8C2F}" ></image>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190703T113623Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "832d3c97-5c05-49bf-89ef-9c29d30345e7"
+      Hint: PromoText3
+      Value: |
+        <p>Cloud migration includes full containerization of core components and automated deployment, scaling &amp; monitoring for Oracle Commerce, without compromising the proven architecture of this leading commerce platform. Our practitioners have years of experience deploying, optimizing, extending and integrating ATG, Endeca and Oracle Commerce. It is that experience we leveraged to overcome the challenges that have prevented others to bring Oracle Commerce to cloud with the scale and features you expect from this platform and the benefits of elasticity you should demand from cloud.</p>
+        <p class="description-second">Successful migration to cloud requires the ability to develop, test, deploy, configure and monitor remotely and efficiently. These are aspects of the program that bring great value to organizations even before migrating the production system to cloud.  AIEnterprise provides automation experts to ready your organization for continuous operations and improvements in scale, performance, and efficiency as they initially migrate your lower environments. This accelerates the return on investment our customers reap throughout the transformation, allowing them to leverage DevOps and increase their agility with smaller but more numerous teams utilizing development and testing environments provisioned and released on demand.</p>
+    - ID: "b59adc09-32a3-46f2-aede-b0c633979263"
+      Hint: PromoText2
+      Value: "<p>Moving your operations to the cloud doesn’t have to be a nebulous affair. Our Oracle Commerce experts can help you realize the oft-touted operational and financial benefits of cloud migration without abandoning your prized on-premise investment.  In addition to the numerous offerings provided to augment your current commerce platform with cloud-based extensions and integrations, AIEnterprise can bring its tested methodology for deploying Oracle Commerce in a number of public clouds.</p>"
