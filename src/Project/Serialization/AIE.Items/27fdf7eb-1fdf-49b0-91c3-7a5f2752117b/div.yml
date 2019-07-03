@@ -10,7 +10,7 @@ SharedFields:
   Value: "-100"
 - ID: "bea2740e-90d1-4b16-bd1d-7a7cc8605d2d"
   Hint: CssClass
-  Value: "corporate-text-left"
+  Value: "corporate-text-left aiengine-left"
 Languages:
 - Language: en
   Versions:
