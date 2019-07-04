@@ -1,8 +1,8 @@
 ﻿---
-ID: "4d4ed764-2adb-4a8b-a1c2-7422db05ee5d"
+ID: "569496be-b2bd-4e28-b9ef-5ad142621d3a"
 Parent: "e160993c-5973-4d14-8982-f022d70fb7e5"
 Template: "9921ad64-12f4-4c8f-99a0-3151e49a3536"
-Path: /sitecore/content/AIE/AIE Corporate Site/Data/AIE/Why AIE/PARTNERSHIPS
+Path: /sitecore/content/AIE/AIE Corporate Site/Data/AIE/Home/Why AIE/GLOBAL REACH
 DB: master
 Languages:
 - Language: en
@@ -14,11 +14,11 @@ Languages:
       Value: 20190614T055339Z
     - ID: "29676470-6390-48a6-b6d2-047287940c15"
       Hint: Description
-      Value: We only choose the best in the market
+      Value: We are keenly positioned to take care of you 24×7
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\admin
     - ID: "6ccfe3a3-ff86-46d7-a2c9-2fca2fbbb21d"
       Hint: Text
-      Value: PARTNERSHIPS
+      Value: GLOBAL REACH
