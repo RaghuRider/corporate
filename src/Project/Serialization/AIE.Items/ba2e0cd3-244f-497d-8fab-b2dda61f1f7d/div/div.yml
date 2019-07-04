@@ -4,6 +4,10 @@ Parent: "1bc1e3b6-02ff-49bf-801d-c63aa121fade"
 Template: "aca5c9a3-cda0-49b6-893f-1d4a7cb595b0"
 Path: "/sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Page Content/Home-WhatWeDo/Section/div/div/Blogs/div/div"
 DB: master
+SharedFields:
+- ID: "bea2740e-90d1-4b16-bd1d-7a7cc8605d2d"
+  Hint: CssClass
+  Value: 
 Languages:
 - Language: en
   Versions:
