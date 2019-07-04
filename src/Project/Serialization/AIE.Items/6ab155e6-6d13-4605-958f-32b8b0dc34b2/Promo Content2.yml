@@ -1,0 +1,18 @@
+﻿---
+ID: "14b1728e-43b9-4f0e-a6f3-701bd323910e"
+Parent: "6ab155e6-6d13-4605-958f-32b8b0dc34b2"
+Template: "fcd285da-9ab2-4c8d-b185-5a7487a9ba1b"
+Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Promo/Commerce Cube/div/div/Promo Content2
+DB: master
+SharedFields:
+- ID: "4753764c-c05a-4623-841b-97f85135241c"
+  Hint: FieldName
+  Value: PromoText3
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190624T102923Z
