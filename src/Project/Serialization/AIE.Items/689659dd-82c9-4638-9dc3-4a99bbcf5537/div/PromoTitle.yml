@@ -1,22 +1,22 @@
 ﻿---
-ID: "ae792050-b420-4c84-b22a-5db8744bc773"
-Parent: "63c24d3f-a906-4678-bc94-72eb774ac67d"
+ID: "ad6e3eae-6ef6-4bd0-9c14-8042a15639bf"
+Parent: "7855bb23-ca15-4ddd-a5a5-93cf59127f09"
 Template: "fcd285da-9ab2-4c8d-b185-5a7487a9ba1b"
-Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Promo/Google Adwords/div/div/div/PromoContent
+Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Promo/Cloud Migration/div/div/div/PromoTitle
 DB: master
 SharedFields:
 - ID: "4753764c-c05a-4623-841b-97f85135241c"
   Hint: FieldName
-  Value: "PromoText2  google-promo "
+  Value: PromoText
 - ID: "7495124d-09b5-4cb3-b4a6-fe77a95827da"
   Hint: CssClass
-  Value: "event-para"
+  Value: "corporate-headline"
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
-  Value: 75
+  Value: 50
 - ID: "db805bdc-8eec-4238-b174-2427b6f1f077"
   Hint: Tag
-  Value: "{6C08DBD3-67FF-454C-B526-1EE5F77D5093}"
+  Value: "{AD7A95FD-05D0-484E-8AFB-FB1DDD5F44AB}"
 Languages:
 - Language: en
   Versions:
@@ -24,4 +24,4 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20190624T101347Z
+      Value: 20190606T123032Z

@@ -19,5 +19,7 @@ Languages:
     - ID: "b3635965-6786-457c-9dee-28de73c0a331"
       Hint: Text
       Value: |
+        <div class="support-migration">
         <h2 class="event-headline field-promotext">Support Migration</h2>
         <p>We do this all the time.  We are called to rescue projects in trouble.  Our reputation in quickly taking over and deliver value is precedes us.  We can do the same for you.  We have a proven methodology to ensure quality and minimum disruptions. </p>
+        </div>
