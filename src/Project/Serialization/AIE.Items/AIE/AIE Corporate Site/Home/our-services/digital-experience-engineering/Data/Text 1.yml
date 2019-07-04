@@ -1,0 +1,21 @@
+﻿---
+ID: "fa9d6b0d-72bf-4c68-aecf-babe9fb381c8"
+Parent: "456e432b-9852-4af1-8e87-ff2773540f7c"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: "/sitecore/content/AIE/AIE Corporate Site/Home/our-services/digital-experience-engineering/Data/Text 1"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190704T092229Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: "<p>Extending your enterprise service portfolio with Commerce Cubes allows you to meet market demand for competitive features with agility. Using Commerce Cubes to jumpstart new customer flows and differentiating new features reduces the cost of innovation and prevents loss due to platform or vendor lock-in that often accompanies traditional customizations.</p>"
