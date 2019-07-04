@@ -19,6 +19,8 @@ Languages:
     - ID: "b3635965-6786-457c-9dee-28de73c0a331"
       Hint: Text
       Value: |
+        <div class="optimization">
         <h2 class="event-headline field-promotext">Optimization Services</h2>
         <p>We are experts on fine tuning Performance.  We can help you prepare for holiday readiness to make sure you spend your Black Friday and Cyber Monday focusing on your business and not on any down time.  We can prescribe Edge caching, Stateful-to-Stateless component migration, client-side session management and performance tuning.
         </p>
+        </div>

@@ -19,7 +19,9 @@ Languages:
     - ID: "b3635965-6786-457c-9dee-28de73c0a331"
       Hint: Text
       Value: |
+        <div class="custom-native">
         <h2 class="corporate-headline field-promotext">Custom Native Apps</h2>
         <p>AIEnterprise is delighted to design and develop differentiating experiences for your clientele wherever they may be. We understand that merely translating a website to a native mobile application is a missed opportunity to deliver value to your customers.  Our mobility professionals center their craft around the conversational nature of these modern interfaces, utilizing voice, text and gestures to tease out a natural yet immersive experiences on iOS and Android devices, for any industry, that balance function and usability artfully.</p>
         <p>We are eager to share insights from our extensive retail and commercial commerce experience to help you conquer challenges on the floor, in the warehouse or in transit. Our integration specialist have seen it all and provide graceful transitioning between connected and unconnected environments, as they blend your in-home, on-the-go and in-store experiences by connecting to retail systems, monitors, and emerging connected hardware.</p>
         <p>An ever-increasing portion of your customers’ lives and interactions are taking place digitally in the spaces between work and play on mobile devices connected to social platforms. Tapping into that stream with API services that augment those interactions and facilitate the transition between your brand and the major digital focal points is more important than ever. Revitalizing existing investments by creating new touchpoints enrich the information you receive as well as the services you can offer; such practices are essential to a mobility road map and our specialty.</p>
+        </div>
