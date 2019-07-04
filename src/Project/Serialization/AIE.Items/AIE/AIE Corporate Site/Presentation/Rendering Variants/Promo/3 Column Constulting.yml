@@ -1,0 +1,14 @@
+﻿---
+ID: "af66a41c-fe82-4050-b8ff-b96353501d2f"
+Parent: "569c37fc-ebfb-4b20-baa0-9fb4515ad2cf"
+Template: "fb3e3034-33f8-4ce8-be98-dd05010f4c22"
+Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Promo/3 Column Constulting
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190704T132807Z

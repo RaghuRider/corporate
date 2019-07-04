@@ -1,0 +1,14 @@
+﻿---
+ID: "47c0b291-a259-49c5-a81b-7d3222638797"
+Parent: "2082c55a-92de-48e2-850c-6c40b783c8ac"
+Template: "f07cbe89-73ae-4de6-9217-2570260cac6e"
+Path: /sitecore/content/AIE/AIE Corporate Site/Data/Promos/Our Services/3 Column
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190704T124842Z
