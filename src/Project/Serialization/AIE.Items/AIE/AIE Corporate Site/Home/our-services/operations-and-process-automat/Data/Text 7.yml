@@ -19,5 +19,7 @@ Languages:
     - ID: "b3635965-6786-457c-9dee-28de73c0a331"
       Hint: Text
       Value: |
+        <div class="upgrades">
         <h2 class="event-headline field-promotext">Upgrades</h2>
         <p>Our 20 years of experience gives us a superb Insight on how these platforms have evolved over the years. We can help you assess your upgrade readiness. We can even help you evaluate if you should upgrade or not, move to another platform or even build microservices around your current platform. This is of particular important as Software vendors continue to over-achieve and under-deliver on their own migrations to the Cloud.</p>
+        </div>
