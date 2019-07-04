@@ -23,4 +23,4 @@ Languages:
     - ID: "dd05144a-bd66-4ea3-956a-4b7104daaba3"
       Hint: Link
       Value: |
-        <link text="HOME" anchor="" linktype="internal" class="" title="HOME" target="|Custom" querystring="" id="{CC1BC5E4-5512-4B8E-B38E-7856E6604CD5}" />
+        <link text="HOME" anchor="" linktype="internal" class="" title="HOME" id="{CC1BC5E4-5512-4B8E-B38E-7856E6604CD5}" />

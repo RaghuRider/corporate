@@ -1,8 +1,8 @@
 ﻿---
-ID: "54273716-ab9e-4e60-a18f-ee72b2ed5694"
+ID: "4d4ed764-2adb-4a8b-a1c2-7422db05ee5d"
 Parent: "e160993c-5973-4d14-8982-f022d70fb7e5"
 Template: "9921ad64-12f4-4c8f-99a0-3151e49a3536"
-Path: /sitecore/content/AIE/AIE Corporate Site/Data/AIE/Why AIE/EXECUTION
+Path: /sitecore/content/AIE/AIE Corporate Site/Data/AIE/Home/Why AIE/PARTNERSHIPS
 DB: master
 Languages:
 - Language: en
@@ -14,11 +14,11 @@ Languages:
       Value: 20190614T055339Z
     - ID: "29676470-6390-48a6-b6d2-047287940c15"
       Hint: Description
-      Value: Dozens of satisfied customers.
+      Value: We only choose the best in the market
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\admin
     - ID: "6ccfe3a3-ff86-46d7-a2c9-2fca2fbbb21d"
       Hint: Text
-      Value: EXECUTION
+      Value: PARTNERSHIPS
