@@ -2,7 +2,7 @@
 ID: "9ffda5d4-f4e8-465b-86f0-aa8ef1ddad9f"
 Parent: "875cafb7-fbc7-42dd-b3db-a677b4fa6290"
 Template: "324733cf-afec-4281-9a18-03b6cfc4e535"
-Path: "/sitecore/content/AIE/AIE Corporate Site/Data/AIE/Home-WhatWeDo/Home-WhatWeDo/Home-WhatToDo/Promo2"
+Path: /sitecore/content/AIE/AIE Corporate Site/Data/AIE/Home/What We Do/What we do List/Promo2
 DB: master
 Languages:
 - Language: en
