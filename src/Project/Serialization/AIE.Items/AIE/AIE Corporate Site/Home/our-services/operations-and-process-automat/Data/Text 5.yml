@@ -1,0 +1,23 @@
+﻿---
+ID: "6cb63b9f-9779-40b7-adfd-61f9ada9bd65"
+Parent: "60e5e567-7160-4eb0-883e-0f0ba276bd41"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: "/sitecore/content/AIE/AIE Corporate Site/Home/our-services/operations-and-process-automations/Data/Text 5"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190703T140045Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: |
+        <h2 class="event-headline field-promotext">Support Migration</h2>
+        <p>We do this all the time.  We are called to rescue projects in trouble.  Our reputation in quickly taking over and deliver value is precedes us.  We can do the same for you.  We have a proven methodology to ensure quality and minimum disruptions. </p>

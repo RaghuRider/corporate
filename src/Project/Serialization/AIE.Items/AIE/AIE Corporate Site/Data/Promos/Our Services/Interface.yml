@@ -15,7 +15,7 @@ Languages:
     - ID: "18f9beb8-0116-40fd-b47e-fd0a2327d7e0"
       Hint: PromoIcon
       Value: |
-        <image mediaid="{89D39877-8119-4508-8FAD-C2F23992B6E6}" />
+        <image mediaid="{89D39877-8119-4508-8FAD-C2F23992B6E6}" ></image>
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20190703T122511Z
@@ -23,3 +23,9 @@ Languages:
       Hint: __Created by
       Value: |
         sitecore\admin
+    - ID: "832d3c97-5c05-49bf-89ef-9c29d30345e7"
+      Hint: PromoText3
+      Value: "<p>It&rsquo;s time to face the facts; today&rsquo;s market demands interactions that span numerous domains. However, if you are using the UX tooling provided by your platform vendor, chances are it favors its strengths at the expense of other domains. You do not need to choose between Content, Commerce or CRM. Many retailers are adopting Digital Experience Platforms such as SiteCore or Adobe to provide tooling to facilitate the blending of social, transactional and informational aspects of their ideal customer experiences while others choose to truly curate their experience by orchestrating services with a dedicated front-end team. Whatever your preferred tactics, you&rsquo;ll need to go headless to truly move ahead.</p>"
+    - ID: "b59adc09-32a3-46f2-aede-b0c633979263"
+      Hint: PromoText2
+      Value: <p>Whether you need to retool or just need to reinvigorate, AIEnterprise has the right team to ensure your interface architecture transformation and user experience projects deliver delight and agility. We can help transpose your perfect design from antiquated MVC architectures to snappy reactive frameworks and pave the way for more immersive omnichannel experiences.</p>
