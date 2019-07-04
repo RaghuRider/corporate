@@ -19,24 +19,7 @@ Languages:
     - ID: "b3635965-6786-457c-9dee-28de73c0a331"
       Hint: Text
       Value: |
-        <div id="vc_row-5cffa9fa9994a" class="vc_row wpb_row vc_row-fluid">
-        <div class="wpb_column vc_column_container vc_col-sm-12">
-        <div class="vc_column-inner ">
-        <div class="wpb_wrapper">
-        <div class="clearboth">&nbsp;</div>
-        <div class="gem-divider " style="margin-top: 60px;">&nbsp;</div>
-        <div class="wpb_text_column wpb_content_element ">
-        <div class="wpb_wrapper">
-        <div class="title-h2" style="text-align: center;">Your dreams. Our know-how. The best results.</div>
-        </div>
-        </div>
-        <div class="wpb_text_column wpb_content_element ">
-        <div class="wpb_wrapper">
-        <div class="title-h4" style="text-align: center;"><span class="light"> Strategy. Execution. Profit.</span></div>
-        </div>
-        </div>
-        <div class="clearboth">&nbsp;</div>
-        </div>
-        </div>
-        </div>
-        </div>
+        <h2>Your dreams. Our know-how. The best results.</h2>
+        <h2>
+        </h2>
+        <h3>Strategy. Execution. Profit.</h3>
