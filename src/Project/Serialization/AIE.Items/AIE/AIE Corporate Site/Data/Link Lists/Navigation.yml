@@ -1,0 +1,18 @@
+﻿---
+ID: "5fcde192-5a97-416e-8cf7-3d18d9a1db24"
+Parent: "8e6b3508-d5da-4192-89a7-80813d4b77cb"
+Template: "2fb317e5-509a-4be9-b348-bf79168665c9"
+Path: /sitecore/content/AIE/AIE Corporate Site/Data/Link Lists/Navigation
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190705T072608Z
