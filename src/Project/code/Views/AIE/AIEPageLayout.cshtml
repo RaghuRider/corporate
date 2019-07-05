@@ -10,6 +10,7 @@
 
 @{
     AssetLinks assetLinks = AssetLinksGenerator.GenerateLinks(new ThemesProvider());
+    var url = HttpContext.Current.Request.Url;
 }
 
 <!DOCTYPE html>
@@ -28,6 +29,8 @@
 
     @Html.Sitecore().VisitorIdentification()
     @Html.Sxa().Placeholder("head")
+    <meta charset="utf-8">
+    <link rel="canonical" href="@url" />
 </head>
 <body @Html.Sxa().Body().Decorate()>
     @Html.Sitecore().Placeholder("body-top")
