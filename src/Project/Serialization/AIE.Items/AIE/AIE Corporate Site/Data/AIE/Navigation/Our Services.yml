@@ -1,0 +1,31 @@
+﻿---
+ID: "259ba63f-0815-4d23-8bbb-43f376c3540e"
+Parent: "655b6909-8be8-49b6-953e-f960796b936e"
+Template: "a94ef9f5-625c-4686-953e-8cdb6f720ba3"
+Path: /sitecore/content/AIE/AIE Corporate Site/Data/AIE/Navigation/Our Services
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190705T075102Z
+    - ID: "37245767-3c9e-4be7-9594-49b8191156fd"
+      Hint: SubNav
+      Type: Treelist
+      Value: |
+        {B81F6157-5159-4C09-8A20-01CC8EE8AF65}
+        {D158943D-D369-4DE0-A12E-FCB928F150CE}
+        {679713E8-CD64-465A-A243-75A991B25E3B}
+        {7820A88D-741D-4935-A08B-7BC129C785E0}
+        {F0681354-2392-4E8B-94B0-9ABD30271967}
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "dd05144a-bd66-4ea3-956a-4b7104daaba3"
+      Hint: Link
+      Value: |
+        <link text="OUR SERVICES" anchor="" linktype="internal" class="" title=""  querystring="" id="{75331564-3CCF-4533-9C32-B8B9F9A0DF6B}" />

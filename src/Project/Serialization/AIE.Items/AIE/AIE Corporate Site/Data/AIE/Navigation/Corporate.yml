@@ -1,0 +1,26 @@
+﻿---
+ID: "bbd2fc9c-bff3-4e5e-a739-ebff8ca3eb59"
+Parent: "655b6909-8be8-49b6-953e-f960796b936e"
+Template: "a94ef9f5-625c-4686-953e-8cdb6f720ba3"
+Path: /sitecore/content/AIE/AIE Corporate Site/Data/AIE/Navigation/Corporate
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190705T075102Z
+    - ID: "37245767-3c9e-4be7-9594-49b8191156fd"
+      Hint: SubNav
+      Type: Treelist
+      Value: "{1299D6F5-5DFF-466C-9053-1BD6E0321D5E}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "dd05144a-bd66-4ea3-956a-4b7104daaba3"
+      Hint: Link
+      Value: |
+        <link text="CORPORATE" anchor="" linktype="internal" class="" title=""  querystring="" id="{3A2E1004-D75F-409E-AFF9-8D4410DF6C51}" />
