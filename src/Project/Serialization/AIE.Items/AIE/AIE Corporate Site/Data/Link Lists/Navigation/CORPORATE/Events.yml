@@ -2,7 +2,7 @@
 ID: "1299d6f5-5dff-466c-9053-1bd6e0321d5e"
 Parent: "cd3a1c23-eb5a-42e7-b8b2-f154eb49d24d"
 Template: "e24e0789-a058-48bf-abb6-c69c0e60b6b7"
-Path: /sitecore/content/AIE/AIE Corporate Site/Data/Link Lists/CORPORATE/Events
+Path: /sitecore/content/AIE/AIE Corporate Site/Data/Link Lists/Navigation/CORPORATE/Events
 DB: master
 Languages:
 - Language: en

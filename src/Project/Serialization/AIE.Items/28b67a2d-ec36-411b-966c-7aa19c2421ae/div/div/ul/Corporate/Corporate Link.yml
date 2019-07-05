@@ -7,10 +7,10 @@ DB: master
 SharedFields:
 - ID: "06882697-dc92-477d-a99a-5d79bd2ccb8d"
   Hint: RenderingItem
-  Value: "{3972C278-7E7A-4C2B-A293-66AF860F5C3A}"
+  Value: "{8B0393E9-EE25-4F0B-A5FD-777B3AD2C737}"
 - ID: "af48c671-dd3e-41ed-95b3-534560bef882"
   Hint: RenderingParameters
-  Value: "Data Source=%7b4D352EB0-1CC5-476C-936C-1B8FE146C2B6%7d&FieldNames=%7bAFD5949F-583E-4B70-8E76-5ED147D633E4%7d&Caching=0%7c0%7c0%7c0%7c0%7c0%7c0%7c0"
+  Value: "Data Source=%7bBBD2FC9C-BFF3-4E5E-A739-EBFF8CA3EB59%7d&FieldNames=%7bE194855D-12F6-41F6-B684-95E12BDABA65%7d&Caching=0%7c0%7c0%7c0%7c0%7c0%7c0%7c0"
 Languages:
 - Language: en
   Versions:
