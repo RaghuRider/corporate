@@ -1,0 +1,31 @@
+﻿---
+ID: "08d41a33-1b83-4fae-a247-52a419061089"
+Parent: "cdd7e9dc-6bbd-4c64-89ae-1e1dc449b940"
+Template: "962b53c4-f93b-4df9-9821-415c867b8903"
+Path: "/sitecore/media library/Themes/AIE/AIE Corporate Site/AIEnterprise/Scripts/Sticky-Header"
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/08D41A331B834FAEA24752A419061089.ashx?h=16&thn=1&w=16"
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "4e893cc8-97f2-4a45-a6e1-bd70020b0e56"
+  Value: d2luZG93Lm9uc2Nyb2xsID0gZnVuY3Rpb24gKCkgew0KICAgIG15RnVuY3Rpb24oKQ0KfTsNCg0KdmFyIGhlYWRlciA9IGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCJteUhlYWRlciIpOw0KdmFyIHN0aWNreSA9IGhlYWRlci5vZmZzZXRUb3A7DQoNCmZ1bmN0aW9uIG15RnVuY3Rpb24oKSB7DQogICAgaWYgKHdpbmRvdy5wYWdlWU9mZnNldCA+IHN0aWNreSkgew0KICAgICAgICBoZWFkZXIuY2xhc3NMaXN0LmFkZCgic3RpY2t5Iik7DQogICAgfSBlbHNlIHsNCiAgICAgICAgaGVhZGVyLmNsYXNzTGlzdC5yZW1vdmUoInN0aWNreSIpOw0KICAgIH0NCn0NCg==
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 316
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: "application/x-javascript"
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: js
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190705T100141Z
