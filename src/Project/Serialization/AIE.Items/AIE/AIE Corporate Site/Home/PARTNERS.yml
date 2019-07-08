@@ -67,10 +67,19 @@ Languages:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20190506T122211Z
+    - ID: "45ce257a-6060-4c4a-9a0f-ae77bf705b25"
+      Hint: TwitterSite
+      Value: @AiEnterpriseInc
+    - ID: "48a66e40-d164-4c8e-bc06-172ecc6769ec"
+      Hint: TwitterTitle
+      Value: "Partners - AiEnterprise Inc."
     - ID: "4c2f221f-9426-45ed-9eeb-c79bb3169565"
       Hint: StickyNotes
       Value: |
         {"items":[]}
+    - ID: "4d263b95-322f-4003-adbd-70920facf823"
+      Hint: TwitterDescription
+      Value: A bond is only as strong as the commitment of the parts.
     - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
       Hint: NavigationTitle
       Value: Partners
