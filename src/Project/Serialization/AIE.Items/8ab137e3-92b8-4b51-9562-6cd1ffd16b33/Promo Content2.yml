@@ -1,8 +1,8 @@
 ﻿---
 ID: "14b1728e-43b9-4f0e-a6f3-701bd323910e"
-Parent: "6ab155e6-6d13-4605-958f-32b8b0dc34b2"
+Parent: "8ab137e3-92b8-4b51-9562-6cd1ffd16b33"
 Template: "fcd285da-9ab2-4c8d-b185-5a7487a9ba1b"
-Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Promo/Commerce Cube/div/div/Promo Content2
+Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Promo/Commerce Cube/div/Promo Content2
 DB: master
 SharedFields:
 - ID: "4753764c-c05a-4623-841b-97f85135241c"
