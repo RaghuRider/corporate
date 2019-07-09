@@ -1,16 +1,16 @@
 ﻿---
-ID: "825cbfab-deeb-4aaf-8421-12d0aac47ec7"
-Parent: "45e4085d-9d74-49a0-943c-1efd5cfe7735"
+ID: "14b1728e-43b9-4f0e-a6f3-701bd323910e"
+Parent: "8ab137e3-92b8-4b51-9562-6cd1ffd16b33"
 Template: "fcd285da-9ab2-4c8d-b185-5a7487a9ba1b"
-Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Promo/Events Promo/div/div/div/div/div/h4
+Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Promo/Commerce Cube/div/Promo Content2
 DB: master
 SharedFields:
 - ID: "4753764c-c05a-4623-841b-97f85135241c"
   Hint: FieldName
-  Value: PromoText
+  Value: PromoText3
 - ID: "db805bdc-8eec-4238-b174-2427b6f1f077"
   Hint: Tag
-  Value: "{10CDAEA8-DD82-4A45-A4C6-85D03E5FC725}"
+  Value: "{6C08DBD3-67FF-454C-B526-1EE5F77D5093}"
 Languages:
 - Language: en
   Versions:
@@ -18,4 +18,4 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20190611T063633Z
+      Value: 20190624T102923Z

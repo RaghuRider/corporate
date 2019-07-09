@@ -35,8 +35,28 @@ Languages:
           <d
             id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
             <r
-              uid="{1DFE7483-FC1F-4104-AD7D-8B7384C7A3E0}"
+              uid="{47904C5D-C6F1-4E75-ADF1-D29F6BEC52ED}"
               p:before="*"
+              s:ds="local:/Data/MobileOmniChannel"
+              s:id="{51C13F03-8364-4F61-B860-2EC6CA7439B3}"
+              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7B985A039D-EE4A-4161-9213-8D37DDAD6F87%7D&amp;Styles&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=15"
+              s:ph="/main/sxa-ourservicebody/container-5/row-1-1/column-2-13" />
+            <r
+              uid="{0E9624AD-F586-47F9-BE33-6B872201B5A5}"
+              p:after="r[@uid='{47904C5D-C6F1-4E75-ADF1-D29F6BEC52ED}']"
+              s:ds="local:/Data/DigitalCommerce"
+              s:id="{51C13F03-8364-4F61-B860-2EC6CA7439B3}"
+              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7B985A039D-EE4A-4161-9213-8D37DDAD6F87%7D&amp;Styles&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=14"
+              s:ph="/main/sxa-ourservicebody/container-5/row-1-1/column-1-13" />
+            <r
+              uid="{5B1E6331-8779-4BB2-BAC0-2CC2D6121794}"
+              p:after="r[@uid='{0E9624AD-F586-47F9-BE33-6B872201B5A5}']"
+              s:id="{C25766C8-9AFD-4D28-87FE-147774F6806D}"
+              s:par="SplitterSize=2&amp;EnabledPlaceholders=1%2C2&amp;Styles1&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles8&amp;ColumnWidth1=%7B9AD9D6FB-28FC-43C5-8DA4-4A6A63CE802F%7D&amp;ColumnWidth2=%7B9AD9D6FB-28FC-43C5-8DA4-4A6A63CE802F%7D&amp;ColumnWidth3&amp;ColumnWidth4&amp;ColumnWidth5&amp;ColumnWidth6&amp;ColumnWidth7&amp;ColumnWidth8&amp;Reset Caching Options&amp;DynamicPlaceholderId=13"
+              s:ph="/main/sxa-ourservicebody/container-5/row-1-1" />
+            <r
+              uid="{1DFE7483-FC1F-4104-AD7D-8B7384C7A3E0}"
+              p:after="r[@uid='{5B1E6331-8779-4BB2-BAC0-2CC2D6121794}']"
               s:ds=""
               s:id="{896A2C68-1362-4E88-8BA0-1805AE6D4837}"
               s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;BackgroundImage=%3Cimage%20mediaid%3D%22%7B66C88D47-D96A-4B68-840C-5FB44A99368E%7D%22%20%2F%3E&amp;Styles&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=9"
@@ -63,29 +83,8 @@ Languages:
               s:par="GridParameters=%7B742CA7FF-6640-441F-A4AC-4A7446A3B895%7D&amp;FieldNames=%7B6304A76A-BD86-4B3F-91BD-01807091FAD8%7D&amp;Styles&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=10"
               s:ph="/main/sxa-ourservicebody/container-7/container-9" />
             <r
-              uid="{B4CA0FE4-E653-47A8-B10A-75284FD2B19C}"
-              p:after="r[@uid='{0CA13E62-D559-426C-B6D6-A9FFC6E4FDBD}']"
-              s:ds="local:/Data/MobileOmniChannel"
-              s:id="{51C13F03-8364-4F61-B860-2EC6CA7439B3}"
-              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7B8E734FA0-A701-4E1F-B771-E6A705A0B12E%7D&amp;Styles&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=7"
-              s:ph="/main/sxa-ourservicebody/container-5/row-3-1/row-1-4/column-2-5" />
-            <r
-              uid="{8ECF7348-7754-4ECA-A486-0308F977C81E}"
-              p:after="r[@uid='{B4CA0FE4-E653-47A8-B10A-75284FD2B19C}']"
-              s:ds="local:/Data/DigitalCommerce"
-              s:id="{51C13F03-8364-4F61-B860-2EC6CA7439B3}"
-              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7BBB86481D-D262-42A0-902F-CF7F487EC3AF%7D&amp;Styles&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=6"
-              s:ph="/main/sxa-ourservicebody/container-5/row-3-1/row-1-4/column-1-5" />
-            <r
-              uid="{58FA68BF-DAF3-4518-8F5E-017E7BE4A4C1}"
-              p:after="r[@uid='{8ECF7348-7754-4ECA-A486-0308F977C81E}']"
-              s:ds=""
-              s:id="{C25766C8-9AFD-4D28-87FE-147774F6806D}"
-              s:par="SplitterSize=2&amp;EnabledPlaceholders=1%2C2&amp;Styles1&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles8&amp;ColumnWidth1=%7B9AD9D6FB-28FC-43C5-8DA4-4A6A63CE802F%7D&amp;ColumnWidth2=%7B9AD9D6FB-28FC-43C5-8DA4-4A6A63CE802F%7D&amp;ColumnWidth3&amp;ColumnWidth4&amp;ColumnWidth5&amp;ColumnWidth6&amp;ColumnWidth7&amp;ColumnWidth8&amp;Reset Caching Options&amp;DynamicPlaceholderId=5"
-              s:ph="/main/sxa-ourservicebody/container-5/row-3-1/row-1-4" />
-            <r
               uid="{AE9216F4-8363-4F1C-B562-2F89DA7FDE60}"
-              p:after="r[@uid='{58FA68BF-DAF3-4518-8F5E-017E7BE4A4C1}']"
+              p:after="r[@uid='{0CA13E62-D559-426C-B6D6-A9FFC6E4FDBD}']"
               s:ds=""
               s:id="{2DA9B139-FB9C-4FD7-BE84-CB066B2D7CC3}"
               s:par="SplitterSize=2&amp;EnabledPlaceholders=1%2C2&amp;Styles1&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles8&amp;Reset Caching Options&amp;DynamicPlaceholderId=4"
@@ -116,6 +115,15 @@ Languages:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20190506T122421Z
+    - ID: "45ce257a-6060-4c4a-9a0f-ae77bf705b25"
+      Hint: TwitterSite
+      Value: @AiEnterpriseInc
+    - ID: "48a66e40-d164-4c8e-bc06-172ecc6769ec"
+      Hint: TwitterTitle
+      Value: "Invigorated Commerce - AiEnterprise Inc."
+    - ID: "4d263b95-322f-4003-adbd-70920facf823"
+      Hint: TwitterDescription
+      Value: It is in our DNA. Global. With a local flavor.
     - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
       Hint: NavigationTitle
       Value: Invigorated Commerce

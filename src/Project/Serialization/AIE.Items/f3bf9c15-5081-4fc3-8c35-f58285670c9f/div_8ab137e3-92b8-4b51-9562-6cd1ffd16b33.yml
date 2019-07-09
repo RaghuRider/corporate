@@ -1,13 +1,13 @@
 ﻿---
-ID: "0db1ac5c-293f-4ad7-bed1-9f7625b463bb"
-Parent: "637f67b3-d862-4650-bad3-b7e107793005"
+ID: "8ab137e3-92b8-4b51-9562-6cd1ffd16b33"
+Parent: "f3bf9c15-5081-4fc3-8c35-f58285670c9f"
 Template: "aca5c9a3-cda0-49b6-893f-1d4a7cb595b0"
-Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Promo/Events Promo/div/div/div/div
+Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Promo/Commerce Cube/div
 DB: master
 SharedFields:
 - ID: "bea2740e-90d1-4b16-bd1d-7a7cc8605d2d"
   Hint: CssClass
-  Value: wpb_text_column wpb_content_element
+  Value: "Commerce-cubes"
 Languages:
 - Language: en
   Versions:
@@ -15,4 +15,4 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20190611T063527Z
+      Value: 20190708T095901Z

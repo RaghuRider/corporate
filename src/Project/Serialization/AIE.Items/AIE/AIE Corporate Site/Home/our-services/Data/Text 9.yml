@@ -19,8 +19,11 @@ Languages:
     - ID: "b3635965-6786-457c-9dee-28de73c0a331"
       Hint: Text
       Value: |
+        
+        <div class="ourservices-main">
         <p>Over the years we have helped our customers grow and we have bonded with them in their journey. We see this as a business-centric ‘higher call’.</p>
         <div class="abouot-balck-box">
         <p>“The AIEnterprise team rescued our project and were able to deliver superior results than anticipated. They were responsive, professional and a complete pleasure to deal with”
         VP of eCommerce at global Retailer</p>
+        </div>
         </div>
