@@ -1,0 +1,18 @@
+﻿---
+ID: "c8a8949f-a778-41f8-8cd8-201baecf515c"
+Parent: "8efe08b2-f147-4e14-876f-ca249e02b8b8"
+Template: "7a3a53e0-6a01-44ff-8ba5-2be46e201fe6"
+Path: /sitecore/content/AIE/AIE Corporate Site/Data/Search/Load More/Load More
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190708T172959Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

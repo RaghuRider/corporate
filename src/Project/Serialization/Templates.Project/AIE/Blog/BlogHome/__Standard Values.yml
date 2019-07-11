@@ -1,0 +1,23 @@
+﻿---
+ID: "356e9722-8067-42cc-ad5e-0a65b8f2c43d"
+Parent: "8c52dee7-1254-40e4-bd0d-1983fca6ae68"
+Template: "8c52dee7-1254-40e4-bd0d-1983fca6ae68"
+Path: /sitecore/templates/Project/AIE/Blog/BlogHome/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: "{1310DF35-9EE0-44BB-AEBF-619A708B54AD}"
+- ID: "d312103c-b36c-4ca5-864a-c85f9abda503"
+  Hint: __Is Bucket
+  Type: Checkbox
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190708T062019Z

@@ -1,0 +1,14 @@
+﻿---
+ID: "b82ce7f8-9248-4f07-8a42-11203e438c7b"
+Parent: "99e3a17b-8a68-4e50-82a4-f99f4fed7bf2"
+Template: "adb6ca4f-03ef-4f47-b9ac-9ce2ba53ff97"
+Path: /sitecore/content/AIE/AIE Corporate Site/Home/blog/2019/07
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190708T063706Z

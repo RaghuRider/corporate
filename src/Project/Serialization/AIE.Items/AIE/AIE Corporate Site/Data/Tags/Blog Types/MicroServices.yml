@@ -1,0 +1,17 @@
+﻿---
+ID: "95a0dbbd-a49a-478c-bdcc-e3737abddff7"
+Parent: "5f49a63b-e8f6-481a-bacb-5f7ea72ba6ec"
+Template: "6b40e84c-8785-49fc-8a10-6bca862ff7ea"
+Path: /sitecore/content/AIE/AIE Corporate Site/Data/Tags/Blog Types/MicroServices
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190708T072714Z
+    - ID: "b8a8b6c9-4757-496b-9aae-5f46ff381563"
+      Hint: Title
+      Value: MicroServices

@@ -5,6 +5,10 @@ Template: "efafbbf5-01a0-46d3-9f7b-e71763e7f221"
 Path: /sitecore/content/AIE/AIE Corporate Site/Settings/Social Media Groups/Default
 DB: master
 SharedFields:
+- ID: "9135200a-5626-4dd8-ab9d-d665b8c11748"
+  Hint: __Never publish
+  Type: checkbox
+  Value: 1
 - ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
   Hint: __Originator
   Value: "{E35BE623-2154-4300-A80E-F054B26B76C5}"
@@ -20,3 +24,7 @@ Languages:
       Hint: __Created by
       Value: |
         sitecore\virtualssuser
+    - ID: "b8f42732-9cb8-478d-ae95-07e25345fb0f"
+      Hint: __Hide version
+      Type: checkbox
+      Value: 1

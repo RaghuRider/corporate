@@ -1,0 +1,22 @@
+﻿---
+ID: "b425e10c-6970-4533-9528-f176cb91275d"
+Parent: "bce7f746-c849-4592-b4ae-af55f5037aab"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: /sitecore/content/AIE/AIE Corporate Site/Data/Texts/Back to Blog
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190711T072759Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: |
+        <div class="back-to-blog"> <img alt="" height="40" width="40" src="-/media/2D3F77E53F734677B50FC228F5FF7B81.ashx" /> <span><a href="/aie-blogs/"> Back to Blogs </a></span></div>

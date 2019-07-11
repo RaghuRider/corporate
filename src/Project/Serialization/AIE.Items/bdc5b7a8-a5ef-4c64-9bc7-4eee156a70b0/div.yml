@@ -1,0 +1,18 @@
+﻿---
+ID: "a4a544da-803a-4a98-beae-f142f4bb6ffc"
+Parent: "bdc5b7a8-a5ef-4c64-9bc7-4eee156a70b0"
+Template: "aca5c9a3-cda0-49b6-893f-1d4a7cb595b0"
+Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Page Content/Blog Post Banner/div
+DB: master
+SharedFields:
+- ID: "c35b2285-b4a8-406f-a91c-24a60391dc12"
+  Hint: DataAttributes
+  Value: "style=background-image%3A%20url%28%24%28Blog%20Image%29%29%3Bheight%3A350px%3B"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190709T075619Z
