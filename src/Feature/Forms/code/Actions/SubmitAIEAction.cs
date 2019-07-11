@@ -31,10 +31,12 @@ namespace AIEnterprise.Feature.Forms.Actions
         bool isJobApplicationForm;
         string EmailTemplate = "AIE_ContactEmail";
         FileUploadModel fileUpload = null;
-        string toEmailID = Sitecore.Context.Site.SiteInfo.Properties.Get("AIEToEmail");
-        string subjectEmail = Sitecore.Context.Site.SiteInfo.Properties.Get("AIEEmailSubject");
-        string isOAFMailEnabled = Sitecore.Context.Site.SiteInfo.Properties.Get("AIEEmailEnabled");
-        
+        string contactUsRecipientsIDs = Sitecore.Context.Site.SiteInfo.Properties.Get("ContactUsRecipientsIDs");
+        string contactUsEmailsubject = Sitecore.Context.Site.SiteInfo.Properties.Get("ContactUsEmailsubject");
+        string careersRecipientsIDs = Sitecore.Context.Site.SiteInfo.Properties.Get("CareersRecipientsIDs");
+        string careersEmailsubject = Sitecore.Context.Site.SiteInfo.Properties.Get("CareersEmailsubject");
+        //string isOAFMailEnabled = Sitecore.Context.Site.SiteInfo.Properties.Get("AIEEmailEnabled");
+
 
         public SubmitAIEAction(ISubmitActionData submitActionData) : base(submitActionData)
         {
@@ -54,7 +56,6 @@ namespace AIEnterprise.Feature.Forms.Actions
             {
                 Log.Error("Error in Form Submission", "");
 
-
                 string currentPage = "/";
                 currentPage = HttpContext.Current.Request.Headers["Referer"];
                 if (string.IsNullOrEmpty(currentPage) || currentPage == "/")
@@ -70,14 +71,14 @@ namespace AIEnterprise.Feature.Forms.Actions
                 if (this.Execute("", formSubmitContext))
                 {
 
-                var thankyou = currentPage + "?status=success";
-                var defaultUrlOptions = LinkManager.GetDefaultUrlOptions();
-                defaultUrlOptions.SiteResolving = Settings.Rendering.SiteResolving;
-                formSubmitContext.RedirectUrl = thankyou;
-                formSubmitContext.RedirectOnSuccess = true;
-                formSubmitContext.Abort();
+                    var thankyou = currentPage + "?status=success";
+                    var defaultUrlOptions = LinkManager.GetDefaultUrlOptions();
+                    defaultUrlOptions.SiteResolving = Settings.Rendering.SiteResolving;
+                    formSubmitContext.RedirectUrl = thankyou;
+                    formSubmitContext.RedirectOnSuccess = true;
+                    formSubmitContext.Abort();
                 }
-                 else
+                else
                 {
                     var errorpage = currentPage + "?status=failed";
                     var defaultUrlOptions = LinkManager.GetDefaultUrlOptions();
@@ -95,19 +96,17 @@ namespace AIEnterprise.Feature.Forms.Actions
             }
         }
 
-
-
-
         public bool Execute(string data, FormSubmitContext formSubmitContext)
         {
             Assert.ArgumentNotNull(data, nameof(data));
             Assert.ArgumentNotNull(formSubmitContext, nameof(formSubmitContext));
-            if (formSubmitContext.Fields[4] != null && formSubmitContext.Fields[4] is FileUploadModel)
+            if (formSubmitContext.Fields.Count > 4 && formSubmitContext.Fields[4] != null && formSubmitContext.Fields[4] is FileUploadModel)
             {
-                 fileUpload = formSubmitContext.Fields[4] as FileUploadModel;
+                fileUpload = formSubmitContext.Fields[4] as FileUploadModel;
             }
             //Get all Data Posted from FORM
             var formDict = new FormDictionary();
+
             var hstable = formDict.GetFieldsDictionary(formSubmitContext.Fields);
             Dictionary<string, string> attributeList = new Dictionary<string, string>();
 
@@ -129,12 +128,23 @@ namespace AIEnterprise.Feature.Forms.Actions
                 //Send the form details via emails
                 EmailHelper emailHeler = new EmailHelper();
                 string emailFrom = emailHeler.GetValuefromDictionary(formdata, "your-email");
-                string subject = subjectEmail;
-                var allEmails = toEmailID.Split(';');
+                string subject = string.Empty;
+                string[] allEmails;
                 var isMailSent = false;
                 var emailBody = emailHeler.GetEmailBody(formdata, EmailTemplate);
 
-                foreach (var email in allEmails)
+                if (isJobApplicationForm)
+                {
+                    subject = careersEmailsubject;
+                    allEmails = careersRecipientsIDs.Split(';');
+                }
+                else
+                {
+                    subject = contactUsEmailsubject;
+                    allEmails = contactUsRecipientsIDs.Split(';');
+                }
+
+                foreach (string email in allEmails)
                 {
                     var aieEmail = new Email
                     {
