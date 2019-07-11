@@ -74,7 +74,7 @@ Languages:
               p:after="r[@uid='{FA2FA4D6-9E40-4CA2-84B0-2029825A837C}']"
               s:ds="{AE828822-7B99-42F7-A4E8-EDE3F6540837}"
               s:id="{51C13F03-8364-4F61-B860-2EC6CA7439B3}"
-              s:par="Styles=%7b898BBA11-18AF-4311-8E53-DE63E827CEEF%7d&amp;GridParameters=%7b908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7d&amp;DynamicPlaceholderId=3&amp;Caching=0%7c0%7c0%7c0%7c0%7c0%7c0%7c0&amp;FieldNames=%7bE5AF05E7-454B-41AD-9515-99928B20C50E%7d"
+              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7BE5AF05E7-454B-41AD-9515-99928B20C50E%7D&amp;Styles=%7BDD31C8C6-24DD-457C-8F79-472448B58EA5%7D%7C%7B898BBA11-18AF-4311-8E53-DE63E827CEEF%7D&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=3"
               s:ph="/main/container-16" />
             <r
               uid="{D154B9C5-DA5D-4C16-B90C-48CDAF9963EB}"
