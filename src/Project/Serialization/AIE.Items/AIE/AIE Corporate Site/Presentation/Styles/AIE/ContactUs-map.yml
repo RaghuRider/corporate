@@ -1,13 +1,13 @@
 ﻿---
-ID: "d85e5545-c592-4b86-a24e-59f8595bfed2"
+ID: "aea6566c-39aa-49c6-9825-ebdc697a2c57"
 Parent: "29bc445c-d62d-4c01-893c-83644c15ed54"
 Template: "6b8aabef-d650-46e0-97d0-c0b04f7f016b"
-Path: "/sitecore/content/AIE/AIE Corporate Site/Presentation/Styles/AIE/main-banner-image-RightText"
+Path: "/sitecore/content/AIE/AIE Corporate Site/Presentation/Styles/AIE/ContactUs-map"
 DB: master
 SharedFields:
 - ID: "09147fb2-ebfb-4949-8c8e-26a424409d5e"
   Hint: Value
-  Value: "main-banner-image-RightText"
+  Value: "ContactUs-map"
 Languages:
 - Language: en
   Versions:
@@ -15,4 +15,4 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20190711T070130Z
+      Value: 20190711T062352Z

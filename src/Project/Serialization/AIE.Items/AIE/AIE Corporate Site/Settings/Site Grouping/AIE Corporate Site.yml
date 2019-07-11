@@ -10,7 +10,7 @@ SharedFields:
   Value: "{CC1BC5E4-5512-4B8E-B38E-7856E6604CD5}"
 - ID: "301e719a-6f65-4874-b565-a953a7b5ac83"
   Hint: OtherProperties
-  Value: "formsRoot=%7B208980CA-560E-4CFA-8C91-B1D8C00D6729%7D&AIEToEmail=rraj%40aienterprise.com&AIEEmailSubject=Inbox%20Message&AIEEmailEnabled=1"
+  Value: "formsRoot=%7B208980CA-560E-4CFA-8C91-B1D8C00D6729%7D&ContactUsRecipientsIDs=khareesha%40AIENTERPRISE.COM&ContactUsEmailsubject=Someone%20reached%20you%20to%20know%20more%20information&CareersRecipientsIDs=khareesha%40AIENTERPRISE.COM&CareersEmailsubject=New%20Job%20application"
 - ID: "8e0dd914-9afb-4d45-bf8b-7ff5d6e5337e"
   Hint: HostName
   Value: dev.aienterprise.com
