@@ -1,0 +1,18 @@
+﻿---
+ID: "b750c322-7481-435d-a34d-2226c2e973cb"
+Parent: "e70b240f-0e59-4ce0-9c9e-d3b64fd9a30c"
+Template: "b65fb026-7967-4782-8396-ed8c804f0b19"
+Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Partial Designs/Blogs Designs
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190708T070926Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

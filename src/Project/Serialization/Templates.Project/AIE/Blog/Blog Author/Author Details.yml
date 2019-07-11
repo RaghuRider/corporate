@@ -1,0 +1,18 @@
+﻿---
+ID: "d8751309-a9ff-45d6-8e19-9a2d93c9ac15"
+Parent: "754135be-facf-4d2e-b58d-910a4c24d5d2"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/AIE/Blog/Blog Author/Author Details
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190709T072013Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

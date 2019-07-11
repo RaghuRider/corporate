@@ -1,0 +1,32 @@
+﻿---
+ID: "2b4eff02-fd79-4117-934f-9a344ab9e35e"
+Parent: "754135be-facf-4d2e-b58d-910a4c24d5d2"
+Template: "754135be-facf-4d2e-b58d-910a4c24d5d2"
+Path: /sitecore/templates/Project/AIE/Blog/Blog Author/__Standard Values
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: People/32x32/user1_edit.png
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190709T072057Z
+    - ID: "33959c95-fa15-45b2-a460-297cdca143b1"
+      Hint: Email
+      Value: $name @email.com
+    - ID: "590ff436-4036-4668-ac3e-a5b5e0fcc0d0"
+      Hint: Pic
+      Value: |
+        <image mediaid="{297ED041-B6BC-4818-8A90-DD223FF96017}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "b158852c-938a-4d12-9e76-a998db1600ec"
+      Hint: Name
+      Value: $name

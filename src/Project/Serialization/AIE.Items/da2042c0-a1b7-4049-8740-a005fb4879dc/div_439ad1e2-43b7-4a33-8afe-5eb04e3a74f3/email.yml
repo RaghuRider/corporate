@@ -1,19 +1,19 @@
 ﻿---
-ID: "ef1c8368-bf91-443c-a5b0-e3f9e61a1431"
-Parent: "a9a0edac-ff24-419a-b84b-98d0fdb2eea9"
+ID: "f7be5601-2455-4d06-a586-ac61c5ebe826"
+Parent: "439ad1e2-43b7-4a33-8afe-5eb04e3a74f3"
 Template: "fcd285da-9ab2-4c8d-b185-5a7487a9ba1b"
-Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Promo/Ai Engine Resuable/div/div/div/Promo Content2
+Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Page Content/Blog Post Design/div/author/div/email
 DB: master
 SharedFields:
 - ID: "4753764c-c05a-4623-841b-97f85135241c"
   Hint: FieldName
-  Value: PromoText3
+  Value: Email
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
-  Value: 100
+  Value: 300
 - ID: "db805bdc-8eec-4238-b174-2427b6f1f077"
   Hint: Tag
-  Value: 
+  Value: "{E8E2C26D-2F96-4A9C-9C17-D095E6CE46CC}"
 Languages:
 - Language: en
   Versions:
@@ -21,4 +21,4 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20190624T102923Z
+      Value: 20190709T075106Z
