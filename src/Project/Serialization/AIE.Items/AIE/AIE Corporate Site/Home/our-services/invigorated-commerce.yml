@@ -46,13 +46,14 @@ Languages:
               p:after="r[@uid='{47904C5D-C6F1-4E75-ADF1-D29F6BEC52ED}']"
               s:ds="local:/Data/DigitalCommerce"
               s:id="{51C13F03-8364-4F61-B860-2EC6CA7439B3}"
-              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7B985A039D-EE4A-4161-9213-8D37DDAD6F87%7D&amp;Styles=%7B04ED2865-E783-4855-BD37-20778D0D7C98%7D&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=14"
+              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7B985A039D-EE4A-4161-9213-8D37DDAD6F87%7D&amp;Styles&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=14"
               s:ph="/main/sxa-ourservicebody/container-5/row-1-1/column-1-13" />
             <r
               uid="{5B1E6331-8779-4BB2-BAC0-2CC2D6121794}"
               p:after="r[@uid='{0E9624AD-F586-47F9-BE33-6B872201B5A5}']"
+              s:ds=""
               s:id="{C25766C8-9AFD-4D28-87FE-147774F6806D}"
-              s:par="SplitterSize=2&amp;EnabledPlaceholders=1%2C2&amp;Styles1&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles8&amp;ColumnWidth1=%7B9AD9D6FB-28FC-43C5-8DA4-4A6A63CE802F%7D&amp;ColumnWidth2=%7B9AD9D6FB-28FC-43C5-8DA4-4A6A63CE802F%7D&amp;ColumnWidth3&amp;ColumnWidth4&amp;ColumnWidth5&amp;ColumnWidth6&amp;ColumnWidth7&amp;ColumnWidth8&amp;Reset Caching Options&amp;DynamicPlaceholderId=13"
+              s:par="SplitterSize=2&amp;EnabledPlaceholders=1%2C2&amp;Styles1=%7B04ED2865-E783-4855-BD37-20778D0D7C98%7D&amp;Styles2=%7B04ED2865-E783-4855-BD37-20778D0D7C98%7D&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles8&amp;ColumnWidth1=%7B9AD9D6FB-28FC-43C5-8DA4-4A6A63CE802F%7D&amp;ColumnWidth2=%7B9AD9D6FB-28FC-43C5-8DA4-4A6A63CE802F%7D&amp;ColumnWidth3&amp;ColumnWidth4&amp;ColumnWidth5&amp;ColumnWidth6&amp;ColumnWidth7&amp;ColumnWidth8&amp;Reset Caching Options&amp;DynamicPlaceholderId=13"
               s:ph="/main/sxa-ourservicebody/container-5/row-1-1" />
             <r
               uid="{1DFE7483-FC1F-4104-AD7D-8B7384C7A3E0}"
