@@ -1,5 +1,5 @@
 ﻿---
-ID: "23979b9f-75f3-4437-aa14-0bc16c2fc838"
+ID: "d85e5545-c592-4b86-a24e-59f8595bfed2"
 Parent: "29bc445c-d62d-4c01-893c-83644c15ed54"
 Template: "6b8aabef-d650-46e0-97d0-c0b04f7f016b"
 Path: "/sitecore/content/AIE/AIE Corporate Site/Presentation/Styles/AIE/main-banner-image-RightText"
@@ -7,7 +7,7 @@ DB: master
 SharedFields:
 - ID: "09147fb2-ebfb-4949-8c8e-26a424409d5e"
   Hint: Value
-  Value: "main-banner-image-Right"
+  Value: "main-banner-image-RightText"
 Languages:
 - Language: en
   Versions:
@@ -15,4 +15,4 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20190710T124116Z
+      Value: 20190711T070130Z
