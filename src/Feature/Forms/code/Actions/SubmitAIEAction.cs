@@ -24,9 +24,7 @@ namespace AIEnterprise.Feature.Forms.Actions
 {
     public class SubmitAIEAction : SubmitActionBase<RedirectActionData>
     {
-        Dictionary<string,
-        List<string>> hstable = new Dictionary<string,
-        List<string>>();
+        Dictionary<string, List<string>> hstable = new Dictionary<string, List<string>>();
 
         bool isJobApplicationForm;
         string EmailTemplate = "AIE_ContactEmail";
@@ -35,8 +33,7 @@ namespace AIEnterprise.Feature.Forms.Actions
         string contactUsEmailsubject = Sitecore.Context.Site.SiteInfo.Properties.Get("ContactUsEmailsubject");
         string careersRecipientsIDs = Sitecore.Context.Site.SiteInfo.Properties.Get("CareersRecipientsIDs");
         string careersEmailsubject = Sitecore.Context.Site.SiteInfo.Properties.Get("CareersEmailsubject");
-        //string isOAFMailEnabled = Sitecore.Context.Site.SiteInfo.Properties.Get("AIEEmailEnabled");
-
+        string SenderEmail = Sitecore.Context.Site.SiteInfo.Properties.Get("SenderEmail");
 
         public SubmitAIEAction(ISubmitActionData submitActionData) : base(submitActionData)
         {
@@ -70,7 +67,6 @@ namespace AIEnterprise.Feature.Forms.Actions
 
                 if (this.Execute("", formSubmitContext))
                 {
-
                     var thankyou = currentPage + "?status=success";
                     var defaultUrlOptions = LinkManager.GetDefaultUrlOptions();
                     defaultUrlOptions.SiteResolving = Settings.Rendering.SiteResolving;
@@ -107,18 +103,18 @@ namespace AIEnterprise.Feature.Forms.Actions
             //Get all Data Posted from FORM
             var formDict = new FormDictionary();
 
-            var hstable = formDict.GetFieldsDictionary(formSubmitContext.Fields);
+            hstable = formDict.GetFieldsDictionary(formSubmitContext.Fields);
             Dictionary<string, string> attributeList = new Dictionary<string, string>();
 
             if (hstable.ContainsKey("JobApplied"))
             {
                 isJobApplicationForm = true;
                 EmailTemplate = "AIE_CareersEmail";
-
             }
 
             bool isMailSent = SendEmailNotification(hstable);
-            return true;
+
+            return isMailSent;
         }
 
         private bool SendEmailNotification(Dictionary<string, List<string>> formdata)
@@ -126,12 +122,12 @@ namespace AIEnterprise.Feature.Forms.Actions
             try
             {
                 //Send the form details via emails
-                EmailHelper emailHeler = new EmailHelper();
-                string emailFrom = emailHeler.GetValuefromDictionary(formdata, "your-email");
+                EmailHelper emailHelper = new EmailHelper();
+                string emailFrom = SenderEmail;
                 string subject = string.Empty;
                 string[] allEmails;
                 var isMailSent = false;
-                var emailBody = emailHeler.GetEmailBody(formdata, EmailTemplate);
+                var emailBody = emailHelper.GetEmailBody(formdata, EmailTemplate);
 
                 if (isJobApplicationForm)
                 {
@@ -155,7 +151,7 @@ namespace AIEnterprise.Feature.Forms.Actions
                         IsAttachement = isJobApplicationForm
                     };
 
-                    isMailSent = emailHeler.Send(aieEmail, fileUpload);
+                    isMailSent = emailHelper.Send(aieEmail, fileUpload);
                     if (!isMailSent)
                     {
                         Log.Error("$Email sender failed", "FormSubmission");
