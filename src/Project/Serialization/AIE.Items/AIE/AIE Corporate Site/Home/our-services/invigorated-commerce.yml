@@ -67,7 +67,7 @@ Languages:
               p:after="r[@uid='{1DFE7483-FC1F-4104-AD7D-8B7384C7A3E0}']"
               s:ds=""
               s:id="{896A2C68-1362-4E88-8BA0-1805AE6D4837}"
-              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;BackgroundImage=%3Cimage%20mediaid%3D%22%7BD29D5671-4FEF-461E-A6B5-757C09956B1C%7D%22%20%2F%3E&amp;Styles=%7B91D911B6-1D13-4B9C-9C58-CA9339186A2A%7D%7C%7B1226A1A0-DA51-429D-9341-F9DE247AD3E8%7D&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=11"
+              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;BackgroundImage=%3Cimage%20mediaid%3D%22%7BD29D5671-4FEF-461E-A6B5-757C09956B1C%7D%22%20%2F%3E&amp;Styles=%7B91D911B6-1D13-4B9C-9C58-CA9339186A2A%7D&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=11"
               s:ph="/main/sxa-ourservicebody/container-6" />
             <r
               uid="{288F31EF-7718-4DAE-863B-AC1A917379DE}"
