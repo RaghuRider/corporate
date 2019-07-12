@@ -1,8 +1,8 @@
 ﻿---
 ID: "e71bc00f-b41f-486d-901b-08d360d398cb"
-Parent: "80122390-a00a-444e-a89f-d219c7ebe5ec"
+Parent: "c6c620dd-c933-412d-8c12-b171a87be436"
 Template: "daf085e8-602e-43a6-8299-038ff171349f"
-Path: /sitecore/media library/Project/AIE/AIE Corporate Site/Events
+Path: /sitecore/media library/Project/AIE/AIE Corporate Site/Events/Events
 DB: master
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
