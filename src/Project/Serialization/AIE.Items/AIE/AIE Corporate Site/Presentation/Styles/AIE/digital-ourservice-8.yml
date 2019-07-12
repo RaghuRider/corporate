@@ -1,0 +1,18 @@
+﻿---
+ID: "69163f65-837c-4331-bca3-d54bc3be3fb4"
+Parent: "29bc445c-d62d-4c01-893c-83644c15ed54"
+Template: "6b8aabef-d650-46e0-97d0-c0b04f7f016b"
+Path: "/sitecore/content/AIE/AIE Corporate Site/Presentation/Styles/AIE/digital-ourservice-8"
+DB: master
+SharedFields:
+- ID: "09147fb2-ebfb-4949-8c8e-26a424409d5e"
+  Hint: Value
+  Value: "digital-ourservice-8"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190711T093942Z
