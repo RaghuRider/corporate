@@ -164,6 +164,9 @@ Languages:
     - ID: "7d988161-3991-465a-a88c-280bc65542a0"
       Hint: OpenGraphTitle
       Value: "Home - AiEnterprise Inc."
+    - ID: "82f4bd76-0837-4e55-a1f6-15231096b2b9"
+      Hint: Attributes
+      Value: "og:locale=en_US&og:type=website&og:title=Home%20-%20AiEnterprise%20Inc.&og:description=We%20are%20your%20biggest%20fans.%20We%20want%20you%20to%20succeed.%20Our%20Mission%20then%20is%20to%20become%20an%20extension%20of%20your%20team.%20We.%20Deliver.%20Results.&og:url=http%3A%2F%2Fdev.aienterprise.com%2F&og:site_name=AiEnterprise%20Inc."
     - ID: "bb6835c4-82af-4d11-9102-a61694c17055"
       Hint: Title
       Value: Home

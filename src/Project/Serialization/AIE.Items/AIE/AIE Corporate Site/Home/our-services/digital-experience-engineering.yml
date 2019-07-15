@@ -155,6 +155,13 @@ Languages:
       Value: |
         Your customer is our customer.
         
+    - ID: "82f4bd76-0837-4e55-a1f6-15231096b2b9"
+      Hint: Attributes
+      Value: "og:locale=en_US&og:type=article&og:title=Digital%20%26%20Experience%20Engineering%20-%20AiEnterprise%20Inc.&og:url=http%3A%2F%2Fdev.aienterprise.com%2Four-services%2Fdigital-experience-engineering%2F&og:site_name=AiEnterprise%20Inc.&article:publisher=https%3A%2F%2Fwww.facebook.com%2Faienterpriseinc%2F&og:image=http%3A%2F%2Fdev.aienterprise.com%2F-%2Fmedia%2FProject%2FAIE%2FAIE-Corporate-Site%2FBannerImages%2FDIGITAL--EXPERIENCE.jpg"
     - ID: "bb6835c4-82af-4d11-9102-a61694c17055"
       Hint: Title
       Value: Digital and Experience Engineering
+    - ID: "de457091-0989-414e-addf-59db0ddb6690"
+      Hint: TwitterImage
+      Value: |
+        <image mediaid="{5D5892B2-A34C-495B-8236-46BE79B029F2}" />
