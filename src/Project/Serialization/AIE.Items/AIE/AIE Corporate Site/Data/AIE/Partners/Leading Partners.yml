@@ -19,12 +19,9 @@ Languages:
       Hint: Partners List
       Type: Multilist
       Value: |
-        {9FE6CFD9-CE18-4AD6-BC08-8878C382B6DD}
-        {FAA8FBA5-7DCB-4159-9FBB-EAB7D8A747AD}
         {9DBFA2B6-7B71-4DF4-8BED-E342934D694D}
         {10E036FE-4BCF-4990-A63B-F14EBAE4DBEE}
-        {B4723B07-DB62-44D8-AD36-949DC1034F39}
-        {2A8D8F7E-AE8F-4353-B8FB-64BF1F804F22}
+        {FAA8FBA5-7DCB-4159-9FBB-EAB7D8A747AD}
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
