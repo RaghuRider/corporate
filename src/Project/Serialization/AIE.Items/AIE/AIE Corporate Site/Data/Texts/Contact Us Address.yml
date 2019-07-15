@@ -27,13 +27,14 @@ Languages:
             <li> 2603 Camino Ramon, </li>
             <li>Suite 200,</li>
             <li> San Ramon</li>
-            <li> 94583</li>
+            <li> CA, 94583</li>
+            <li> USA</li>
         </ul>
         </div>
         </div>
         <div class="col-4 icon-cont">
         <div class="gem-contacts-item gem-contacts-phone address">
-        <p>Phone:&nbsp; <a href="tel:+1 (833) 243-0247">+1 833-AIE-0247</a></p>
+        <p>Phone:  <a href="tel:+1 (833) 243-0247">+1 833-AIE-0247</a></p>
         </div>
         <div class="gem-contacts-item gem-contacts-email address"><a href="mailto:sales@aienterprise.com">sales@aienterprise.com</a></div>
         <div class="gem-contacts-item gem-contacts-website address"><a href="https://www.aienterprise.com">www.aienterprise.com</a></div>
@@ -46,3 +47,4 @@ Languages:
         </ul>
         </div>
         </div>
+        
