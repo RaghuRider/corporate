@@ -7,7 +7,7 @@ DB: master
 SharedFields:
 - ID: "bea2740e-90d1-4b16-bd1d-7a7cc8605d2d"
   Hint: CssClass
-  Value: "digital-cum-sub1"
+  Value: "digital-cum-sub1 digital-ex-content"
 Languages:
 - Language: en
   Versions:
