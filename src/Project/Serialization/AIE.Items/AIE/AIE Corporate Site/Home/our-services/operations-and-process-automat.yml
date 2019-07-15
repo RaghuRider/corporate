@@ -169,6 +169,13 @@ Languages:
       Value: |
         Reducing Costs. Improving Quality.
         
+    - ID: "82f4bd76-0837-4e55-a1f6-15231096b2b9"
+      Hint: Attributes
+      Value: "og:locale=en_US&og:type=article&og:title=Operations%20and%20Process%20Automations%20-%20AiEnterprise%20Inc.&og:url=http%3A%2F%2Fdev.aienterprise.com%2Four-services%2Foperations-and-process-automations%2F&og:site_name=AiEnterprise%20Inc.&article:publisher=https%3A%2F%2Fwww.facebook.com%2Faienterpriseinc%2F&og:image=http%3A%2F%2Fdev.aienterprise.com%2F-%2Fmedia%2FProject%2FAIE%2FAIE-Corporate-Site%2FBannerImages%2FOPERATIONS-AND-PROCESS-AUTOMATIONS.jpg"
     - ID: "bb6835c4-82af-4d11-9102-a61694c17055"
       Hint: Title
       Value: Operations and Process Automations
+    - ID: "de457091-0989-414e-addf-59db0ddb6690"
+      Hint: TwitterImage
+      Value: |
+        <image mediaid="{0CF72038-8E4B-4CED-B3FC-E9A3FFB2F3EA}" />
