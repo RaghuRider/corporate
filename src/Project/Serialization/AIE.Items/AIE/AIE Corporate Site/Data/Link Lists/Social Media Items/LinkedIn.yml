@@ -5,6 +5,9 @@ Template: "e24e0789-a058-48bf-abb6-c69c0e60b6b7"
 Path: /sitecore/content/AIE/AIE Corporate Site/Data/Link Lists/Social Media Items/LinkedIn
 DB: master
 SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
 - ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
   Hint: __Originator
   Value: "{194F150F-8626-4AEC-80C0-8F2529826D30}"
