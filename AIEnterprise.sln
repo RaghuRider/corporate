@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.106
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28922.388
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Feature", "Feature", "{66AE5F89-5C3A-40AE-8747-CCA0E15537D8}"
 EndProject
@@ -10,12 +10,6 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Project", "Project", "{415F227A-606C-443A-978A-0830764D5A9C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIEnterprise.Project.Website", "src\Project\code\AIEnterprise.Project.Website.csproj", "{7E4B15DC-7641-46D5-956A-1C71D5CA3DFC}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIEnterprise.Foundation.Logging", "src\Foundation\Logging\code\AIEnterprise.Foundation.Logging.csproj", "{793C5BB7-4E7A-4068-90D8-5BC0FB802128}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIEnterprise.Foundation.DI", "src\Foundation\DependencyInjection\code\AIEnterprise.Foundation.DI.csproj", "{70BA1B4A-5F66-45C6-861C-37965E3F0191}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIEnterprise.Foundation.Serialization", "src\Foundation\Serialization\code\AIEnterprise.Foundation.Serialization.csproj", "{67F77E66-0149-4544-9F80-8CEB11952E14}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Configuration", "Configuration", "{4C02AFF0-E86C-4CC8-A7DD-B87AF56E437D}"
 	ProjectSection(SolutionItems) = preProject
@@ -46,6 +40,16 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIEnterprise.Foundation.Com
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIEnterprise.Feature.SiteMap", "src\Feature\SiteMap\code\AIEnterprise.Feature.SiteMap.csproj", "{61FC3417-E21A-4590-B195-6181EBD5077D}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Logging", "Logging", "{078DF38A-DDED-4ABB-92F7-A17887447FC9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Serialization", "Serialization", "{3EC8C306-CF43-4346-8250-241AB82761BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIEnterprise.Foundation.DI", "src\Foundation\DependencyInjection\code\AIEnterprise.Foundation.DI.csproj", "{70BA1B4A-5F66-45C6-861C-37965E3F0191}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIEnterprise.Foundation.Logging", "src\Foundation\Logging\code\AIEnterprise.Foundation.Logging.csproj", "{793C5BB7-4E7A-4068-90D8-5BC0FB802128}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIEnterprise.Foundation.Serialization", "src\Foundation\Serialization\code\AIEnterprise.Foundation.Serialization.csproj", "{67F77E66-0149-4544-9F80-8CEB11952E14}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -56,18 +60,6 @@ Global
 		{7E4B15DC-7641-46D5-956A-1C71D5CA3DFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7E4B15DC-7641-46D5-956A-1C71D5CA3DFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7E4B15DC-7641-46D5-956A-1C71D5CA3DFC}.Release|Any CPU.Build.0 = Release|Any CPU
-		{793C5BB7-4E7A-4068-90D8-5BC0FB802128}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{793C5BB7-4E7A-4068-90D8-5BC0FB802128}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{793C5BB7-4E7A-4068-90D8-5BC0FB802128}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{793C5BB7-4E7A-4068-90D8-5BC0FB802128}.Release|Any CPU.Build.0 = Release|Any CPU
-		{70BA1B4A-5F66-45C6-861C-37965E3F0191}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{70BA1B4A-5F66-45C6-861C-37965E3F0191}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{70BA1B4A-5F66-45C6-861C-37965E3F0191}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{70BA1B4A-5F66-45C6-861C-37965E3F0191}.Release|Any CPU.Build.0 = Release|Any CPU
-		{67F77E66-0149-4544-9F80-8CEB11952E14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{67F77E66-0149-4544-9F80-8CEB11952E14}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{67F77E66-0149-4544-9F80-8CEB11952E14}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{67F77E66-0149-4544-9F80-8CEB11952E14}.Release|Any CPU.Build.0 = Release|Any CPU
 		{51C49364-61F9-47F2-A423-5E1A2AA505A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{51C49364-61F9-47F2-A423-5E1A2AA505A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{51C49364-61F9-47F2-A423-5E1A2AA505A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -80,15 +72,24 @@ Global
 		{61FC3417-E21A-4590-B195-6181EBD5077D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{61FC3417-E21A-4590-B195-6181EBD5077D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{61FC3417-E21A-4590-B195-6181EBD5077D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70BA1B4A-5F66-45C6-861C-37965E3F0191}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70BA1B4A-5F66-45C6-861C-37965E3F0191}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70BA1B4A-5F66-45C6-861C-37965E3F0191}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70BA1B4A-5F66-45C6-861C-37965E3F0191}.Release|Any CPU.Build.0 = Release|Any CPU
+		{793C5BB7-4E7A-4068-90D8-5BC0FB802128}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{793C5BB7-4E7A-4068-90D8-5BC0FB802128}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{793C5BB7-4E7A-4068-90D8-5BC0FB802128}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{793C5BB7-4E7A-4068-90D8-5BC0FB802128}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67F77E66-0149-4544-9F80-8CEB11952E14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67F77E66-0149-4544-9F80-8CEB11952E14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67F77E66-0149-4544-9F80-8CEB11952E14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67F77E66-0149-4544-9F80-8CEB11952E14}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{7E4B15DC-7641-46D5-956A-1C71D5CA3DFC} = {415F227A-606C-443A-978A-0830764D5A9C}
-		{793C5BB7-4E7A-4068-90D8-5BC0FB802128} = {DE4CF2EE-D108-40E7-A79F-E1D003E82FEC}
-		{70BA1B4A-5F66-45C6-861C-37965E3F0191} = {DE4CF2EE-D108-40E7-A79F-E1D003E82FEC}
-		{67F77E66-0149-4544-9F80-8CEB11952E14} = {DE4CF2EE-D108-40E7-A79F-E1D003E82FEC}
 		{93869644-A845-43EC-B06E-B97E53568206} = {4C02AFF0-E86C-4CC8-A7DD-B87AF56E437D}
 		{24B9782B-4134-42C8-8CBC-5BFDA90D2A77} = {66AE5F89-5C3A-40AE-8747-CCA0E15537D8}
 		{51C49364-61F9-47F2-A423-5E1A2AA505A0} = {24B9782B-4134-42C8-8CBC-5BFDA90D2A77}
@@ -97,9 +98,14 @@ Global
 		{71C864BD-09E9-4FAD-9965-63152A643DB6} = {DE4CF2EE-D108-40E7-A79F-E1D003E82FEC}
 		{DB8FA138-AB80-4274-A07B-E6186A96AC77} = {D8B0B959-AB8D-4952-96D8-B7DA8EFD70EC}
 		{61FC3417-E21A-4590-B195-6181EBD5077D} = {27F12A85-1928-497C-AA54-6BA771B094CB}
+		{078DF38A-DDED-4ABB-92F7-A17887447FC9} = {DE4CF2EE-D108-40E7-A79F-E1D003E82FEC}
+		{3EC8C306-CF43-4346-8250-241AB82761BB} = {DE4CF2EE-D108-40E7-A79F-E1D003E82FEC}
+		{70BA1B4A-5F66-45C6-861C-37965E3F0191} = {71C864BD-09E9-4FAD-9965-63152A643DB6}
+		{793C5BB7-4E7A-4068-90D8-5BC0FB802128} = {078DF38A-DDED-4ABB-92F7-A17887447FC9}
+		{67F77E66-0149-4544-9F80-8CEB11952E14} = {3EC8C306-CF43-4346-8250-241AB82761BB}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		EnterpriseLibraryConfigurationToolBinariesPathV6 = packages\EnterpriseLibrary.Common.6.0.1304.0\lib\NET45;packages\EnterpriseLibrary.TransientFaultHandling.6.0.1304.0\lib\portable-net45+win+wp8;packages\EnterpriseLibrary.TransientFaultHandling.Caching.6.0.1304.0\lib\NET45;packages\EnterpriseLibrary.TransientFaultHandling.Data.6.0.1304.1\lib\NET45;packages\EnterpriseLibrary.TransientFaultHandling.ServiceBus.6.0.1304.0\lib\NET45;packages\EnterpriseLibrary.TransientFaultHandling.WindowsAzure.Storage.6.0.1304.0\lib\NET45;packages\EnterpriseLibrary.TransientFaultHandling.Configuration.6.0.1304.0\lib\NET45
 		SolutionGuid = {6C0DE10B-66A0-4B7A-B792-B2EA695FFC71}
+		EnterpriseLibraryConfigurationToolBinariesPathV6 = packages\EnterpriseLibrary.Common.6.0.1304.0\lib\NET45;packages\EnterpriseLibrary.TransientFaultHandling.6.0.1304.0\lib\portable-net45+win+wp8;packages\EnterpriseLibrary.TransientFaultHandling.Caching.6.0.1304.0\lib\NET45;packages\EnterpriseLibrary.TransientFaultHandling.Data.6.0.1304.1\lib\NET45;packages\EnterpriseLibrary.TransientFaultHandling.ServiceBus.6.0.1304.0\lib\NET45;packages\EnterpriseLibrary.TransientFaultHandling.WindowsAzure.Storage.6.0.1304.0\lib\NET45;packages\EnterpriseLibrary.TransientFaultHandling.Configuration.6.0.1304.0\lib\NET45
 	EndGlobalSection
 EndGlobal
