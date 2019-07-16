@@ -162,7 +162,11 @@ Languages:
       Value: We would love to hear from you and your Digital Commerce journey. We can help.
     - ID: "82f4bd76-0837-4e55-a1f6-15231096b2b9"
       Hint: Attributes
-      Value: "og:locale=en_US&og:type=article&og:title=Contact%20Us%20-%20AiEnterprise%20Inc.&og:url=http%3A%2F%2Fdev.aienterprise.com%2Fcontact-us%2F&og:site_name=AiEnterprise%20Inc.&article:publisher=https%3A%2F%2Fwww.facebook.com%2Faienterpriseinc%2F"
+      Value: "og:locale=en_US&og:type=article&og:title=Contact%20Us%20-%20AiEnterprise%20Inc.&og:url=http%3A%2F%2Fdev.aienterprise.com%2Fcontact-us%2F&og:site_name=AiEnterprise%20Inc.&article:publisher=https%3A%2F%2Fwww.facebook.com%2Faienterpriseinc%2F&og:image=http%3A%2F%2Fdev.aienterprise.com%2F-%2Fmedia%2FProject%2FAIE%2FAIE-Corporate-Site%2FBannerImages%2FCONTACT-US.jpg"
     - ID: "bb6835c4-82af-4d11-9102-a61694c17055"
       Hint: Title
       Value: CONTACT US
+    - ID: "de457091-0989-414e-addf-59db0ddb6690"
+      Hint: TwitterImage
+      Value: |
+        <image mediaid="{86BA1B36-F5C6-40C4-BD94-8484A713688A}" />
