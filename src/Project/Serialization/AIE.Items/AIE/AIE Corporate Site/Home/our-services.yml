@@ -98,15 +98,8 @@ Languages:
               s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;BackgroundImage=%3Cimage%20mediaid%3D%22%7B0775B6A3-69C7-47F0-8B5E-F36D85A873B5%7D%22%20alt%3D%22Our%20Services%22%20height%3D%22%22%20width%3D%22%22%20hspace%3D%22%22%20vspace%3D%22%22%20%2F%3E&amp;Styles=%7B91D911B6-1D13-4B9C-9C58-CA9339186A2A%7D%7C%7B92C64CC1-7C73-40C5-92B3-1838F9C6BCB9%7D%7C%7B60F7E6D1-AC38-4B34-9367-4FF7A88BFBD7%7D%7C%7BD874F1FF-8E9C-45CA-B29C-DC151E22A0C3%7D&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=1"
               s:ph="main" />
             <r
-              uid="{5DF80FBE-2CE7-45DF-B3CA-83C40876003A}"
-              p:after="r[@uid='{27E04C77-A154-4DBE-8CBA-792D86A2B700}']"
-              s:ds="local:/Data/OurServicesTitle"
-              s:id="{87182F78-4399-4896-8D59-9D6A45282F8A}"
-              s:par="FieldNames=%7b51958A88-11E0-4224-B7AC-EECAE54AC9A5%7d&amp;GridParameters=%7b908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7d"
-              s:ph="main" />
-            <r
               uid="{1F411FB4-46B2-4920-9F9D-B5ABA3056E98}"
-              p:after="r[@uid='{5DF80FBE-2CE7-45DF-B3CA-83C40876003A}']"
+              p:after="r[@uid='{27E04C77-A154-4DBE-8CBA-792D86A2B700}']"
               s:ds=""
               s:id="{896A2C68-1362-4E88-8BA0-1805AE6D4837}"
               s:par="Styles=%7b3BF99C20-4ACE-4F85-BF77-D6FFF8D913CC%7d&amp;DynamicPlaceholderId=7"
