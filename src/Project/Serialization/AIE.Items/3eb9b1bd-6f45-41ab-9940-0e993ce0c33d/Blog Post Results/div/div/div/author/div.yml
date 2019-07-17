@@ -2,7 +2,7 @@
 ID: "adee5e78-49c3-4ef5-8c8b-f61bacf4378f"
 Parent: "821bb1ae-e8c8-4c62-adb8-f9f5c3db9e6e"
 Template: "fcd285da-9ab2-4c8d-b185-5a7487a9ba1b"
-Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Search Results/Blog Post Results/div/div/author/div
+Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Search Results/Blog Post Results/div/div/div/author/div
 DB: master
 SharedFields:
 - ID: "4753764c-c05a-4623-841b-97f85135241c"
