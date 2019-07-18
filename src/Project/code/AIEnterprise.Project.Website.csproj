@@ -78,6 +78,12 @@
       <SubType>Designer</SubType>
     </Content>
     <None Include="packages.config" />
+    <Content Include="Styles\blogs.css" />
+    <Content Include="Styles\component-confrimation.css" />
+    <Content Include="Styles\custom-new.css" />
+    <Content Include="Styles\global-theme.css" />
+    <Content Include="Styles\header.css" />
+    <Content Include="Styles\mediaquery.css" />
     <Content Include="Views\AIE\AIEPageLayout.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
