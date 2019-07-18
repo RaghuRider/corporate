@@ -19,4 +19,5 @@ Languages:
     - ID: "b3635965-6786-457c-9dee-28de73c0a331"
       Hint: Text
       Value: |
-        <div class="back-to-blog"> <img alt="" height="40" width="40" src="-/media/2D3F77E53F734677B50FC228F5FF7B81.ashx" /> <span><a href="/aie-blogs/"> Back to Blogs </a></span></div>
+        <div class="back-to-blog">
+        <span><a href="/aie-blogs/"> <img alt="" height="40" width="40" src="-/media/2D3F77E53F734677B50FC228F5FF7B81.ashx" /> </a></span></div>
