@@ -7,7 +7,7 @@ DB: master
 SharedFields:
 - ID: "97fb669d-5b8e-4829-9a24-06418c315d73"
   Hint: SxaTags
-  Value: "{D53D3E92-8DAB-4153-BA59-8EC057A79FB4}|{9D2639A7-93A6-42C0-BE76-4A8CE0BAABE8}"
+  Value: "{D53D3E92-8DAB-4153-BA59-8EC057A79FB4}"
 Languages:
 - Language: en
   Versions:

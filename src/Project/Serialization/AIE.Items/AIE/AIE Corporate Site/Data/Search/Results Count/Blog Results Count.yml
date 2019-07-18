@@ -9,6 +9,9 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "04dbbaaf-675a-4324-aebd-9b32d2d8d7d3"
+      Hint: ResultsCountText
+      Value: "There are {count} Blogs"
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20190709T054245Z
