@@ -4,6 +4,10 @@ Parent: "1aa3e7a2-56b0-4def-a95b-1aeefb06e340"
 Template: "e58828f9-5b4c-477c-a414-1aad308fba5f"
 Path: /sitecore/content/AIE/AIE Corporate Site/Data/AIE/Job Listing/Job Details/Data Engineer
 DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
 Languages:
 - Language: en
   Versions:
