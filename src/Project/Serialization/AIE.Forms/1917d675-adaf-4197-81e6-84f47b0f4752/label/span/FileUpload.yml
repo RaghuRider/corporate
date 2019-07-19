@@ -1,14 +1,22 @@
 ﻿---
 ID: "c16cc495-017c-46dd-bf92-634192d4d3b6"
 Parent: "d2d72819-0be0-47f8-903e-6356e59a654d"
-Template: "0908030b-4564-42ea-a6fa-c7a5a2d921a8"
+Template: "27686f73-aa5c-4e0e-ac6b-e3000d129e4f"
 Path: /sitecore/Forms/AIE/AIE Corporate Site/Profile Form/Page/div/div/form/p/label/span/FileUpload
 DB: master
 SharedFields:
 - ID: "10e5829a-1943-4597-b9ee-406ce3d13e13"
   Hint: Validations
   Type: Treelist
-  Value: 
+  Value: |
+    {B2E939F3-B081-474D-A8F6-A8FE0E825C02}
+    {723A414B-4463-4F69-A964-63746B6B7671}
+- ID: "3cd88ccb-4798-41bc-9b5a-ce177a0de8a0"
+  Hint: Allowed Content Types
+  Value: |
+    application/pdf
+    application/msword
+    application/vnd.openxmlformats-officedocument.wordprocessingml.document
 - ID: "467c22b4-b1a2-4620-b8bb-74c2d8b369fc"
   Hint: Label Css Class
   Value: "career-label-fileupload"
@@ -22,6 +30,9 @@ SharedFields:
   Hint: Required
   Type: Checkbox
   Value: 1
+- ID: "eeb21e25-1e4a-4f52-94f1-0f9a13a28a9d"
+  Hint: Max File Size
+  Value: 1048576
 Languages:
 - Language: en
   Versions:

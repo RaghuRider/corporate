@@ -2,7 +2,7 @@
 ID: "fa575f87-9656-438e-a757-71e51f7ace3b"
 Parent: "1effadb7-0e4b-40a5-8bd6-1919b577dc41"
 Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
-Path: /sitecore/Forms/AIE/AIE Corporate Site/Profile Form/Page/div/div/form/p/label/span/JobApplied/Settings
+Path: /sitecore/Forms/AIE/AIE Corporate Site/Profile Form/Page/div/div/form/p/label/span/div/JobApplied/Settings
 DB: master
 Languages:
 - Language: en

@@ -2,7 +2,7 @@
 ID: "4f164fe5-b6c2-4297-b1cc-4e098b698645"
 Parent: "eaf73ba2-5924-4668-a5c0-d5bf9f7f157d"
 Template: "b3bdfe59-6667-4432-b261-05d0e3f7fdf6"
-Path: /sitecore/Forms/AIE/AIE Corporate Site/Profile Form/Page/div/div/form/p/label/span/JobApplied/Settings/Datasource/Data Scientist
+Path: /sitecore/Forms/AIE/AIE Corporate Site/Profile Form/Page/div/div/form/p/label/span/div/JobApplied/Settings/Datasource/Data Scientist
 DB: master
 SharedFields:
 - ID: "3a07c171-9bca-464d-8670-c5703c6d3f11"

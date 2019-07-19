@@ -25,5 +25,4 @@ Languages:
         sitecore\admin
     - ID: "b59adc09-32a3-46f2-aede-b0c633979263"
       Hint: PromoText2
-      Value: |
-        <span style="color: #46485c;">Our partnerships allow us to scale our services in a thoughtful, value-add, customised way. It is our strategic way to adapt to the needs of very large multi – national brands and smaller businesses in emerging markets. The bottom line is, only the best of the best gets to be presented on this page. </span>
+      Value: "Our partnerships allow us to scale our services in a thoughtful, value-add, customised way. It is our strategic way to adapt to the needs of very large multi &ndash; national brands and smaller businesses in emerging markets. The bottom line is, only the best of the best gets to be presented on this page."

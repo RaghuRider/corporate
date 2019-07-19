@@ -19,30 +19,28 @@ Languages:
     - ID: "b3635965-6786-457c-9dee-28de73c0a331"
       Hint: Text
       Value: |
-            <div class="col-lg-12 corporate-two-column">
-        
-                            <div class="col-lg-8 col-xs-12 corporate-one-column">
-        
-                                <div class="corporate-content">
-                                    <h3>FEATURES OF OUR CORPORATE DNA</h3>
-                                    <ol class="corporate-ol">
-                                        <li class="corporate-feature-one"><span class="field-color-one">1</span>Business Consulting that builds the right strategy.</li>
-                                        <li class="corporate-feature-two"><span class="field-color-two">2</span>A technical roadmap that matches that strategy with the right platforms</li>
-                                        <li class="corporate-feature-three"><span class="field-color-three">3</span>A global, multi-lingual technical team with hundreds of installations under their belt.</li>
-                                        <li class="corporate-feature-four"><span class="field-color-four">4</span>Artificial Intelligence-driven marketing know-how that delivers results.</li>
-                                    </ol>
-                                </div>
-                            </div>
-                            <div class="col-lg-4 col-xs-12 corporate-second-column">
-                                <div class="methodology-content">
-                                    <h3>METHODOLOGY</h3>
-                                   <p>Our Methodology is focused, sticky and delivers results</p>
-                                    <ul class="methodology-ul">
-                                        <li class="methodology-li-1"><span class="methodologys-1">Business Consulting with exposure to B2C and B2B global markets</span></li>
-                                        <li class="methodology-li-2"><span class="methodologys-2">Architecture and Technical know-how on the best platforms the market has to offer</span></li>
-                                        <li class="methodology-li-3"><span class="methodologys-3">A team of professionals with diverse training with a history of delivering complex systems</span></li>
-                                        <li class="methodology-li-4"><span class="methodologys-4">Award winning AI engine with an emphasis on positively impacting your bottom line</span></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
+        <div class="col-lg-12 corporate-two-column">
+        <div class="col-lg-8 col-xs-12 corporate-one-column">
+        <div class="corporate-content">
+        <h3>FEATURES OF OUR CORPORATE DNA</h3>
+        <ol class="corporate-ol">
+            <li class="corporate-feature-one">Business Consulting that builds the right strategy.</li>
+            <li class="corporate-feature-two">A technical roadmap that matches that strategy with the right platforms</li>
+            <li class="corporate-feature-three">A global, multi-lingual technical team with hundreds of installations under their belt.</li>
+            <li class="corporate-feature-four">Artificial Intelligence-driven marketing know-how that delivers results.</li>
+        </ol>
+        </div>
+        </div>
+        <div class="col-lg-4 col-xs-12 corporate-second-column">
+        <div class="methodology-content">
+        <h3>METHODOLOGY</h3>
+        <p>Our Methodology is focused, sticky and delivers results</p>
+        <ul class="methodology-ul">
+            <li class="methodology-li-1"><span class="methodologys-1">Business Consulting with exposure to B2C and B2B global markets</span></li>
+            <li class="methodology-li-2"><span class="methodologys-2">Architecture and Technical know-how on the best platforms the market has to offer</span></li>
+            <li class="methodology-li-3"><span class="methodologys-3">A team of professionals with diverse training with a history of delivering complex systems</span></li>
+            <li class="methodology-li-4"><span class="methodologys-4">Award winning AI engine with an emphasis on positively impacting your bottom line</span></li>
+        </ul>
+        </div>
+        </div>
+        </div>
