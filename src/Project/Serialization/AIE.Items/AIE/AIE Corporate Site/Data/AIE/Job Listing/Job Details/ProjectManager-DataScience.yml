@@ -1,0 +1,53 @@
+﻿---
+ID: "4fc9bd7a-85a8-49c4-9c99-7d5ae5ec4a2a"
+Parent: "1aa3e7a2-56b0-4def-a95b-1aeefb06e340"
+Template: "e58828f9-5b4c-477c-a414-1aad308fba5f"
+Path: "/sitecore/content/AIE/AIE Corporate Site/Data/AIE/Job Listing/Job Details/ProjectManager-DataScience"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 400
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "16108162-879f-4846-bf88-a2fe3eebf35a"
+      Hint: Experience
+      Value: 10+ Years
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190719T132409Z
+    - ID: "aa2242e8-e723-4914-b73b-3ab39bdb70e0"
+      Hint: ExpTitle
+      Value: "Exp :"
+    - ID: "b1578035-981a-441e-88f2-35aa18d6805b"
+      Hint: LocationTitle
+      Value: "Location :"
+    - ID: "b4836c11-2322-4a1d-a690-12911e25e9f6"
+      Hint: Job Description
+      Value: |
+        <div class="carrer-cont">
+        <ul>
+            <li>Ability to translate business requirements into technical project plans.</li>
+            <li>Manage/develop the strategic planning for a variety of key projects.</li>
+            <li>Onsite customer interaction and co-ordinate with offshore team.</li>
+            <li>Organize/coordinate weekly progress review meetings with project team members.</li>
+            <li>Extensive experience in project management &amp; deliver.</li>
+            <li>Well aware of complete software development life cycle, along with different models like Waterfall, V-Model, Agile.</li>
+            <li>Has done project planning, costing, tracking &amp; reporting extensively.</li>
+            <li>Capable of Client expectation management, Risk &amp; Issue management, handling escalations etc.</li>
+            <li>Should have Big Data/ Analytics domain background.</li>
+        </ul>
+        </div>
+    - ID: "c5c8e313-007d-4456-870e-e4b11829720b"
+      Hint: Technology Logo
+      Value: |
+        <image mediaid="{10E54124-544E-4552-A022-786A01E0DD0C}" />
+    - ID: "c7aa4a32-7ab1-40fe-9698-d11d78bdbaba"
+      Hint: Job Title
+      Value: PROJECT MANAGER DATA SCIENCE
+    - ID: "ed666357-43a0-4097-a073-529892e4a4c9"
+      Hint: Location
+      Value: Milpitas, US
