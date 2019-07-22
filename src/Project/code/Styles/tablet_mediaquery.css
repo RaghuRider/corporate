@@ -1,0 +1,591 @@
+/***************tablet**************************/
+
+
+@media (min-width: 768px) and (max-width: 1024px) {
+    .analytics-actionable -main .component-content {
+        background-position: 23% 0px !important;
+    }
+
+    .analytics-actionable -main .field-content .banner-header {
+        margin-top: 0%;
+    }
+
+    .digital-ourservice-8 .corporate-text-left {
+        width: 100%;
+    }
+
+    .analytics-aiengine .corporate-image img {
+        width: 45% !important;
+        margin-top: 0px !important;
+        margin-left: 0px !important;
+    }
+
+    .invigorated-commerce.main-banner-image-LeftText .component-content {
+        background-position: 102%;
+        height: 260px;
+    }
+
+    .col-4 digital-ourservice-4 .Right-section {
+        padding-right: 0px;
+    }
+
+    .col-4.digital-ourservice-4 .Right-section ul li .field-link {
+        padding-left: 56px;
+    }
+
+    .header.sticky #nav-trigger {
+        left: 526px;
+        top: -4px;
+    }
+
+    background-position: 102%;
+
+    .carrier-popup-overlay .close {
+        top: 0px;
+    }
+
+    .carrier-popup-overlay .col-contact-4 {
+        padding-top: 70px;
+    }
+
+    .contact-us-banner .banner-header {
+        width: 392px !important;
+        padding-top: 0px;
+    }
+
+    .contact-us-banner .boxed position-left {
+        padding-top: 0px !important;
+    }
+
+    .wpcf7 .form-sidebar textarea {
+
+        width: 277px;
+    }
+
+    .coporate-banner .component-content {
+        background-position: 42% !important;
+    }
+
+    .coporate-banner .banner-header {
+        width: 410px;
+        padding-left: 18%;
+    }
+
+    .digital-experience-engineering .banner-header {
+        width: 60%;
+        padding-left: 8%;
+    }
+
+    .partners-banner .banner-header {
+        width: 410px;
+        padding-left: 10%;
+    }
+
+    .contact-captcha {
+        transform: scale(0.77);
+        -webkit-transform: scale(0.93);
+        transform-origin: 0 0;
+        -webkit-transform-origin: 0 0;
+    }
+
+    .main-digital-exp .subfullrange.col-6 {
+        max-width: 46% !important;
+    }
+
+    .header #nav-trigger {
+        left: 526px;
+        top: -5px;
+    }
+
+    .position-left .component-content .field-content .banner-header {
+        margin-top: 0%;
+        width: 50%;
+    }
+
+    . position-right .component-content .field-content .banner-header {
+        margin-top: 0%;
+        width: 50%;
+    }
+
+    position-right .contact-us.iframe.contact-us iframe {
+        margin-left: 20px;
+        width: 100%;
+    }
+
+    #header .sticky .image {
+        max-width: 22% !important;
+        margin: 5px 0px 7px 0px;
+    }
+
+    #header img {
+        width: 87px;
+        padding-top: 15px;
+        margin: 0px 0px 0px 30px;
+    }
+
+    .header .field-image a {
+        width: 61px;
+        max-width: 241px;
+        display: inline-block;
+    }
+
+
+
+    /* #header .sticky img {
+            max-width: 60%;
+            padding-top: 0px;
+        }*/
+
+    .carousel .field-slidelink {
+
+        margin-left: 30px;
+
+        min-width: 100px;
+
+        max-width: 127px;
+
+        padding: 0px 10px 0px 15px;
+
+        margin-top: 30px;
+
+        font-size: 14px;
+
+        height: 28px;
+    }
+
+
+    .ContactUs-map {
+        flex: 0 0 100%;
+        max-width: 53.666667%;
+    }
+
+    .header .col-2 {
+        width: 732px;
+        max-width: 40%;
+        flex: 0 0 100% !important;
+
+    }
+
+    /*  #header .image {
+            max-width: 22% !important;
+            margin: 0px 0px 7px 0px;
+        }*/
+
+    #header.container .col-12:nth-child(2) .row {
+        margin: 0px 2% 0px 0%;
+    }
+
+    .analytics-aiengine .corporate-image img {
+        width: 95% !important;
+    }
+
+    .commerce-image .back-image2 .field-promoicon img {
+        width: 38% !important;
+        margin-left: -45px !important;
+        margin-top: 0px !important;
+        width: 50%;
+    }
+
+    .about-us-core .component-content {
+        background-position: 42%;
+    }
+
+    digital-cum-sub1 {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+
+    #footer #colophon {
+        padding-top: 25px !important;
+    }
+
+    .component-content .digital-cum-sub1 .col-2 img {
+        /* max-width: 300% !important; */
+        margin-left: 36px !important;
+        margin-top: 23px;
+    }
+
+    .carrier-popup-overlay .close {
+        top: 25px;
+    }
+
+    .carrier-popup-overlay .col-contact-4 {
+        margin-left: 13% !important;
+    }
+
+    corporate-ol li:before {
+        position: absolute;
+        left: 5px;
+        content: counter(step-counter);
+        /* background-color: green; */
+        font-weight: bold;
+        border-radius: 50%;
+        color: white;
+        width: 45px !important;
+        height: 45px;
+        text-align: center;
+        line-height: 1.5em;
+        width: 100%;
+        border: solid #00bcd4 2px;
+        color: #00bcd4;
+        padding-top: 2%;
+    }
+
+    .carousel .field-slidetext P:nth-child(2) {
+        padding-top: 0px;
+        margin-left: 30px;
+    }
+
+    .component-content .field-content .banner-header {
+        margin-top: 16%;
+    }
+
+    .slide .slide-info p:nth-child(1) {
+
+        min-width: 640px !important;
+    }
+
+    .enterprise-why .field-image img {
+        display: none;
+    }
+
+    .col-contact-4 .sitecore-form {
+        margin-left: 0px !important;
+    }
+
+    .col-contact-4 .sitecore-form {
+        margin-left: 0px !important;
+    }
+
+    h1 {
+        font-size: 30px !important;
+
+    }
+
+    .col-3-home-4 {
+        max-width: 44% !important;
+
+
+    }
+
+    .home-what-line {
+        top: -8px;
+        left: 224px;
+        width: 37%;
+    }
+
+
+    .six-col-content .col-12:first-child {
+        margin-bottom: 50px
+    }
+
+    .col-3-home-4 .col-12 .col-12 p.quickfinder-item-text.field-promotext2 {
+        width: 210px;
+    }
+
+
+
+    .enterpriseChild .col-lg-3 {
+        max-width: 50%;
+    }
+
+    .six-col-content .col-4 {
+        margin-left: 32px !important;
+        max-width: 45% !important;
+
+    }
+
+    footer .row:first-child .component-content:first-child .row:first-child .col-12 {
+        max-width: 48% !important;
+        flex: 0 0 100%;
+        /* padding-left: 5%; */
+        padding-right: 0%;
+    }
+
+    #footer .col-md-6:nth-child(2) {
+        max-width: 50%;
+        margin-left: 10%;
+    }
+
+    /*****************aboout page*****************/
+    .connect-us-about .fullwidth-block-background img {
+        height: 220px;
+    }
+
+    .connect-content-about .connect-main-4 {
+
+        margin-top: 6% !important;
+        background: #fff;
+        width: 100% !important;
+        margin-bottom: 12%;
+        margin-top: 2%;
+        margin-left: 4%;
+    }
+
+    .our-core-sub .core-img img {
+
+        margin-left: 16px;
+        width: 100%;
+        height: auto;
+        margin-left: 16px;
+    }
+
+    .connect-content-about .connect-main-4 .connectUs-inner-content {
+        padding-bottom: 50px;
+    }
+
+    .connect-us-about .connect-main .title-h1 {
+
+        top: 5%;
+        text-align: center;
+        margin-left: 150px;
+    }
+
+    .connect-content-about {
+        position: absolute;
+        top: 39%;
+        background: #F0F0F0;
+        width: 100%;
+        margin-left: 62px;
+
+    }
+
+    .connect-main-4:first-child {
+        margin-top: 12%;
+    }
+
+
+
+    .circleBase {
+        position: absolute;
+        top: -45px;
+        margin-left: 46% !important;
+    }
+
+
+    .connect-content-about {
+        position: relative;
+        margin-left: 0px;
+
+    }
+
+    .connect-main .container-connect {
+        height: 100%;
+    }
+
+    .circleBase {
+        position: relative;
+
+    }
+
+    .connect-main-4 .col-4 {
+        text-align: center;
+        margin-top: 3%;
+    }
+
+    .about-us-core .component-content:first-child {
+        background-position: -349px 0px;
+    }
+
+    .our-core-sub .col-lg-3 {
+
+        max-width: 36% !important;
+
+    }
+
+    .main-banner-image-RightText .component-content .field-content {
+        margin-left: 40%
+    }
+
+    .main-banner-image-RightText .component-content h1 {
+        text-align: center
+    }
+
+    .main-banner-image-RightText .component-content h4 {
+        text-align: center
+    }
+
+    .main-banner-image-RightText .component-content {
+
+        background-position: 20% 0px !important;
+
+    }
+
+    .Right-section ul li:before {
+
+        position: inherit !important;
+
+        padding-right: 15px !important;
+    }
+
+    .Right-section ul li .field-link a {
+        margin-left: 0px !important;
+        padding-top: 9px !important;
+        padding-left: 0px !important;
+        padding-right: 3px !important;
+
+
+        width: 12px !important;
+
+    }
+
+    /****************digital experiece*******************/
+    .digital-ourservice-6 {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+
+    .digital-ourservice-6 .col-2 {
+        flex: 0 0 50%;
+        max-width: 50%;
+    }
+
+    .digital-ourservice-6 .col-6 {
+        flex: 0 0 50%;
+        max-width: 50%;
+    }
+
+    .digital-ourservice-6 .col-6 p.field-promotext2 {
+        margin-left: 0px !important;
+    }
+
+    .commerce-image .back-image2 .field-promoicon img {
+        width: 59% !important;
+        margin-left: -130px !important;
+        margin-top: 0px !important;
+    }
+
+    .corporate-text-left .header-content2 p {
+        width: 100% !important;
+        text-align: justify;
+    }
+
+    .corporate-image .back-image2 .field-promoicon {
+        float: left;
+        width: 100%;
+        height: 100%;
+    }
+
+    .corporate-text-left {
+        width: 100%;
+        float: left;
+        margin-left: 0px;
+
+    }
+
+    ol.corporate-ol span:first-child {
+
+        width: 45px !important;
+        height: 45px;
+    }
+
+    ol.corporate-ol span {
+        width: 60px !important;
+        height: 50px;
+
+    }
+
+
+
+    .commerce-image .back-image2 .field-promoicon img {
+
+        margin-left: 0px !important;
+
+    }
+
+    .corporate-image img {
+
+        position: inherit;
+        width: 100% !imporant;
+
+    }
+
+    .commerce-image .back-image2 .field-promoicon img {
+        width: 100% !important;
+
+    }
+
+    .analytics-aiengine .aiengine-left {
+        width: 100%;
+    }
+
+    .contact-us-banner .component-content {
+        background-position: 50%;
+
+    }
+
+    .container .partners-banner .component-content {
+        background-position: 35% 68% !important;
+        /* width: 50%; */
+        max-width: 100%;
+        height: auto;
+
+    }
+
+    .main-banner-image-RightText .component-content {
+        min-height: 200px;
+
+    }
+
+    .corporate-text-left {
+        width: 50%;
+        /* float: left; */
+        margin-left: 0px;
+    }
+
+    .corporate-image .back-image2 .field-promoicon {
+        float: left;
+        width: 100%;
+        height: 100%;
+
+    }
+
+    .corporate-image {
+        width: 100% !important;
+    }
+
+    .corporate-image img {
+        width: 100% !important;
+    }
+
+    #header .sticky img {
+
+        max-width: 100%;
+        height: auto;
+        width: 100%;
+        margin-top: 0px;
+        padding-top: 10px;
+    }
+
+    #header .image {
+        max-width: 22% !important;
+        margin: 0px 0px 7px 0px;
+    }
+
+    .career-field-jobapplied {
+        width: 228px !important;
+
+    }
+
+    .contact-list .contacts-address {
+        margin-left: 0px;
+    }
+
+    .contactus .contactus-right {
+        max-width: 32.333333% !important;
+    }
+
+    .contacts-social-icons li.facebook-icon {
+        width: 50px;
+        float: left;
+    }
+
+    .contacts-social-icons li.linkedin-icon {
+        width: 50px;
+        float: left;
+    }
+
+    .contactus {
+        margin-top: 77px;
+    }
+}
