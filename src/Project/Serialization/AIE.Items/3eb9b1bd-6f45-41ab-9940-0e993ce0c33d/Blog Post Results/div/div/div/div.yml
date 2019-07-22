@@ -1,0 +1,18 @@
+﻿---
+ID: "07cd8a4f-9a21-4a1e-afbd-fee20f619643"
+Parent: "d47fbb16-1735-4f92-a387-5614ca2896b3"
+Template: "aca5c9a3-cda0-49b6-893f-1d4a7cb595b0"
+Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Search Results/Blog Post Results/div/div/div/div
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 425
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190722T070559Z

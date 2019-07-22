@@ -1,8 +1,8 @@
 ﻿---
 ID: "cdaf8e5c-6ede-447c-abce-449449089c94"
-Parent: "d47fbb16-1735-4f92-a387-5614ca2896b3"
+Parent: "07cd8a4f-9a21-4a1e-afbd-fee20f619643"
 Template: "fcd285da-9ab2-4c8d-b185-5a7487a9ba1b"
-Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Search Results/Blog Post Results/div/div/div/introduction
+Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Search Results/Blog Post Results/div/div/div/div/introduction
 DB: master
 SharedFields:
 - ID: "4753764c-c05a-4623-841b-97f85135241c"
@@ -13,7 +13,7 @@ SharedFields:
   Value: 450
 - ID: "db805bdc-8eec-4238-b174-2427b6f1f077"
   Hint: Tag
-  Value: "{18C8C889-C723-452A-970C-7CE4D41EE371}"
+  Value: "{6C08DBD3-67FF-454C-B526-1EE5F77D5093}"
 Languages:
 - Language: en
   Versions:
