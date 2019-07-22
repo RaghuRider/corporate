@@ -203,7 +203,7 @@
     <Content Include="EmailTemplate\AIE_ContactEmail.html" />
     <Content Include="Views\FormBuilder\FieldTemplates\ConfirmationPopup.cshtml" />
     <Content Include="Views\FormBuilder\FieldTemplates\AIEHiddenField.cshtml" />
-    <Content Include="App_Config\Include\Feature\FormsExtensions\Feature.FormsExtensions.FileUploadStorageProviders.config" />
+    <Content Include="App_Config\Include\AIEnterprise\Feature\FormsExtensions\Feature.FormsExtensions.FileUploadStorageProviders.config" />
     <None Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -215,7 +215,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Views\web.config" />
-    <Content Include="App_Config\Include\Feature\FormsExtensions\Feature.FormsExtensions.Settings.config" />
+    <Content Include="App_Config\Include\AIEnterprise\Feature\FormsExtensions\Feature.FormsExtensions.Settings.config" />
     <None Include="packages.config" />
     <Content Include="Views\FormBuilder\FieldTemplates\ReCaptcha.cshtml" />
     <Content Include="Views\FormBuilder\FieldTemplates\FileUpload.cshtml" />
