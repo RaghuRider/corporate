@@ -162,7 +162,7 @@
     <Compile Include="ServiceCollectionExtensions.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="App_Config\Include\AIEnterprise\Foundation\AIEnterprise.Foundation.DI.config" />
+    <Content Include="App_Config\Include\AIEnterprise\Foundation\Dependency Injection\AIEnterprise.Foundation.DI.config" />
     <None Include="packages.config" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
