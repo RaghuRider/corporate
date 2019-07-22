@@ -19,9 +19,9 @@ a {
 .component-content .field-link a {
     color: black;
 }
-.our-service-headline h2
-{
-    font-weight:700 !important
+
+.our-service-headline h2 {
+    font-weight: 700 !important
 }
 
 @media (min-width: 1036px) {
@@ -63,8 +63,8 @@ a {
 }
 
 @media only screen and (min-width : 768px) and (max-width : 1024px) {
-    #nav-trigger {
-        left: 568px !important;
+   #nav-trigger {
+        
         margin-top: 32px !important;
     }
 
@@ -89,9 +89,26 @@ a {
 
 @media only screen and (max-width : 767px) {
     #header img {
-        width: 53px;
+        width: 87px;
         padding-top: 15px;
-            margin: 0px 0px 0px 30px;
+        margin: 0px 0px 0px 30px;
+    }
+
+    .header .field-image a {
+        width: 61px;
+        max-width: 241px;
+        display: inline-block;
+    }
+
+    .sticky #nav-trigger {
+        left: 189px;
+        top: -4px;
+    }
+
+    #header .sticky img {
+         width: 53px;
+        padding-top: 15px;
+        margin: 0px 0px 0px 0px;
     }
 
     nav.site-nav-wrapper.show-menu {
@@ -242,7 +259,7 @@ li.primary-link.has-dropdown.corpo .component-content .site-dropdown li {
     line-height: normal;
     padding: 10px;
     padding-left: 20px;
-   /* padding-right: 123px;*/
+    /* padding-right: 123px;*/
     background-color: #f4f6f7;
     border: 1px solid #dfe5e8;
 }
@@ -287,7 +304,7 @@ form h4.widget-title {
 
     text-transform: uppercase;
     margin: 1em 0;
-  /*  letter-spacing: 0.05em;*/
+    /*  letter-spacing: 0.05em;*/
     color: #3c3950;
     font-size: 19px !important;
     font-weight: bold !important;
@@ -299,10 +316,8 @@ form h4.widget-title {
 /*********** THREECOLUMN *************/
 
 
-p.partner-para.field-description {
-    text-align: center;
-    font-size: 18px;
-    line-height: 28px;
+p.partner-para.field-description  .partner-content.field-description{
+
     margin-bottom: 70px !important;
     margin-top: 21px !important;
 }
@@ -378,24 +393,23 @@ img.partner__img.field-promoicon {
 }
 
 .header-content1 h2 {
-    font-weight: 400;
+   
     line-height: 53px;
     font-size: 36px;
     width: 566px;
-    font-family: 'Montserrat';
     margin: 1.2em 3px 0 0;
-    letter-spacing: 0.05em;
+    
 }
 
 
-.header-content1 p {
+/*.header-content1 p {
     line-height: 28px;
 }
-
+*/
 /***********Home 4column  *****************/
 
 .component.promo.col-12.four-component-home.promoted-box {
-  /*************j***  margin-left: -30px;******************/
+    /*************j***  margin-left: -30px;******************/
 }
 
 .component.promo.col-12:hover .quickfinder-item-image {
@@ -408,7 +422,7 @@ img.partner__img.field-promoicon {
 
 .component.promo.col-12.promoted-box:hover {
     background: #f4f6f7;
-   /* height: 265px;*/
+    /* height: 265px;*/
 }
 
 
@@ -482,10 +496,12 @@ img.partner__img.field-promoicon {
 .carousel {
     border-style: none !important;
 }
+
 ..rc-anchor-normal {
     height: 74px;
     width: 252px !important;
 }
+
 /**************** Corporate Image With Card************************/
 
 .corporate-image img {
@@ -551,7 +567,7 @@ p.corporate-content {
     float: left;
     position: relative;
    /* font-size: 127% !important;*/
-   /* border-radius: 50%;
+/* border-radius: 50%;
     -moz-border-radius: 50%;
     -webkit-border-radius: 50%;
     overflow: hidden;
@@ -846,16 +862,18 @@ p.india-para {
         width: 50%;
     }
 }
+
 .header-content1 h2 {
     padding-top: 00px;
     text-align: center;
 }
+
 /**************six-column****************/
 
 .curve.field-description {
     text-align: center;
-       fill: #ffffff;
-    
+    fill: #ffffff;
+
 }
 
 
@@ -872,7 +890,7 @@ p.india-para {
 .six-col-content .button a {
     text-decoration: none;
     color: #00bcd4;
-  /*  padding-left: 53px;*/
+    /*  padding-left: 53px;*/
     padding-top: 10px;
     font-size: 14px;
     line-height: 35px;
@@ -883,7 +901,7 @@ p.india-para {
     margin-left: 52px;
     margin-top: 40px;
     border: 2px solid #00bcd4;
-   /* width: 190px;*/
+    /* width: 190px;*/
     width: 245px;
     border-radius: 8px;
     height: 40px;

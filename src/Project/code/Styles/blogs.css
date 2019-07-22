@@ -3,19 +3,17 @@ margin-top: 40px;
 margin-left: 40px;
 }
 .blog-home-page .tag-cloud-item {
-    border: 2px solid black;
+    border: 1px solid black;
     padding: 25px 30px 25px 30px;
-    background-color: #f4f6f7
-    margin-right: 25px !important;
+      margin-right: 22px !important;
 }
 
 .blog-home-page .tag-cloud-item a {
-    font-size: 20px !important;
-    font-weight: bold;
+    font-size: 19px !important;
     text-transform: uppercase;
 }
 .blog-home-page .tag-cloud-item:hover { 
-  background-color: goldenrod;
+ background-color: #00bcd4;
  }
 
 .blog-home-page .tag-cloud-item a:hover { 
@@ -23,7 +21,7 @@ margin-left: 40px;
 }
 
 .blog-home-page .tag-cloud-item.active { 
-  background-color: goldenrod;
+ background-color: #00bcd4;
   color: #fff !important;
 }
 
@@ -57,13 +55,14 @@ font-size: xx-large;
 
 .search-result-list li{
     margin-bottom: 25px;
-    border-top: 2px solid black;
+    border-top: 1px solid black;
 }
 
 .span-blog-type{
-    background-color: goldenrod;
+   background-color: #00bcd4;
     padding: 5px 10px 5px 10px;
     border-radius: 5px;
+    color: #ffffff;
 }
 
 .field-blog-title{
@@ -164,8 +163,9 @@ margin-left: -25px;
     height: 200px;
 }
 .social-media-share .component-content li {
-margin-left: 15px !important;
-margin-bottom: 25px;
+margin-left: 37px !important;
+    margin-bottom: 0px;
+    margin-top: 15px;
 }
 .blog-detail-content p {
 font-size: 20px !important;
@@ -179,14 +179,65 @@ background-color: #ffffff !important;
 .blog-results-content-wrapper .field-blog-title{
     margin-top:15px;
 }
+.blog-search-results-row .field-blog-image img:hover{
+
+	opacity: 0.3;
+}
+.blog-search-results-row .field-blog-image img{
+
+height:167px;
+}
+.blog-detail-main p{
+	font-family: 'Source Sans Pro' !important;
+    font-size: 19px !important;
+    color: #5f727f !important;
+	text-align:justify;
+}
+.blog-detail-main h4{
+
+	font-family: 'Montserrat';
+    line-height: 24px;
+    font-weight: 400 !important;
+    font-size:24px !important;
+    color:#222222 !important
+}
+.blog-detail-content ol li{
+	 list-style-position: outside !important;
+}
+.blog-detail-page a{
+	margin-left:12px;
+}
+.blog-detail-main a{
+
+	color: #FF0000 !important;
+}
+.blog-desc-image img{
+	margin-left:15%;
+}
+.blog-detail-main .blog-detail-main-title{
+	text-align:center;
+	font-size:35px !important;
+	color: #222222 !important;
+}
+.highlighted-bottom {
+border: none !important;
+	
+}
+
+.blog-detail-main .blog-detail-content{
+	border:none;
+}
+.blog-detail-main .blog-detail-author-container{
+	border:none;
+}
+
+
 @media only screen and (max-width:767px){
 .blog-home-page .tag-cloud-item{
 
    margin-bottom:10px;
    display:inline-block;
   margin-left: -8px;
-   
-
 }
 .blog-search-results-row{
     display:inline-block;
@@ -209,22 +260,20 @@ font-size:17px !important;
   margin-left:25px;
   width:100%;
   text-align:justify;
-
 }
 .blog-home-page .tag-cloud-item {
   padding:0px;
 }
 .blog-home-page .tag-cloud-item {
  padding-right: 5px;
-    padding-left: 10px;
+ padding-left: 10px;
 }
 .blog-home-page{
   margin-left: 17px; 
 }
 .blog-results-content-wrapper .field-blog-title a{
   font-size:20px !important;
-  	color:	#A9A9A9;
-
+	
 }
 .blog-results-content-wrapper .field-introduction{
     margin-top:20px;
@@ -236,14 +285,21 @@ font-size:17px !important;
 
     border-top: none;
 }
-
+.blog-detail-main {
+    max-width: 76.333333%;
+}
+.blog-detail-main p {
+   
+    font-size: 18px !important;
+   
+}
 
 }
 @media (min-width: 768px) and (max-width: 1024px){
 	.blog-search-results-row .blog-results-content-wrapper{
 
-	  margin-left:100px;
-	  text-align:justify
+	   margin-left: 100px;
+	  text-align:justify;
 
 	}
 	.blog-results-content-wrapper .field-blog-title {
@@ -253,10 +309,10 @@ font-size:17px !important;
 	.tag-cloud-component {
     margin-left: 12px;
 }	
-	.blog-home-page .tag-cloud-item {
+.blog-home-page .tag-cloud-item {
 
    
-    padding: 7px 4px 9px 8px;
+    padding: 7px 3px 9px 8px;
 	}
 .tag-cloud-component {
     margin-left: 12px;
@@ -275,5 +331,32 @@ font-size:17px !important;
 .blog-home-page .tag-cloud-item a {
     font-size: 17px !important;
 } 
+.blog-search-results-row .span-blog-type{
+	margin-left: 100px; 
+}
 	
+.blog-image img {
+    height: 170px;
+}	
+.blog-detail-main{
+
+    max-width: 79.333333%;
+}
+.blog-desc-image img {
+    margin-left: 0px;
+}
+.blog-detail-page {
+	padding-left:0px !important;
+	padding-right:0px !important;
+}
+.blog-detail-main .blog-detail-author-container{
+	text-align:center;
+	padding-left:0px;
+}
+.social-media-share{
+	padding-right:0px !important;
+	padding-left:3px 
+}
+
+
 }	

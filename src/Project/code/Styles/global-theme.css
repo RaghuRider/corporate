@@ -23,47 +23,59 @@ html {
 
 }
 
-p,
-ul,
-li,
-span {
+main p,
+main ul,
+main li,
+main span {
 
     font-family: 'Source Sans Pro';
     font-size: 18px;
     color: #5f727f;
+  line-height: 28px;
 }
-h1,h2,h3,h4,h5,h6
+
+.banner-header h1
 {
-     font-family: 'Montserrat';
-     line-height: 24px;
+    line-height: 45px
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Montserrat';
+    line-height: 30px;
     font-weight: 400 !important;
     color: rgb(70, 72, 92);
 }
+
 h1 {
     font-size: 3.5em !important;
-   
+
 }
 
 h2 {
     font-size: 32px !important;
-   
+
 }
 
 h3 {
     font-size: 28px !important;
-   
+
 }
 
 h4 {
     font-size: 24px !important;
-        line-height: 30px;
+    line-height: 30px;
 }
-  
+
 }
 
 h5 {
     font-size: 16px !important;
-    
+
 }
 
 /*****************gloable theme ended here **************************/
@@ -71,6 +83,7 @@ h5 {
 .field-validation-error {
     color: red;
 }
+ 
 .col-contact-4 .rc-anchor-normal {
     height: 74px;
     width: 245px !important;
@@ -83,10 +96,11 @@ h5 {
     height: 80px;
     padding-top: 0px;
 }*/
-.container .coporate-banner .banner-header h1, .container .coporate-banner .banner-header h4
-{
-        color: #fff !important;
+.container .coporate-banner .banner-header h1,
+.container .coporate-banner .banner-header h4 {
+    color: #fff !important;
 }
+
 #header nav {
     padding: 5% 0 2% 0;
 }
@@ -102,12 +116,20 @@ h5 {
 
 
 
-  .carousel .field-slidelink .carousel-btn.btn {
-            margin: 0px;
-            padding: :0px;
+.carousel .field-slidelink .carousel-btn.btn {
+    margin: 0px;
+    padding: :0px;
+}
+
+
+ .main-banner-image-LeftText .component-content, .main-banner-image-RightText .component-content {
+
+           height: 100% !important; 
+  background-position: center;
+  background-repeat: no-repeat !important;
+  background-size: cover!important;
+
         }
-
-
 
 .hero-header {
     font-size: 66px;
@@ -117,6 +139,9 @@ h5 {
     font-family: Montserrat;
 }
 
+.four-component-home h4 {
+    text-transform: uppercase;
+}
 
 #.container .component {
     margin-bottom: 0%;
@@ -521,10 +546,10 @@ footer .gem-contacts-item.gem-contacts-email:before {
     height: 20px;
 }
 
-#footer .textwidget div {
+/*#footer .textwidget div {
     margin-top: 35px;
     margin-bottom: 16%
-}
+}*/
 
 footer {
 
@@ -856,7 +881,7 @@ footer .footer-site-info {
 
 .six-col-content .col-12 .field-title {
 
-    text-align: center;  
+    text-align: center;
     padding-top: 30px;
     padding-bottom: 30px;
 }
@@ -974,7 +999,7 @@ footer .footer-site-info {
 
 .slide .field-slidelink {
     /*padding-top: 10px !important;*/
-   
+
     z-index: 9;
     white-space: normal;
     line-height: 19px;
@@ -1261,7 +1286,8 @@ footer .footer-site-info {
 .banner-header h4 {
     color: #f7efef !important;
     font-size: 24px;
-    color: #fff transition: uppercase;
+    color: #fff ;
+    transition: uppercase;
 
 
 
@@ -1294,11 +1320,6 @@ footer .footer-site-info {
     font: normal normal normal 50px/1 FontAwesome;
 }
 
-.our-services h2:first-child {
-    letter-spacing: 1.8px;
-
-
-}
 
 .our-services h2 + h3 {
     letter-spacing: 1.2px;
@@ -1311,7 +1332,16 @@ main .container .component {
     /*  margin-bottom: 5%*/
 }
 
+ .invigorated-commerce .component-content
+{
+  margin-left: 20px !important;
+}
 
+ .invigorated-commerce .component-content .banner-header
+{
+  margin-top: 12%;
+    width: 100%;
+}
 
 
 .container.inerservice-page > .row:nth-child(1) {
@@ -1323,13 +1353,13 @@ main .container .component {
 
 
 .fullrange-h {
-    text-align: :center;
+    text-align: center;
 }
 
 .fullrange-h h2 {
     padding-top: 6%;
     color: #fff !important;
-    text-align: :center;
+    text-align:center;
 }
 
 .fullrange-h h3 {
@@ -1601,7 +1631,7 @@ main .container .component {
 
 .carrier-popup-overlay .career-field-jobapplied {
     line-height: normal;
- padding: 0px;
+    padding: 0px;
     padding-left: 20px;
     padding-right: 123px;
     background-color: #f4f6f7 !important;
@@ -1762,7 +1792,7 @@ main .container .component {
 
 .carrier-popup-overlay .wpcf7 input input[type=submit],
 button {
-   /* background-color: #4e62bb;*/
+    /* background-color: #4e62bb;*/
     border: 3px solid #999;
     border-radius: 50px;
     cursor: pointer;
@@ -1797,6 +1827,26 @@ button {
 .carrier-popup-overlay .wpcf7-form {
     width: 40%;
 }
+.career-field-jobapplied
+{
+    width: 306px !important;
+    height: 35px !important;
+}   
+ 
+.career-select-field
+{
+    width: 310px;
+    height: 70px;
+} 
+
+.div-fileupload{
+width: 310px;
+}
+.career-field-fileupload{
+    width: 310px !important;
+    padding-right: 0px !important;
+} 
+ 
 
 .carrier-popup-overlay .file-239 label {
 
@@ -1807,7 +1857,10 @@ button {
 
     width: 225px
 }
-
+.rc-anchor-normal {
+    height: 74px;
+    width: 248px !important;
+}
 .carrier-popup-overlay .ult_modal-title {
 
     font-size: 18px !important;
@@ -1868,7 +1921,7 @@ button {
 
 .our-core-sub .core-img img {
     width: 75px;
-    height:75px;
+    height: 75px;
 }
 
 .our-core-sub .col-lg-3:nth-child(2) {
@@ -1896,7 +1949,7 @@ button {
     max-width: 30% !important;
 }
 
-.about-us-mission .vc_row-fluid .gem-list ul li:before {
+.about-us-mission .vc_row-fluid .gem-list ul li:before{
     content: '\f046';
     margin-left: 0px;
     max-width: 20px;
@@ -1906,7 +1959,27 @@ button {
     font: normal normal normal 14px/1 FontAwesome;
     margin-top: 7px;
 }
+.ourservices-right-text li, .our-services-mission li
+{
+    list-style :none !important;
 
+}
+.our-services-missionli:before, .ourservices-right-text li:before{
+    font-weight: normal;
+    vertical-align: top;
+    display: inline-block;
+    width: 21px;
+    text-indent: 0;
+    color: #00bcd4 !important;
+    content: '\f046';
+    margin-left: 0px;
+    max-width: 20px;
+    height: 20px;
+    font-size: 20px;
+    color: #5f727f;
+    font: normal normal normal 14px/1 FontAwesome;
+    margin-top: 7px;
+}
 .about-us-mission .vc_row-fluid .gem-list ul li:before {
     color: #00bcd4 !important;
 
@@ -1980,6 +2053,10 @@ main .breadcrumb .component-content nav ol li.last a {
 .component.promo.col-12.four-component-home.promoted-box {
     margin-left: 0px !important;
 }
+.field-validation-error span {
+    color: red !important;
+    font-size:14px
+}
 
 .whyAie-header h2 {
     color: #00bcd4;
@@ -1990,7 +2067,7 @@ main .breadcrumb .component-content nav ol li.last a {
     margin-left: 5%
 }
 
-
+ 
 /*****************back to top button ***********************/
 .backbutton-li {
     margin-top: -5px;
@@ -2059,7 +2136,39 @@ main .breadcrumb .component-content nav ol li.last a {
     text-align: justify;
     padding-right: 20px;
 }
+   .corporate-content .corporate-ol li:nth-child(1):before{
+             color: #00bcd4; 
+       
+    border: 1px solid #00bcd4;
+   }
+ .corporate-content .corporate-ol li:nth-child(2):before{
+               color: #9162e3; 
+     
+    border: 1px solid #9162e3;
+   }
+   .corporate-content .corporate-ol li:nth-child(3):before{
+              color: #ee417c;
+        border: 1px solid #ee417c;
+   }
 
+ .corporate-content .corporate-ol li:nth-child(4):before{
+             color: #fe7f22;
+     border: 1px solid #fe7f22;
+   }
+ .corporate-content .corporate-ol li:nth-child(1){
+             color: #00bcd4; 
+     border:s
+   }
+ .corporate-content .corporate-ol li:nth-child(2){
+               color: #9162e3; 
+   }
+   .corporate-content .corporate-ol li:nth-child(3){
+              color: #ee417c;
+   }
+
+ .corporate-content .corporate-ol li:nth-child(4){
+             color: #fe7f22;
+   }
 /**********************banner**************************/
 .main-banner-image-Right .component-content .field-content {
     margin-left: 40%
@@ -2110,18 +2219,19 @@ main .breadcrumb .component-content nav ol li.last a {
 .corporate-ol li span {
     display: none;
 }
-.corporate-ol li:first-child
-{
+
+.corporate-ol li:first-child {
     padding-bottom: 30px;
 }
-.invigorated-commerce h1,invigorated-commerce h1
-{
-    color:#fff;
+
+.invigorated-commerce h1,
+invigorated-commerce h1 {
+    color: #fff;
 }
-#footer .textwidget img
-{
-    width:15% !important;
-    height:15%
+
+#footer .textwidget img {
+    width: 15% !important;
+    height: 15%
 }
 
 .corporate-ol li {
@@ -2142,18 +2252,20 @@ main .breadcrumb .component-content nav ol li.last a {
     padding-bottom: 3%;
     margin-left: 0px !important;
 }
+
 .careers-banner .component-content {
     /* border: solid red 2px; */
     background-position: 80% !important;
 }
-.corporate-ol li:last-child
-{
-    border:none;
+
+.corporate-ol li:last-child {
+    border: none;
 }
+
 .corporate-ol li:before {
     position: absolute;
     left: 5px;
-     padding-bottom: 3%;
+    padding-bottom: 3%;
     content: counter(step-counter);
     /* background-color: green; */
     font-weight: bold;
@@ -2165,6 +2277,50 @@ main .breadcrumb .component-content nav ol li.last a {
     line-height: 1.5em;
     width: 100%;
     border: 1px solid #00bcd4;
-        color: #00bcd4;
+    color: #00bcd4;
     padding-top: 1%;
+}
+/***************************************calling button*********************/
+.ring-button-phone {
+  background-color: #00CD00;
+  -webkit-border-radius: 10px;
+  border-radius: 10px;
+  border: none;
+  color: #FFF !important;
+  margin-top:25px;
+  cursor: pointer;
+  display: inline-block;
+  font-family: Arial;
+  font-size: 15px;
+  padding: 3px 30px 3px 30px;
+  font-weight: bold;
+  text-align: center;
+  text-decoration: none;
+  -webkit-animation: glowing 1500ms infinite;
+  -moz-animation: glowing 1500ms infinite;
+  -o-animation: glowing 1500ms infinite;
+  animation: glowing 1500ms infinite;
+}
+@-webkit-keyframes glowing {
+  0% { background-color: #00CD00; -webkit-box-shadow: 0 0 3px #00CD00; }
+  50% { background-color: #00EE00; -webkit-box-shadow: 0 0 40px #00EE00; }
+  100% { background-color: #00CD00; -webkit-box-shadow: 0 0 3px #00CD00; }
+}
+
+@-moz-keyframes glowing {
+  0% { background-color: #00CD00; -moz-box-shadow: 0 0 3px #00CD00; }
+  50% { background-color: #00EE00; -moz-box-shadow: 0 0 40px #00EE00; }
+  100% { background-color: #00CD00; -moz-box-shadow: 0 0 3px #00CD00; }
+}
+
+@-o-keyframes glowing {
+  0% { background-color: #00CD00; box-shadow: 0 0 3px #00CD00; }
+  50% { background-color: #00EE00; box-shadow: 0 0 40px #00EE00; }
+  100% { background-color: #00CD00; box-shadow: 0 0 3px #00CD00; }
+}
+
+@keyframes glowing {
+  0% { background-color: #00CD00; box-shadow: 0 0 3px #00CD00; }
+  50% { background-color: #00EE00; box-shadow: 0 0 40px #00EE00; }
+  100% { background-color: #00CD00; box-shadow: 0 0 3px #00CD00; }
 }
