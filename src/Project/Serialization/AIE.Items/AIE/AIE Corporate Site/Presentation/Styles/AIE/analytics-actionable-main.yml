@@ -2,12 +2,12 @@
 ID: "9df5fe7d-893c-4f05-a7e4-82403ea1e631"
 Parent: "29bc445c-d62d-4c01-893c-83644c15ed54"
 Template: "6b8aabef-d650-46e0-97d0-c0b04f7f016b"
-Path: "/sitecore/content/AIE/AIE Corporate Site/Presentation/Styles/AIE/analytics-actionable -main"
+Path: "/sitecore/content/AIE/AIE Corporate Site/Presentation/Styles/AIE/analytics-actionable-main"
 DB: master
 SharedFields:
 - ID: "09147fb2-ebfb-4949-8c8e-26a424409d5e"
   Hint: Value
-  Value: "analytics-actionable -main"
+  Value: "analytics-actionable-main"
 Languages:
 - Language: en
   Versions:
