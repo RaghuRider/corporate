@@ -31,8 +31,8 @@ Languages:
     - ID: "b4836c11-2322-4a1d-a690-12911e25e9f6"
       Hint: Job Description
       Value: |
-        <p class="extra-component">Hands-on experience in the analysis, design, implementation and testing of enterprise level Microservices &amp; Java/JaveJEE based applications, preferably in ecommerce domain</p>
         <div class="carrer-cont">
+        <p class="extra-component">Hands-on experience in the analysis, design, implementation and testing of enterprise level Microservices &amp; Java/JaveJEE based applications, preferably in ecommerce domain</p>
         <ol>
             <li>Experience designing, developing and deploying Microservices to either in-house or cloud architecture using SOA.</li>
             <li>Strong background in asynchronous patterns and multithreaded programming.</li>
