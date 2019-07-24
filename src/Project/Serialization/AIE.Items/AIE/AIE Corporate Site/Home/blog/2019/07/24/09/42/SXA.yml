@@ -19,24 +19,147 @@ Languages:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20190724T094239Z
+    - ID: "3cd43efe-8a96-4f96-9140-654849f0675f"
+      Hint: Introduction
+      Value: |
+        The Sitecore Experience Accelerator module is used to increase your speed to market, enables you to deliver more easily at scale and gives mobile responsiveness by default. It is favored by organizations who want to achieve a smooth-sailing website build and deployment.
+        
     - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
       Hint: NavigationTitle
       Value: SXA
     - ID: "4f441595-f0b8-48fc-8f58-8ceda868003e"
       Hint: Content
       Value: |
-        <p style="margin-top: 6pt; margin-bottom: 0pt; margin-left: 0in; text-align: left;"><span style="color: #008e9b;">Faster time-to-market</span><span style="color: #008e9b;"> </span><span style="color: #112333;">&ndash;</span><span style="color: #112333;"> </span><span style="color: #112333;">Digital marketing made easy with the support of Sitecore and SXA marketing features.</span></p>
+        <h2 style="margin-top: 6pt; margin-bottom: 0pt; margin-left: 0in; text-align: left;">SXA Introduction</h2>
         <p style="margin-top: 6pt; margin-bottom: 0pt; margin-left: 0in; text-align: left;">&nbsp;</p>
-        <p style="margin-top: 6pt; margin-bottom: 0pt; margin-left: 0in; text-align: left;"><span style="color: #008e9b;">Reduced development&nbsp;costs</span><span style="color: #008e9b;"> </span><span style="color: #112333;">- Assemble sites using responsive and reusable components which cuts related expenses.</span></p>
+        <p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify;"><span style="color: #112333;">The Sitecore Experience Accelerator module is used to increase your speed to market, enables you to deliver more easily at scale and gives mobile responsiveness by default. It is favored by organizations who want to achieve a smooth sailing website build and deployment.</span></p>
+        <p style="margin-top: 6pt; margin-bottom: 0pt; margin-left: 0in; text-align: left;"><span style="color: #008e9b;">&nbsp;</span></p>
+        <p style="text-align: center;">
+        <img height="304" alt="SXA intro" width="602" src="-/media/D828270F770F4E868CE586BCE78EE25B.ashx?h=304&amp;w=602" style="height: 237px; width: 460px; left: 489.188px; top: 190px;" />&nbsp;</p>
+        <p style="margin-top: 6pt; margin-bottom: 0pt; margin-left: 0in; text-align: left;"><span style="color: #008e9b;">&nbsp;</span></p>
+        <h2 style="margin-top: 6pt; margin-bottom: 0pt; margin-left: 0in; text-align: left;">Why SXA?</h2>
+        <p style="margin-top: 6pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify;"><span style="color: #008e9b;">Faster time-to-market</span><span style="color: #008e9b;"> </span><span style="color: #112333;">&ndash;</span><span style="color: #112333;"> </span><span style="color: #112333;">Digital marketing made easy with the support of Sitecore and SXA marketing features.</span></p>
+        <p style="margin-top: 6pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify;"><span style="color: #008e9b;">Reduced development&nbsp;costs</span><span style="color: #008e9b;"> </span><span style="color: #112333;">- Assemble sites using responsive and reusable components which cuts related expenses.</span></p>
+        <p style="margin-top: 6pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify;"><span style="color: #008e9b;">Minimum to zero development</span><span style="color: #008e9b;"> </span><span style="color: #112333;">- Enable different work streams (Frontend, Backend &amp; Content population) to run in parallel. A SXA site cuts down the timelines to half on an average when compared to a typical non-SXA site.</span></p>
+        <p style="margin-top: 6pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify;"><span style="color: #008e9b;">Brand recognition and integrity</span><span style="color: #008e9b;"> </span><span style="color: #112333;">- Ready-made themes to enable brand consistency while enhancing its recognition.</span></p>
+        <p style="margin-top: 6pt; margin-bottom: 0pt; margin-left: 0in; text-align: left;"><span style="color: #112333;">&nbsp;</span></p>
+        <h2 style="margin-top: 6pt; margin-bottom: 0pt; margin-left: 0in; text-align: left;">SXA Features</h2>
         <p style="margin-top: 6pt; margin-bottom: 0pt; margin-left: 0in; text-align: left;">&nbsp;</p>
-        <p style="margin-top: 6pt; margin-bottom: 0pt; margin-left: 0in; text-align: left;"><span style="color: #008e9b;">Minimum to zero development</span><span style="color: #008e9b;"> </span><span style="color: #112333;">- Enable different work streams (Frontend, Backend &amp; Content population) to run in parallel. A SXA site cuts down the timelines to half on an average when compared to a typical non-SXA site.</span></p>
-        <p style="margin-top: 6pt; margin-bottom: 0pt; margin-left: 0in; text-align: left;">&nbsp;</p>
-        <p style="margin-top: 6pt; margin-bottom: 0pt; margin-left: 0in; text-align: left;"><span style="color: #008e9b;">Brand recognition and integrity</span><span style="color: #008e9b;"> </span><span style="color: #112333;">- Ready-made themes to enable brand consistency while enhancing its recognition.</span></p>
+        <table style="left: 3px; top: 623px; width: 963px; height: 172px;">
+            <tbody>
+                <tr>
+                    <td>&nbsp;<img height="106" alt="Toolbox" width="104" src="-/media/E205C4BBFE404F229A6B0321A2A00C53.ashx" /></td>
+                    <td>
+                    <p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: left;"><span style="color: #008e9b;">Toolbox</span></p>
+                    </td>
+                    <td>
+                    <p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: left;"><span style="color: #112333;">SXA comes with approximately 100 pre-built components which helps in assembling all pages easily</span></p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>&nbsp;<img height="89" alt="Dynamic Wireframes" width="98" src="-/media/6D4346A0AB4E4CC7ACEE0C7F4347666E.ashx" /></td>
+                    <td>
+                    <p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: left;"><span style="color: #008e9b;">Dynamic wireframes</span></p>
+                    &nbsp;</td>
+                    <td>
+                    <p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: left;"><span style="color: #112333;">The drag and drop interface provides an opportunity for content authors to design the pages on the fly </span><span style="color: #112333;">without the intervention of IT team</span></p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>&nbsp;<img height="108" alt="Mobile and responsiveness" width="107" src="-/media/84947EFD96584FB7A3F88518EDDC8E23.ashx" /></td>
+                    <td>
+                    <p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: left;"><span style="color: #008e9b;">Mobile and responsiveness</span><span style="color: #008e9b;"> </span></p>
+                    </td>
+                    <td>
+                    <p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: left;">SXA&rsquo;s UI frameworks helps in building friendly pages for all devices</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>&nbsp;<img height="88" alt="Multisite" width="98" src="-/media/EAF8EA785BCA41719B511E92AA326F5C.ashx" /></td>
+                    <td>
+                    <p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: left;"><span style="color: #008e9b;">Multisite</span></p>
+                    </td>
+                    <td>
+           <p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: left;"><span style="color: #008e9b;">Ability to create related sites under a single brand using SXA </span></p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>&nbsp;<img height="76" alt="Social Networks Integration" width="108" src="-/media/D0BE956CAAF6426DAA6CD2F668A16E45.ashx" /></td>
+                    <td>
+                    <p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: left;"><span style="color: #008e9b;">Social Networks Integration</span></p>
+                    </td>
+                    <td>
+                    <p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: left;"><span style="color: #112333;">Connect to social media from the website easily.</span></p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>&nbsp;<img height="95" alt="Search" width="109" src="-/media/569F6D56B3EA455C92DDD2B202BC41F0.ashx" /></td>
+                    <td>
+                    <p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: left;"><span style="color: #008e9b;">Search</span></p>
+                    </td>
+                    <td>
+                    <p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: left;"><span style="color: #112333;">Pre-built SXA&rsquo;s search indexes to search the website.</span></p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>&nbsp;<img height="84" alt="Best practice" width="101" src="-/media/947EFDD1D0EA406298C4AC73916BF609.ashx" /></td>
+                    <td>
+                    <p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: left;"><span style="color: #008e9b;">Best practice by default</span></p>
+                    </td>
+                    <td>
+        <p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: left;"><span style="color: #112333;">SXA is built using Helix principles which helps in maintaining the site.</span></p>
+        </td>
+                </tr>
+                <tr>
+                    <td>&nbsp;<img height="92" alt="SEO" width="93" src="-/media/31D17B3480F94A7EAAECD63E44853E90.ashx" /></td>
+                    <td>&nbsp;<span style="color: #008e9b;">SEO</span></td>
+                    <td>
+                    <p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: left;"><span style="color: #112333;">In-built SEO to improve the ranking of websites</span>&nbsp;</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>&nbsp;<img height="98" alt="Performance" width="102" src="-/media/41BB1FE7EB4A4BE789C399FDDE26F5BF.ashx" /></td>
+                    <td>&nbsp;<span style="color: #008e9b;">Performance</span></td>
+                    <td>
+                    <p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: left;"><span style="color: #112333;">SXA&rsquo;s Asset Optimizer and caching techniques helps in improving performance</span>&nbsp;</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>&nbsp;<img height="98" alt="Security" width="112" src="-/media/52696C88B29A4E84A1A3C1310291C3C8.ashx" /></td>
+                    <td>&nbsp;<span style="color: #008e9b;">Security</span></td>
+                    <td>
+                    <p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: left;"><span style="color: #112333;">Setup security on the website using SXA</span>&nbsp;</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <h2>&nbsp;</h2>
+        <h2>How Sitecore SXA with Commerce</h2>
+        <ul>
+            <li style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: left;"><span style="color: #112333;">A full B2C retail commerce template based on Sitecore best practices to deploy on premise or in the Cloud.</span></li>
+            <li style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: left;"><span style="color: #112333;">SXA Commerce includes 40+ commerce-specific components that can help build a web page without requiring IT resources.</span></li>
+            <li style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: left;"><span style="color: #112333;">Third party integrations for payment during checkout.</span></li>
+        </ul>
+        <p style="text-align: center;"><img height="469" alt="Sitecore commerce" width="563" src="-/media/176AF84DBA4A42D7A44C9387FB086799.ashx" /></p>
+        <h2>When to Use SXA?</h2>
+        <div class="container">
+        <div class="row">
+        <div class="col-9">
+        <p>SXA is a good fit for organizations that use a lot of highly structured sites that make use of shared content.</p>
+        <p>New implementations that match the feature set of SXA</p>
+        <p>Smaller sites looking to take advantage of the marketing/experience features of Sitecore</p>
+        <p>Highly regulated organizations, where content &amp; presentation governance is more rigid</p>
+        </div>
+        <div class="col-3"><img height="470" alt="SXA sites" width="434" src="-/media/B881DBAE4F3D4ED3BC8F78B3DC8D6DCB.ashx" style="left: 746.609px; top: 1271.86px; width: 327px; height: 285px;" /></div>
+        </div>
+        </div>
+        <p>&nbsp;</p>
     - ID: "62c4305f-4328-4126-a0c3-657315ad18e6"
       Hint: Blog Title
       Value: SXA
     - ID: "b138f795-2f6c-46f7-9903-acb647bbccbf"
       Hint: Author
+      Type: tree list
       Value: "{9AFA2F9F-D489-4426-AE7A-ADE5C410DCF8}"
     - ID: "bb6835c4-82af-4d11-9102-a61694c17055"
       Hint: Title

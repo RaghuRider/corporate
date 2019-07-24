@@ -1,8 +1,8 @@
 ﻿---
-ID: "9afa2f9f-d489-4426-ae7a-ade5c410dcf8"
-Parent: "4f00d433-ff91-427c-a24d-6080adb80f0b"
+ID: "ad9d5f97-05f2-443c-849f-c0f1ad5db41c"
+Parent: "c7e0e631-dbb6-4823-b235-4f7ea09c196d"
 Template: "754135be-facf-4d2e-b58d-910a4c24d5d2"
-Path: /sitecore/content/AIE/AIE Corporate Site/Data/AIE/Blog Authors/Author A
+Path: /sitecore/content/AIE/AIE Corporate Site/Data/AIE/Blog Authors/Sitecore/Sudheer
 DB: master
 Languages:
 - Language: en
@@ -11,10 +11,10 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20190709T072742Z
+      Value: 20190724T104554Z
     - ID: "33959c95-fa15-45b2-a460-297cdca143b1"
       Hint: Email
-      Value: AuthorA@email.com
+      Value: Sudheer @email.com
     - ID: "b158852c-938a-4d12-9e76-a998db1600ec"
       Hint: Name
-      Value: Author A
+      Value: Sudheer
