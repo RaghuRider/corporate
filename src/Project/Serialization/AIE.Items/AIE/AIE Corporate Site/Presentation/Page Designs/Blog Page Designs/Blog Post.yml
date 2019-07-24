@@ -11,6 +11,16 @@ SharedFields:
 - ID: "7b487159-e180-4846-be49-e196e4c3a2b3"
   Hint: Page Design Theme
   Value: "{632804B5-E033-488A-8BAE-D0038080C03E}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        s:l="{269BDDC7-E377-4C61-9B26-A00BA2CCD14D}" />
+    </r>
 Languages:
 - Language: en
   Versions:
