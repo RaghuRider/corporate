@@ -39,7 +39,7 @@ Languages:
               p:before="*"
               s:ds="local:/Data/Text 11"
               s:id="{DCEE78E1-1843-4456-A13A-F10A12191630}"
-              s:par="GridParameters=%7b908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7d%7c%7b48918248-0011-4F9C-81CD-49DD9A25C730%7d"
+              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D%7C%7B48918248-0011-4F9C-81CD-49DD9A25C730%7D&amp;FieldNames&amp;Styles=%7B5AD126B1-BC75-4B5D-A557-D3A71E256F75%7D&amp;Reset Caching Options&amp;RenderingIdentifier"
               s:ph="/main/container-7/container-15" />
             <r
               uid="{1A04B146-4AB2-4F04-8654-250D704CA66C}"
