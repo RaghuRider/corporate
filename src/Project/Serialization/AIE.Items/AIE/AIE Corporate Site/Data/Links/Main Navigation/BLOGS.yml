@@ -19,4 +19,4 @@ Languages:
     - ID: "dd05144a-bd66-4ea3-956a-4b7104daaba3"
       Hint: Link
       Value: |
-        <link text="BLOGS" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{493300F0-160D-41D4-A6F7-958FA5A98428}" />
+        <link id="{493300F0-160D-41D4-A6F7-958FA5A98428}" querystring="" target="" text="BLOGS" anchor="" title="" class="" url="/AIE/AIE Corporate Site/Home/Blogs" linktype="internal" />

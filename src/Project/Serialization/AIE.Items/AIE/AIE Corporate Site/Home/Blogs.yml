@@ -2,7 +2,7 @@
 ID: "493300f0-160d-41d4-a6f7-958fa5a98428"
 Parent: "cc1bc5e4-5512-4b8e-b38e-7856e6604cd5"
 Template: "497d682c-813d-4abd-89f5-62a59d624229"
-Path: "/sitecore/content/AIE/AIE Corporate Site/Home/aie-blogs"
+Path: /sitecore/content/AIE/AIE Corporate Site/Home/Blogs
 DB: master
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
@@ -26,7 +26,8 @@ Languages:
         <r xmlns:p="p" xmlns:s="s"
           p:p="1">
           <d
-            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+            s:l="{269BDDC7-E377-4C61-9B26-A00BA2CCD14D}">
             <r
               uid="{C3AB8501-6791-4938-ADD1-C4A2ECBB0C31}"
               p:before="*"
@@ -45,7 +46,7 @@ Languages:
               p:after="r[@uid='{68B4A585-C410-4128-8C1B-D4AA0DA1B6FB}']"
               s:ds="{B84B42E6-A9C8-446C-9738-C0CA390AD1D3}"
               s:id="{2400E52D-F9B3-445D-8629-A69720A22B44}"
-              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;SearchResultPage=%7B493300F0-160D-41D4-A6F7-958FA5A98428%7D&amp;Facet=%7B8907541F-00AF-4783-8352-A2848FC1D3AC%7D&amp;FieldNames&amp;Styles=%7B00943A8D-C4A6-4011-8A40-FC82D1E1C011%7D%7C%7BE3BD022C-6C68-4466-9E4D-6EC633B60411%7D&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=4"
+              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;SearchResultPage=%7B493300F0-160D-41D4-A6F7-958FA5A98428%7D&amp;Facet=%7B8907541F-00AF-4783-8352-A2848FC1D3AC%7D&amp;FieldNames&amp;Styles=%7B00943A8D-C4A6-4011-8A40-FC82D1E1C011%7D%7C%7BE3BD022C-6C68-4466-9E4D-6EC633B60411%7D%7C%7BD874F1FF-8E9C-45CA-B29C-DC151E22A0C3%7D&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=4"
               s:ph="main" />
             <r
               uid="{F1855FD1-AC13-44EF-8155-E5EDAD9D00D2}"
@@ -80,6 +81,9 @@ Languages:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20190708T095045Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Blogs
     - ID: "4f441595-f0b8-48fc-8f58-8ceda868003e"
       Hint: Content
       Value: <h1>Experience the AIE Blogs</h1>
@@ -93,7 +97,7 @@ Languages:
         <image mediaid="{56EE6F9A-CDC4-41EE-AB50-3BB809180512}" />
     - ID: "bb6835c4-82af-4d11-9102-a61694c17055"
       Hint: Title
-      Value: AIE Blogs
+      Value: Blogs
     - ID: "d8b38dd7-e9a0-4410-9f17-d436b0c8635a"
       Hint: OpenGraphImageUrl
       Value: |

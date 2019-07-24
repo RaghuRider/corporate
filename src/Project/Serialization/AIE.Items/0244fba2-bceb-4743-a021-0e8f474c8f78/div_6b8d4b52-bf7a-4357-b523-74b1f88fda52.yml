@@ -1,0 +1,18 @@
+﻿---
+ID: "6b8d4b52-bf7a-4357-b523-74b1f88fda52"
+Parent: "0244fba2-bceb-4743-a021-0e8f474c8f78"
+Template: "aca5c9a3-cda0-49b6-893f-1d4a7cb595b0"
+Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Page Content/Blog Home Banner/div
+DB: master
+SharedFields:
+- ID: "bea2740e-90d1-4b16-bd1d-7a7cc8605d2d"
+  Hint: CssClass
+  Value: blogbanner
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190724T075401Z

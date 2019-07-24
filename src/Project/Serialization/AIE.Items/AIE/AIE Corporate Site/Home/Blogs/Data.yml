@@ -2,7 +2,7 @@
 ID: "cef93181-18e8-4c51-ad1b-6524501a789c"
 Parent: "493300f0-160d-41d4-a6f7-958fa5a98428"
 Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
-Path: "/sitecore/content/AIE/AIE Corporate Site/Home/aie-blogs/Data"
+Path: /sitecore/content/AIE/AIE Corporate Site/Home/Blogs/Data
 DB: master
 Languages:
 - Language: en
