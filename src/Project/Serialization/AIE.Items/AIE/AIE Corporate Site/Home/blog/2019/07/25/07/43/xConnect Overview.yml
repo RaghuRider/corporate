@@ -10,7 +10,7 @@ SharedFields:
   Value: "{EFD43539-E06D-421D-A942-690BBE52BB30}"
 - ID: "97fb669d-5b8e-4829-9a24-06418c315d73"
   Hint: SxaTags
-  Value: "{9D2639A7-93A6-42C0-BE76-4A8CE0BAABE8}"
+  Value: "{9D2639A7-93A6-42C0-BE76-4A8CE0BAABE8}|{ACFC5442-C73B-4568-B52B-3F81B8F1BB0C}"
 Languages:
 - Language: en
   Versions:
@@ -28,8 +28,11 @@ Languages:
     - ID: "4f441595-f0b8-48fc-8f58-8ceda868003e"
       Hint: Content
       Value: |
-        <h2><strong>What is xConnect?</strong></h2>
+        <h2>
+        <strong>What is xConnect?</strong>
+        </h2>
         <p>Sitecore xConnect is introduced with Sitecore XP 9 and it is a full data interoperability between Sitecore and any other 3<sup>rd</sup> party systems like <strong>CRM Systems (Salesforce, Microsoft Dynamics), PIM, ERP or other machine learning platforms.</strong></p>
+        <h4>&nbsp;</h4>
         <h4>Key Features:</h4>
         <ul style="list-style-type: disc;">
             <li>xConnect is a service Layer and exposes a web API end point</li>
@@ -40,21 +43,21 @@ Languages:
             <li>It is more secure and customizable</li>
         </ul>
         <p>xConnect and xDB are two parts of the platform that work together. It has two services called <em>Collection and Search.</em></p>
-        <p style="text-align: center;"><span><img alt="" height="596" width="801" src="-/media/6B721A6A82D4494BAFD7B5A64D55696A.ashx" /></span></p>
+        <p style="text-align: center;"><img alt="" height="596" width="801" src="-/media/6B721A6A82D4494BAFD7B5A64D55696A.ashx?h=596&amp;w=801" style="height: 596px; width: 801px;" /></p>
         <p style="text-align: center;">Figure 1: vertically scaled architecture</p>
         <p>&nbsp;</p>
         <p>As said xConnect is a service layer, which exists independent of Sitecore. Due to this, there is no direct connection between the underlying xDB databases or search indexes and any client including other internal systems, such as processing servers. The client application is only aware of the xConnect endpoint. In server will have two separate IIS websites, two web roots and two URLs: one for client (Sitecore) and one for xConnect as shown below.</p>
         <p>&nbsp;</p>
-        <p style="text-align: center;"><span><img alt="" height="111" width="531" src="-/media/510F2EE337DF4835857B4E9EA34ADAA4.ashx" /></span></p>
+        <p style="text-align: center;"><img alt="" height="111" width="531" src="-/media/510F2EE337DF4835857B4E9EA34ADAA4.ashx?h=111&amp;w=531" style="height: 111px; width: 531px;" /></p>
         <p style="text-align: center;">Figure 2: xConnect host on same server</p>
         <p>Since xConnect is not dependent on Sitecore, it can be hosted separately on a dedicated server and can be scaled, based on the requirement. Communication to xConnect must happen over HTTPS and clients must have the appropriate certificate thumbprint.</p>
         <p><span style="background: white; color: black;">&nbsp;</span></p>
-        <p style="text-align: center;"><span><img alt="" height="255" width="610" src="-/media/260EFD45651744F09C5FFFF41CFB7139.ashx" /></span></p>
+        <p style="text-align: center;"><img alt="" height="255" width="610" src="-/media/260EFD45651744F09C5FFFF41CFB7139.ashx?h=255&amp;w=610" style="height: 255px; width: 610px;" /></p>
         <p style="text-align: center;">Figure 3: xConnect hosting on vertical scale environment</p>
         <p>&nbsp;</p>
         <h1><strong>xConnect Default Facets</strong></h1>
         <p>xConnect defines several built-in facets. </p>
-        <p><span></span>Default contacts facets:</p>
+        <p>Default contacts facets:</p>
         <ul style="list-style-type: disc;">
             <li>PersonalInformation</li>
             <li>EmailAddressList</li>
@@ -79,15 +82,12 @@ Languages:
         <h1><strong>xDB database options </strong></h1>
         <p>&nbsp;</p>
         <p>More choices of xDB database technology</p>
-        <p><span><img alt="" width="153" height="104" src="file:///C:/Users/apalpandy/AppData/Local/Packages/oice_16_974fa576_32c1d314_35b8/AC/Temp/msohtmlclip1/01/clip_image006.jpg" /><img alt="" src="-/media/9CB5E6DD7F4349D19D707BD972A6511F.ashx?h=186&amp;w=377.444" style="width: 377.444px; height: 186px;" /></span><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span></span><span><img alt="" height="311" width="489" src="-/media/91431652D37E48649470F6230DA85452.ashx?h=311&amp;w=489" style="height: 311px; width: 489px;" /></span><span>&nbsp; </span></p>
-        <p><span><img alt="" height="141" width="535" src="-/media/D44E7DC9ABF64B929E774AE5FD999F43.ashx" /></span><span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span><span><img alt="" src="-/media/B92CDEE6887142EF8294E2A2BB1D2F1D.ashx?h=169.222&amp;w=550" style="width: 550px; height: 169.222px;" /></span></p>
-        <p>&nbsp;</p>
-        <h1><strong>&nbsp;</strong></h1>
-        <h1><strong>&nbsp;</strong></h1>
+        <p><img alt="" src="-/media/9CB5E6DD7F4349D19D707BD972A6511F.ashx?h=186&amp;w=377.444" style="width: 377.444px; height: 186px;" /> <img alt="" height="311" width="489" src="-/media/91431652D37E48649470F6230DA85452.ashx?h=311&amp;w=489" style="height: 311px; width: 489px;" />&nbsp; </p>
+        <p><img alt="" height="141" width="535" src="-/media/D44E7DC9ABF64B929E774AE5FD999F43.ashx" />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<img alt="" src="-/media/B92CDEE6887142EF8294E2A2BB1D2F1D.ashx?h=169.222&amp;w=550" style="width: 550px; height: 169.222px;" /></p>
         <h1><strong>xConnect Empowers CRM integration</strong></h1>
-        <p><em>&nbsp;</em></p>
-        <p><span><img alt="" height="290" width="430" src="-/media/6AD9B7620B6F436D891F94C9BA6B1A28.ashx?h=290&amp;w=430" style="height: 290px; width: 430px;" /></span><span></span><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span></span><span></span><span><img alt="" src="-/media/13B70889D4354537A583D6D331E712F0.ashx?h=201&amp;w=560" style="height: 201px; width: 560px;" /></span></p>
-        <p><span><img alt="" height="149" width="337" src="-/media/434B2F35F3B7436B9E00F1D378146F30.ashx?h=149&amp;w=337" style="height: 149px; width: 337px;" />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<img alt="" height="137" width="367" src="-/media/C151F686A36048DF82D1B958B9C87859.ashx?h=137&amp;w=367" style="height: 137px; width: 367px;" /><img alt="" width="256" height="113" src="file:///C:/Users/apalpandy/AppData/Local/Packages/oice_16_974fa576_32c1d314_35b8/AC/Temp/msohtmlclip1/01/clip_image018.jpg" /></span><span></span><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span><img alt="" width="263" height="98" src="file:///C:/Users/apalpandy/AppData/Local/Packages/oice_16_974fa576_32c1d314_35b8/AC/Temp/msohtmlclip1/01/clip_image020.jpg" /></span></p>
+        <p><img alt="" height="290" width="430" src="-/media/6AD9B7620B6F436D891F94C9BA6B1A28.ashx?h=290&amp;w=430" style="height: 290px; width: 430px;" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <img alt="" src="-/media/13B70889D4354537A583D6D331E712F0.ashx?h=201&amp;w=560" style="height: 201px; width: 560px;" /></p>
+        <p><img alt="" height="137" width="367" src="-/media/C151F686A36048DF82D1B958B9C87859.ashx?h=137&amp;w=367" style="height: 137px; width: 367px;" />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img alt="" height="149" width="337" src="-/media/434B2F35F3B7436B9E00F1D378146F30.ashx?h=149&amp;w=337" style="height: 149px; width: 337px;" />&nbsp;&nbsp;</p>
     - ID: "62c4305f-4328-4126-a0c3-657315ad18e6"
       Hint: Blog Title
       Value: xConnect Overview
