@@ -10,7 +10,7 @@ SharedFields:
   Value: PublishedOn
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
-  Value: 150
+  Value: 250
 - ID: "db805bdc-8eec-4238-b174-2427b6f1f077"
   Hint: Tag
   Value: "{E8E2C26D-2F96-4A9C-9C17-D095E6CE46CC}"
@@ -21,10 +21,10 @@ Languages:
     Fields:
     - ID: "00aa3e05-dd03-47a9-aa1b-03a4dfbb3156"
       Hint: DateFormat
-      Value: "{FD5F35C1-A0C1-4FF5-8A98-E73A7AABC375}"
+      Value: "{9A4F3778-0C1B-4B4A-BB81-1F9A8A571B07}"
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20190709T065128Z
     - ID: "fd5230d8-e68d-4e17-9d85-ea676f27ac3a"
       Hint: Prefix
-      Value: 
+      Value: "Published on: "

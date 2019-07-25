@@ -1,8 +1,8 @@
 ﻿---
-ID: "a0fe57e5-5038-420a-a473-b25c4a6b6888"
-Parent: "b8fb0178-2c4c-4da2-951d-a16a1ee1b00d"
+ID: "736c4d94-e286-4144-8b49-4ff6a3f79f41"
+Parent: "06d2e1d3-ad4c-484c-9300-49af2096627a"
 Template: "7c02e9f5-54b5-4ef4-bd10-f4c5d448a48c"
-Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Page Content/Blog Post Design/div/text
+Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Page Content/Blog Post Design/div/sxatags/Space Seperator
 DB: master
 SharedFields:
 - ID: "1aa68c0b-eb67-4575-9ca8-1689c2aff091"
@@ -13,7 +13,7 @@ SharedFields:
   Value: "blog-detail-main-separator"
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
-  Value: 175
+  Value: 169
 Languages:
 - Language: en
   Versions:
@@ -21,7 +21,7 @@ Languages:
     Fields:
     - ID: "07211f80-7ffc-4df4-a4de-c8956f391850"
       Hint: Text
-      Value: |
+      Value: 
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20190710T130704Z
