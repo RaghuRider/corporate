@@ -2,7 +2,7 @@
 ID: "ad9d5f97-05f2-443c-849f-c0f1ad5db41c"
 Parent: "c7e0e631-dbb6-4823-b235-4f7ea09c196d"
 Template: "754135be-facf-4d2e-b58d-910a4c24d5d2"
-Path: /sitecore/content/AIE/AIE Corporate Site/Data/AIE/Blog Authors/Sitecore/Sudheer
+Path: /sitecore/content/AIE/AIE Corporate Site/Data/AIE/Blog Authors/Sitecore/Sudheer Kumar Suggu
 DB: master
 Languages:
 - Language: en
@@ -14,7 +14,7 @@ Languages:
       Value: 20190724T104554Z
     - ID: "33959c95-fa15-45b2-a460-297cdca143b1"
       Hint: Email
-      Value: Sudheer @email.com
+      Value: ssuggu@aienterprise.com
     - ID: "b158852c-938a-4d12-9e76-a998db1600ec"
       Hint: Name
-      Value: Sudheer
+      Value: Sudheer Kumar Suggu
