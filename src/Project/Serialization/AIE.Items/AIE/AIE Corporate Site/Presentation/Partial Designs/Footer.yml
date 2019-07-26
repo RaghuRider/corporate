@@ -60,15 +60,29 @@ Languages:
               s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D%7C%7B878F0549-848F-4AF6-B18D-936AEF2590BE%7D&amp;FieldNames&amp;Styles&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=4"
               s:ph="/footer/container-1" />
             <r
-              uid="{F2F05D41-3CDF-4004-84D0-A26B260D2B99}"
+              uid="{EA82F52C-FA23-477D-98FA-837560DB2779}"
               p:after="r[@uid='{3381C293-4EA3-4F9C-97C8-543D4A7183E4}']"
+              s:ds="local:/Data/Godaddy Site Seal"
+              s:id="{DCEE78E1-1843-4456-A13A-F10A12191630}"
+              s:par="GridParameters&amp;FieldNames&amp;Styles&amp;Reset Caching Options&amp;RenderingIdentifier"
+              s:ph="/footer/container-1/container-9" />
+            <r
+              uid="{F2F05D41-3CDF-4004-84D0-A26B260D2B99}"
+              p:after="r[@uid='{EA82F52C-FA23-477D-98FA-837560DB2779}']"
               s:ds="local:/Data/ISO Certified"
               s:id="{4A0D4E0B-BC20-4F2E-BD84-A4BD35834E86}"
               s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D%7C%7B5D74AF38-1A37-491A-A4BB-A9E251D862F3%7D&amp;FieldNames&amp;Styles=%7BB149DCDD-D06B-4C5E-A9E2-D2BA25E843E8%7D&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=8"
+              s:ph="/footer/container-1/container-9" />
+            <r
+              uid="{044E8379-14B9-4B1B-89FF-2F3E80BC1685}"
+              p:after="r[@uid='{F2F05D41-3CDF-4004-84D0-A26B260D2B99}']"
+              s:ds=""
+              s:id="{896A2C68-1362-4E88-8BA0-1805AE6D4837}"
+              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D%7C%7B5D74AF38-1A37-491A-A4BB-A9E251D862F3%7D&amp;BackgroundImage&amp;Styles&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=9"
               s:ph="/footer/container-1" />
             <r
               uid="{2FB4527D-6CAD-4949-A88C-2ADEED12FF68}"
-              p:after="r[@uid='{F2F05D41-3CDF-4004-84D0-A26B260D2B99}']"
+              p:after="r[@uid='{044E8379-14B9-4B1B-89FF-2F3E80BC1685}']"
               s:id="{896A2C68-1362-4E88-8BA0-1805AE6D4837}"
               s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;BackgroundImage&amp;Styles&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=1"
               s:ph="footer" />
