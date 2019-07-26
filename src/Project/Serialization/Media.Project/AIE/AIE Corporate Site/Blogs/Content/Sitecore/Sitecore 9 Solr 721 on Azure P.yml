@@ -1,0 +1,18 @@
+﻿---
+ID: "4d59ac05-f3a2-4dc7-8f02-4fa313ffa402"
+Parent: "5ac4e948-547f-49dc-a526-98d8702e2220"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Project/AIE/AIE Corporate Site/Blogs/Content/Sitecore/Sitecore 9 Solr 721 on Azure PaaS
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190726T101017Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
