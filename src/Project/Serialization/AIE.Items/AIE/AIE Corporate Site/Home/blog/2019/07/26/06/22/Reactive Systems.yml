@@ -29,8 +29,8 @@ Languages:
       Hint: Content
       Value: |
         <h1><span><strong>Reactive Systems</strong></span></h1>
-        <p><span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&ldquo;Create Systems, Not Individual Services&rdquo;</span></p>
-        <p><span><img alt="ReactiveSystemCycle" height="342" width="833" src="-/media/9E509D7131FB4852B8B4A95766128C68.ashx?h=342&amp;w=833" style="height: 342px; width: 833px;" /></span></p>
+        <p style="text-align: center;"><span><em>&nbsp;&ldquo;Create Systems, Not Individual Services&rdquo;</em></span></p>
+        <p style="text-align: center;"><span><img alt="ReactiveSystemCycle" src="-/media/9E509D7131FB4852B8B4A95766128C68.ashx?h=342&amp;w=833" style="height: 342px; width: 833px;" /></span></p>
         <p><span> </span></p>
         <p><span>By means of an asynchronous, non-blocking, message- driven approach, highly resilient and elastic systems can be formed, resulting in a consistently responsive user experience</span></p>
         <h2><span><strong>Reactive Manifesto</strong></span></h2>
@@ -40,7 +40,6 @@ Languages:
             <li><strong><span>Resilient</span></strong><span>&mdash;self-healing: recovering and repairing themselves automatically for seamless business continuity. </span></li>
             <li><strong><span>Message-Driven</span></strong><span>&mdash;processing messages in parallel, asynchronously, without blocking, ensuring loose coupling, isolation and location transparency.</span></li>
         </ul>
-        <p><span>&nbsp;</span></p>
         <h2><span><strong>Benefits of Reactive Systems</strong></span></h2>
         <h3><span><strong>Developer Productivity</strong></span></h3>
         <p><span>Reactive Systems allow teams to be just as scalable as the technology itself. LinkedIn scaled up their engineering teams from ~50 to ~500 individuals. They couldn&rsquo;t have done that if they&rsquo;d needed complex coordination and cooperation amongst teams developing their systems.</span></p>
@@ -59,7 +58,6 @@ Languages:
             <li><span>Highly performant &amp; responsive</span></li>
             <li><span>Get value from real-time data analysis</span></li>
         </ul>
-        <p><span>&nbsp;</span></p>
         <p><strong><span>Imagine:</span></strong></p>
         <ul style="list-style-type: disc;">
             <li><span>Modelling complex, highly concurrent software systems without using <strong>locks, threads, race conditions</strong> or any of the other challenges presented by more traditional software development methodologies.</span></li>
@@ -86,7 +84,6 @@ Languages:
         <p><span>Verizon was able to <strong>increase responsiveness</strong> to their customer&rsquo;s way beyond the industry average of 6 or 7 seconds. They cut response time to just 2.4 seconds.</span></p>
         <p><span>Walmart Canada <strong>supports millions of requests per hour</strong> they receive from customers with ease.</span></p>
         <p><strong><span>Increasing Resilience</span></strong><span> and <strong>Elasticity</strong> naturally increases responsiveness. No matter what is happening your system can respond in a meaningful way to users. This responsiveness means users continue to trust your application. Even if their experience is degraded in some way, no failure affects the entire system.</span></p>
-        <p><span>&nbsp;</span></p>
         <h2><span><strong>Total Cost of Ownership</strong></span></h2>
         <p><span>There are several reasons why Reactive Systems offer a reduction in TCO compared to systems developed in a more traditional manner.</span></p>
         <ul style="list-style-type: disc;">
@@ -97,10 +94,8 @@ Languages:
         <p><span style="color: #2e74b5;"></span></p>
         <h2><span><strong>The Right Approach</strong></span></h2>
         <p><span>We live in a world where we need to respond very quickly to users, to meet the needs for a modern digital retail solution it needs to be Cloud Native, API first, Reactive, Events first Domain Driven Design, Distributed and Microservices based.</span></p>
-        <p><span><img height="768" alt="Motor is your automation" width="1024" src="-/media/D1F878FDD13E413EB84215E54E261234.ashx" /><br />
-        <br />
+        <p style="text-align: center;"><span><img height="768" alt="Motor is your automation" width="1024" src="-/media/D1F878FDD13E413EB84215E54E261234.ashx" />
         </span></p>
-        <p><span> </span></p>
     - ID: "62c4305f-4328-4126-a0c3-657315ad18e6"
       Hint: Blog Title
       Value: Reactive Systems
