@@ -43,16 +43,16 @@ Languages:
             <li>It is more secure and customizable</li>
         </ul>
         <p>xConnect and xDB are two parts of the platform that work together. It has two services called <em>Collection and Search.</em></p>
-        <p style="text-align: center;"><img alt="" height="596" width="801" src="-/media/6B721A6A82D4494BAFD7B5A64D55696A.ashx?h=596&amp;w=801" style="height: 596px; width: 801px;" /></p>
+        <p style="text-align: center;"><img alt="VerticallyScalledArcitect" height="596" width="801" src="-/media/6B721A6A82D4494BAFD7B5A64D55696A.ashx?h=596&amp;w=801" style="height: 596px; width: 801px;" /></p>
         <p style="text-align: center;">Figure 1: vertically scaled architecture</p>
         <p>&nbsp;</p>
         <p>As said xConnect is a service layer, which exists independent of Sitecore. Due to this, there is no direct connection between the underlying xDB databases or search indexes and any client including other internal systems, such as processing servers. The client application is only aware of the xConnect endpoint. In server will have two separate IIS websites, two web roots and two URLs: one for client (Sitecore) and one for xConnect as shown below.</p>
         <p>&nbsp;</p>
-        <p style="text-align: center;"><img alt="" height="111" width="531" src="-/media/510F2EE337DF4835857B4E9EA34ADAA4.ashx?h=111&amp;w=531" style="height: 111px; width: 531px;" /></p>
+        <p style="text-align: center;"><img alt="xConnectHostOnSameServer" height="111" width="531" src="-/media/510F2EE337DF4835857B4E9EA34ADAA4.ashx?h=111&amp;w=531" style="height: 111px; width: 531px;" /></p>
         <p style="text-align: center;">Figure 2: xConnect host on same server</p>
         <p>Since xConnect is not dependent on Sitecore, it can be hosted separately on a dedicated server and can be scaled, based on the requirement. Communication to xConnect must happen over HTTPS and clients must have the appropriate certificate thumbprint.</p>
         <p><span style="background: white; color: black;">&nbsp;</span></p>
-        <p style="text-align: center;"><img alt="" height="255" width="610" src="-/media/260EFD45651744F09C5FFFF41CFB7139.ashx?h=255&amp;w=610" style="height: 255px; width: 610px;" /></p>
+        <p style="text-align: center;"><img alt="xConnectHostOnVerticalScaleEnvironment" height="255" width="610" src="-/media/260EFD45651744F09C5FFFF41CFB7139.ashx?h=255&amp;w=610" style="height: 255px; width: 610px;" /></p>
         <p style="text-align: center;">Figure 3: xConnect hosting on vertical scale environment</p>
         <p>&nbsp;</p>
         <h1><strong>xConnect Default Facets</strong></h1>
@@ -82,12 +82,12 @@ Languages:
         <h1><strong>xDB database options </strong></h1>
         <p>&nbsp;</p>
         <p>More choices of xDB database technology</p>
-        <p><img alt="" src="-/media/9CB5E6DD7F4349D19D707BD972A6511F.ashx?h=186&amp;w=377.444" style="width: 377.444px; height: 186px;" /> <img alt="" height="311" width="489" src="-/media/91431652D37E48649470F6230DA85452.ashx?h=311&amp;w=489" style="height: 311px; width: 489px;" />&nbsp; </p>
-        <p><img alt="" height="141" width="535" src="-/media/D44E7DC9ABF64B929E774AE5FD999F43.ashx" />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<img alt="" src="-/media/B92CDEE6887142EF8294E2A2BB1D2F1D.ashx?h=169.222&amp;w=550" style="width: 550px; height: 169.222px;" /></p>
+        <p><img alt="SQL Server" src="-/media/9CB5E6DD7F4349D19D707BD972A6511F.ashx?h=186&amp;w=377.444" style="width: 377.444px; height: 186px;" /> <img alt="SQL Azure" height="311" width="489" src="-/media/91431652D37E48649470F6230DA85452.ashx?h=311&amp;w=489" style="height: 311px; width: 489px;" />&nbsp; </p>
+        <p><img alt="Mongo DB" height="141" width="535" src="-/media/D44E7DC9ABF64B929E774AE5FD999F43.ashx" />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<img alt="AzureCosmos" src="-/media/B92CDEE6887142EF8294E2A2BB1D2F1D.ashx?h=169.222&amp;w=550" style="width: 550px; height: 169.222px;" /></p>
         <h1><strong>xConnect Empowers CRM integration</strong></h1>
-        <p><img alt="" height="290" width="430" src="-/media/6AD9B7620B6F436D891F94C9BA6B1A28.ashx?h=290&amp;w=430" style="height: 290px; width: 430px;" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <img alt="" src="-/media/13B70889D4354537A583D6D331E712F0.ashx?h=201&amp;w=560" style="height: 201px; width: 560px;" /></p>
-        <p><img alt="" height="137" width="367" src="-/media/C151F686A36048DF82D1B958B9C87859.ashx?h=137&amp;w=367" style="height: 137px; width: 367px;" />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img alt="" height="149" width="337" src="-/media/434B2F35F3B7436B9E00F1D378146F30.ashx?h=149&amp;w=337" style="height: 149px; width: 337px;" />&nbsp;&nbsp;</p>
+        <p><img alt="SalesForce" height="290" width="430" src="-/media/6AD9B7620B6F436D891F94C9BA6B1A28.ashx?h=290&amp;w=430" style="height: 290px; width: 430px;" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <img alt="DynamicsCRM" src="-/media/13B70889D4354537A583D6D331E712F0.ashx?h=201&amp;w=560" style="height: 201px; width: 560px;" /></p>
+        <p><img alt="Dynamics 365" height="137" width="367" src="-/media/C151F686A36048DF82D1B958B9C87859.ashx?h=137&amp;w=367" style="height: 137px; width: 367px;" />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img alt="Marketing Cloud" height="149" width="337" src="-/media/434B2F35F3B7436B9E00F1D378146F30.ashx?h=149&amp;w=337" style="height: 149px; width: 337px;" />&nbsp;&nbsp;</p>
     - ID: "62c4305f-4328-4126-a0c3-657315ad18e6"
       Hint: Blog Title
       Value: xConnect Overview
