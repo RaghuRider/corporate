@@ -1,0 +1,18 @@
+﻿---
+ID: "5c86e6bf-668b-48d4-b416-5de1ab3e573e"
+Parent: "de624a48-76ea-4226-b573-e02ff6f77369"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Partial Designs/Copy of Footer/Data
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190507T070443Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
