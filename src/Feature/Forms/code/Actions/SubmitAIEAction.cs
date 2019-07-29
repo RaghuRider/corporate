@@ -131,7 +131,7 @@ namespace AIEnterprise.Feature.Forms.Actions
 
                 if (isJobApplicationForm)
                 {
-                    subject = careersEmailsubject;
+                    subject = careersEmailsubject + " " + emailHelper.GetValuefromDictionary(formdata, "JobApplied");
                     allEmails = careersRecipientsIDs.Split(';');
                 }
                 else
