@@ -1,0 +1,25 @@
+﻿---
+ID: "4f16e08d-a287-4821-8fea-91b12424213a"
+Parent: "5c86e6bf-668b-48d4-b416-5de1ab3e573e"
+Template: "bb8a85ab-1f6d-4518-8772-1c9f4f8dac18"
+Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Partial Designs/Copy of Footer/Data/ISO Certified
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190724T102347Z
+    - ID: "4f52b258-7b05-4d6c-8c96-2e2eac46dc1b"
+      Hint: ImageCaption
+      Value: ISO Certified
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "ebe4fdef-16d5-4d19-833c-24a241628a3a"
+      Hint: Image
+      Value: |
+        <image mediaid="{7430074E-16DC-412A-910E-52D51268B897}" alt="" height="81" width="80" hspace="" vspace=""></image>

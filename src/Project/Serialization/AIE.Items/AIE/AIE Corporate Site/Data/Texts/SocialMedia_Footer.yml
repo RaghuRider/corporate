@@ -21,7 +21,7 @@ Languages:
       Value: |
         <div class="f-social-icon">
         <ul>
-            <li><a rel="noopener noreferrer" href="https://www.linkedin.com/company/aienterprise/" rel="noopener noreferrer" class="social-item p-2" target="_blank">LinkedIn</a></li>
-            <li><a rel="noopener noreferrer" href="https://twitter.com/AiEnterpriseInc" rel="noopener noreferrer" class="social-item p-2" target="_blank">twitter</a></li>
+            <li><a rel="noopener noreferrer" href="https://www.linkedin.com/company/aienterprise/" class="social-item p-2" target="_blank">LinkedIn</a></li>
+            <li><a rel="noopener noreferrer" href="https://twitter.com/AiEnterpriseInc" class="social-item p-2" target="_blank">twitter</a></li>
         </ul>
         </div>
