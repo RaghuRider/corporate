@@ -40,6 +40,10 @@ SharedFields:
 - ID: "bd094adf-1e7f-4f1b-8300-8d8248ed4600"
   Hint: FormsFolderLocation
   Value: "{1C182292-9102-4C7E-BCF1-31B3F8DAEA96}"
+- ID: "dec8d2d5-e3cf-48b6-a653-8e69e2716641"
+  Hint: __Security
+  Value: |
+    ar|sitecore\AIE Website Approver|pe|+item:write|+item:read|pd|+item:write|+item:read|
 - ID: "e90a4413-c111-4951-9b6a-00c4ce7fb289"
   Hint: MediaLibrary
   Value: "{C66037AB-E784-46E0-859E-30B7FEB86D20}"

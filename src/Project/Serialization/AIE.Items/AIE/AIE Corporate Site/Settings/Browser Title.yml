@@ -5,6 +5,9 @@ Template: "5a6bf1d1-836b-425a-a6e6-32ceaa8ff3a5"
 Path: /sitecore/content/AIE/AIE Corporate Site/Settings/Browser Title
 DB: master
 SharedFields:
+- ID: "dec8d2d5-e3cf-48b6-a653-8e69e2716641"
+  Hint: __Security
+  Value: 
 - ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
   Hint: __Originator
   Value: "{12A17CEC-78BC-4444-8F11-C1F8F6AFEF93}"
