@@ -74,7 +74,8 @@ Languages:
       Value: Quick intro to Data Science
     - ID: "b138f795-2f6c-46f7-9903-acb647bbccbf"
       Hint: Author
-      Value: "{7293F20D-BA02-444E-B7AC-D66BE19FB8DD}"
+      Type: tree list
+      Value: "{1D0E2E78-55A0-429F-911F-9187F5D07D1C}"
     - ID: "bb6835c4-82af-4d11-9102-a61694c17055"
       Hint: Title
       Value: Quick intro to Data Science

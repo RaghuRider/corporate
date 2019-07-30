@@ -15,6 +15,10 @@ Languages:
     - ID: "33959c95-fa15-45b2-a460-297cdca143b1"
       Hint: Email
       Value: ssuggu@aienterprise.com
+    - ID: "590ff436-4036-4668-ac3e-a5b5e0fcc0d0"
+      Hint: Pic
+      Value: |
+        <image mediaid="{65965ED1-1E63-4687-9EAF-B8EEE69B3F12}" />
     - ID: "b158852c-938a-4d12-9e76-a998db1600ec"
       Hint: Name
       Value: Sudheer Kumar Suggu
