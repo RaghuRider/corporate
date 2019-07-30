@@ -1,0 +1,20 @@
+﻿---
+ID: "0fb25491-1886-4907-b969-11300fea9b7f"
+Parent: "c7e0e631-dbb6-4823-b235-4f7ea09c196d"
+Template: "754135be-facf-4d2e-b58d-910a4c24d5d2"
+Path: /sitecore/content/AIE/AIE Corporate Site/Data/AIE/Blog Authors/Sitecore/Sumit Upadhyay
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190726T124905Z
+    - ID: "33959c95-fa15-45b2-a460-297cdca143b1"
+      Hint: Email
+      Value: supadhyay@aienterprise.com
+    - ID: "b158852c-938a-4d12-9e76-a998db1600ec"
+      Hint: Name
+      Value: Sumit Upadhyay
