@@ -71,7 +71,7 @@ Languages:
               p:after="r[@uid='{3381C293-4EA3-4F9C-97C8-543D4A7183E4}']"
               s:ds="local:/Data/Godaddy Site Seal"
               s:id="{DCEE78E1-1843-4456-A13A-F10A12191630}"
-              s:par="GridParameters&amp;FieldNames&amp;Styles&amp;Reset Caching Options&amp;RenderingIdentifier"
+              s:par="GridParameters&amp;FieldNames&amp;Styles=%7B174AD90F-3F9E-4BEA-8227-B7C21E00CEE6%7D&amp;Reset Caching Options&amp;RenderingIdentifier"
               s:ph="/footer/container-1/container-9" />
             <r
               uid="{044E8379-14B9-4B1B-89FF-2F3E80BC1685}"

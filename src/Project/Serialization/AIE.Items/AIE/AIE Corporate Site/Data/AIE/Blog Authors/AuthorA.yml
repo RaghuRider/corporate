@@ -1,8 +1,8 @@
 ﻿---
-ID: "7293f20d-ba02-444e-b7ac-d66be19fb8dd"
+ID: "1d0e2e78-55a0-429f-911f-9187f5d07d1c"
 Parent: "4f00d433-ff91-427c-a24d-6080adb80f0b"
 Template: "754135be-facf-4d2e-b58d-910a4c24d5d2"
-Path: /sitecore/content/AIE/AIE Corporate Site/Data/AIE/Blog Authors/Author C
+Path: /sitecore/content/AIE/AIE Corporate Site/Data/AIE/Blog Authors/AuthorA
 DB: master
 Languages:
 - Language: en
@@ -11,10 +11,10 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20190709T072919Z
+      Value: 20190730T075835Z
     - ID: "33959c95-fa15-45b2-a460-297cdca143b1"
       Hint: Email
-      Value: AuthorC@email.com
+      Value: AuthorA @email.com
     - ID: "b158852c-938a-4d12-9e76-a998db1600ec"
       Hint: Name
-      Value: Author C
+      Value: AuthorA

@@ -1,8 +1,8 @@
 ﻿---
-ID: "f613c6c0-2954-42cb-95d8-65daf60beeef"
-Parent: "4f00d433-ff91-427c-a24d-6080adb80f0b"
+ID: "851b004a-7f8a-4d33-8276-033fac969f2f"
+Parent: "8ccd2a9c-5d96-40bd-a961-9ca53e154f52"
 Template: "754135be-facf-4d2e-b58d-910a4c24d5d2"
-Path: /sitecore/content/AIE/AIE Corporate Site/Data/AIE/Blog Authors/Author D
+Path: /sitecore/content/AIE/AIE Corporate Site/Data/AIE/Blog Authors/AIE Reactive Commerce/Preetham Shetty
 DB: master
 Languages:
 - Language: en
@@ -11,10 +11,10 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20190709T072929Z
+      Value: 20190729T113218Z
     - ID: "33959c95-fa15-45b2-a460-297cdca143b1"
       Hint: Email
-      Value: AuthorD@email.com
+      Value: pshetty@email.com
     - ID: "b158852c-938a-4d12-9e76-a998db1600ec"
       Hint: Name
-      Value: Author D
+      Value: Preetham Shetty

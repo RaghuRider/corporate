@@ -1,0 +1,18 @@
+﻿---
+ID: "8ccd2a9c-5d96-40bd-a961-9ca53e154f52"
+Parent: "4f00d433-ff91-427c-a24d-6080adb80f0b"
+Template: "faa41c9a-8777-45e0-8f5c-76ed2836f2fb"
+Path: /sitecore/content/AIE/AIE Corporate Site/Data/AIE/Blog Authors/AIE Reactive Commerce
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190729T113128Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
