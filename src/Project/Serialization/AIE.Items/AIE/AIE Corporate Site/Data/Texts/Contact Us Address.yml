@@ -23,7 +23,7 @@ Languages:
         <div class="col-4 contactus-right">
         <div class="contacts-address">
         <ul class="contact-list">
-            <li class="gem-contacts-item gem-contacts-address">Address:</li>
+            <li class="gem-contacts-item gem-contacts-address">Address :</li>
             <li> 2603 Camino Ramon, </li>
             <li>Suite 200,</li>
             <li> San Ramon</li>
@@ -33,13 +33,15 @@ Languages:
         </div>
         </div>
         <div class="col-4 icon-cont">
+        <p>Contact Information : </p>
         <div class="gem-contacts-item gem-contacts-phone address">
-        <p>Phone:  <a href="tel:+1 (833) 243-0247">+1 833-AIE-0247</a></p>
+        <p>Phone:&nbsp; <a href="tel:+1 (833) 243-0247">+1 833-AIE-0247</a></p>
         </div>
         <div class="gem-contacts-item gem-contacts-email address"><a href="mailto:sales@aienterprise.com">sales@aienterprise.com</a></div>
         <div class="gem-contacts-item gem-contacts-website address"><a href="https://www.aienterprise.com">www.aienterprise.com</a></div>
         </div>
         <div class="col-4 contact-icon">
+        <p>Followers :</p>
         <ul class="contacts-social-icons">
             <li class="facebook-icon fa fa-facebook-square"><a></a></li>
             <li class="linkedin-icon fa fa-linkedin-square"><a></a></li>
@@ -47,4 +49,3 @@ Languages:
         </ul>
         </div>
         </div>
-        
