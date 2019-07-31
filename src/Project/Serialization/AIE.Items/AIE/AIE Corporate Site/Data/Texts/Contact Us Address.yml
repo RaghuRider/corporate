@@ -20,6 +20,9 @@ Languages:
       Hint: Text
       Value: |
         <div class="col-12 contactus">
+        <div class="Contact-info">
+        <h2>Contact Information</h2>
+        </div>
         <div class="col-4 contactus-right">
         <div class="contacts-address">
         <ul class="contact-list">
@@ -33,7 +36,6 @@ Languages:
         </div>
         </div>
         <div class="col-4 icon-cont">
-        <p>Contact Information : </p>
         <div class="gem-contacts-item gem-contacts-phone address">
         <p>Phone:&nbsp; <a href="tel:+1 (833) 243-0247">+1 833-AIE-0247</a></p>
         </div>
