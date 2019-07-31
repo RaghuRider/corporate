@@ -1,0 +1,23 @@
+﻿---
+ID: "1533af05-4258-461f-a738-100dd9dfc644"
+Parent: "b84b42e6-a9c8-446c-9738-c0ca390ad1d3"
+Template: "6b197963-8210-4ade-986c-df5cedcfa784"
+Path: /sitecore/content/AIE/AIE Corporate Site/Home/blog/ATG
+DB: master
+SharedFields:
+- ID: "a0cb3965-8884-4c7a-8815-b6b2e5ced162"
+  Hint: __Editors
+  Type: TreelistEx
+  Value: "{59F53BBB-D1F5-4E38-8EBA-0D73109BB59B}"
+- ID: "d312103c-b36c-4ca5-864a-c85f9abda503"
+  Hint: __Is Bucket
+  Type: Checkbox
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190731T080037Z

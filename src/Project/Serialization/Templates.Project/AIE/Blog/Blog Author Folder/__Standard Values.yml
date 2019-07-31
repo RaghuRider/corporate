@@ -1,0 +1,23 @@
+﻿---
+ID: "f1d9ff98-aade-40bf-ab8d-649b99280836"
+Parent: "faa41c9a-8777-45e0-8f5c-76ed2836f2fb"
+Template: "faa41c9a-8777-45e0-8f5c-76ed2836f2fb"
+Path: /sitecore/templates/Project/AIE/Blog/Blog Author Folder/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: "{754135BE-FACF-4D2E-B58D-910A4C24D5D2}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190731T070832Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

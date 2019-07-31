@@ -1,0 +1,18 @@
+﻿---
+ID: "5d64e57f-8c6f-44a7-aee1-66c870ec63b1"
+Parent: "a6d9927a-f850-4ad8-8c4f-7b6d02d36b08"
+Template: "adb6ca4f-03ef-4f47-b9ac-9ce2ba53ff97"
+Path: /sitecore/content/AIE/AIE Corporate Site/Home/blog/MicroServices/2019/07/11/09/56
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190731T090907Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\virtualssuser
