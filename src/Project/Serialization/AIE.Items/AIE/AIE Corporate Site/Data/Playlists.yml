@@ -4,6 +4,10 @@ Parent: "384e31c9-4ee7-4e85-abb0-a104e4346970"
 Template: "948bf196-d6eb-4247-be9c-f5eb5e1160d7"
 Path: /sitecore/content/AIE/AIE Corporate Site/Data/Playlists
 DB: master
+SharedFields:
+- ID: "dec8d2d5-e3cf-48b6-a653-8e69e2716641"
+  Hint: __Security
+  Value: 
 Languages:
 - Language: en
   Versions:

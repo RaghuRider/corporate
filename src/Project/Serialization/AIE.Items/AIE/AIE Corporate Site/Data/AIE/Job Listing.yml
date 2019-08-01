@@ -11,6 +11,9 @@ SharedFields:
   Value: |
     {A87A00B1-E6DB-45AB-8B54-636FEC3B5523}
     {DFF87B2E-4CBF-4DA3-AC0C-CB6B8A54E74F}
+- ID: "dec8d2d5-e3cf-48b6-a653-8e69e2716641"
+  Hint: __Security
+  Value: 
 Languages:
 - Language: en
   Versions:

@@ -4,6 +4,10 @@ Parent: "384e31c9-4ee7-4e85-abb0-a104e4346970"
 Template: "ad8537df-06bb-4dd3-b044-0cd5c181a219"
 Path: /sitecore/content/AIE/AIE Corporate Site/Data/Links
 DB: master
+SharedFields:
+- ID: "dec8d2d5-e3cf-48b6-a653-8e69e2716641"
+  Hint: __Security
+  Value: 
 Languages:
 - Language: en
   Versions:

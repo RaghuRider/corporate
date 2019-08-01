@@ -4,6 +4,10 @@ Parent: "384e31c9-4ee7-4e85-abb0-a104e4346970"
 Template: "a13a1b91-fd2b-494b-9086-008852175b0a"
 Path: /sitecore/content/AIE/AIE Corporate Site/Data/Carousels
 DB: master
+SharedFields:
+- ID: "dec8d2d5-e3cf-48b6-a653-8e69e2716641"
+  Hint: __Security
+  Value: 
 Languages:
 - Language: en
   Versions:

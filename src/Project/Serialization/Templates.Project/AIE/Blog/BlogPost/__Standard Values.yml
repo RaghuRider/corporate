@@ -8,10 +8,16 @@ SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: Applications/32x32/text_rich_colored.png
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{EFD43539-E06D-421D-A942-690BBE52BB30}"
 - ID: "c9283d9e-7c29-4419-9c28-5a5c8ff53e84"
   Hint: __Bucketable
   Type: Checkbox
   Value: 1
+- ID: "ca9b9f52-4fb0-4f87-a79f-24dea62cda65"
+  Hint: __Default workflow
+  Value: "{D2933DA8-1530-46D6-90BC-0024F824EDF0}"
 - ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
   Hint: __Renderings
   Type: layout

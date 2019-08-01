@@ -58,7 +58,7 @@ SharedFields:
 - ID: "dec8d2d5-e3cf-48b6-a653-8e69e2716641"
   Hint: __Security
   Value: |
-    ar|sitecore\AIE Website Approver|pe|+item:write|+item:read|pd|+item:write|+item:read|
+    ar|sitecore\AIE Blog Sitecore Reviewer|pe|+item:read|ar|sitecore\AIE Blog Sitecore Author|pe|+item:read|ar|sitecore\AIE Website Approver|pe|+item:write|+item:read|pd|+item:write|+item:read|
 - ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
   Hint: __Originator
   Value: "{DAD74961-1A72-490F-A0E6-D501635F0A79}"

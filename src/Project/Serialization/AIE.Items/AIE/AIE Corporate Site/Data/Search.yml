@@ -5,6 +5,9 @@ Template: "e32f0141-5506-44f6-a211-fb224756ecc0"
 Path: /sitecore/content/AIE/AIE Corporate Site/Data/Search
 DB: master
 SharedFields:
+- ID: "dec8d2d5-e3cf-48b6-a653-8e69e2716641"
+  Hint: __Security
+  Value: 
 - ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
   Hint: __Originator
   Value: "{ADDE8C79-CEE4-41F5-ADC0-3886E9D00351}"

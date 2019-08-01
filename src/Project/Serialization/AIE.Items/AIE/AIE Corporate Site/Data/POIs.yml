@@ -5,6 +5,9 @@ Template: "8ca8b80d-a1ad-4b45-9f08-8839357e71d4"
 Path: /sitecore/content/AIE/AIE Corporate Site/Data/POIs
 DB: master
 SharedFields:
+- ID: "dec8d2d5-e3cf-48b6-a653-8e69e2716641"
+  Hint: __Security
+  Value: 
 - ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
   Hint: __Originator
   Value: "{8DEB61BE-C617-4353-A998-50FA85B69D81}"
