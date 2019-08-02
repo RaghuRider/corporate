@@ -17,7 +17,7 @@ SharedFields:
 - ID: "dec8d2d5-e3cf-48b6-a653-8e69e2716641"
   Hint: __Security
   Value: |
-    ar|sitecore\AIE Blog Data Science Reviewer|pe|+item:read|ar|sitecore\AIE Website Approver|pe|+item:rename|+item:write|+item:read|+item:delete|+item:create|pd|+item:rename|+item:write|+item:read|+item:delete|+item:create|ar|sitecore\AIE Blog ARC Reviewer|pe|+item:read|ar|sitecore\AIE Blog Sitecore Author|pe|+item:read|ar|sitecore\AIE Blog ARC Author|pe|+item:read|ar|sitecore\AIE Blog Sitecore Reviewer|pe|+item:read|ar|sitecore\AIE Blog Data Science Author|pe|+item:read|ar|sitecore\AIE Website Author|pe|+item:rename|+item:write|+item:read|+item:delete|+item:create|pd|+item:rename|+item:write|+item:read|+item:delete|+item:create|ar|sitecore\AIE Blog ATG Author|pe|+item:read|pd|+item:read|
+    ar|sitecore\AIE Blog Data Science Reviewer|pe|+item:read|ar|sitecore\AIE Website Approver|pe|+item:rename|+item:write|+item:read|+item:delete|+item:create|pd|+item:rename|+item:write|+item:read|+item:delete|+item:create|ar|sitecore\AIE Blog ARC Reviewer|pe|+item:read|ar|sitecore\AIE Blog Sitecore Author|pe|+item:read|ar|sitecore\AIE Blog ATG Author|pe|+item:read|pd|+item:read|ar|sitecore\AIE Blog ARC Author|pe|+item:read|ar|sitecore\AIE Blog Sitecore Reviewer|pe|+item:read|ar|sitecore\AIE Blog Microservices Reviewer|pe|+item:read|ar|sitecore\AIE Website Author|pe|+item:rename|+item:write|+item:read|+item:delete|+item:create|pd|+item:rename|+item:write|+item:read|+item:delete|+item:create|ar|sitecore\AIE Blog Microservices Author|pe|+item:read|ar|sitecore\AIE Blog Data Science Author|pe|+item:read|
 - ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
   Hint: __Originator
   Value: "{E2FF4516-4407-4173-8ADD-704761C15B74}"
