@@ -43,11 +43,5 @@ Languages:
         <div class="gem-contacts-item gem-contacts-website address"><a href="https://www.aienterprise.com">www.aienterprise.com</a></div>
         </div>
         <div class="col-4 contact-icon">
-        <p>Followers :</p>
-        <ul class="contacts-social-icons">
-            <li class="facebook-icon fa fa-facebook-square"><a></a></li>
-            <li class="linkedin-icon fa fa-linkedin-square"><a></a></li>
-            <li class="twitter-icon fa fa-twitter-square"><a></a></li>
-        </ul>
         </div>
         </div>
