@@ -149,8 +149,9 @@ Languages:
             <r
               uid="{5432F965-22CE-495C-B441-2431792FD80B}"
               p:after="*[1=2]"
+              s:ds=""
               s:id="{896A2C68-1362-4E88-8BA0-1805AE6D4837}"
-              s:par="GridParameters&amp;BackgroundImage&amp;Styles&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=17"
+              s:par="GridParameters&amp;BackgroundImage&amp;Styles=%7B94507F48-1713-47AB-A289-EAD700F81968%7D&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=17"
               s:ph="main" />
           </d>
         </r>
