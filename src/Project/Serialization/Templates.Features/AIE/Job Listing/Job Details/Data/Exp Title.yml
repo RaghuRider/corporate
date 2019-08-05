@@ -1,8 +1,8 @@
 ﻿---
-ID: "b1578035-981a-441e-88f2-35aa18d6805b"
+ID: "aa2242e8-e723-4914-b73b-3ab39bdb70e0"
 Parent: "1b576b5a-ff13-419e-99f9-a224d80d1a00"
 Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Feature/AIE/Job Listing/Job Details/Data/LocationTitle
+Path: /sitecore/templates/Feature/AIE/Job Listing/Job Details/Data/Exp Title
 DB: master
 SharedFields:
 - ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
@@ -10,7 +10,7 @@ SharedFields:
   Value: "Single-Line Text"
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
-  Value: 800
+  Value: 700
 Languages:
 - Language: en
   Versions:
