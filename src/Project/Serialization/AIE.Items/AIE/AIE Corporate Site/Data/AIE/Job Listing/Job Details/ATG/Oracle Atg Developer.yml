@@ -1,8 +1,8 @@
 ﻿---
 ID: "53596f39-f7d5-47fd-a1d8-667fba225cc9"
-Parent: "1aa3e7a2-56b0-4def-a95b-1aeefb06e340"
+Parent: "3cab5b2c-98ec-41ac-b692-d9a9c587b51b"
 Template: "e58828f9-5b4c-477c-a414-1aad308fba5f"
-Path: /sitecore/content/AIE/AIE Corporate Site/Data/AIE/Job Listing/Job Details/Oracle Atg Developer
+Path: /sitecore/content/AIE/AIE Corporate Site/Data/AIE/Job Listing/Job Details/ATG/Oracle Atg Developer
 DB: master
 SharedFields:
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
