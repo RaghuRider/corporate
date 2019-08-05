@@ -1,0 +1,6 @@
+﻿---
+Role: |
+  sitecore\Analytics Reporting
+MemberOf:
+  Role: |
+    sitecore\Sitecore Client Users

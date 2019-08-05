@@ -1,0 +1,6 @@
+﻿---
+Role: |
+  sitecore\Sitecore Client Configuring
+MemberOf:
+  Role: |
+    sitecore\Sitecore Client Users

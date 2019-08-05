@@ -1,0 +1,6 @@
+﻿---
+Role: |
+  sitecore\AIE Blog Data Science Reviewer
+MemberOf:
+  Role: |
+    sitecore\AIE Blog Reviewer

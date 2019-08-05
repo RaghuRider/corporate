@@ -1,0 +1,6 @@
+﻿---
+Role: |
+  sitecore\AIE Blog Microservices Approver
+MemberOf:
+  Role: |
+    sitecore\AIE Blog Approver

@@ -1,0 +1,12 @@
+﻿---
+Role: |
+  sitecore\AIE Blog Approver
+MemberOf:
+  Role: |
+    sitecore\Sitecore Client Publishing
+  Role: |
+    sitecore\Sitecore Client Users
+  Role: |
+    sitecore\Sitecore Client Authoring
+  Role: |
+    sitecore\Sitecore Client Designing

@@ -1,0 +1,6 @@
+﻿---
+Role: |
+  sitecore\Designer
+MemberOf:
+  Role: |
+    sitecore\Sitecore Client Designing

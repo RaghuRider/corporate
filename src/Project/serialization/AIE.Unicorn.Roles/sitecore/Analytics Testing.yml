@@ -1,0 +1,6 @@
+﻿---
+Role: |
+  sitecore\Analytics Testing
+MemberOf:
+  Role: |
+    sitecore\Sitecore Client Users

@@ -1,0 +1,14 @@
+﻿---
+Role: |
+  sitecore\Developer
+MemberOf:
+  Role: |
+    sitecore\Sitecore Client Configuring
+  Role: |
+    sitecore\Sitecore Client Developing
+  Role: |
+    sitecore\Designer
+  Role: |
+    sitecore\Author
+  Role: |
+    sitecore\Sitecore Client Maintaining

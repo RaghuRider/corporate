@@ -1,0 +1,6 @@
+﻿---
+Role: |
+  sitecore\AIE Blog Microservices Author
+MemberOf:
+  Role: |
+    sitecore\AIE Blog Author

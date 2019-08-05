@@ -1,0 +1,10 @@
+﻿---
+Role: |
+  sitecore\Sitecore Client Bucket Management
+MemberOf:
+  Role: |
+    sitecore\Sitecore Client Maintaining
+  Role: |
+    sitecore\Sitecore Client Developing
+  Role: |
+    sitecore\Sitecore Client Configuring

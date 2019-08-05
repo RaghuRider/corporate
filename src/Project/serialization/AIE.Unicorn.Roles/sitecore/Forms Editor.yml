@@ -1,0 +1,8 @@
+﻿---
+Role: |
+  sitecore\Forms Editor
+MemberOf:
+  Role: |
+    sitecore\Sitecore Client Authoring
+  Role: |
+    sitecore\Analytics Maintaining

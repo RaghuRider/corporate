@@ -1,0 +1,10 @@
+﻿---
+Role: |
+  sitecore\Author
+MemberOf:
+  Role: |
+    sitecore\Analytics Testing
+  Role: |
+    sitecore\Analytics Personalization
+  Role: |
+    sitecore\Sitecore Client Authoring

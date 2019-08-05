@@ -1,0 +1,10 @@
+﻿---
+Role: |
+  sitecore\Sitecore Local Administrators
+MemberOf:
+  Role: |
+    sitecore\Sitecore Client Securing
+  Role: |
+    sitecore\Sitecore Client Users
+  Role: |
+    sitecore\Sitecore Client Account Managing

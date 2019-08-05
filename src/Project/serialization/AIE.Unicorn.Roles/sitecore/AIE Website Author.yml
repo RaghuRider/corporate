@@ -1,0 +1,10 @@
+﻿---
+Role: |
+  sitecore\AIE Website Author
+MemberOf:
+  Role: |
+    sitecore\Sitecore Client Users
+  Role: |
+    sitecore\Sitecore Client Authoring
+  Role: |
+    sitecore\Sitecore Client Designing
