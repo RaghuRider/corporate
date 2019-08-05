@@ -36,11 +36,13 @@ Languages:
         </div>
         </div>
         <div class="col-4 icon-cont">
+        <div class="icon-inner-cont">
         <div class="gem-contacts-item gem-contacts-phone address">
         <p>Phone:&nbsp; <a href="tel:+1 (833) 243-0247">+1 833-AIE-0247</a></p>
         </div>
         <div class="gem-contacts-item gem-contacts-email address"><a href="mailto:sales@aienterprise.com">sales@aienterprise.com</a></div>
-        <div class="gem-contacts-item gem-contacts-website address"><a href="https://www.aienterprise.com">www.aienterprise.com</a></div>
+        <div class="gem-contacts-item gem-contacts-fax">Fax: +1 (833)243-0247</div>
+        </div>
         </div>
         <div class="col-4 contact-icon">
         </div>
