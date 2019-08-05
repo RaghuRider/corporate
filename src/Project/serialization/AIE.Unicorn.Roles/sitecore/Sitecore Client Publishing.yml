@@ -1,0 +1,6 @@
+﻿---
+Role: |
+  sitecore\Sitecore Client Publishing
+MemberOf:
+  Role: |
+    sitecore\Sitecore Client Users

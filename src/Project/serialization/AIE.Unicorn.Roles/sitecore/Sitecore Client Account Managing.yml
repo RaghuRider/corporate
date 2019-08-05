@@ -1,0 +1,6 @@
+﻿---
+Role: |
+  sitecore\Sitecore Client Account Managing
+MemberOf:
+  Role: |
+    sitecore\Sitecore Client Users

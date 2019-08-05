@@ -1,0 +1,6 @@
+﻿---
+Role: |
+  sitecore\AIE Blog ATG Reviewer
+MemberOf:
+  Role: |
+    sitecore\AIE Blog Reviewer

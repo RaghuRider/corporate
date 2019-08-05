@@ -1,0 +1,6 @@
+﻿---
+Role: |
+  sitecore\Sitecore Client Translating
+MemberOf:
+  Role: |
+    sitecore\Sitecore Client Users

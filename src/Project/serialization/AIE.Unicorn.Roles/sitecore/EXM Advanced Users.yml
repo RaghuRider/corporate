@@ -1,0 +1,10 @@
+﻿---
+Role: |
+  sitecore\EXM Advanced Users
+MemberOf:
+  Role: |
+    sitecore\Analytics Maintaining
+  Role: |
+    sitecore\List Manager Editors
+  Role: |
+    sitecore\Analytics Reporting

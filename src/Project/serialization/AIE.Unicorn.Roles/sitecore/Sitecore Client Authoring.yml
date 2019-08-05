@@ -1,0 +1,6 @@
+﻿---
+Role: |
+  sitecore\Sitecore Client Authoring
+MemberOf:
+  Role: |
+    sitecore\Sitecore Client Users

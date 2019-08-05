@@ -1,0 +1,8 @@
+﻿---
+Role: |
+  sitecore\List Manager Editors
+MemberOf:
+  Role: |
+    sitecore\Author
+  Role: |
+    sitecore\Analytics Maintaining

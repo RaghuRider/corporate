@@ -1,0 +1,6 @@
+﻿---
+Role: |
+  sitecore\Sitecore Minimal Page Editor
+MemberOf:
+  Role: |
+    sitecore\Sitecore Client Users

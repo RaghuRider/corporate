@@ -1,0 +1,6 @@
+﻿---
+Role: |
+  sitecore\Analytics Content Profiling
+MemberOf:
+  Role: |
+    sitecore\Sitecore Client Users

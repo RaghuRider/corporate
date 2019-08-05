@@ -1,0 +1,6 @@
+﻿---
+Role: |
+  sitecore\AIE Blog Data Science Approver
+MemberOf:
+  Role: |
+    sitecore\AIE Blog Approver

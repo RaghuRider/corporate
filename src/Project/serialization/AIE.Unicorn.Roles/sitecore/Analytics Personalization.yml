@@ -1,0 +1,6 @@
+﻿---
+Role: |
+  sitecore\Analytics Personalization
+MemberOf:
+  Role: |
+    sitecore\Sitecore Client Users
