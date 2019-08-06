@@ -1,0 +1,28 @@
+﻿---
+Username: |
+  sitecore\ServicesAPI
+Email: 
+Comment: Default user used when accessing Sitecore via the Sitecore.Services web service APIs.
+Created: "2018-06-04T03:30:47.0000000Z"
+IsApproved: True
+Properties:
+- Key: FullName
+  Value: Services API User
+  ValueType: System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  IsCustom: False
+- Key: IsAdministrator
+  Value: False
+  ValueType: System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  IsCustom: False
+- Key: Portrait
+  Value: people/16x16/pawn_glass_blue.png
+  ValueType: System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  IsCustom: False
+- Key: digestcredentialhash
+  Value: b3951f1e3898f22c36e793f275fd8b45
+  ValueType: System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  IsCustom: True
+- Key: digestcredentialhashwithoutdomain
+  Value: aeb6ad9edcd4dc0c321eb8cd5dcc0f4c
+  ValueType: System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  IsCustom: True

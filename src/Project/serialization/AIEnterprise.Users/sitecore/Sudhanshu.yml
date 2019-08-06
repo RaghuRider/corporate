@@ -1,0 +1,56 @@
+﻿---
+Username: |
+  sitecore\Sudhanshu
+Email: smohan@AIENTERPRISE.COM
+Comment: 
+Created: "2019-07-29T12:34:55.0000000Z"
+IsApproved: True
+Properties:
+- Key: |
+    /sitecore\sudhanshu/Panes/PD2933DA8153046D690BC0024F824EDF0
+  Value: visible
+  ValueType: System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  IsCustom: True
+- Key: |
+    /sitecore\sudhanshu/Sections/D2933DA8153046D690BC0024F824EDF0_35E2411F0ADA450A89AF4B30A9DA3045_section/Collapsed
+  Value: true
+  ValueType: System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  IsCustom: True
+- Key: |
+    /sitecore\sudhanshu/Sections/D2933DA8153046D690BC0024F824EDF0_782EAD6CA13F4488A7984F67006EAA4C_section/Collapsed
+  Value: true
+  ValueType: System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  IsCustom: True
+- Key: |
+    /sitecore\sudhanshu/Sections/D2933DA8153046D690BC0024F824EDF0_FB5E52ADBDE44AF8A1B06B03E56F453A_section/Collapsed
+  Value: true
+  ValueType: System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  IsCustom: True
+- Key: FullName
+  Value: Sudhanshu Mohan
+  ValueType: System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  IsCustom: False
+- Key: IsAdministrator
+  Value: True
+  ValueType: System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  IsCustom: False
+- Key: Portrait
+  Value: office/16x16/man_2.png
+  ValueType: System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  IsCustom: False
+- Key: ProfileItemId
+  Value: "{AE4C4969-5B7E-4B4E-9042-B2D8701CE214}"
+  ValueType: System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  IsCustom: False
+- Key: digestcredentialhash
+  Value: 0f2696c8f2af2a5a727087fe3503ae56
+  ValueType: System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  IsCustom: True
+- Key: digestcredentialhashwithoutdomain
+  Value: 92ca57ad3c91c45f84691766fa26ccb7
+  ValueType: System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  IsCustom: True
+- Key: sc_RssSalt
+  Value: 88wEukDDdMSLSloHcg==
+  ValueType: System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  IsCustom: True
