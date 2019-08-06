@@ -4,7 +4,6 @@ Parent: "0046c226-8a9f-4a85-b8aa-25a24578ca12"
 Template: "efafbbf5-01a0-46d3-9f7b-e71763e7f221"
 Path: /sitecore/content/AIE/AIE Corporate Site/Settings/Social Media Groups/Default
 DB: master
-BranchID: "4ddbdd69-8a15-4520-bed8-f7553139586b"
 SharedFields:
 - ID: "9135200a-5626-4dd8-ab9d-d665b8c11748"
   Hint: __Never publish

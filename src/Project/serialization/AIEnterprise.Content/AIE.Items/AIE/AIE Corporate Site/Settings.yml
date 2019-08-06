@@ -4,7 +4,6 @@ Parent: "9c775444-cf26-40fa-9717-f36b67cc3a25"
 Template: "48a179fb-a3da-4ba0-8144-7b42b01f8a88"
 Path: /sitecore/content/AIE/AIE Corporate Site/Settings
 DB: master
-BranchID: "b90549b5-c997-4d6b-b102-c9ab82528974"
 SharedFields:
 - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
   Hint: __Masters

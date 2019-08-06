@@ -1,13 +1,13 @@
 ﻿---
-ID: "346f96de-bf3e-400b-be8a-de6c5de77c02"
-Parent: "1fda7845-83c9-4377-94e9-27e480e695f6"
+ID: "735f31ca-9b64-47c4-b760-b597e718de19"
+Parent: "02f70088-293f-4b1b-a911-67957796afe0"
 Template: "aca5c9a3-cda0-49b6-893f-1d4a7cb595b0"
 Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Promo/Promo card with Left Image/div/div/div
 DB: master
 SharedFields:
 - ID: "bea2740e-90d1-4b16-bd1d-7a7cc8605d2d"
   Hint: CssClass
-  Value: "header-content1"
+  Value: "back-image1"
 Languages:
 - Language: en
   Versions:
@@ -15,4 +15,4 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20190606T122855Z
+      Value: 20190606T121856Z

@@ -4,7 +4,6 @@ Parent: "fa23e46b-8b8d-482e-b7a6-4daec0d1512b"
 Template: "7dd9ece5-9461-498d-8721-7cbea8111b5e"
 Path: /sitecore/content/AIE/AIE Corporate Site/Data/POIs/My Location POI
 DB: master
-BranchID: "58a9b55e-88b8-49a3-918b-99f3b6534c95"
 SharedFields:
 - ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
   Hint: __Originator

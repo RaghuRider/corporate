@@ -4,7 +4,6 @@ Parent: "21d100d8-90d8-4b1d-a6e0-dbeee541b738"
 Template: "fcd285da-9ab2-4c8d-b185-5a7487a9ba1b"
 Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Image/Default/ImageCaption
 DB: master
-BranchID: "cc5f46b4-6376-48b6-ad03-adc13508527f"
 SharedFields:
 - ID: "4753764c-c05a-4623-841b-97f85135241c"
   Hint: FieldName

@@ -50,7 +50,6 @@ Languages:
         <image mediaid="{9336B305-86C2-4D71-9532-E669FBED11CE}" />
     - ID: "b138f795-2f6c-46f7-9903-acb647bbccbf"
       Hint: Author
-      Type: tree list
       Value: Blog Author
     - ID: "d48a736f-3a15-4c91-b8f3-47fbc248b441"
       Hint: PublishedOn

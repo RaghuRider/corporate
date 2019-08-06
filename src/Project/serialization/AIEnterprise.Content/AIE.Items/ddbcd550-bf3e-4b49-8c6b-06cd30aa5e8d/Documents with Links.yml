@@ -4,7 +4,6 @@ Parent: "ddbcd550-bf3e-4b49-8c6b-06cd30aa5e8d"
 Template: "fb3e3034-33f8-4ce8-be98-dd05010f4c22"
 Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/File List/Documents with Links
 DB: master
-BranchID: "83becf6f-0518-4128-a395-8906981b7cb1"
 SharedFields:
 - ID: "90294353-706a-431c-b855-cd245824d9fa"
   Hint: LinkField

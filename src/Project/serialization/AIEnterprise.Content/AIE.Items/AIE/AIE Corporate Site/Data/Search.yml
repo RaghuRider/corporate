@@ -4,7 +4,6 @@ Parent: "384e31c9-4ee7-4e85-abb0-a104e4346970"
 Template: "e32f0141-5506-44f6-a211-fb224756ecc0"
 Path: /sitecore/content/AIE/AIE Corporate Site/Data/Search
 DB: master
-BranchID: "957565a0-bf0d-4f8b-bf2c-4a8f40ec9080"
 SharedFields:
 - ID: "dec8d2d5-e3cf-48b6-a653-8e69e2716641"
   Hint: __Security

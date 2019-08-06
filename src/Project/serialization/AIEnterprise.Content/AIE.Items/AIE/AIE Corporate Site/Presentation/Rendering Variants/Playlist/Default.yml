@@ -4,7 +4,6 @@ Parent: "827f9f61-3efd-4bc8-beb0-31e4d5ebd776"
 Template: "fb3e3034-33f8-4ce8-be98-dd05010f4c22"
 Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Playlist/Default
 DB: master
-BranchID: "fc0838e0-d628-4f4b-b97b-bd518a3ff4a9"
 SharedFields:
 - ID: "e1d5adba-8348-4127-9bb6-455936653839"
   Hint: CssClass

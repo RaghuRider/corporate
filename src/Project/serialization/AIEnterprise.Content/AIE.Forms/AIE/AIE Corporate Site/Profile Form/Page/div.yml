@@ -1,5 +1,5 @@
 ﻿---
-ID: "25052b9f-8129-4a61-ba9a-d556ef40fd6c"
+ID: "cc74a151-2658-4067-b2ac-4bc5f83c367b"
 Parent: "96aafa1d-e4ea-460b-815e-9a647d2a76a4"
 Template: "8cddb194-f456-4a75-89b7-346f8f39f95c"
 Path: /sitecore/Forms/AIE/AIE Corporate Site/Profile Form/Page/div
@@ -7,7 +7,10 @@ DB: master
 SharedFields:
 - ID: "7abaa3f6-6ec0-4b65-a463-7919bfae55aa"
   Hint: Css Class
-  Value: "ult_modal-body ult-responsive ult-html"
+  Value: "ult_modal-content"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: "-100"
 Languages:
 - Language: en
   Versions:
@@ -15,4 +18,4 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20190618T130036Z
+      Value: 20190618T125536Z

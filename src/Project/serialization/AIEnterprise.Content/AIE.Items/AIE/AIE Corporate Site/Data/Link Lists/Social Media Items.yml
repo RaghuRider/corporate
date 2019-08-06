@@ -4,7 +4,6 @@ Parent: "8e6b3508-d5da-4192-89a7-80813d4b77cb"
 Template: "f7561ffc-c0d8-477f-b53d-2703a4060be1"
 Path: /sitecore/content/AIE/AIE Corporate Site/Data/Link Lists/Social Media Items
 DB: master
-BranchID: "6fe30845-72fc-4a2b-93e8-64b8eaff3152"
 SharedFields:
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
