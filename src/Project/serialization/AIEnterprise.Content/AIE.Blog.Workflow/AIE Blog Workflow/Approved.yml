@@ -1,0 +1,22 @@
+﻿---
+ID: "793f8726-0f56-4f90-b5c4-7d1ae105e043"
+Parent: "d2933da8-1530-46d6-90bc-0024f824edf0"
+Template: "4b7e2da9-de43-4c83-88c3-02f042031d04"
+Path: /sitecore/system/Workflows/AIE Blog Workflow/Approved
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+- ID: "fb8abc73-7acf-45a0-898c-d3ccb889c3ee"
+  Hint: Final
+  Type: Checkbox
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190731T100415Z

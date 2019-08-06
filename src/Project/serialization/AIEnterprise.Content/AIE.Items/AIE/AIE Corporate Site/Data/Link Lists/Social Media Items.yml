@@ -1,0 +1,26 @@
+﻿---
+ID: "af1e6c5a-6aea-4999-a603-faedf160921d"
+Parent: "8e6b3508-d5da-4192-89a7-80813d4b77cb"
+Template: "f7561ffc-c0d8-477f-b53d-2703a4060be1"
+Path: /sitecore/content/AIE/AIE Corporate Site/Data/Link Lists/Social Media Items
+DB: master
+BranchID: "6fe30845-72fc-4a2b-93e8-64b8eaff3152"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{90706CA7-0B87-41D0-99E1-A08BCE4BF10E}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190506T125741Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

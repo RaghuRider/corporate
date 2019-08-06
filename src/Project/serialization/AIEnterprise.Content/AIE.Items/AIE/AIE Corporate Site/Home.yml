@@ -1,0 +1,177 @@
+﻿---
+ID: "cc1bc5e4-5512-4b8e-b38e-7856e6604cd5"
+Parent: "9c775444-cf26-40fa-9717-f36b67cc3a25"
+Template: "1af99e06-ca73-4d83-829c-0a5e2a2fbcc9"
+Path: /sitecore/content/AIE/AIE Corporate Site/Home
+DB: master
+BranchID: "b90549b5-c997-4d6b-b102-c9ab82528974"
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{E6E33FA3-2659-4750-A1DD-EB8BDFC5F37B}"
+- ID: "961cadd8-8f7d-4b12-b0da-7af04b54b22d"
+  Hint: OpenGraphType
+  Value: website
+- ID: "b0f2f11d-f706-41da-81fe-88ebfacb3b53"
+  Hint: OpenGraphSiteName
+  Value: AiEnterprise Inc.
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+- ID: "dec8d2d5-e3cf-48b6-a653-8e69e2716641"
+  Hint: __Security
+  Value: |
+    ar|sitecore\AIE Blog Sitecore Approver|pe|+item:read|ar|sitecore\AIE Website Approver|pe|+item:rename|+item:write|+item:read|+item:delete|+item:create|pd|+item:rename|+item:write|+item:read|+item:delete|+item:create|ar|sitecore\AIE Blog ARC Reviewer|pe|+item:read|ar|sitecore\AIE Blog Sitecore Author|pe|+item:read|ar|sitecore\AIE Blog Data Science Reviewer|pe|+item:read|ar|sitecore\AIE Blog ARC Author|pe|+item:read|ar|sitecore\AIE Blog ATG Author|pe|+item:read|ar|sitecore\AIE Blog Sitecore Reviewer|pe|+item:read|ar|sitecore\AIE Blog Microservices Reviewer|pe|+item:read|ar|sitecore\AIE Website Author|pe|+item:rename|+item:write|+item:read|+item:delete|+item:create|pd|+item:rename|+item:write|+item:read|+item:delete|+item:create|ar|sitecore\AIE Blog Microservices Author|pe|+item:read|ar|sitecore\AIE Blog Data Science Author|pe|+item:read|
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        s:l="{269BDDC7-E377-4C61-9B26-A00BA2CCD14D}" />
+    </r>
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{92EB9EFB-88D4-4089-82BE-AAD92D4FA24E}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{2CEF4554-371C-41DD-972F-6B502C007390}"
+              p:before="*"
+              s:ds="{DB7F4FCA-18EA-4CF8-A4E5-73C9E729BF43}"
+              s:id="{51C13F03-8364-4F61-B860-2EC6CA7439B3}"
+              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7BA39262AC-13AE-4665-B167-0943028DE462%7D&amp;Styles=%7BC7321C38-7865-4A15-8D3A-85EFF0AEF8F0%7D%7C%7BF8E290DF-A58D-4B44-8943-5A5675DF8799%7D&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=15"
+              s:ph="/main/container-16/row-1-10/column-4-11" />
+            <r
+              uid="{90894AD0-C88C-438E-B37D-A4391B42B3B6}"
+              p:after="r[@uid='{2CEF4554-371C-41DD-972F-6B502C007390}']"
+              s:ds="{BF6A5A3D-1D20-4CA4-B8C6-01A62FC5A0C1}"
+              s:id="{51C13F03-8364-4F61-B860-2EC6CA7439B3}"
+              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7BA39262AC-13AE-4665-B167-0943028DE462%7D&amp;Styles=%7BC7321C38-7865-4A15-8D3A-85EFF0AEF8F0%7D%7C%7BF8E290DF-A58D-4B44-8943-5A5675DF8799%7D&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=14"
+              s:ph="/main/container-16/row-1-10/column-3-11" />
+            <r
+              uid="{91BDAEDC-2410-4DE4-BC88-1C467E1D110F}"
+              p:after="r[@uid='{90894AD0-C88C-438E-B37D-A4391B42B3B6}']"
+              s:ds="{CE6670EC-69EA-48D2-94BB-3018C1ECCC01}"
+              s:id="{51C13F03-8364-4F61-B860-2EC6CA7439B3}"
+              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7BA39262AC-13AE-4665-B167-0943028DE462%7D&amp;Styles=%7BC7321C38-7865-4A15-8D3A-85EFF0AEF8F0%7D%7C%7BF8E290DF-A58D-4B44-8943-5A5675DF8799%7D&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=13"
+              s:ph="/main/container-16/row-1-10/column-2-11" />
+            <r
+              uid="{D0A0EE18-B896-448E-A09F-590D3264C498}"
+              p:after="r[@uid='{91BDAEDC-2410-4DE4-BC88-1C467E1D110F}']"
+              s:ds="{D82E4807-FA86-4D69-A67E-2E9334412F31}"
+              s:id="{51C13F03-8364-4F61-B860-2EC6CA7439B3}"
+              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7BA39262AC-13AE-4665-B167-0943028DE462%7D&amp;Styles=%7BC7321C38-7865-4A15-8D3A-85EFF0AEF8F0%7D%7C%7BF8E290DF-A58D-4B44-8943-5A5675DF8799%7D&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=12"
+              s:ph="/main/container-16/row-1-10/column-1-11" />
+            <r
+              uid="{AB9C9667-F7AF-4A07-B19F-2396699D6A3B}"
+              p:after="r[@uid='{D0A0EE18-B896-448E-A09F-590D3264C498}']"
+              s:ds=""
+              s:id="{C25766C8-9AFD-4D28-87FE-147774F6806D}"
+              s:par="SplitterSize=2&amp;EnabledPlaceholders=1%2C2%2C3%2C4&amp;Styles1&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles8&amp;ColumnWidth1=%7BD503428B-F850-42EF-98DF-923F15582406%7D&amp;ColumnWidth2=%7BD503428B-F850-42EF-98DF-923F15582406%7D&amp;ColumnWidth3=%7BD503428B-F850-42EF-98DF-923F15582406%7D&amp;ColumnWidth4=%7BD503428B-F850-42EF-98DF-923F15582406%7D&amp;ColumnWidth5&amp;ColumnWidth6&amp;ColumnWidth7&amp;ColumnWidth8&amp;Reset Caching Options&amp;DynamicPlaceholderId=11"
+              s:ph="/main/container-16/row-1-10" />
+            <r
+              uid="{8AF6EDD7-965C-4F4D-AA30-3420C0DE3E29}"
+              p:after="r[@uid='{AB9C9667-F7AF-4A07-B19F-2396699D6A3B}']"
+              s:ds="{22169C6D-AF8E-4917-AE01-AA6C426336E6}"
+              s:id="{5A21C781-8E74-4DD0-8261-8CCDA1BF0454}"
+              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;Styles=%7B1EC158FD-DABF-46E8-844B-DD0FC8710AB6%7D%7C%7B5EC876AC-99B7-4504-9426-CC4EEFFBD5A6%7D&amp;Navigation=%7BF5A400A0-C183-4A46-892A-F4DE38A5ECDE%7D&amp;Transition=%7BD4B706CC-7EEC-4DB9-A87D-123B29803490%7D&amp;Timeout=2000&amp;PauseOnHover=1&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=9"
+              s:ph="main" />
+            <r
+              uid="{122F509B-B81A-44FD-A816-4ABD4AFF0388}"
+              p:after="r[@uid='{8AF6EDD7-965C-4F4D-AA30-3420C0DE3E29}']"
+              s:ds=""
+              s:id="{896A2C68-1362-4E88-8BA0-1805AE6D4837}"
+              s:par="GridParameters&amp;BackgroundImage&amp;Styles&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=16"
+              s:ph="main" />
+            <r
+              uid="{EDE9360C-D1FD-4FDF-8649-8FE3B44345A7}"
+              p:after="r[@uid='{122F509B-B81A-44FD-A816-4ABD4AFF0388}']"
+              s:ds=""
+              s:id="{2DA9B139-FB9C-4FD7-BE84-CB066B2D7CC3}"
+              s:par="SplitterSize=2&amp;EnabledPlaceholders=1&amp;Styles1&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles8&amp;Reset Caching Options&amp;DynamicPlaceholderId=10"
+              s:ph="/main/container-16" />
+            <r
+              uid="{5CF5AE4C-4926-41D8-81D1-09D67E839025}"
+              p:after="r[@uid='{EDE9360C-D1FD-4FDF-8649-8FE3B44345A7}']"
+              s:ds="local:/Data/Why AIE/Why-AIE"
+              s:id="{8B0393E9-EE25-4F0B-A5FD-777B3AD2C737}"
+              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7B353691FC-ECDE-4939-812A-1C37E4436759%7D&amp;Styles=%7BFC5CD80F-4168-45D3-B6F8-70198447B249%7D&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=6"
+              s:ph="/main/container-4" />
+            <r
+              uid="{F333F456-2AEB-4309-B777-698B442F36F0}"
+              p:after="r[@uid='{5CF5AE4C-4926-41D8-81D1-09D67E839025}']"
+              s:ds="{207A18BA-77F6-4C01-93F1-D129EC42F53C}"
+              s:id="{8B0393E9-EE25-4F0B-A5FD-777B3AD2C737}"
+              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7BDFB03588-D559-4364-BA06-3FCC1771C041%7D&amp;Styles&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=7"
+              s:ph="/main/container-5" />
+            <r
+              uid="{2F7298E2-A472-4AE0-B560-366510B743E1}"
+              p:after="r[@uid='{F333F456-2AEB-4309-B777-698B442F36F0}']"
+              s:ds=""
+              s:id="{896A2C68-1362-4E88-8BA0-1805AE6D4837}"
+              s:par="GridParameters&amp;BackgroundImage&amp;Styles=%7BB4927B36-2817-43CE-A198-D3548E96A3D9%7D&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=4"
+              s:ph="main" />
+            <r
+              uid="{BECAECEE-4068-48F3-8C99-75D320AA8BB8}"
+              p:after="*[1=2]"
+              s:ds=""
+              s:id="{896A2C68-1362-4E88-8BA0-1805AE6D4837}"
+              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;BackgroundImage&amp;Styles=%7BB6465184-CBA4-48E3-887C-751AE8EA653D%7D&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=5"
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190506T091415Z
+    - ID: "45ce257a-6060-4c4a-9a0f-ae77bf705b25"
+      Hint: TwitterSite
+      Value: @AiEnterpriseInc
+    - ID: "48a66e40-d164-4c8e-bc06-172ecc6769ec"
+      Hint: TwitterTitle
+      Value: "Home - AiEnterprise Inc."
+    - ID: "4c2f221f-9426-45ed-9eeb-c79bb3169565"
+      Hint: StickyNotes
+      Value: |
+        {"items":[]}
+    - ID: "4d263b95-322f-4003-adbd-70920facf823"
+      Hint: TwitterDescription
+      Value: We are your biggest fans. We want you to succeed. Our Mission then is to become an extension of your team. We. Deliver. Results.
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Home
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: We are your biggest fans. We want you to succeed. Our Mission then is to become an extension of your team. We. Deliver. Results.
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\virtualssuser
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: 
+    - ID: "7bddc8b8-1f77-46d8-9d7f-46e20e041f74"
+      Hint: OpenGraphDescription
+      Value: We are your biggest fans. We want you to succeed. Our Mission then is to become an extension of your team. We. Deliver. Results.
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: "Home - AiEnterprise Inc."
+    - ID: "82f4bd76-0837-4e55-a1f6-15231096b2b9"
+      Hint: Attributes
+      Value: "og:locale=en_US&og:type=website&og:title=Home%20-%20AiEnterprise%20Inc.&og:description=We%20are%20your%20biggest%20fans.%20We%20want%20you%20to%20succeed.%20Our%20Mission%20then%20is%20to%20become%20an%20extension%20of%20your%20team.%20We.%20Deliver.%20Results.&og:site_name=AiEnterprise%20Inc."
+    - ID: "bb6835c4-82af-4d11-9102-a61694c17055"
+      Hint: Title
+      Value: Home
