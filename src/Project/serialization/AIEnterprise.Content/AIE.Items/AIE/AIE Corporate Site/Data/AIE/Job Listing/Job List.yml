@@ -18,7 +18,7 @@ Languages:
         sitecore\admin
     - ID: "8b14244d-f148-42fc-8d89-93b6fdcf40ba"
       Hint: Job Listing
-      Type: Multilist
+      Type: Treelist
       Value: |
         {9783BF59-D049-4C85-9871-B6F19F114239}
         {10386149-331B-4C14-A756-1C4B9D48924F}

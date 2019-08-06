@@ -1,0 +1,65 @@
+﻿---
+ID: "cb0938e6-265c-4be9-8677-ef7755635b27"
+Parent: "78af5ee7-2d9b-42a7-8071-8e920e03b6ec"
+Template: "e58828f9-5b4c-477c-a414-1aad308fba5f"
+Path: /sitecore/content/AIE/AIE Corporate Site/Data/AIE/Job Listing/Job Details/Micro Services/Micro Services
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 500
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "16108162-879f-4846-bf88-a2fe3eebf35a"
+      Hint: Experience
+      Value: 8+ Years.
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190626T131512Z
+    - ID: "aa2242e8-e723-4914-b73b-3ab39bdb70e0"
+      Hint: Exp Title
+      Value: "Exp :"
+    - ID: "b1578035-981a-441e-88f2-35aa18d6805b"
+      Hint: Location Title
+      Value: "Location :"
+    - ID: "b4836c11-2322-4a1d-a690-12911e25e9f6"
+      Hint: Job Description
+      Value: |
+        <div class="carrer-cont">
+        <p class="extra-component">Hands-on experience in the analysis, design, implementation and testing of enterprise level Microservices &amp; Java/JaveJEE based applications, preferably in ecommerce domain</p>
+        <ol>
+            <li>Experience designing, developing and deploying Microservices to either in-house or cloud architecture using SOA.</li>
+            <li>Strong background in asynchronous patterns and multithreaded programming.</li>
+            <li>Strong background with multi-threading, event-based software architecture.</li>
+            <li>Strong knowledge of Agile development methodology, Test Driven Development, Continuous Integration, and Test Automation.</li>
+            <li>Strong experience with Spring and Front End Technologies (NodeJS, Zookeeper, etc).</li>
+            <li>Hands on Experience in web technologies (Spring MVC, JSP, HTML/DHTML, Web services, JavaScript &amp; NodeJS).</li>
+            <li>Proficiency in Core Java (JDK 8), J2EE, ANSI SQL, XML, Spring, Hibernate &amp; Rest services.</li>
+            <li>Strong Database concepts, both relational and NoSql (Mongo, Cassandra, Redis, etc).</li>
+            <li>Good understanding on DevOps (Git, CI tools, Sonar, etc).</li>
+            <li>Containerized development and deployment experience&lt;./li&gt;</li>
+            <li>Experience in cloud platforms (AWS, Azure, Google, etc).</li>
+            <li>Strong Problem solving and analytical skills (especially around the areas of performance, scalability on the above-mentioned technologies).</li>
+            <li>Strong Experience in eCommerce domain.</li>
+            <li>Good understand or working experience on Hystrix.</li>
+            <li>Experience in using Dockers &amp; Vagrant scripts.</li>
+            <li>Experience in Gradle and Maven based build tools.</li>
+            <li>Experience in implementing organization level maven repositories.</li>
+            <li>Run performance and profiling tools and assist in thread dump analysis.</li>
+            <li>Experience using In-memory data grids.</li>
+            <li>Experience using NoSQL datasources.</li>
+        </ol>
+        </div>
+    - ID: "c5c8e313-007d-4456-870e-e4b11829720b"
+      Hint: Technology Logo
+      Value: |
+        <image mediaid="{D2A37D37-5CC8-453F-9F11-E90FD3AFD728}" alt="sitecore" height="" width="" hspace="" vspace="" />
+    - ID: "c7aa4a32-7ab1-40fe-9698-d11d78bdbaba"
+      Hint: Job Title
+      Value: LEAD MICRO SERVICES
+    - ID: "ed666357-43a0-4097-a073-529892e4a4c9"
+      Hint: Location
+      Value: Bangalore

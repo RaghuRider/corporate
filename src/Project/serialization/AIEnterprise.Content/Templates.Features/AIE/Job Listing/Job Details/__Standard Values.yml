@@ -30,8 +30,8 @@ Languages:
       Value: |
         sitecore\admin
     - ID: "aa2242e8-e723-4914-b73b-3ab39bdb70e0"
-      Hint: ExpTitle
+      Hint: Exp Title
       Value: "Exp :"
     - ID: "b1578035-981a-441e-88f2-35aa18d6805b"
-      Hint: LocationTitle
+      Hint: Location Title
       Value: "Location :"

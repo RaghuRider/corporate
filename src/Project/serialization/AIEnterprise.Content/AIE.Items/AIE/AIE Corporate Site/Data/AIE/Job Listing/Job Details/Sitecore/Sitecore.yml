@@ -1,0 +1,66 @@
+﻿---
+ID: "9783bf59-d049-4c85-9871-b6f19f114239"
+Parent: "7161eea0-bd10-40e6-a32d-8795eab4dc7f"
+Template: "e58828f9-5b4c-477c-a414-1aad308fba5f"
+Path: /sitecore/content/AIE/AIE Corporate Site/Data/AIE/Job Listing/Job Details/Sitecore/Sitecore
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{FDD4D90D-F31D-453C-8924-5F85BD198470}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "16108162-879f-4846-bf88-a2fe3eebf35a"
+      Hint: Experience
+      Value: 3+ Years.
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190626T131512Z
+    - ID: "aa2242e8-e723-4914-b73b-3ab39bdb70e0"
+      Hint: Exp Title
+      Value: "Exp :"
+    - ID: "b1578035-981a-441e-88f2-35aa18d6805b"
+      Hint: Location Title
+      Value: "Location :"
+    - ID: "b4836c11-2322-4a1d-a690-12911e25e9f6"
+      Hint: Job Description
+      Value: |
+        <div class="carrer-cont">
+        <ol>
+            <li>Provide expertise in the planning, constructing and execution of test scripts.</li>
+            <li>Apply business and functional knowledge including testing standards, guidelines, and testing methodology to meet the teams overall test objectives.</li>
+            <li>Ensure all testing results are easily accessible and understandable.</li>
+            <li>Track defects to closure and keep defect repository up- to- date.</li>
+            <ul>
+                <li>Overall 10+ years of which 5+ years exp in Sitecore 8.2 (architect), project(starting to release) , can Translate client requirements to Sitecore technical designs.</li>
+                <li>Exp of delivering large scale SiteCore engagements with extensive customization.</li>
+                <li>At least 3-6 projects experience implementing solutions using Sitecore with knowledge of best practices.</li>
+                <li>Experience with SITECORE Ver 8.1 and above.</li>
+                <li>Experience in .NET Framework 3.5 and above along with Proficiency in C# .NET MVC, COM, ASP.NET and SiteCore module skills.</li>
+                <li>Should have hands on experience of RESTful API.</li>
+                <li>Expert in SiteCore foundational concepts, Layouts, Sublayouts, Templates, Workflows and Security.</li>
+                <li>Javascript, Angular/React expertise is a big plus.</li>
+                <li>Good understanding of UX and UI design with an emphasis on intuitive, slick, modern designs.</li>
+                <li>They will create user information solutions by developing, implementing, and maintaining .NET based templates, components, and interfaces.</li>
+                <li>Drives technical analysis, design, coding and testing for development and support initiatives.</li>
+                <li>Drives Design and development of user interfaces to Internet/Intranet CMS applications by setting expectations and features priorities throughout development life cycle; determining design methodologies and tool sets; completing programming using languages and software products; designing and conducting tests.</li>
+                <li>Promotes standard patterns and practices to implement scalable, high performance application frameworks for enterprise applications.</li>
+            </ul>
+        </ol>
+        </div>
+    - ID: "c5c8e313-007d-4456-870e-e4b11829720b"
+      Hint: Technology Logo
+      Value: |
+        <image mediaid="{45730FAF-2902-4D2F-BB4C-42EBCF6991F3}" alt="sitecore" height="" width="" hspace="" vspace="" />
+    - ID: "c7aa4a32-7ab1-40fe-9698-d11d78bdbaba"
+      Hint: Job Title
+      Value: SITECORE DEVELOPER
+    - ID: "ed666357-43a0-4097-a073-529892e4a4c9"
+      Hint: Location
+      Value: Bangalore
