@@ -67,16 +67,16 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="App_Config\Include\AIEnterprise\Project\AIEnterprise.Roles.Serialization.config" />
-    <Content Include="App_Config\Include\AIEnterprise\Project\AIEnterprise.Users.Serialization.config" />
+    <Content Include="App_Config\Include\zzz.AIEnterprise\Project\AIEnterprise.Roles.Serialization.config" />
+    <Content Include="App_Config\Include\zzz.AIEnterprise\Project\AIEnterprise.Users.Serialization.config" />
     <None Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="App_Config\Include\AIEnterprise\Project\AIEnterprise.Serialization.config" />
-    <Content Include="App_Config\Include\AIEnterprise\Project\z.Common.Settings.config">
+    <Content Include="App_Config\Include\zzz.AIEnterprise\Project\AIEnterprise.Serialization.config" />
+    <Content Include="App_Config\Include\zzz.AIEnterprise\Project\z.Common.Settings.config">
       <SubType>Designer</SubType>
     </Content>
     <None Include="packages.config" />
