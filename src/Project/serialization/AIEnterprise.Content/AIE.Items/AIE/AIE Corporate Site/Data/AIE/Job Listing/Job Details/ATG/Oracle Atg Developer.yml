@@ -1,0 +1,55 @@
+﻿---
+ID: "53596f39-f7d5-47fd-a1d8-667fba225cc9"
+Parent: "3cab5b2c-98ec-41ac-b692-d9a9c587b51b"
+Template: "e58828f9-5b4c-477c-a414-1aad308fba5f"
+Path: /sitecore/content/AIE/AIE Corporate Site/Data/AIE/Job Listing/Job Details/ATG/Oracle Atg Developer
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 600
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "16108162-879f-4846-bf88-a2fe3eebf35a"
+      Hint: Experience
+      Value: 3+ Years.
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190626T131512Z
+    - ID: "aa2242e8-e723-4914-b73b-3ab39bdb70e0"
+      Hint: Exp Title
+      Value: "Exp :"
+    - ID: "b1578035-981a-441e-88f2-35aa18d6805b"
+      Hint: Location Title
+      Value: "Location :"
+    - ID: "b4836c11-2322-4a1d-a690-12911e25e9f6"
+      Hint: Job Description
+      Value: |
+        <div class="carrer-cont">
+        <p class="extra-component">Hands-on experience in the analysis, design, implementation and testing of enterprise level Microservices &amp; Java/JaveJEE based applications, preferably in ecommerce domain</p>
+        <ol>
+            <li>3+ years of hands on e- Commerce industry (Oracle Commerce / ATG ) experience.</li>
+            <li>Candidate should have proven experience in advanced development practices and techniques in retail e- Commerce with emphasis on reliability, scalability and reuse.</li>
+            <li>Expertise on the ATG platform including one or more of the following - BCC, CSC, Search, CRS, Endeca.</li>
+            <li>Practical experience implementing ATG with associated automated testing practices such as unit, integration point, durability and resiliency.</li>
+            <li>Experience one or more application servers (WAS, JBoss, WebLogic).</li>
+            <li>Experience on various design patterns / frameworks.</li>
+            <li>Ability to provide general technical support to e- commerce business users as required.</li>
+            <li>Must have worked on integrations of ATG with 3rd party applications.</li>
+            <li>Strong previous experience with various web technologies such as J2EE, XML, HTTP, SOAP, AJAX.</li>
+            <li>Strong database knowledge specifically SQL Server, Oracle, or MySQL.</li>
+        </ol>
+        </div>
+    - ID: "c5c8e313-007d-4456-870e-e4b11829720b"
+      Hint: Technology Logo
+      Value: |
+        <image mediaid="{B8B4DC0A-F13E-46BF-9D34-F4B9D7E1DD7B}" alt="sitecore" height="" width="" hspace="" vspace="" />
+    - ID: "c7aa4a32-7ab1-40fe-9698-d11d78bdbaba"
+      Hint: Job Title
+      Value: LEAD ORACLE ATG DEVELOPER
+    - ID: "ed666357-43a0-4097-a073-529892e4a4c9"
+      Hint: Location
+      Value: Bangalore
