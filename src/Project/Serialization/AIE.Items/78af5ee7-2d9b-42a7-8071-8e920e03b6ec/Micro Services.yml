@@ -1,8 +1,8 @@
 ﻿---
 ID: "cb0938e6-265c-4be9-8677-ef7755635b27"
-Parent: "1aa3e7a2-56b0-4def-a95b-1aeefb06e340"
+Parent: "78af5ee7-2d9b-42a7-8071-8e920e03b6ec"
 Template: "e58828f9-5b4c-477c-a414-1aad308fba5f"
-Path: /sitecore/content/AIE/AIE Corporate Site/Data/AIE/Job Listing/Job Details/Micro Services
+Path: /sitecore/content/AIE/AIE Corporate Site/Data/AIE/Job Listing/Job Details/Micro Services/Micro Services
 DB: master
 SharedFields:
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
