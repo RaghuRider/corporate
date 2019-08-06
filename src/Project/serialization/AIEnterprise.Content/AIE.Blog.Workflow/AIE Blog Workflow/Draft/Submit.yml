@@ -1,0 +1,21 @@
+﻿---
+ID: "97e6608f-7e1d-4247-a27e-89028231c3db"
+Parent: "782ead6c-a13f-4488-a798-4f67006eaa4c"
+Template: "cb01f9fc-c187-46b3-ab0b-97a8468d8303"
+Path: /sitecore/system/Workflows/AIE Blog Workflow/Draft/Submit
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Office/32x32/submit.png
+- ID: "dcbebc58-6124-4100-a248-fc717d6c78d5"
+  Hint: Next state
+  Value: "{FB5E52AD-BDE4-4AF8-A1B0-6B03E56F453A}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190731T100454Z

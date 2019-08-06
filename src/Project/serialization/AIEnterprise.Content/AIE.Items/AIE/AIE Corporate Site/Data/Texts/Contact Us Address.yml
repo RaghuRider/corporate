@@ -1,0 +1,47 @@
+﻿---
+ID: "8ce0e0c5-b08b-4a3f-a20e-b47a931c31e3"
+Parent: "bce7f746-c849-4592-b4ae-af55f5037aab"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: /sitecore/content/AIE/AIE Corporate Site/Data/Texts/Contact Us Address
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190702T050118Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: |
+        <div class="col-12 contactus">
+        <div class="Contact-info">
+        <h2>Contact Information</h2>
+        </div>
+        <div class="col-4 contactus-right">
+        <div class="contacts-address">
+        <ul class="contact-list">
+            <li class="gem-contacts-item gem-contacts-address">Address :</li>
+            <li> 2603 Camino Ramon, </li>
+            <li>Suite 200,</li>
+            <li> San Ramon</li>
+            <li> CA, 94583</li>
+            <li> USA</li>
+        </ul>
+        </div>
+        </div>
+        <div class="col-4 icon-cont">
+        <div class="gem-contacts-item gem-contacts-phone address">
+        <p>Phone:&nbsp; <a href="tel:+1 (833) 243-0247">+1 833-AIE-0247</a></p>
+        </div>
+        <div class="gem-contacts-item gem-contacts-email address"><a href="mailto:sales@aienterprise.com">sales@aienterprise.com</a></div>
+        <div class="gem-contacts-item gem-contacts-website address"><a href="https://www.aienterprise.com">www.aienterprise.com</a></div>
+        </div>
+        <div class="col-4 contact-icon">
+        </div>
+        </div>

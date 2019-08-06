@@ -1,0 +1,21 @@
+﻿---
+ID: "4aa77e2b-b4fb-4b75-8a70-6b7d73553772"
+Parent: "fb5e52ad-bde4-4af8-a1b0-6b03e56f453a"
+Template: "cb01f9fc-c187-46b3-ab0b-97a8468d8303"
+Path: /sitecore/system/Workflows/AIE Blog Workflow/Awaiting for Review/Approve
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: office/32x32/check.png
+- ID: "dcbebc58-6124-4100-a248-fc717d6c78d5"
+  Hint: Next state
+  Value: "{35E2411F-0ADA-450A-89AF-4B30A9DA3045}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190731T100520Z

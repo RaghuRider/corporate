@@ -1,0 +1,57 @@
+﻿---
+ID: "a2d8a2df-b5c6-4623-8a1c-318fd8297429"
+Parent: "690e2209-dca9-423f-a0cf-df94486cf513"
+Template: "e58828f9-5b4c-477c-a414-1aad308fba5f"
+Path: /sitecore/content/AIE/AIE Corporate Site/Data/AIE/Job Listing/Job Details/Data Science/Data Engineer
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "16108162-879f-4846-bf88-a2fe3eebf35a"
+      Hint: Experience
+      Value: 3+ Years.
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190626T131512Z
+    - ID: "aa2242e8-e723-4914-b73b-3ab39bdb70e0"
+      Hint: Exp Title
+      Value: "Exp :"
+    - ID: "b1578035-981a-441e-88f2-35aa18d6805b"
+      Hint: Location Title
+      Value: "Location :"
+    - ID: "b4836c11-2322-4a1d-a690-12911e25e9f6"
+      Hint: Job Description
+      Value: |
+        <div class="carrer-cont">
+        <ol>
+            <li>Should be a strong individual contributor in a complex data warehousing project. </li>
+            <li>Should highlight and resolves issues in the current data models and design.</li>
+            <li>Very good understanding of relational databases with ability to write/ modify complex SQL queries to generate required datasets and tune query performance.</li>
+            <li>Advanced ETL writing and performance tuning experience in Scala &amp; Python. Knowledge of data integration tools like Pentaho, etc.</li>
+            <li>Experience with using big data technologies like Spark, Map-Reduce, Hive, Kafka.</li>
+            <li>Experience with using NoSQL databases such as MongoDB, Cassandra, Hbase, etc.</li>
+            <li>Experience with using GCP / AWS cloud services.</li>
+            <li>Experience with using stream processing systems like Storm, Spark-streaming, etc.</li>
+            <li>Experience with using OOPs languages like Java, Scala, Python, etc.</li>
+            <li>Knowledge of Pig, Shell Scripting and familiarity with Unix/Linux OS a strong plus.</li>
+            <li>Strong analytical and problem solving skills. Should provide solutions to complex problems without known solutions.</li>
+            <li>Excellent communication skills and capability to effectively work with both Business and Technology teams.</li>
+            <li>Qualification &ndash; BE / BTECH in MIS, CS or related field. 5+ years of technology experience as a Data Engineer.</li>
+        </ol>
+        </div>
+    - ID: "c5c8e313-007d-4456-870e-e4b11829720b"
+      Hint: Technology Logo
+      Value: |
+        <image mediaid="{BF83B9C4-DE53-47D4-B61B-144A6DFA52CE}" alt="sitecore" height="" width="" hspace="" vspace="" />
+    - ID: "c7aa4a32-7ab1-40fe-9698-d11d78bdbaba"
+      Hint: Job Title
+      Value: DATA ENGINEER
+    - ID: "ed666357-43a0-4097-a073-529892e4a4c9"
+      Hint: Location
+      Value: Bangalore

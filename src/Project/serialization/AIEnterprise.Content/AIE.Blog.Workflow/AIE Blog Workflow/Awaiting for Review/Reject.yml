@@ -1,0 +1,21 @@
+﻿---
+ID: "31e3414c-83fb-445e-9b91-631090898144"
+Parent: "fb5e52ad-bde4-4af8-a1b0-6b03e56f453a"
+Template: "cb01f9fc-c187-46b3-ab0b-97a8468d8303"
+Path: /sitecore/system/Workflows/AIE Blog Workflow/Awaiting for Review/Reject
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: office/32x32/delete.png
+- ID: "dcbebc58-6124-4100-a248-fc717d6c78d5"
+  Hint: Next state
+  Value: "{782EAD6C-A13F-4488-A798-4F67006EAA4C}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190731T100526Z
