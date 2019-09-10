@@ -1,12 +1,13 @@
 module.exports = function () {
-    var instanceRoot = "C:\\inetpub\\wwwroot\\nes.local";
+    var instanceRoot = "C:\\inetpub\\wwwroot\\AIECorporate-cms.com";
     var config = {
-       // websiteRoot: "C:\\inetpub\\wwwroot\\nes.local",// Please update your location here as well
-        websiteRoot: "C:\\Nes_deploy\\WebSite",
-        deployTemp: "C:\\Nes_deploy\\WebSite",
-        UnicornDumpTemp: "C:\\Nes_deploy\\Unicorn",		
-        solutionName: "NES",
-        buildConfiguration: "DEV",
+        websiteRoot: "C:\\inetpub\\wwwroot\\AIECorporate-cms.com",
+        deployTemp: "C:\AIE_Content",
+        UnicornDumpTemp: "C:\\AIE_deploy\\Unicorn",
+        websiteUrl: "http://dev.aienterprise.com/",
+        siteHostName: "https://10.10.23.155/",
+        solutionName: "AIEnterprise",
+        buildConfiguration: "Release",
         buildToolsVersion: 15.0,
         buildMaxCpuCount: 0,
         buildVerbosity: "minimal",

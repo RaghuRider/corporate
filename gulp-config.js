@@ -1,8 +1,10 @@
 module.exports = function () {
-    var instanceRoot = "C:\\inetpub\\wwwroot\\dev.aienterprise.com";
+    var instanceRoot = "C:\\AIE_Content";
     var config = {
-        websiteRoot: "C:\\inetpub\\wwwroot\\dev.aienterprise.com",
-        websiteUrl:"http://dev.aienterprise.com/",
+        websiteRoot: "C:\\AIE_deploy",
+        UnicornDumpTemp: "C:\\AIE_deploy\\Unicorn",
+        websiteUrl: "http://dev.aienterprise.com/",
+        siteHostName: "https://10.10.23.155/",
         deployTemp: "C:\\AIE_deploy",
         solutionName: "AIEnterprise",
         buildConfiguration: "Debug",

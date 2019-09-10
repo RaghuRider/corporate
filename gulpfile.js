@@ -6,7 +6,7 @@ var foreach = require("gulp-foreach");
 var rename = require("gulp-rename");
 var newer = require("gulp-newer");
 var util = require("gulp-util");
-var unicorn = require("./Jenkins/unicorn.js");
+var unicorn = require("./unicorn.js");
 //var habitat = require("./scripts/habitat.js");
 var runSequence = require("run-sequence");
 var nugetRestore = require('gulp-nuget-restore');
@@ -17,9 +17,6 @@ var exec = require('gulp-exec');
 var mkdirp = require('mkdirp');
 var del = require('del');
 var glob = require("glob");
-//var rimrafDir = require("rimraf");
-//var rimraf = require("gulp-rimraf");
-var xmlpoke = require("xmlpoke");
 
 var config;
 
@@ -120,7 +117,7 @@ var publishStream = function (stream, dest) {
 var publishProjects = function (location, dest) {
     dest = dest || config.deployTemp;
 
-    console.log("publish to " + dest + " folder");
+    console.log("publish to " + dest + " folder" + " ---> " + [location + "/**/code/*.csproj"] );
     return gulp.src([location + "/**/code/*.csproj"])
         .pipe(foreach(function (stream, file) {
             return publishStream(stream, dest);
@@ -155,8 +152,8 @@ gulp.task("Publish-Project-Projects", function () {
 gulp.task("Sync-Unicorn",
     function (callback) {
         var options = {};
-        //options.siteHostName = options.websiteUrl; //habitat.getSiteUrl();
-        options.siteHostName = config.websiteUrl;
+        options.siteHostName = options.websiteUrl; //habitat.getSiteUrl();
+
         options.authenticationConfigFile = config.websiteRoot + "/App_config/Include/Unicorn/Unicorn.zSharedSecret.config";
         options.maxBuffer = Infinity;
 
@@ -165,32 +162,32 @@ gulp.task("Sync-Unicorn",
         }, options);
     });
 
-gulp.task("02-Publish-Foundation-Projects", function (callback) {
-    return runSequence(
-        "CreateTempFolder",
-        "Nuget-Restore",
-        "Publish-Foundation-Projects",
-        // "CopyDll",
-        // "CopyThirdPartyDll",
-        // "Publish-All-Views",
-        //"Publish-All-Configs",
-        //"CopyAppConfig",
-        //  "RemoveTempFolder",
-        callback);
-});
-
-gulp.task("03-Publish-Feature-Projects", function (callback) {
+gulp.task("02-Publish-Feature-Projects", function (callback) {
     return runSequence(
         "CreateTempFolder",
         "Nuget-Restore",
         "Publish-Feature-Projects",
         //"CopyDll",
-       // "CopyThirdPartyDll",
-       // "Publish-All-Views",
+        //"CopyThirdPartyDll",
+        //"Publish-All-Views",
         //"Publish-All-Configs",
-        // "CopyAppConfig",
+        //"CopyAppConfig", 
         callback);
     //"RemoveTempFolder", callback);
+});
+
+gulp.task("03-Publish-Foundation-Projects", function (callback) {
+    return runSequence(
+        "CreateTempFolder",
+        "Nuget-Restore",
+        "Publish-Foundation-Projects",
+        //"CopyDll",
+        //"CopyThirdPartyDll",
+        //"Publish-All-Views",
+        //"Publish-All-Configs",
+        //"CopyAppConfig",
+        //  "RemoveTempFolder",
+        callback);
 });
 
 gulp.task("04-Publish-Project-Projects", function (callback) {
@@ -208,10 +205,12 @@ gulp.task("04-Publish-Project-Projects", function (callback) {
 
 gulp.task("05-Publish-Complete-Solution", function (callback) {
     return runSequence(
-        "02-Publish-Foundation-Projects",
-        "03-Publish-Feature-Projects",
+        "02-Publish-Feature-Projects",
+        "03-Publish-Foundation-Projects",
         "04-Publish-Project-Projects",
-        "Sync-Unicorn",callback);
+        "Publish-All-Unicorn",
+        //"Sync-Unicorn",
+        callback);
 });
 
 gulp.task('CopyDll', function () {
@@ -337,3 +336,92 @@ gulp.task('RemoveTempFolder', function () {
         console.log('Deleted files and folders:\n', paths.join('\n'));
     });
 });
+
+gulp.task('RemoveUnicornFolder', function () {
+    return del([config.UnicornDumpTemp], { force: true }).then(paths => {
+        console.log('Deleted files and folders:\n', paths.join('\n'));
+    });
+});
+
+gulp.task("Publish-All-Unicorn", function (callback) {
+    return runSequence(
+        "RemoveUnicornFolder",
+        //"Publish-Feature-Unicorn",
+        //"Publish-Foundation-Unicorn",
+        "Publish-Project-Unicorn", callback);
+});
+
+//gulp.task("Publish-Foundation-Unicorn",
+//    function () {
+//        return robocopy({
+//            //roots = [root + "/**/serialization"],
+//            source: ["./src" + "/Foundation/Serialization" + "/serialization"],
+//            destination: config.UnicornDumpTemp + "/Foundation/Serialization" + "/serialization",
+//            files: ['*.yml'],
+//            copy: {
+//                subdirs: true,
+//                mirror: true,
+//                emptySubdirs: false
+//            },
+//            retry: {
+//                count: 2,
+//                wait: 3
+//            }
+//        });
+//    });
+
+gulp.task("Publish-Project-Unicorn",
+    function () {
+        return robocopy({
+            //roots = [root + "/**/serialization"],
+            source: ["./src" + "/Project" + "/serialization"],
+            destination: config.UnicornDumpTemp + "/Project" + "/serialization",
+            files: ['*.yml'],
+            copy: {
+                subdirs: true,
+                mirror: true,
+                emptySubdirs: false
+            },
+            retry: {
+                count: 2,
+                wait: 3
+            }
+        });
+    });
+
+gulp.task("Publish-Feature-Unicorn",
+    function () {
+        var root = "../src";
+        var roots = ["../src" + "/Feature/**/" + "/**/serialization"];
+        var files = "/**/*.yml";
+        //var destination = config.websiteRoot + "\\Unicorn";
+        return gulp.src(roots, { base: root }).pipe(
+            foreach(function (stream, file) {
+                //console.log("Lastindex of \ " + file.path.lastIndexOf("\\"));
+                //console.log("Publishing from " + file.path.substr(0,file.path.lastIndexOf("\\")));
+                var newSubPath = file.path.substr(0, file.path.lastIndexOf("\\"));
+                var dynamicFolder = newSubPath.substr(newSubPath.lastIndexOf("\\") + 1);
+                //console.log("newSubPath " + newSubPath);
+                //console.log("dynamicFolder " + dynamicFolder);
+                gulp.src(file.path + files, { base: file.path })
+                    //.pipe(newer(destination))
+                    .pipe(debug({ title: "Copying " }))
+                    //.pipe(debug({ title: "Destination " +config.websiteRoot + "\\Unicorn" +"\\Feature\\" +dynamicFolder + "\\serialization" }))
+                    .pipe(gulp.dest(config.UnicornDumpTemp + "\\Feature\\" + dynamicFolder + "\\serialization"));
+                return stream;
+            })
+        );
+    });
+
+gulp.task("Sync-Unicorn",
+    function (callback) {
+        var options = {};
+        options.siteHostName = config.siteHostName; //habitat.getSiteUrl();
+
+        options.authenticationConfigFile = config.websiteUrl + "\\App_Config\\Include\\Unicorn\\Unicorn.zSharedSecret.config";
+        options.maxBuffer = Infinity;
+
+        unicorn(function () {
+            return callback()
+        }, options);
+    });
