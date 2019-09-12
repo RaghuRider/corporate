@@ -1,0 +1,14 @@
+﻿---
+ID: "893de358-1914-4b12-b7d3-e82949390306"
+Parent: "e670acbc-56fe-4789-b4d3-76b8e83ed850"
+Template: "aca5c9a3-cda0-49b6-893f-1d4a7cb595b0"
+Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Page Content/Intelligent Commerce Events/div
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190912T060952Z

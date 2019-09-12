@@ -1,0 +1,18 @@
+﻿---
+ID: "24e0765a-42f1-415f-81fa-cf34c1353320"
+Parent: "d2f5cfab-4a81-456d-b00b-a04a8f2469e8"
+Template: "fcd285da-9ab2-4c8d-b185-5a7487a9ba1b"
+Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Promo/Insight/div/PromoText2
+DB: master
+SharedFields:
+- ID: "4753764c-c05a-4623-841b-97f85135241c"
+  Hint: FieldName
+  Value: PromoText2
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190912T084928Z

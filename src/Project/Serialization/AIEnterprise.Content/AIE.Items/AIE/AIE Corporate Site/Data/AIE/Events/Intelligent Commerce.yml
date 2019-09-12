@@ -1,0 +1,30 @@
+﻿---
+ID: "75078835-40fd-485e-9ad0-2c1bcee6bbca"
+Parent: "bae3a211-901b-471a-b2a1-0bfa0eac07d4"
+Template: "68c3f922-f74b-4a46-8a9f-083a9df5f94d"
+Path: /sitecore/content/AIE/AIE Corporate Site/Data/AIE/Events/Intelligent Commerce
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190912T060530Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "823ccafd-dc0f-466a-b9e4-0c0ea5da9c00"
+      Hint: Commerce Heading
+      Value: INTELLIGENT COMMERCE
+    - ID: "82d12402-9aec-4c11-ad13-9d88411246bc"
+      Hint: Commerce List
+      Type: Multilist
+      Value: |
+        {073270FA-9D2F-41BC-B0EC-6F372D011048}
+        {78855434-484A-4990-AB8A-D0C6772FAC0D}
+        {A5396CD2-5BA6-4DF7-ABE2-0FB38CB6FCB6}
+        {1ABAC493-2418-4B4F-95E2-826898C06517}
+        {8FDAEFDC-70A9-4CCE-B916-82645C3FF296}

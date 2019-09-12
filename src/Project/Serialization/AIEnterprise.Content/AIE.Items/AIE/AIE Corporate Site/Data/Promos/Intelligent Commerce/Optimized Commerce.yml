@@ -1,0 +1,32 @@
+﻿---
+ID: "1abac493-2418-4b4f-95e2-826898c06517"
+Parent: "c122b377-99b4-4a5d-9c65-710f7c2510f4"
+Template: "324733cf-afec-4281-9a18-03b6cfc4e535"
+Path: /sitecore/content/AIE/AIE Corporate Site/Data/Promos/Intelligent Commerce/Optimized Commerce
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "14023dd5-30e7-4e3c-bf31-d835f3a87410"
+      Hint: PromoText
+      Value: OPTIMIZED COMMERCE
+    - ID: "18f9beb8-0116-40fd-b47e-fd0a2327d7e0"
+      Hint: PromoIcon
+      Value: |
+        <image mediaid="{247D2BF3-02D3-4FB1-8FD4-C4607A05DDF1}" alt="Business Growth" height="" width="" hspace="" vspace="" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190912T055853Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "b59adc09-32a3-46f2-aede-b0c633979263"
+      Hint: PromoText2
+      Value: |
+        <div class="wpb_wrapper">
+        <p style="text-align: left;"><strong>SEO, Conversion Optimization, A/B Testing</strong><br />
+        Our eCommerce expertise can help accelerate you online growth, boost traffic, &amp; increase your digital marketing returns ROI on marketing efforts. Our experts can help you in across a wide range of services including SEO, SEM, A/B Testing, Advanced Google Analytics &amp; Reporting.</p>
+        </div>

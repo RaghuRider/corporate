@@ -1,0 +1,14 @@
+﻿---
+ID: "d2f5cfab-4a81-456d-b00b-a04a8f2469e8"
+Parent: "f07ee8af-aa0c-4ac8-80c5-2f60e2dfef23"
+Template: "aca5c9a3-cda0-49b6-893f-1d4a7cb595b0"
+Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Promo/Insight/div
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190912T084906Z
