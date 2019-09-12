@@ -1,0 +1,32 @@
+﻿---
+ID: "a5396cd2-5ba6-4df7-abe2-0fb38cb6fcb6"
+Parent: "c122b377-99b4-4a5d-9c65-710f7c2510f4"
+Template: "324733cf-afec-4281-9a18-03b6cfc4e535"
+Path: "/sitecore/content/AIE/AIE Corporate Site/Data/Promos/Intelligent Commerce/Feature-Rich Commerce"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "14023dd5-30e7-4e3c-bf31-d835f3a87410"
+      Hint: PromoText
+      Value: "FEATURE-RICH COMMERCE"
+    - ID: "18f9beb8-0116-40fd-b47e-fd0a2327d7e0"
+      Hint: PromoIcon
+      Value: |
+        <image mediaid="{A1F08E4C-A37F-4317-9CE8-E87612D8F89B}" alt="Rich Commerce" height="" width="" hspace="" vspace="" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190912T055731Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "b59adc09-32a3-46f2-aede-b0c633979263"
+      Hint: PromoText2
+      Value: |
+        <div class="wpb_wrapper">
+        <p style="text-align: left;"><strong>B2B &amp; B2C Commerce</strong><br />
+        We have huge experience in delivering core Omni-channel Commerce capabilities, including Buy Online Ship to Store (BOSS), Mobile Wallet, BOPUS, Loyalty Program, Market Place Integrations, Same Day Delivery, Expediated Checkout, ApplePay, GIft Registry and more.</p>
+        </div>

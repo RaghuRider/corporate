@@ -1,0 +1,36 @@
+﻿---
+ID: "8fdaefdc-70a9-4cce-b916-82645c3ff296"
+Parent: "c122b377-99b4-4a5d-9c65-710f7c2510f4"
+Template: "324733cf-afec-4281-9a18-03b6cfc4e535"
+Path: /sitecore/content/AIE/AIE Corporate Site/Data/Promos/Intelligent Commerce/Unified Commerce
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "14023dd5-30e7-4e3c-bf31-d835f3a87410"
+      Hint: PromoText
+      Value: UNIFIED COMMERCE
+    - ID: "18f9beb8-0116-40fd-b47e-fd0a2327d7e0"
+      Hint: PromoIcon
+      Value: |
+        <image mediaid="{74B70877-5CEF-422F-AC54-977470EA7C8F}" alt="UNIFIED COMMERCE" height="" width="" hspace="" vspace="" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190912T060034Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "832d3c97-5c05-49bf-89ef-9c29d30345e7"
+      Hint: PromoText3
+      Value: 
+    - ID: "b59adc09-32a3-46f2-aede-b0c633979263"
+      Hint: PromoText2
+      Value: |
+        <div class="wpb_wrapper">
+        			<p style="text-align: left;"><strong>Next Generation PIM</strong><br />
+        Work with us to develop your Next Generation PIM solution, and syndicate content to internal and external systems seamlessly. Automate the enrichment of data from multiple sources, automate the process of extracting data, increase product attributes, resolve data conflict at taxonomy and SKU level, map product information to the product facets in an efficient manner, provide a single source of truth for consuming channels and more</p>
+        
+        		</div>

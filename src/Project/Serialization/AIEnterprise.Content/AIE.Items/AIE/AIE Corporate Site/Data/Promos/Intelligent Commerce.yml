@@ -1,0 +1,14 @@
+﻿---
+ID: "c122b377-99b4-4a5d-9c65-710f7c2510f4"
+Parent: "3cc8bfcd-f7e1-42d6-93c2-e98772b9a815"
+Template: "f07cbe89-73ae-4de6-9217-2570260cac6e"
+Path: /sitecore/content/AIE/AIE Corporate Site/Data/Promos/Intelligent Commerce
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190912T055317Z
