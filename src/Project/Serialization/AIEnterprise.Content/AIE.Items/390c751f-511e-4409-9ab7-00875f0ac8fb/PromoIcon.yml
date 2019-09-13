@@ -1,8 +1,8 @@
 ﻿---
 ID: "e6395215-1286-49c6-a6b2-e203cea2925b"
-Parent: "3a925469-760d-4477-b6ed-e094aeeaf98d"
+Parent: "390c751f-511e-4409-9ab7-00875f0ac8fb"
 Template: "fcd285da-9ab2-4c8d-b185-5a7487a9ba1b"
-Path: "/sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Page Content/Home-WhatWeDo/Section/div/div/Blogs/div/div/PromoIcon"
+Path: "/sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Page Content/Home-WhatWeDo/Section/div/div/Blogs/div/div/div/PromoIcon"
 DB: master
 SharedFields:
 - ID: "4753764c-c05a-4623-841b-97f85135241c"
