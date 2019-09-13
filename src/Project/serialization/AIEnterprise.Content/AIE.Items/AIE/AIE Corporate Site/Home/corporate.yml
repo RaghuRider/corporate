@@ -49,7 +49,7 @@ Languages:
               p:after="r[@uid='{BEAA7104-F0F7-44E1-AA38-70BC5BB97B43}']"
               s:ds="{B600B5F5-6431-41AA-BE30-089FEFE86802}"
               s:id="{DCEE78E1-1843-4456-A13A-F10A12191630}"
-              s:par="GridParameters=%7b908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7d"
+              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D%7C%7BC417AE43-BBE2-4B58-9B43-A125B3013ADE%7D&amp;FieldNames&amp;Styles&amp;Reset Caching Options&amp;RenderingIdentifier"
               s:ph="/main/container-6/container-10" />
             <r
               uid="{8891A03F-3CC9-4390-8543-4F8D8AB6C340}"
