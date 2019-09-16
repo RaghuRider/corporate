@@ -27,12 +27,15 @@ namespace AIEnterprise.Feature.Forms.Actions
         Dictionary<string, List<string>> hstable = new Dictionary<string, List<string>>();
 
         bool isJobApplicationForm;
+        bool isBookAMeeting;
         string EmailTemplate = "AIE_ContactEmail";
         FileUploadModel fileUpload = null;
         string contactUsRecipientsIDs = Sitecore.Context.Site.SiteInfo.Properties.Get("ContactUsRecipientsIDs");
         string contactUsEmailsubject = Sitecore.Context.Site.SiteInfo.Properties.Get("ContactUsEmailsubject");
         string careersRecipientsIDs = Sitecore.Context.Site.SiteInfo.Properties.Get("CareersRecipientsIDs");
         string careersEmailsubject = Sitecore.Context.Site.SiteInfo.Properties.Get("CareersEmailsubject");
+        string BookaMeetingRecipientsIDs = Sitecore.Context.Site.SiteInfo.Properties.Get("BookaMeetingRecipientsIDs");
+        string BookaMeetingsubject = Sitecore.Context.Site.SiteInfo.Properties.Get("BookaMeetingsubject");
         string SenderEmail = Sitecore.Context.Site.SiteInfo.Properties.Get("SenderEmail");
 
         public SubmitAIEAction(ISubmitActionData submitActionData) : base(submitActionData)
@@ -110,6 +113,12 @@ namespace AIEnterprise.Feature.Forms.Actions
             {
                 isJobApplicationForm = true;
                 EmailTemplate = "AIE_CareersEmail";
+            }
+
+            if (hstable.ContainsKey("BookAMeeting"))
+            {
+                isBookAMeeting = true;
+                EmailTemplate = "AIE_BookAMeeting";
             }
 
             bool isMailSent = SendEmailNotification(hstable);
