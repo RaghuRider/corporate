@@ -25,14 +25,15 @@ namespace AIEnterprise.Feature.Forms.Helper
                     Sitecore.Diagnostics.Log.Info("Email Template is null", "");
                     return null;
                 }
-                
-                
+
                 htmlEmailTemplate = htmlEmailTemplate.Replace("#Name#", GetValuefromDictionary(formData, "your-name"));
                 htmlEmailTemplate = htmlEmailTemplate.Replace("#Email#", GetValuefromDictionary(formData, "your-email"));
                 htmlEmailTemplate = htmlEmailTemplate.Replace("#Message#", GetValuefromDictionary(formData, "your-message"));
                 htmlEmailTemplate = htmlEmailTemplate.Replace("#Phone#", GetValuefromDictionary(formData, "phone"));
                 htmlEmailTemplate = htmlEmailTemplate.Replace("#JobApplied#", GetValuefromDictionary(formData, "JobApplied"));
-                
+                htmlEmailTemplate = htmlEmailTemplate.Replace("#Organization#", GetValuefromDictionary(formData, "Organization"));
+                htmlEmailTemplate = htmlEmailTemplate.Replace("#Evaluation#", GetValuefromDictionary(formData, "Evaluation"));
+
                 //emailHtml = htmlEmailTemplate.ReplacePatternCaseInsensitive(replacements);
                 emailHtml = htmlEmailTemplate;
             }
@@ -96,7 +97,6 @@ namespace AIEnterprise.Feature.Forms.Helper
             return email.To.Split(new[] { ';' }, StringSplitOptions.RemoveEmptyEntries).ToArray();
         }
 
-
         private static SmtpClient CreateSmtpClient()
         {
             string mailServer = Settings.MailServer;
@@ -135,6 +135,5 @@ namespace AIEnterprise.Feature.Forms.Helper
             }
             return fieldValue;
         }
-
     }
 }
