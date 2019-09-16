@@ -89,10 +89,15 @@ Languages:
               s:ph="main" />
             <r
               uid="{DE1907A5-0B38-4F28-8BE9-5FDB35BE3621}"
-              p:after="*[1=2]"
+              p:after="r[@uid='{358CC23D-88AC-434D-BB01-21C4CBA4F287}']"
               s:ds=""
               s:id="{896A2C68-1362-4E88-8BA0-1805AE6D4837}"
               s:par="GridParameters&amp;BackgroundImage&amp;Styles&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=5"
+              s:ph="main" />
+            <r
+              uid="{75CF9588-FF93-4114-AB1F-AA35765C0085}"
+              p:after="*[1=2]"
+              s:id="{AF59C4B8-D3F3-4D02-9687-0603606A5B28}"
               s:ph="main" />
           </d>
         </r>

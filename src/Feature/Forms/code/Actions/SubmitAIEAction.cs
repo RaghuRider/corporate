@@ -14,11 +14,7 @@ using AIEnterprise.Feature.Forms.DataDictionary;
 using AIEnterprise.Feature.Forms.Helper;
 using AIEnterprise.Feature.Forms.Models;
 using Feature.FormsExtensions.Fields.FileUpload;
-//using ServiceMaster.SVMBrands.Feature.SVMForms.Models;
-//using ServiceMaster.SVMBrands.Feature.SVMForms.Helper;
-//using ServiceMaster.SVMBrands.Foundation.Common;
-//using Sitecore.Data.Items;
-//using ServiceMaster.SVMBrands.Foundation.WildCards.Models;
+
 
 namespace AIEnterprise.Feature.Forms.Actions
 {
@@ -27,7 +23,7 @@ namespace AIEnterprise.Feature.Forms.Actions
         Dictionary<string, List<string>> hstable = new Dictionary<string, List<string>>();
 
         bool isJobApplicationForm;
-        bool isBookAMeeting;
+        bool isBookAMeeting = false;
         string EmailTemplate = "AIE_ContactEmail";
         FileUploadModel fileUpload = null;
         string contactUsRecipientsIDs = Sitecore.Context.Site.SiteInfo.Properties.Get("ContactUsRecipientsIDs");
@@ -115,7 +111,7 @@ namespace AIEnterprise.Feature.Forms.Actions
                 EmailTemplate = "AIE_CareersEmail";
             }
 
-            if (hstable.ContainsKey("BookAMeeting"))
+            if (hstable.ContainsKey("Evaluation"))
             {
                 isBookAMeeting = true;
                 EmailTemplate = "AIE_BookAMeeting";
@@ -142,6 +138,11 @@ namespace AIEnterprise.Feature.Forms.Actions
                 {
                     subject = careersEmailsubject + " " + emailHelper.GetValuefromDictionary(formdata, "JobApplied");
                     allEmails = careersRecipientsIDs.Split(';');
+                }
+                else if (isBookAMeeting)
+                {
+                    subject = BookaMeetingsubject;
+                    allEmails = BookaMeetingRecipientsIDs.Split(';');
                 }
                 else
                 {

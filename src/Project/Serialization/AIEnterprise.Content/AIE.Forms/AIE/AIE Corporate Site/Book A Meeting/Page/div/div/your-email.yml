@@ -1,14 +1,14 @@
 ﻿---
-ID: "e84cf38b-b330-4d9b-b895-dc924b6e67c2"
+ID: "82ac0ea8-926f-44a5-a983-0c11086035cf"
 Parent: "171e78cd-a728-4018-85ec-373092486c56"
-Template: "0908030b-4564-42ea-a6fa-c7a5a2d921a8"
-Path: "/sitecore/Forms/AIE/AIE Corporate Site/Book A Meeting/Page/div/div/Single-Line Text"
+Template: "886adec1-abf8-40e1-9926-d9189c4e8e1b"
+Path: "/sitecore/Forms/AIE/AIE Corporate Site/Book A Meeting/Page/div/div/your-email"
 DB: master
 SharedFields:
 - ID: "10e5829a-1943-4597-b9ee-406ce3d13e13"
   Hint: Validations
   Type: Treelist
-  Value: "{83E96D09-11C8-4132-8A8A-76D8DB8208D6}"
+  Value: "{9BAE3E9A-D89F-4F93-9577-68B5E9D44A38}"
 - ID: "34ca92a5-c09f-483e-8454-8feb98ffe209"
   Hint: Prefill Binding Value
   Type: Checkbox
@@ -21,7 +21,7 @@ SharedFields:
   Value: 
 - ID: "589a7ade-81d4-4a60-b9e2-7eaf6ae8a563"
   Hint: Field Type
-  Value: "{4EE89EA7-CEFE-4C8E-8532-467EF64591FC}"
+  Value: "{04C39CAC-8976-4910-BE0D-879ED3368429}"
 - ID: "71061c01-a495-4bf3-a52c-d378346bfae2"
   Hint: Max Length
   Value: 255
@@ -41,7 +41,7 @@ SharedFields:
   Value: 0
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
-  Value: 300
+  Value: 100
 - ID: "d99833ea-238a-4505-90ef-c69bf3eba946"
   Hint: Is Tracking Enabled
   Type: Checkbox
@@ -58,13 +58,9 @@ Languages:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20190912T104344Z
-    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
-      Hint: __Created by
-      Value: |
-        sitecore\admin
     - ID: "71ffd7b2-8b09-4f7b-8a66-1e4cef653e8d"
       Hint: Title
-      Value: Organization*
+      Value: Corporate Email ID*
     - ID: "a6972f08-cbb5-4830-a8c9-8a0ae34650d1"
       Hint: Placeholder Text
       Value: 
