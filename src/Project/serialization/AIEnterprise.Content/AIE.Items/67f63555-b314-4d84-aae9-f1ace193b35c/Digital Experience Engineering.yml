@@ -21,7 +21,8 @@ Languages:
         sitecore\admin
     - ID: "9c364854-777d-4b7b-b5b7-f064aa03d2ee"
       Hint: Icon
-      Value: 
+      Value: |
+        <image mediaid="{1E0B7B3F-BA76-4C08-B0E1-2C7AD6AAA52D}" />
     - ID: "fc534269-e910-49e7-aea7-ad39106ea3f7"
       Hint: Link
       Value: |
