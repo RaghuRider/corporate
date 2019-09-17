@@ -74,7 +74,7 @@ Languages:
               p:after="r[@uid='{356BE845-8EA2-4EF2-9228-7A4DEEC3875D}']"
               s:ds="{7F8417BA-7536-4F5D-B3C1-84BC821AAF89}"
               s:id="{8B0393E9-EE25-4F0B-A5FD-777B3AD2C737}"
-              s:par="FieldNames=%7b9895F94E-63C8-44FC-B2D0-D133C9AF660D%7d&amp;GridParameters=%7b908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7d"
+              s:par="FieldNames=%7B9895F94E-63C8-44FC-B2D0-D133C9AF660D%7D&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;Styles=%7B67E02665-3B37-48D4-9E08-D9B0A013BF84%7D"
               s:ph="main" />
             <r
               uid="{38FC9798-79FD-41AD-8EFA-0EF50FB68EAE}"
