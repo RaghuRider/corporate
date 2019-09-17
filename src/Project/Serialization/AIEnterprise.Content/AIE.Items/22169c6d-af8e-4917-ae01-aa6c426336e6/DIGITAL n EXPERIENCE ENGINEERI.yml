@@ -1,8 +1,8 @@
 ﻿---
-ID: "bd8f73ae-0530-45be-bb19-2b7ca963be5a"
+ID: "a6457f33-23cf-435c-9325-74332f17ef44"
 Parent: "22169c6d-af8e-4917-ae01-aa6c426336e6"
 Template: "142e5fc1-ec62-4540-bad9-cd88f337cd2e"
-Path: /sitecore/content/AIE/AIE Corporate Site/Data/Carousels/Home/Main Carousel/Slide5
+Path: /sitecore/content/AIE/AIE Corporate Site/Data/Carousels/Home/Main Carousel/DIGITAL n EXPERIENCE ENGINEERING
 DB: master
 SharedFields:
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
@@ -35,7 +35,7 @@ Languages:
     - ID: "427ec0bd-3bf2-45b9-880f-bdb0054e7925"
       Hint: SlideImage
       Value: |
-        <image mediaid="{33A152E0-86ED-44E8-B461-E314B5ABAD2E}" ></image>
+        <image mediaid="{CF272498-6193-4403-8B18-8A20C39987B6}" ></image>
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
@@ -43,9 +43,9 @@ Languages:
     - ID: "7209159d-6b3e-4281-983e-f7f82104fa1b"
       Hint: SlideText
       Value: |
-        <p>OPERATIONS &amp; PROCESS MANAGEMENT</p>
-        <p>Reducing Costs. Improving Quality.</p>
+        <p>DIGITAL &amp; EXPERIENCE ENGINEERING</p>
+        <p>Your customer is our customer. </p>
     - ID: "b31d5ddd-1eda-4b22-b97d-ff71fc8e72bc"
       Hint: SlideLink
       Value: |
-        <link text="VIEW MORE" anchor="" linktype="internal" class="btn carousel-btn" title="" target="" querystring="" id="{90A54944-597D-459C-B103-8F56E5FB13D3}" />
+        <link text="VIEW MORE" anchor="" linktype="internal" class="btn carousel-btn" title="" target="" querystring="" id="{37F5A5F1-4111-4B76-9505-781CE39122DF}" />
