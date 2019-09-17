@@ -11,7 +11,11 @@ Languages:
     Fields:
     - ID: "14023dd5-30e7-4e3c-bf31-d835f3a87410"
       Hint: PromoText
-      Value: Insight 2019
+      Value: |
+        <h4>Insight 2019</h4>
+        
+        <p><strong>Hilton, Austin, TX 787010</strong><br />
+        <strong>August 26 – 28th, 2019</strong></p>
     - ID: "18f9beb8-0116-40fd-b47e-fd0a2327d7e0"
       Hint: PromoIcon
       Value: |
@@ -23,10 +27,12 @@ Languages:
       Hint: PromoText3
       Value: |
         <div class="wpb_wrapper">
-        <p style="text-align: left;"><strong>AIEnterprise</strong> invites you to visit us at&nbsp;<strong>Booth#</strong>&nbsp;<strong>16&nbsp;</strong>in Insight 2019</p>
-        <p class="x_MsoNormal" style="text-align: left;">AIEnterprise provides&nbsp;<strong>Intelligent Commerce </strong> Solutions to organizations like yours, who want to be leaders in Commerce of tomorrow. We have solutions to help you maximize the benefits of the investments you have made on your commerce platform and take it to a higher trajectory of success.</p>
-        <p style="text-align: left;"><strong>Meet us at Insight 2019<br />
-        </strong><strong>Where – Booth# 16</strong><strong><br />
+        <p><strong>AIEnterprise</strong> invites you to visit us at&nbsp;<strong>Booth#</strong>&nbsp;<strong>16&nbsp;</strong>in Insight 2019<br />
+        <br />
+        AIEnterprise provides&nbsp;<strong>Intelligent Commerce </strong> Solutions to organizations like yours, who want to be leaders in Commerce of tomorrow. We have solutions to help you maximize the benefits of the investments you have made on your commerce platform and take it to a higher trajectory of success.<br />
+        <br />
+        <strong>Meet us at Insight 2019<br />
+        </strong><strong>Where &ndash; Booth# 16</strong><strong><br />
         </strong></p>
         </div>
     - ID: "b59adc09-32a3-46f2-aede-b0c633979263"
