@@ -30,11 +30,12 @@ Languages:
       Hint: PromoText2
       Value: |
         <div class="wpb_wrapper">
-        			<p style="text-align: left;"><strong>CloudOps</strong><br />
-        We Design, Build &amp; Operate end-to-end CICD toolchains, cloudmigration solutions on GCP, AWS and Azure, leveraging technologies such as Docker &amp; Kubernetes, Terraform and more..</p>
-        <p style="text-align: left;"><strong>Headless, SPA, AMP, PWA</strong><br />
-        Our Front-End Engineering Experts can help you build, run and evolve Next Generation headless flexible front-end commerce solutions that combine inspiring content and revenue-generating experiences using modern JS frameworks. Our solutions reside on top of the Oracle Commerce platform as a separate customer-facing layer, enabling an API-friendly best-of-breed approach to ecommerce and unlocking agility across the organization.</p>
-        <p style="text-align: left;"><strong>Upgrades &amp; Roadmap Services</strong><br />
+        <p><strong>CloudOps</strong><br />
+        We Design, Build &amp; Operate end-to-end CICD toolchains, cloudmigration solutions on GCP, AWS and Azure, leveraging technologies such as Docker &amp; Kubernetes, Terraform and more..<br />
+        <br />
+        <strong>Headless, SPA, AMP, PWA</strong><br />
+        Our Front-End Engineering Experts can help you build, run and evolve Next Generation headless flexible front-end commerce solutions that combine inspiring content and revenue-generating experiences using modern JS frameworks. Our solutions reside on top of the Oracle Commerce platform as a separate customer-facing layer, enabling an API-friendly best-of-breed approach to ecommerce and unlocking agility across the organization.<br />
+        <br />
+        <strong>Upgrades &amp; Roadmap Services</strong><br />
         Our Managed Service &amp; Consulting Solutions for Oracle Commerce Web Commerce and Endeca applications, allow you to run your current versions for as long as you require. We specialize in providing expert support in Upgrades, Configuration, Operational, Performance tuning, Interoperability, Architecture and Strategic Roadmap services.</p>
-        
-        		</div>
+        </div>

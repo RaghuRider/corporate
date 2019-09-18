@@ -4,6 +4,10 @@ Parent: "e670acbc-56fe-4789-b4d3-76b8e83ed850"
 Template: "aca5c9a3-cda0-49b6-893f-1d4a7cb595b0"
 Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Page Content/Intelligent Commerce Events/div
 DB: master
+SharedFields:
+- ID: "bea2740e-90d1-4b16-bd1d-7a7cc8605d2d"
+  Hint: CssClass
+  Value: "events-intelligent"
 Languages:
 - Language: en
   Versions:
