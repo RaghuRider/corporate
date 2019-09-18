@@ -69,7 +69,6 @@
   <ItemGroup>
     <Content Include="App_Config\Include\zzz.AIEnterprise\Project\AIEnterprise.Roles.Serialization.config" />
     <Content Include="App_Config\Include\zzz.AIEnterprise\Project\AIEnterprise.Users.Serialization.config" />
-    <Content Include="Views\AddThis\AddThis.cshtml" />
     <None Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
