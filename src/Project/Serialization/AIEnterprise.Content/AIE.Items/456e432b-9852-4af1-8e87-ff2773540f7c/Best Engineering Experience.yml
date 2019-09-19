@@ -2,7 +2,7 @@
 ID: "33e2583e-a9e2-4a03-b529-5792383964e9"
 Parent: "456e432b-9852-4af1-8e87-ff2773540f7c"
 Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
-Path: "/sitecore/content/AIE/AIE Corporate Site/Home/our-services/digital-experience-engineering/Data/Text 2"
+Path: "/sitecore/content/AIE/AIE Corporate Site/Home/our-services/digital-experience-engineering/Data/Best Engineering Experience"
 DB: master
 Languages:
 - Language: en
@@ -21,5 +21,6 @@ Languages:
       Value: |
         <div class="best-experience">
         <h2 class="corporate-headline field-promotext">Best Experience Engineering</h2>
+        <br />
         <p>It is more than just delivering UX components that render within a screen.  Our team becomes an extension of your team, your vendors and your customer.  We become embedded in your business until we can design the best possible Customer Experience.  We have even completely transformed the legacy experience to a more personal, human, accessible &ndash; digital one.  An experience that keeps your customers coming back for more. We complement this with offline and online (AI) real-time analytics to continue to customize the customer experience.</p>
         </div>
