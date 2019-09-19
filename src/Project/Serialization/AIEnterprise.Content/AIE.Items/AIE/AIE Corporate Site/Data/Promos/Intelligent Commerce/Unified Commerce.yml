@@ -30,7 +30,6 @@ Languages:
       Hint: PromoText2
       Value: |
         <div class="wpb_wrapper">
-        			<p style="text-align: left;"><strong>Next Generation PIM</strong><br />
+        <p><strong>Next Generation PIM</strong><br />
         Work with us to develop your Next Generation PIM solution, and syndicate content to internal and external systems seamlessly. Automate the enrichment of data from multiple sources, automate the process of extracting data, increase product attributes, resolve data conflict at taxonomy and SKU level, map product information to the product facets in an efficient manner, provide a single source of truth for consuming channels and more</p>
-        
-        		</div>
+        </div>

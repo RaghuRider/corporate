@@ -60,14 +60,14 @@ Languages:
               p:after="r[@uid='{7F44F0B4-DE48-4741-B008-E2BDBBAE5DE2}']"
               s:ds=""
               s:id="{8B0393E9-EE25-4F0B-A5FD-777B3AD2C737}"
-              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames&amp;Styles=%7B5EC876AC-99B7-4504-9426-CC4EEFFBD5A6%7D&amp;Reset Caching Options&amp;RenderingIdentifier"
+              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames&amp;Styles=%7BD874F1FF-8E9C-45CA-B29C-DC151E22A0C3%7D&amp;Reset Caching Options&amp;RenderingIdentifier"
               s:ph="/main/container-1" />
             <r
               uid="{356BE845-8EA2-4EF2-9228-7A4DEEC3875D}"
               p:after="r[@uid='{BF815631-4557-4480-9E57-DF230C201C4A}']"
               s:ds=""
               s:id="{896A2C68-1362-4E88-8BA0-1805AE6D4837}"
-              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;BackgroundImage=%3Cimage%20mediaid%3D%22%7BEA564083-9249-40F7-B7F1-D01F0E8D9C3E%7D%22%20alt%3D%22Career%20Banner%22%20height%3D%22%22%20width%3D%22%22%20hspace%3D%22%22%20vspace%3D%22%22%20%2F%3E&amp;Styles=%7B097FF253-E63A-4E40-B160-4F775EBEA9E3%7D%7C%7B91D911B6-1D13-4B9C-9C58-CA9339186A2A%7D%7C%7B1226A1A0-DA51-429D-9341-F9DE247AD3E8%7D&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=1"
+              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;BackgroundImage=%3Cimage%20mediaid%3D%22%7BA7EEA137-964A-4778-AE6A-FB15616BFD08%7D%22%20alt%3D%22Career%20Banner%22%20height%3D%22%22%20width%3D%22%22%20hspace%3D%22%22%20vspace%3D%22%22%20%2F%3E&amp;Styles=%7BD874F1FF-8E9C-45CA-B29C-DC151E22A0C3%7D%7C%7B1226A1A0-DA51-429D-9341-F9DE247AD3E8%7D&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=1"
               s:ph="main" />
             <r
               uid="{51D4154A-406B-4DB5-B159-9D4658501663}"
