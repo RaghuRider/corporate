@@ -87,13 +87,6 @@ Languages:
               s:par="Styles=%7b3BF99C20-4ACE-4F85-BF77-D6FFF8D913CC%7d&amp;DynamicPlaceholderId=7"
               s:ph="main" />
             <r
-              uid="{0C7AA54F-BCC0-4798-BF12-BFE114555204}"
-              p:after="r[@uid='{1F411FB4-46B2-4920-9F9D-B5ABA3056E98}']"
-              s:ds="local:/Data/Text 3"
-              s:id="{DCEE78E1-1843-4456-A13A-F10A12191630}"
-              s:par="Styles=%7bD874F1FF-8E9C-45CA-B29C-DC151E22A0C3%7d&amp;FieldNames=%7b1C3D54B0-EF9A-4EF1-A25A-52C214D1D4FC%7d&amp;GridParameters=%7b908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7d"
-              s:ph="main" />
-            <r
               uid="{6044B824-F8AF-40C7-86DF-8035BD7AEA8C}"
               p:after="*[1=2]"
               s:ds=""
