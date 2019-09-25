@@ -94,7 +94,7 @@ Languages:
               p:after="r[@uid='{8AF6EDD7-965C-4F4D-AA30-3420C0DE3E29}']"
               s:ds=""
               s:id="{896A2C68-1362-4E88-8BA0-1805AE6D4837}"
-              s:par="GridParameters&amp;BackgroundImage&amp;Styles&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=16"
+              s:par="GridParameters&amp;BackgroundImage&amp;Styles=%7BF4F7441B-1EAA-4E7F-B8D0-FA461713EC70%7D&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=16"
               s:ph="main" />
             <r
               uid="{EDE9360C-D1FD-4FDF-8649-8FE3B44345A7}"
