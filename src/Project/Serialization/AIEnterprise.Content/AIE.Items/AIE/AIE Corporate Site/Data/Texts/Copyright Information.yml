@@ -1,8 +1,8 @@
 ﻿---
 ID: "2a0928a3-1e9b-496c-a7e2-8ff60b56c6c5"
-Parent: "fa3614de-8e94-44ce-a1b7-e23c5626091f"
+Parent: "bce7f746-c849-4592-b4ae-af55f5037aab"
 Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
-Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Partial Designs/Footer/Data/Copyright Information
+Path: /sitecore/content/AIE/AIE Corporate Site/Data/Texts/Copyright Information
 DB: master
 Languages:
 - Language: en
@@ -19,6 +19,5 @@ Languages:
     - ID: "b3635965-6786-457c-9dee-28de73c0a331"
       Hint: Text
       Value: |
-        <div class="col-md-3 col-md-pull-9">
-        <div class="footer-site-info">© Copyright 2019 AIEnterprise Inc.</div>
-        </div>
+        © Copyright {0} AIEnterprise Inc.
+        
