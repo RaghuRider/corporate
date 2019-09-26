@@ -1,0 +1,17 @@
+﻿---
+ID: "a2c5cc35-30cb-489a-8c84-b3ed0c0fdb9d"
+Parent: "b5350d9a-ceee-4d15-b9ff-797ceacccdc7"
+Template: "a60edcaf-1285-46b5-8380-d790bb8c8708"
+Path: "/sitecore/system/Settings/Forms/Field Types/Basic/Hidden-Text"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 75
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Value: "20190926T132506:637051011065878098Z"
