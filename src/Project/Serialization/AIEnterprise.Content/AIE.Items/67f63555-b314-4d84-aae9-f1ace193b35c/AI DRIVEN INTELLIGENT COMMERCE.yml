@@ -2,7 +2,7 @@
 ID: "600a5664-5da9-4ce0-9d63-789d7e80606e"
 Parent: "67f63555-b314-4d84-aae9-f1ace193b35c"
 Template: "f4d9f467-7714-4920-b47b-e05bb9a8b6e1"
-Path: /sitecore/content/AIE/AIE Corporate Site/Data/AIE/Our Service Feature List/Main/All Services
+Path: /sitecore/content/AIE/AIE Corporate Site/Data/AIE/Our Service Feature List/Main/AI DRIVEN INTELLIGENT COMMERCE
 DB: master
 Languages:
 - Language: en
@@ -11,7 +11,7 @@ Languages:
     Fields:
     - ID: "1c3af964-4507-4e02-bc9a-471ed67ba0c8"
       Hint: Title
-      Value: ALL SERVICES
+      Value: AI DRIVEN INTELLIGENT COMMERCE
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20190626T115627Z
