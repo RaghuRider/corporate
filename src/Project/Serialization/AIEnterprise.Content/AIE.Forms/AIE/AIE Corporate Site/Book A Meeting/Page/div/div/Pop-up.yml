@@ -1,0 +1,22 @@
+﻿---
+ID: "c6831431-4fcb-47d9-82fb-c0166603e82c"
+Parent: "171e78cd-a728-4018-85ec-373092486c56"
+Template: "8cddb194-f456-4a75-89b7-346f8f39f95c"
+Path: "/sitecore/Forms/AIE/AIE Corporate Site/Book A Meeting/Page/div/div/Pop-up"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 600
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "Pop-up"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190926T103259Z
