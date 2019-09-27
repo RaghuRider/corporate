@@ -1,0 +1,31 @@
+﻿---
+ID: "cbf5ff55-c99a-422f-a57a-d3bc9a7e3867"
+Parent: "48429094-4c3c-485e-9d3c-7eedfe229a6a"
+Template: "962b53c4-f93b-4df9-9821-415c867b8903"
+Path: /sitecore/media library/Themes/AIE/AIE Corporate Site/AIEnterprise/styles/AIE/banner
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/CBF5FF55C99A422FA57AD3BC9A7E3867.ashx?h=16&thn=1&w=16"
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "9e78fb89-3229-4d2e-a095-65cfaab0e7c3"
+  Value: LmJhbm5lci1oZWFkZXIgaDEgew0KICAgIHBhZGRpbmctdG9wOiA2JSAhaW1wb3J0YW50Ow0KICAgIGxpbmUtaGVpZ2h0OiA0NXB4Ow0KICAgIGNvbG9yOiAjZmZmZiAhaW1wb3J0YW50Ow0KICAgIGZvbnQtc2l6ZTogNTBweDsNCiAgICBwYWRkaW5nLXRvcDogMyU7DQogICAgZm9udC13ZWlnaHQ6IDcwMCAhaW1wb3J0YW50Ow0KICAgIGZvbnQtZmFtaWx5OiAnTW9udHNlcnJhdCc7DQogICAgdHJhbnNpdGlvbjogdXBwZXJjYXNlOw0KDQp9DQoNCi5iYW5uZXItaGVhZGVyIGg0IHsNCiAgICBjb2xvcjogI2Y3ZWZlZiAhaW1wb3J0YW50Ow0KICAgIGZvbnQtc2l6ZTogMjRweDsNCiAgICBjb2xvcjogI2ZmZjsNCiAgICB0cmFuc2l0aW9uOiB1cHBlcmNhc2U7DQoNCn0NCg0KDQovKioqKioqKioqKioqKioqKioqbW9iaWxlIHBhcnQgc3RhcnRlZCAqKioqKioqKioqKioqKioqKioqKioqKioqKi8NCkBtZWRpYSBvbmx5IHNjcmVlbiBhbmQgKG1heC13aWR0aDogNzY3cHgpIHsNCiAgICAuY29tcG9uZW50LWNvbnRlbnQgLmZpZWxkLWNvbnRlbnQgLmJhbm5lci1oZWFkZXIgew0KICAgICAgICBtYXJnaW4tdG9wOiAwcHg7DQogICAgICAgIHdpZHRoOiAzNTNweDsNCiAgICAgICAgbWFyZ2luLWxlZnQ6IDEwcHg7DQogICAgICAgIG1hcmdpbi1yaWdodDogMTBweDsNCiAgICAgICAgbWFyZ2luLXRvcDogOSU7DQogICAgfQ0KfQ0KDQoNCi8qKioqKioqKioqKioqKip0YWJsZXQgbWVkaWEgcXVlcnkgc3RhdGVkIGhlcmUgKioqKioqKioqKioqKioqKioqKioqKioqKi8NCkBtZWRpYSAobWluLXdpZHRoOiA3NjhweCkgYW5kIChtYXgtd2lkdGg6IDEwMjRweCkgew0KICAgIC5iYW5uZXItaGVhZGVyIGgxIHsNCiAgICAgICAgY29sb3I6ICNmZmZmICFpbXBvcnRhbnQ7DQogICAgICAgIGZvbnQtc2l6ZTogNTBweDsNCiAgICAgICAgcGFkZGluZy10b3A6IDEwJTsNCiAgICAgICAgZm9udC13ZWlnaHQ6IDcwMCAhaW1wb3J0YW50Ow0KICAgICAgICBmb250LWZhbWlseTogJ01vbnRzZXJyYXQnOw0KICAgICAgICB0cmFuc2l0aW9uOiB1cHBlcmNhc2U7DQoNCiAgICB9DQoNCg0KfQ0KDQovKioqKioqKioqKioqKnRhYmxlZCBtZWRpYSBxdWVyeSBlbmRlZCBoZXJlICoqKioqKioqKioqKioqKioqKioqKiov
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 1128
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: text/css
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: css
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190927T073841Z
