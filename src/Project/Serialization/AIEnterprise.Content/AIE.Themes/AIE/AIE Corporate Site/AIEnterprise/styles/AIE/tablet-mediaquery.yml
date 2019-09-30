@@ -2,7 +2,7 @@
 ID: "73e003cc-a970-4ee8-b6a9-ea815c7583ac"
 Parent: "48429094-4c3c-485e-9d3c-7eedfe229a6a"
 Template: "962b53c4-f93b-4df9-9821-415c867b8903"
-Path: /sitecore/media library/Themes/AIE/AIE Corporate Site/AIEnterprise/styles/AIE/tablet_mediaquery
+Path: "/sitecore/media library/Themes/AIE/AIE Corporate Site/AIEnterprise/styles/AIE/tablet-mediaquery"
 DB: master
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"

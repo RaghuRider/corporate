@@ -2,7 +2,7 @@
 ID: "dd3f55fd-0c74-4834-863b-3aa6aae9230e"
 Parent: "48429094-4c3c-485e-9d3c-7eedfe229a6a"
 Template: "962b53c4-f93b-4df9-9821-415c867b8903"
-Path: /sitecore/media library/Themes/AIE/AIE Corporate Site/AIEnterprise/styles/AIE/our_services
+Path: "/sitecore/media library/Themes/AIE/AIE Corporate Site/AIEnterprise/styles/AIE/our-services"
 DB: master
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
