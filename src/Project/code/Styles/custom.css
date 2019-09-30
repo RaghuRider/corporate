@@ -1,26 +1,20 @@
-@font-face {
-    font-family: 'Montserrat UltraLight';
-    src: url('https://www.aienterprise.com/wp-content/themes/thegem/fonts/montserrat-ultralight.eot');
-    src: url('https://www.aienterprise.com/wp-content/themes/thegem/fonts/montserrat-ultralight.eot?#iefix') format('embedded-opentype'),
-        url('https://www.aienterprise.com/wp-content/themes/thegem/fonts/montserrat-ultralight.woff') format('woff'),
-        url('https://www.aienterprise.com/wp-content/themes/thegem/fonts/montserrat-ultralight.ttf') format('truetype'),
-        url('https://www.aienterprise.com/wp-content/themes/thegem/fonts/montserrat-ultralight.svg#montserratultra_light') format('svg');
-    font-weight: normal;
-    font-style: normal;
+/*
+.col-4.icon-cont {
+    max-width: 33.333333% !important;
 }
-
+*/
 
 .connect-us-about .connect-main h1 {
-
     color: #ffffff;
+    margin-left: 0px;
+    font-weight: 700 !important;
+    padding-top: 20px;
 
-    margin-left: 85px;
 }
 
 .back-image2 img {
     height: 800px;
     width: 600px;
-
 }
 
 .back-image1 img {
@@ -33,9 +27,6 @@
 .header-content2 p {
     margin-top: 40px;
     margin-left: 70px;
-
-
-
 
 }
 
@@ -146,58 +137,47 @@ font-family: 'Montserrat';
    
 }*/
 
-.enterprise-why .col-lg-6:nth-child(2) {
-    max-width: 82%;
-    float: right;
-    top: -260px;
-}
 
-.why-container {
 
-    max-width: 90%
-}
 
-.enterpriseChild .field-description {
-
-    padding-top: 0px;
-}
 
 /* Invigorate*/
 
-.digital-cum-sub {
+.
+/*digital-cum-sub {
     display: inline-flex;
-    margin-left: -43px;
+   /* margin-left: -43px;*/
 }
 
-.container .our-services-inner {
+/*.container .our-services-inner {
     max-width: 85%;
 }
 
 .component-content .digital-ex .field-promotext {
 
     line-height: 38px;
-    margin-left: 16px;
+    margin-left: 0px;
 
-}
+}*/
 
-.digital-cum-sub .field-promotext2 {
-    margin-left: 198px;
-    text-align: justify;
+/*.digital-cum-sub .field-promotext2 {
+   /* margin-left: 198px;*/
+/* text-align: justify;
     line-height: 28px;
     width: 100%;
-    margin-top: -26px;
+    margin-top: -26px;*/
 
 }
 
-.digital-cum-sub .col-2 img {
+*/ .digital-cum-sub .col-2 img {
 
     max-width: 565px;
 }
 
-.digital-cum-sub .col-6 {
+/*.digital-cum-sub .col-6 {
     max-width: 60%;
 }
-
+*/
 .our-service-headline .position-center .text-center .title-h1 h2 {
     font-family: 'Montserrat';
     line-height: 53px;
@@ -264,20 +244,7 @@ height: 639px;
 }
 
 
-.about-us-mission .component-content .col-sm-12 {
 
-    padding: 0px;
-}
-
-.about-us-mission .component-content .row {
-
-    padding: 0px;
-}
-
-.about-us-mission .component-content .row {
-
-    padding: 0px;
-}
 
 .container .image-default-size .component-content .col-sm-12 {
     padding: 0px;
@@ -288,52 +255,7 @@ height: 639px;
     margin-left: 0px;
 }
 
-.about-us-mission .vc_row-fluid .gem-list ul {
-    margin-left: 0px;
 
-}
-
-.about-us-mission .vc_row-fluid .gem-list ul li:before {
-
-
-    font-weight: normal;
-
-    vertical-align: top;
-    display: inline-block;
-    width: 21px;
-    text-indent: 0;
-
-
-}
-
-.about-us-mission .vc_row-fluid .gem-list ul li {
-
-    list-style: none;
-}
-
-.about-us-mission .header-content2 .field-promotext {
-
-    text-transform: inherit !important;
-    font-weight: 400;
-
-}
-
-.about-us-mission .header-content2 .field-promotext2 {
-    text-align: justify;
-    margin-left: 55px;
-    margin-right: 30px;
-    line-height: 28px;
-}
-
-.about-us-mission .vc_row.wpb_row.vc_inner.vc_row-fluid {
-    display: inline-flex;
-    width: 70%;
-    margin-left: 100px;
-}
-
-.about-us-mission .vc_column-inner .gem-list-type-checkbox ul li {
-    margin-top: 20px;
-}
 
 .component.promo.col-12.about-us-mission {
     margin-top: -7px;
@@ -355,6 +277,7 @@ height: 639px;
     /*float: left;*/
     display: inline-flex;
     max-width: 45%;
+    padding-left: 0px;
 }
 
 .core-values .col-lg-6 .field-title {
@@ -363,7 +286,7 @@ height: 639px;
     line-height: 53px;
     letter-spacing: 0.05em;*/
     margin-top: 157px;
-    margin-left: 70px;
+    margin-left: 54px;
 
 
 }
@@ -385,105 +308,18 @@ height: 639px;
 }
 
 /* Connect With Us */
-.connectUs-item-text p {
-
-    line-height: 28px;
-    padding-left: 30px;
-
-}
-
-.circleBase .fa-map-marker {
-    margin-left: 26px;
-    font-size: 40px;
-    margin-top: 18px;
-    color: white
-}
-
-.circleBase .fa-envelope {
-    margin-left: 18px;
-    font-size: 40px;
-    margin-top: 18px;
-    color: white;
-
-}
-
-.circleBase .fa-headphones {
-    margin-left: 19px;
-    font-size: 40px;
-    margin-top: 18px;
-    color: white;
-}
-
-.connect-us-contentBox {
-    background-color: #ffffff;
-}
-
-.connectUs-inner-content .connectUs-item-title h3 {
 
 
 
-    margin-left: 72px;
-    font-weight: 100px;
 
-}
 
-.circleBase {
-    border-radius: 50%;
-    behavior: url(PIE.htc);
-    /* remove if you don't care about IE8 */
-}
 
-.type1 {
-    width: 75px;
-    height: 75px;
-    background: purple;
-    margin-left: 100px;
-}
 
-.type2 {
-    width: 75px;
-    height: 75px;
-    background-color: #4cd2b1;
-    margin-left: 100px;
-}
 
-.type3 {
-    width: 75px;
-    height: 75px;
-    background-color: #f85d52;
-    margin-left: 100px;
-
-}
-
-.connect-content-about {
-    position: absolute;
-    top: 39%;
-    background: #fff;
-    width: 87%;
-    margin-left: 62px;
-    height: 58%;
-}
-
-.connect-main .container-connect {
-
-    height: 200px;
-}
-
-.connect-us-about .connect-main .title-h1 {
-    font-family: 'Montserrat';
-    position: absolute;
-    top: 8%;
-    text-align: center;
-    margin-left: 35%;
-}
-
-.ourservices-main p {
+/*.ourservices-main p {
     text-align: justify;
 }
-
-.title-h1 .field-text p {
-    text-align: justify;
-}
+*/
 
 /* analytics-actionable-insights */
 
@@ -652,24 +488,19 @@ margin-top:46px;
     line-height: 28px;
 }
 
-.digital-cum-sub1 {
+/*.digital-cum-sub1 {
 
     margin-left: -28px;
 }
-
-.component-content .digital-mar {
+*/
+/*.component-content .digital-mar {
     margin-left: -36px;
 
-}
+}*/
 
-.component-content .digital-ex {
+/*.component-content .digital-ex {
     margin-left: -28px;
-}
-
-.ourservices-main .abouot-balck-box p {
-
-    color: #bcc6cd;
-}
+}*/
 
 
 @media only screen and (min-width:1024px) {
@@ -724,6 +555,7 @@ margin-top:46px;
     .enterpriseChild .field-description {
 
         text-align: center;
+        font-size: 18px !important;
     }
 
     .enterpriseChild .field-text {
@@ -742,11 +574,7 @@ margin-top:46px;
         text-align: center;
     }
 
-    .whyAie-header .field-description {
-        text-align: center;
-        width: 100%;
-        margin-left: 0px
-    }
+   
 
     .back-image2 img {
 
@@ -795,21 +623,12 @@ margin-top:46px;
         height: 500px;
     }
 
-    .abouot-balck-box {
-        width: 92%;
-    }
-
-    .ourservices-main p {
-        width: 90%;
-
-    }
-
     .ourservices-right-text p {
         width: 90%;
     }
 
     .our-services-mission .title-h1 .field-text p {
-        width: 86%;
+        width: 92%;
 
     }
 
@@ -823,12 +642,6 @@ margin-top:46px;
     .our-services-mission .file-type-icon-media-link img {
 
         margin-left: -30px !important;
-    }
-
-    .ourservices-right-text ul li {
-
-        margin-left: -14px;
-
     }
 
     .our-service-headline .component-content .field-text h2 {
@@ -878,8 +691,8 @@ margin-top:46px;
 
     .carrier-popup-overlay .sitecore-form .ult_modal-content {
         border-bottom: 1px solid #333333;
-        width: 109%;
-        margin-left: -18px !important;
+        width: 100%;
+        margin-left: 0px !important;
     }
 
     .carrier-popup-overlay > div {
@@ -921,15 +734,15 @@ margin-top:46px;
         width: 100%;
     }
 
-    .col-lg-12.corporate-two-column {
+    /* .col-lg-12.corporate-two-column {
         margin-left: 38px;
         padding-right: 8px;
         padding-left: 15px;
-    }
+    }*/
 
     .corporate-back-color .field-text .corporate-second-column {
         width: 100%;
-        margin-left: -63px;
+        /* margin-left: -63px;*/
         text-align: justify;
     }
 
@@ -942,11 +755,11 @@ margin-top:46px;
     }
 
     .partner-image .back-image1 .field-promoicon {
-        width: 131%;
+        width: 100%;
     }
 
     .partner-image {
-        margin-left: -80px;
+        margin-left: 0px;
     }
 
     .partner-image .back-image1 .field-promoicon img {
@@ -956,8 +769,8 @@ margin-top:46px;
     }
 
     .partner-image .back-image1 .field-promoicon {
-        width: 133% !important;
-        margin-left: -6px;
+        width: 100% !important;
+        margin-left: 0px;
         margin-top: 30px;
 
     }
@@ -1013,10 +826,7 @@ text-align:center;
         text-align: center;
     }
 
-    .slide .slide-info p:nth-child(2) {
-        font-size: 16px !important;
-        margin-left: 25px !important;
-    }
+
 
     .connect-content-about {
         padding-left: 0px;
@@ -1040,22 +850,23 @@ text-align:center;
 
     }
 
-    .sitecore-form .component-content .validate .widget h4 {
+    /* .sitecore-form .component-content .validate .widget h4 {
 
         width: 300% !important;
     }
-
+*/
     .col-contact-4 .sitecore-form {
         margin-left: 0px;
     }
 
     .contactus .contactus-right .contacts-address ul {
-        text-align: center;
+        text-align: justify;
+        margin-left: 16%;
     }
 
     .contactus .icon-cont {
         margin-left: 60px;
-        margin-bottom: 80px;
+        margin-bottom: 0px;
     }
 
     .contactus .contact-icon ul {
@@ -1122,12 +933,11 @@ text-align:center;
     }
 
     .sitecore-form .wpcf7 .form-sidebar input.btn.btn-red {
-        width: 300px;
+        width: 330px;
     }
 
     .about-main-page .partner-content .header-content1 p {
 
-        margin-left: 29px !important;
         text-align: justify;
         max-width: 80%;
     }
@@ -1174,11 +984,6 @@ text-align:center;
         margin-left: 0% !important;
     }
 
-    .our-services .col-12 {
-        margin-left: 0px !important;
-        margin-right: 0px !important;
-    }
-
     .carrier-popup-overlay .sitecore-form .ult_modal-content {
         border-bottom: 1px solid #333333;
         width: 122%;
@@ -1222,10 +1027,10 @@ text-align:center;
         padding-bottom: 30px;
     }
 
-    .component-content .contactus {
+    /* .component-content .contactus {
         display: flex;
 
-    }
+    }*/
 
     .component.rich-text.col-12.col-md-8.contact-us-address {
         flex: 1 0 66.666667%;
@@ -1247,7 +1052,7 @@ text-align:center;
     .ContactUs-map .us-map-title {
 
         color: #3c3950;
-        margin-left: 20px !important;
+        margin-left: 4px !important;
     }
 
     /*form h4.widget-title {

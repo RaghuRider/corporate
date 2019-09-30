@@ -1,1824 +1,1775 @@
- /********************mobile*******************/
+     /********************mobile*******************/
 
- @media only screen and (max-width: 767px) {
-     .contact-us-banner .boxed position-left .field-content {
-         margin-top: 0px;
-     }
+     @media only screen and (max-width: 767px) {
+        
 
-     .contact-us-banner .banner-header {
-         width: 500px;
-     }
 
-     .operations-and-process-automations .analytics-actionable -main .component-content {
-         background-position: 27% 10px !important;
-     }
 
-     .operations-and-process-automations .component-content {
-         background-position: 29% 0px !important;
-     }
-  .PremiumBusinessconsulting .component-content
-        {
-            background-position: 4%;
-        }
-     .careers-banner .component-content {
-         /* border: solid red 2px; */
-         background-position: 85% !important;
-     }
 
-     .operations-and-process-automations .corporate-text-left {
-         width: 80% !important;
-         margin-left: 35px;
-     }
 
-     .corporate-text-left {
-         width: 80% !important;
-         margin-left: 35px;
-     }
 
-     .PremiumBusinessconsulting {
-         background-position: 20%;
-     }
 
-     .optimization {
-         width: 92%;
-         padding-left: 8%;
-     }
 
-     .operations-and-process-automations .corporate-text-left {
-         padding-left: 0px;
-     }
 
-     .upgrades {
-         width: 95%;
-         padding-left: 8%;
-     }
 
-     .home-what-line {
 
-         width: 62%;
-         top: -27px;
-         left: 55px;
-     }
+         .sitecore-form.col-12 .component-content form {
+             width: 100%;
+         }
 
-     .support-migration {
-         width: 87% !important;
-         margin-left: 6% !important;
-     }
-
-     .corporate-text-left {
-         width: 90% !important;
-         float: left;
-         margin-left: 0px;
-
-     }
-
-     .carrier-popup-overlay .col-contact-4 {
-         padding-top: 64px;
-
-     }
-
-     .contact-captcha {
-         transform: scale(0.77);
-         -webkit-transform: scale(1.00);
-         transform-origin: 0 0;
-         -webkit-transform-origin: 0 0;
-     }
-
-     .ContactUs-map {
-         order: 2;
-
-     }
-
-     .career-field-jobapplied {
-         width: 228px !important;
-
-     }
-
-     .col-contact-4 {
-         order: 1;
-         margin-bottom: 50px;
-     }
-
-     .sticky #nav-trigger {
-
-         left: 191px
-     }
-
-     h1 {
-         font-size: 28px !important;
-     }
-
-     h2 {
-         font-size: 18px !important;
-         text-align: center;
-     }
-
-     h2 {
-         font-size: 24px !important;
-
-     }
-
-     #header .sticky img {
-
-
-         max-width: 100%;
-         height: auto;
-     }
-
-     .carousel .field-slidelink .carousel-btn.btn {
-         margin: 0px;
-         padding: :0px;
-         font-size: 12px !important;
-         padding: 3px 15px !important;
-     }
-
-     .carousel .field-slidelink {
-
-         margin-left: 30px;
-
-         min-width: 100px;
-
-         max-width: 114px;
-
-         margin-top: 20px;
-         height: 30px;
-
-
-     }
-
-     .six-col-content .field-title {
-         margin-right: 10px;
-         font-size: 40px;
-     }
-
-     .wpcf7 .form-sidebar input {
-         width: 100%;
-     }
-
-     .digital-ex {
-         margin-left: 0px !important;
-     }
-
-     .opeartion-procees-conent {
-         width: 86%;
-         margin-left: 9%;
-     }
-
-
-     .partner-content .header-content1 h2 {
-         margin-top: 10px;
-         padding-right: 0px;
-         line-height: 30px;
-     }
-
-
-
-     .partner-content .header-content1 h2 {
-         max-width: 90%;
-         text-align: center;
-         margin-top: 0px
-     }
-
-     #nav-trigger {
-
-         left: 279px;
-
-     }
-
-     #header .sticky img {
-         width: 100%;
-         padding-top: 16px;
-     }
-
-     .header.sticky .col-2 {
-         width: 380px;
-         max-width: 100%;
-         flex: 0 0 30% !important;
-     }
-
-     .equalized-content .field-content {
-         margin-top: 0px;
-     }
-
-
-     .content h1,
-     .content h2,
-     .rich-text h1,
-     .rich-text h2 {
-         margin: 0px 0;
-     }
-
-
-     ol.corporate-ol span:first-child {
-         width: 85px !important;
-     }
-
-     .corporate-text-left {
-         width: 100%;
-         float: left;
-         padding-left: 22px;
-
-     }
-
-     .corporate-text-left .header-content2 p {
-
-         padding-right: 0px !important;
-     }
-
-     .corporate-text-left .header-content2 p {
-         width: 100%;
-         text-align: justify;
-     }
-
-     .digital-ourservice-4 .Right-section li absolute {
-         margin-left: 35px;
-         display: block;
-     }
-
-
-     .enterpriseChild .col-lg-3 {
-
-         max-width: 100%;
-
-     }
-
-     .carousel .nav-items {
-         display: none;
-     }
-
-     .connect-us-about .fullwidth-block-background img {
-         height: 160px;
-     }
-
-
-
-     .connect-us-about .connect-main h1 {
-         color: #ffffff;
-         margin-left: 32px;
-     }
-
-     .connect-content-about {
-         position: absolute;
-         top: 39%;
-         background: #fff;
-         width: 100%;
-         margin-left: 62px;
-
-
-     }
-
-     .connect-main-4:first-child {
-         margin-top: 12%;
-     }
-
-     .connect-main-4 {
-         width: 100% !important;
-         margin-bottom: 12%;
-         margin-top: 2%;
-     }
-
-     .circleBase {
-         position: absolute;
-         top: -23px;
-         margin-left: 42% !important;
-     }
-
-     .connect-content-about {
-         position: relative;
-         margin-left: 0px;
-
-     }
-
-     .connect-main .container-connect {
-         height: 100%;
-     }
-
-     .circleBase {
-         position: relative;
-
-     }
-
-     .connect-main-4 .col-4 {
-         text-align: center;
-         margin-top: 3%;
-         padding-left: 40px;
-     }
-
-     .about-us-core .component-content:first-child {
-         background-position: -349px 0px;
-     }
-
-     .our-core-sub .col-lg-3 {
-
-         max-width: 100% !important;
-
-     }
-
-     .our-core-sub {
-         max-width: 100% !important;
-         margin-left: 0px;
-
-     }
-
-     .core-values .col-lg-6 .field-title {
-
-         font-weight: 400;
-         margin-top: 90px;
-         margin-left: 0px;
-         text-align: center;
-     }
-
-     .our-core-sub .col-lg-3:nth-child(2) {
-         margin-right: 0%;
-     }
-
-     .our-core-sub .col-lg-2 {
-
-         max-width: 70% !important;
-
-     }
-
-     .back-image1 {
-         margin-left: 0px !important;
-     }
-
-
-     .carrier-popup-overlay .close {
-         background: none;
-         border: none;
-         /* float: right; */
-         font-size: 30px;
-         font-weight: 700;
-         line-height: 1;
-         color: #fdfbfb;
-         text-shadow: 0 1px 0 #fff;
-         opacity: 1;
-         z-index: 10;
-         /* margin-left: -19px; */
-         /* margin: 21px; */
-         position: absolute;
-         left: 74%;
-         top: -25px;
-     }
-
-     .corporate-image {
-         width: 100%;
-     }
-
-     .component.rich-text.col-12.our-service-headline.position-center {
-         margin-top: 28px;
-         margin-bottom: 0px;
-     }
-
-     #footer .f-social-icon ul {
-
-         margin-left: -10px
-     }
-
-     .back-image2 .corporate-image .field-promoicon img {
-         width: 97% !important;
-
-     }
-
-
-
-
-     .corporate-image .field-promoicon img {
-         width: 100% !important;
-
-
-     }
-
-     /********************digistal experience******************/
-     .digital-ourservice-8 .col-6 {
-         flex: 0 0 100%;
-         max-width: 100%;
-
-     }
-
-     .digital-ourservice-8 {
-         flex: 0 0 100%;
-         max-width: 100%;
-     }
-
-     .digital-ourservice-8 .col-6 {
-         flex: 0 0 100%;
-         max-width: 100%;
-
-     }
-
-     .digital-ourservice-8 .col-2 {
-         flex: 0 0 100%;
-         max-width: 100%;
-     }
-
-     .digital-ourservice-4 {
-         flex: 0 0 100%;
-         max-width: 100%;
-     }
-
-     .digital-cum-sub .col-6 {
-         max-width: 100%;
-     }
-
-     .component-content .digital-cum-sub1 .col-6 p {
-         text-align: justify;
-         width: 100%;
-         /* line-height: 28px; */
-     }
-
-     .digital-cum-sub1 {
-         margin-left: 0px;
-     }
-
-     .digital-cum-sub {
-         display: inherit;
-         margin-left: 0px;
-     }
-
-     .digital-ourservice-6 {
-         flex: 0 0 100%;
-         max-width: 100%;
-     }
-
-     .digital-ourservice-6 .col-2 {
-         flex: 0 0 100%;
-         max-width: 100%;
-     }
-
-     .digital-ourservice-6 .col-6 {
-         flex: 0 0 100%;
-         max-width: 100%;
-     }
-
-     .coporate-banner h1,
-     coporate-banner h4 {
-         color: #000;
-     }
-
-
-
-     .digital-cum-sub .field-promotext2 {
-         margin-left: 0px;
-     }
-
-     .digital-ourservice-8 .component-content .aiengine-left {
-         width: 100%;
-         text-align: justify;
-     }
-
-
-     .commerce-image .back-image2 .field-promoicon img {
-         width: 90% !important;
-         margin-left: 0px !important;
-         margin-top: 0px !important;
-     }
-
-     #footer .footer-site-info {
-         margin-left: 12%;
-     }
-
-     .Right-section ul li .field-link a {
-         margin-left: 45px;
-         padding-top: 9px;
-         padding-right: 24px;
-     }
-
-
-
-     .digital-experience-engineering .component-content {
-         background-position: 90% 4%;
-     }
-
-     .row .careers-banner .component-content {
-         background-position: 100% 0% !important;
-     }
-
-     .banner-header h4 {
-         font-size: 20px;
-     }
-
-     .coporate-banner .component-content {
-         background-position: 43% !important;
-     }
-     .coporate-banner .banner-header
-     {
+         .contact-us-banner .boxed position-left .field-content {
              margin-top: 0px;
-    width: 188px;
-    padding-left: 47px;
-     }
-      .digital-experience-engineering .banner-header {
-        width: 60%;
-        padding-left: 10%;
-    }
-     .corporate-content-main .row {
-         margin: 0px
-     }
+         }
+
+         .contact-us-banner .banner-header {
+             width: 500px;
+         }
+
+         .contact-us-banner .field-content {
+             margin-top: 0px !important;
+         }
+
+         .operations-and-process-automations .analytics-actionable -main .component-content {
+             background-position: 27% 10px !important;
+         }
+
+         .Contact-Information .col-8 {
+             flex: 0 0 100%;
+             max-width: 100%;
+         }
+
+         .col-contact-4 {
+             max-width: 90%;
+             flex: 0 0 96%;
+
+         }
+
+         .col-contact-4 .wpcf7 .form-sidebar textarea {
+             padding-left: 20px;
+             padding-right: 0px;
+         }
+
+         .sitecore-form .wpcf7 .form-sidebar textarea {
+             width: 100%;
+         }
+
+         .col-contact-4 form .vc_wp_text.wpb_content_element {
+             margin-left: 0px;
+         }
+
+         .Contact-Information .col-4 {
+             flex: 0 0 100%;
+             max-width: 100%;
+         }
+
+         .Contact-Information .at-follow-tbx-element p {
+             padding-bottom: 30px;
+             float: left;
+             padding-top: 0px;
+             margin-left: 20%;
+             margin-right: 10%;
+         }
+
+         
+
+         .contactus .icon-cont {
+             /* top: -90px; */
+             flex: 0 0 100%;
+             max-width: 100% !important;
+         }
+
+         .operations-and-process-automations .component-content {
+             background-position: 29% 0px !important;
+         }
+
+         .corporate-ol li:first-child {
+             padding-bottom: 14px;
+         }
+
+         .digital-ourservice-8 {
+             max-width: 90%;
+             margin-left: 36px;
+         }
+
+         .corporate-ol li {
+             font-size: 16px !important;
+             line-height: 24px;
+             padding-left: 50px;
+         }
+
+         .corporate-ol li:before {
+             margin-top: 6px;
+             padding-top: 2%;
+             width: 40px !important;
+             height: 40px;
+         }
+
+         .carrier-popup-overlay {
+             width: 100%;
+         }
+
+         .carrier-popup-overlay .close span {
+             color: #000;
+             font-size: 38px;
+         }
+
+         .carrier-popup-overlay .sitecore-form .ult_modal-content .ult_modal-header .career-field-title {
+
+             text-align: center;
+             margin-left: 0px;
+
+         }
+
+         .about-us-bannerimage .component-content {
+             background-position: 24% 0px !important;
+         }
 
+         .analytics-actionable -main .component-content {
+             background-position: 24% 0px !important;
+         }
 
-     .slide .slide-info p:first-child {
-         min-width: 360px !important;
-         max-width: 90%;
-         font-size: 18px;
-         line-height: 20px;
-     }
+         .event-image .component-content {
+             background-position: 14% !important;
+             min-height: 130px !important;
+         }
+
+         li.primary-link.has-dropdown.corpo .component-content .site-dropdown li {
+             margin-left: 0px !important;
+         }
+
+         .event-image .banner-header {
+             margin-top: 0px;
+             width: 235px !important;
+
+         }
 
+         .PremiumBusinessconsulting .component-content {
+             background-position: 26%;
+         }
+
+         .careers-banner .component-content {
+             /* border: solid red 2px; */
+             background-position: 85% !important;
+         }
 
-     .carousel .carousel-btn {
-         font-size: 12px;
-         padding: 0px 20px !important;
-         font-weight: 400;
+         .operations-and-process-automations .corporate-text-left {
+             width: 80% !important;
+             margin-left: 35px;
+         }
+
+
+
+         .PremiumBusinessconsulting {
+             background-position: 20%;
+         }
+
+         .optimization {
+             width: 92%;
+             padding-left: 8%;
+         }
+
+         .operations-and-process-automations .corporate-text-left {
+             padding-left: 0px;
+         }
+
+         .upgrades {
+             width: 95%;
+             padding-left: 8%;
+         }
+
+         .home-what-line {
+
+             width: 62%;
+             top: -27px;
+             left: 55px;
+         }
 
-     }
+         .title-h1 .upgrades {
+             margin-bottom: 40px;
+         }
 
+         .support-migration {
+             width: 87% !important;
+             margin-left: 6% !important;
+         }
 
-     .six-col-content .button {
-         margin-left: 10%;
-     }
+         .corporate-text-left {
+             width: 90% !important;
+             float: left;
+             margin-left: 0px;
+             float: left;
+             padding-left: 5px;
 
-     .main-banner-image-RightText .field-content {
-         margin-top: 0% !important;
+         }
 
-     }
+         .fullrange-h h2,
+         .fullrange-h h3 {
+             text-align: center;
+             padding: 20px;
+         }
 
-     .promo .partner-image .field-promoicon img,
-     .back-image2 .field-promoicon img {
-         max-width: 100%;
-         height: auto !important;
-     }
+         #header #top-area .p-2 {
+             padding-left: 0px;
+             margin-left: 76px;
+         }
 
-     p.partner-para.field-description {
+         .carrier-row footer .row {
+             margin-right: 0px;
+         }
 
-         margin-bottom: 40px !important;
-     }
+         .carrier-popup-overlay .col-contact-4 {
+             padding-top: 25px;
 
-     .partner-content .header-content1 h2 {
+         }
 
-         margin-top: 10px;
-     }
+         #header.container .col-12:first-child .row .col-md-6:nth-child(2) ul {
+             padding: 0px 0px;
+             display: none;
+         }
 
-     .about-us-mission .header-content2 h2 {
-         padding-top: 0px;
-     }
+         .carrier-popup-overlay .col-contact-4 #header .component.link-list.col-3.position-right {
+             /*left: 174px;
+    /* padding-top: 14px; */
+             display: none;
+         }
 
+         .carrier-popup-overlay button span {
+             font-size: 32px !important;
+         }
 
-     .connect-content-about .connect-main-4 .connectUs-inner-content {
+         .carrier-popup-overlay > div {
+             margin-left: 0% !important;
+         }
 
-         padding-bottom: 50px;
-     }
+         .carrier-popup-overlay .sitecore-form .ult_modal-content {
+             border-bottom: 1px solid #333333;
+             width: 100%;
+             margin-left: 0px !important;
+         }
 
-     .about-us-core .core-values h2.field-title {
-         margin-top: 0px;
-     }
+         .contactus-right {
+             margin-bottom: 118px;
+         }
 
-     .component-content .digital-mar .field-promotext {
-         text-align: center;
-         margin-left: 0px;
-     }
+         .addthis_inline_follow_toolbox_9eon {
+             margin-top: 0px;
+         }
 
-     .digital-cum-sub .col-2 img {
-         max-width: 100%;
-     }
+         .addthis_inline_follow_toolbox_9eon {
+             margin-left: 5px;
+         }
 
-     .google-adwords-img {
-         padding: :0px;
-     }
+         .contact-captcha {
+             transform: scale(0.77);
+             -webkit-transform: scale(1.1);
+             transform-origin: 0 0;
+             -webkit-transform-origin: 0 0;
+         }
 
-     .corporate-image .field-promoicon img {
+         .col-8.ContactUs-map {
+             flex: 0 0 77.2%;
+         }
 
-         margin-top: 80px !important;
+         .us-map-title {
+             margin-left: 50px !important;
+         }
 
-     }
+         .component.iframe.contact-us iframe {
+             margin-left: 50px;
 
+         }
 
-     .support-migration {
-         max-width: 90%;
-         margin-left: 5%;
-     }
+         .ContactUs-map {
+             order: 2;
 
+         }
 
+         .col-contact-4 .wpcf7 .form-sidebar input.btn.btn-red {
 
-     .wpcf7 .form-sidebar input {
-         width: 100%;
-     }
+             margin-top: 30px;
 
-     .opeartion-procees-conent {
-         width: 86%;
-         margin-left: 9%;
-     }
+         }
 
-     .partner-content .header-content1 h2 {
-         margin-top: 10px;
-         padding-right: 0px;
-         line-height: 30px;
-     }
+         .career-field-jobapplied {
+             width: 228px !important;
 
+         }
 
+         
 
-     .partner-content .header-content1 h2 {
-         max-width: 90%;
-         text-align: center;
-         margin-top: 0px
-     }
+         .col-contact-4 {
+             order: 1;
+             margin-bottom: 50px;
+         }
 
-     #nav-trigger {
+         .sticky #nav-trigger {
 
-         left: 240px;
+             left: 218px
+         }
 
-     }
+         .site-nav .expand-arrow {
 
-     .equalized-content .field-content {
-         margin-top: 0px;
-     }
+             margin-right: 3.5rem;
+             text-align: right;
+         }
 
-     .component-content .field-content .banner-header {
-         margin-top: 0px;
-     }
+         .content li,
+         .rich-text li {
+             font-size: 14px !important;
+         }
 
-     .content h1,
-     .content h2,
-     .rich-text h1,
-     .rich-text h2 {
-         margin: 0px 0;
-     }
+         main p,
+         main ul,
+         main li,
+         main span {
+             font-size: 14px !important;
+         }
 
-     ol.corporate-ol span:first-child {
-         width: 85px !important;
-     }
+         h1 {
+             font-size: 24px !important;
+         }
 
+         h2 {
+             font-size: 18px !important;
+             text-align: center;
+         }
 
-     .corporate-text-left .header-content2 p {
+         h3 {
+             font-size: 16px !important;
+         }
 
-         padding-right: 0px !important;
-     }
+         #header .sticky img {
+             max-width: 100%;
+             height: auto;
+         }
 
-     .corporate-text-left .header-content2 p {
-         width: 100%;
-         text-align: justify;
-     }
+         .carousel .field-slidelink .carousel-btn.btn {
+             margin: 0px;
+             padding: :0px;
+             font-size: 12px !important;
+             padding: 3px 20px !important;
+         }
 
-     .digital-ourservice-4 .Right-section li absolute {
-         margin-left: 35px;
-         display: block;
-     }
 
 
+         
 
+         .six-col-content .field-title {
+             margin-right: 10px;
+             font-size: 40px;
+         }
 
 
-     .carousel .nav-items {
-         display: none;
-     }
 
-     .connect-us-about .fullwidth-block-background img {
-         height: 160px;
-     }
+         .digital-ex {
+             margin-left: 0px !important;
+         }
 
-     .connect-us-about .connect-main h1 {
-         color: #ffffff;
-         margin-left: 32px;
-     }
+         .opeartion-procees-conent {
+             width: 86%;
+             margin-left: 9%;
+         }
 
-     .connect-content-about {
-         position: absolute;
-         top: 39%;
-         background: #fff;
-         width: 100%;
-         margin-left: 62px;
-         height: 58%;
-     }
 
+         .partner-content .header-content1 h2 {
+             margin-top: 10px;
+             padding-right: 0px;
+             line-height: 30px;
+         }
 
-     .connect-main-4 {
-         width: 100% !important;
-         margin-bottom: 12%;
-         margin-top: 2%;
-     }
 
-     .circleBase {
-         position: absolute;
-         top: -23px;
-         margin-left: 42% !important;
-     }
 
-     .connect-content-about {
-         position: relative;
-         margin-left: 0px;
+         .partner-content .header-content1 h2 {
+             max-width: 90%;
+             text-align: center;
+             margin-top: 0px
+         }
 
-     }
 
-     .connect-main .container-connect {
-         height: 100%;
-     }
 
-     .circleBase {
-         position: relative;
+        
 
-     }
+         .equalized-content .field-content {
+             margin-top: 0px;
+         }
 
-     .connect-main-4 .col-4 {
-         text-align: center;
-         margin-top: 3%;
-         padding-left: 40px;
-     }
 
-     .about-us-core .component-content:first-child {
-         background-position: -349px 0px;
-     }
 
-     .our-core-sub .col-lg-3 {
 
-         max-width: 100% !important;
+         ol.corporate-ol span:first-child {
+             width: 85px !important;
+         }
 
-     }
 
-     .our-core-sub {
-         max-width: 100% !important;
-         margin-left: 0px;
 
-     }
+         .corporate-text-left .header-content2 p {
 
-     .core-values .col-lg-6 .field-title {
+             padding-right: 0px !important;
+             width: 100%;
+             text-align: justify;
+             margin-left: 5px;
+         }
 
-         font-weight: 400;
-         margin-top: 90px;
-         margin-left: 0px;
-         text-align: center;
-     }
 
-     .our-core-sub .col-lg-3:nth-child(2) {
-         margin-right: 0%;
-     }
+         .corporate-ol {
+             margin-left: 0px !important;
+         }
 
-     .our-core-sub .col-lg-2 {
+         .corporate-text-left .header-content2 {
+             margin-left: 5px;
+             padding-left: 20px;
+         }
 
-         max-width: 70% !important;
+         .digital-ourservice-4 .Right-section li absolute {
+             margin-left: 35px;
+             display: block;
+         }
 
-     }
 
-     .back-image1 {
-         margin-left: 0px !important;
-     }
+         .enterpriseChild .col-lg-3 {
 
-     .carrier-popup-overlay .close {
-         background: none;
-         border: none;
-         /* float: right; */
-         font-size: 30px;
-         font-weight: 700;
-         line-height: 1;
-         color: #fdfbfb;
-         text-shadow: 0 1px 0 #fff;
-         opacity: 1;
-         z-index: 10;
-         /* margin-left: -19px; */
-         /* margin: 21px; */
-         position: absolute;
-         left: 74%;
-         top: -25px;
-     }
+             max-width: 100%;
 
-     .corporate-image {
-         width: 100%;
-     }
+         }
 
-     .component.rich-text.col-12.our-service-headline.position-center {
-         margin-top: 28px;
-         margin-bottom: 0px;
-     }
+         .carousel .nav-items {
+             display: none;
+         }
 
-     #footer .f-social-icon ul {
+         .connect-us-about .fullwidth-block-background img {
+             height: 160px;
+         }
 
-         margin-left: -10px
-     }
 
-     .back-image2 .corporate-image .field-promoicon img {
-         width: 97% !important;
 
-     }
+         .connect-us-about .connect-main h1 {
+             color: #ffffff;
+             margin-left: 32px;
+         }
 
+         .connect-content-about {
+             position: absolute;
+             top: 39%;
+             background: #fff;
+             width: 100%;
+             margin-left: 62px;
 
 
+         }
 
+         .col-8.connect-content-about .connect-main-4:first-child {
+             margin-top: 0% !important;
+         }
 
-     .corporate-image .field-promoicon img {
-         width: 100% !important;
+         .col-8.connect-content-about .connect-main-4:first-child .circleBase.type2 {
+             position: absolute;
+             top: -40px;
+         }
 
+         .col-8.connect-content-about .connect-main-4:first-child .connectUs-inner-content:first-child {
+             padding-top: 54px;
+         }
 
-     }
+         .connect-main-4:first-child {
+             margin-top: 12%;
+         }
 
-     /********************digistal experience******************/
-     .digital-ourservice-8 .col-6 {
-         flex: 0 0 100%;
-         max-width: 100%;
+         .connect-main-4 {
+             width: 100% !important;
+             margin-bottom: 12%;
+             margin-top: 2%;
+         }
 
-     }
+         .circleBase {
+             position: absolute;
+             top: -23px;
+             margin-left: 42% !important;
+         }
 
-     .digital-ourservice-8 {
-         flex: 0 0 100%;
-         max-width: 100%;
-     }
+         .connect-content-about {
+             position: relative;
+             margin-left: 0px;
 
-     .digital-ourservice-8 .col-6 {
-         flex: 0 0 100%;
-         max-width: 100%;
+         }
 
-     }
+         .connect-main .container-connect {
+             height: 100%;
+         }
 
-     .digital-ourservice-8 .col-2 {
-         flex: 0 0 100%;
-         max-width: 100%;
-     }
 
-     .digital-ourservice-4 {
-         flex: 0 0 100%;
-         max-width: 100%;
-     }
 
-     .digital-cum-sub .col-6 {
-         max-width: 100%;
-     }
+         .connect-main-4 .col-4 {
+             text-align: center;
+             margin-top: 3%;
+             padding-left: 40px;
+         }
 
-     .component-content .digital-cum-sub1 .col-6 p {
-         text-align: justify;
-         width: 100%;
-         /* line-height: 28px; */
-     }
 
-     .digital-cum-sub1 {
-         margin-left: 0px;
-     }
 
-     .digital-cum-sub {
-         display: inherit;
-         margin-left: 0px;
-     }
+         .our-core-sub .col-lg-3 {
 
-     .digital-ourservice-6 {
-         flex: 0 0 100%;
-         max-width: 100%;
-     }
+             max-width: 100% !important;
 
-     .digital-ourservice-6 .col-2 {
-         flex: 0 0 100%;
-         max-width: 100%;
-     }
+         }
 
-     .digital-ourservice-6 .col-6 {
-         flex: 0 0 100%;
-         max-width: 100%;
-     }
+         .our-core-sub {
+             max-width: 100% !important;
+             margin-left: 0px;
 
-     .coporate-banner h1,
-     coporate-banner h4 {
-         color: #000;
-     }
+         }
 
+         .core-values .col-lg-6 .field-title {
 
+             font-weight: 400;
+             margin-top: 90px;
+             margin-left: 0px;
+             text-align: center;
+         }
 
-     .digital-cum-sub .field-promotext2 {
-         margin-left: 0px;
-     }
+         .our-core-sub .col-lg-3:nth-child(2) {
+             margin-right: 0%;
+         }
 
-     .digital-ourservice-8 .component-content .aiengine-left {
-         width: 100%;
-         text-align: justify;
-     }
+         .our-core-sub .col-lg-2 {
 
+             max-width: 70% !important;
 
-     .commerce-image .back-image2 .field-promoicon img {
-         width: 90% !important;
-         margin-left: 0px !important;
-         margin-top: 0px !important;
-     }
+         }
 
-     #footer .footer-site-info {
-         margin-left: 12%;
-     }
 
-     .Right-section ul li .field-link a {
-         margin-left: 45px;
-         padding-top: 9px;
-         padding-right: 24px;
-     }
 
 
- .analytics-actionable -main .component-content
-        {
-            background-position: 24%;
-        }
-     .digital-experience-engineering .component-content {
-         background-position: 83% 4%;
-     }
+         .corporate-image {
+             width: 100%;
+         }
 
+         
+         /*
+         .back-image2 .corporate-image .field-promoicon img {
+             width: 97% !important;
 
+         }
 
-     .banner-header h4 {
-         font-size: 20px;
-     }
 
 
-     .contact-us-banner .component-content {
-         background-position: 48%;
-     }
 
+         .corporate-image .field-promoicon img {
+             width: 100% !important;
 
 
+         }
 
-     .six-col-content .button {
-         margin-left: 10%;
-     }
+         /********************digistal experience******************/
+         .digital-ourservice-8 .col-6 {
+             flex: 0 0 100%;
+             max-width: 87%;
 
-     .main-banner-image-RightText .field-content {
-         margin-top: 0% !important;
+         }
 
-     }
 
-     .promo .partner-image .field-promoicon img,
-     .back-image2 .field-promoicon img {
-         max-width: 100%;
-         height: auto !important;
-     }
+         .digital-ourservice-4 {
+             flex: 0 0 100%;
+             max-width: 100%;
+         }
 
-     .partner-content .header-content1 h2 {
+         .digital-cum-sub .col-6 {
+             max-width: 100%;
+         }
 
-         margin-top: 10px;
-     }
 
-     .about-us-mission .header-content2 h2 {
-         padding-top: 0px;
-     }
 
-     /*  .about-us-mission .field-promotext2 {
-            padding-top: 0px
-        }*/
 
-     .connect-content-about .connect-main-4 .connectUs-inner-content {
 
-         padding-bottom: 50px;
-     }
 
-     .about-us-core .core-values h2.field-title {
-         margin-top: 0px;
-     }
 
-     .component-content .digital-mar .field-promotext {
-         text-align: center;
-         margin-left: 0px;
-     }
 
-     .digital-cum-sub .col-2 img {
-         max-width: 100%;
-     }
+         .digital-ourservice-6 .col-2 {
+             flex: 0 0 100%;
+             max-width: 100%;
+         }
 
-     .google-adwords-img {
-         padding: :0px;
-     }
+         .digital-ourservice-6 .col-6 {
+             flex: 0 0 100%;
+             max-width: 100%;
+         }
 
-     .corporate-image .field-promoicon img {
+         .coporate-banner h1,
+         coporate-banner h4 {
+             color: #000;
+         }
 
-         margin-top: 80px !important;
+         .digital-cum-sub {
+             display: inherit;
+             margin-left: 0px;
+         }
 
-     }
+         .digital-cum-sub .field-promotext2 {
+             margin-left: 0px;
+         }
 
-     .support-migration {
-         max-width: 90%;
-         margin-left: 5%;
-     }
 
-     #header.container .col-12:nth-child(2) .row {
-         margin: 0px 2% 0px 0%;
-     }
 
-     .component-content .digital-mar {
-         margin-left: 0px !important;
-     }
+         .commerce-image .back-image2 .field-promoicon img {
+             width: 90% !important;
+             margin-left: 0px !important;
+             margin-top: 0px !important;
+         }
 
 
 
+         .Right-section ul li .field-link a {
+             margin-left: 45px;
+             padding-top: 9px;
+             padding-right: 24px;
+         }
 
-     .digital-ex {
-         margin-left: 0px !important;
-     }
 
-     .opeartion-procees-conent {
-         width: 86%;
-         margin-left: 9%;
-     }
 
-     .partner-content .header-content1 h2 {
-         margin-top: 10px;
-         padding-right: 0px;
-         line-height: 30px;
-     }
+         .digital-experience-engineering .component-content {
+             background-position: 90% 4%;
+         }
 
+         .digital-experience-engineering .field-content {
+             margin-top: 0px;
+         }
 
-     .partner-content .header-content1 h2 {
-         max-width: 90%;
-         text-align: center;
-         margin-top: 0px
-     }
+         .row .careers-banner .component-content {
+             background-position: 100% 0% !important;
+         }
 
-     #nav-trigger {
 
-         left: 279px;
 
-     }
+         .coporate-banner .component-content {
+             background-position: 43% !important;
+         }
 
-     .equalized-content .field-content {
-         margin-top: 0px;
-     }
+         .coporate-banner .banner-header {
+             margin-top: 0px;
+             width: 188px;
+             padding-left: 47px;
+         }
 
+         .digital-experience-engineering .banner-header {
+             width: 60%;
+             padding-left: 3%;
+             margin-left: 0%;
+         }
 
-     .content h1,
-     .content h2,
-     .rich-text h1,
-     .rich-text h2 {
-         margin: 0px 0;
-     }
+         .corporate-content-main .row {
+             margin: 0px
+         }
 
-     ol.corporate-ol span:first-child {
-         width: 85px !important;
-     }
 
+         .slide .slide-info p:first-child {
+             min-width: 360px !important;
+             max-width: 90%;
+             font-size: 18px;
+             line-height: 20px;
+         }
 
-     .corporate-text-left .header-content2 p {
 
-         padding-right: 0px !important;
-     }
+         .carousel .carousel-btn {
+             font-size: 12px;
+             padding: 0px 20px !important;
+             font-weight: 700;
 
-     .corporate-text-left .header-content2 p {
-         width: 100%;
-         text-align: justify;
-     }
+         }
 
-     .digital-ourservice-4 .Right-section li absolute {
-         margin-left: 35px;
-         display: block;
-     }
 
 
-     .carousel .nav-items {
-         display: none;
-     }
+         .main-banner-image-RightText .field-content {
+             margin-top: 0% !important;
 
-     .connect-us-about .fullwidth-block-background img {
-         height: 160px;
-     }
+         }
 
-     .connect-us-about .connect-main h1 {
-         color: #ffffff;
-         margin-left: 32px;
-     }
+         /* .promo .partner-image .field-promoicon img,
+         .back-image2 .field-promoicon img {
+             max-width: 100%;
+             height: auto !important;
+         }*/
 
-     .connect-content-about {
-         position: absolute;
-         top: 39%;
-         background: #fff;
-         width: 100%;
-         margin-left: 62px;
-         height: 58%;
-     }
+         p.partner-para.field-description {
 
+             margin-bottom: 40px !important;
+         }
 
-     .connect-main .container-connect {
-         height: 100%;
-     }
+         .partner-content .header-content1 h2 {
 
-     .circleBase {
-         position: relative;
+             margin-top: 10px;
+         }
 
-     }
+         .about-us-mission .header-content2 h2 {
+             padding-top: 0px;
+         }
 
-     .connect-main-4 .col-4 {
-         text-align: center;
-         margin-top: 3%;
-         padding-left: 40px;
-     }
 
-     .about-us-core .component-content:first-child {
-         background-position: -349px 0px;
-     }
+         .connect-content-about .connect-main-4 .connectUs-inner-content {
 
-     .our-core-sub .col-lg-3 {
+             padding-bottom: 50px;
+         }
 
-         max-width: 100% !important;
+         .about-us-core .core-values h2.field-title {
+             margin-top: 0px;
+         }
 
-     }
+         .component-content .digital-mar .field-promotext {
+             text-align: center;
+             margin-left: 0px;
+         }
 
-     .our-core-sub {
-         max-width: 100% !important;
-         margin-left: 0px;
+         .digital-cum-sub .col-2 img {
+             max-width: 100%;
+         }
 
-     }
+         .google-adwords-img {
+             padding: :0px;
+         }
 
-     .core-values .col-lg-6 .field-title {
+         .corporate-image .field-promoicon img {
 
-         font-weight: 400;
-         margin-top: 90px;
-         margin-left: 0px;
-         text-align: center;
-     }
+             margin-top: 80px !important;
 
-     .our-core-sub .col-lg-3:nth-child(2) {
-         margin-right: 0%;
-     }
+         }
 
-     .our-core-sub .col-lg-2 {
 
-         max-width: 70% !important;
+         .support-migration {
+             max-width: 90%;
+             margin-left: 5%;
+         }
 
-     }
 
-     .back-image1 {
-         margin-left: 0px !important;
-     }
 
-     .carrier-popup-overlay .component-content {
-         display: inline-block;
-         height: 90%;
-         vertical-align: middle;
-     }
+         .opeartion-procees-conent {
+             width: 86%;
+             margin-left: 9%;
+         }
 
-     .carrier-popup-overlay .close {
-         background: none;
-         border: none;
-         /* float: right; */
-         font-size: 30px;
-         font-weight: 700;
-         line-height: 1;
-         color: #fdfbfb;
-         text-shadow: 0 1px 0 #fff;
-         opacity: 1;
-         z-index: 10;
-         /* margin-left: -19px; */
-         /* margin: 21px; */
-         position: absolute;
-         left: 74%;
-         top: -25px;
-     }
+         .partner-content .header-content1 h2 {
+             margin-top: 10px;
+             padding-right: 0px;
+             line-height: 30px;
+         }
 
-     .corporate-image {
-         width: 100%;
-     }
 
-     .component.rich-text.col-12.our-service-headline.position-center {
-         margin-top: 28px;
-         margin-bottom: 0px;
-     }
 
-     #footer .f-social-icon ul {
+         .partner-content .header-content1 h2 {
+             max-width: 90%;
+             text-align: center;
+             margin-top: 0px
+         }
 
-         margin-left: -10px
-     }
 
-     .back-image2 .corporate-image .field-promoicon img {
-         width: 97% !important;
 
-     }
+         .equalized-content .field-content {
+             margin-top: 0px;
+         }
 
-     .main-banner-image-RightText .component-content .field-content {
-         margin-left: 40%
-     }
+         
+         ol.corporate-ol span:first-child {
+             width: 85px !important;
+         }
 
-     .main-banner-image-RightText .component-content h1 {
-         text-align: center
-     }
+         .ourservices-right-text h2 {
+             padding-right: 30px;
+         }
 
-     .main-banner-image-RightText .component-content h4 {
-         text-align: center
-     }
+       
 
 
 
-     .corporate-image .field-promoicon img {
-         width: 100% !important;
 
+         .digital-ourservice-4 .Right-section li absolute {
+             margin-left: 35px;
+             display: block;
+         }
 
-     }
 
-     /********************digistal experience******************/
-     .digital-ourservice-8 .col-6 {
-         flex: 0 0 100%;
-         max-width: 100%;
 
-     }
 
-     .digital-ourservice-8 {
-         flex: 0 0 100%;
-         max-width: 100%;
-     }
 
-     .digital-ourservice-8 .col-6 {
-         flex: 0 0 100%;
-         max-width: 100%;
+         .carousel .nav-items {
+             display: none;
+         }
 
-     }
+         .connect-us-about .fullwidth-block-background img {
+             height: 160px;
+         }
 
-     .digital-ourservice-8 .col-2 {
-         flex: 0 0 100%;
-         max-width: 100%;
-     }
 
-     .digital-ourservice-4 {
-         flex: 0 0 100%;
-         max-width: 100%;
-     }
 
-     .digital-cum-sub .col-6 {
-         max-width: 100%;
-     }
+         .connect-content-about {
+             position: absolute;
+             top: 39%;
+             background: #fff;
+             width: 100%;
+             margin-left: 62px;
+             height: 58%;
+         }
 
-     .component-content .digital-cum-sub1 .col-6 p {
-         text-align: justify;
-         width: 100%;
-         /* line-height: 28px; */
-     }
 
-     .digital-cum-sub1 {
-         margin-left: 0px;
-     }
+         .connect-main-4 {
+             width: 100% !important;
+             margin-bottom: 12%;
+             margin-top: 2%;
+         }
 
-     .digital-cum-sub {
-         display: inherit;
-         margin-left: 0px;
-     }
+         .circleBase {
+             position: absolute;
+             top: -23px;
+             margin-left: 42% !important;
+         }
 
-     .digital-ourservice-6 {
-         flex: 0 0 100%;
-         max-width: 100%;
-     }
+         .connect-content-about {
+             position: relative;
+             margin-left: 0px;
 
-     .digital-ourservice-6 .col-2 {
-         flex: 0 0 100%;
-         max-width: 100%;
-     }
+         }
 
-     .digital-ourservice-6 .col-6 {
-         flex: 0 0 100%;
-         max-width: 100%;
-     }
+         .connect-main .container-connect {
+             height: 100%;
+         }
 
-     .coporate-banner h1,
-     coporate-banner h4 {
-         color: #000;
-     }
 
 
+         .connect-main-4 .col-4 {
+             text-align: center;
+             margin-top: 3%;
+             padding-left: 40px;
+         }
 
-     .digital-cum-sub .field-promotext2 {
-         margin-left: 0px;
-     }
 
-     .digital-ourservice-8 .component-content .aiengine-left {
-         width: 100%;
-         text-align: justify;
-     }
 
+         .our-core-sub .col-lg-3 {
 
+             max-width: 100% !important;
 
-     .commerce-image .back-image2 .field-promoicon img {
-         width: 90% !important;
-         margin-left: 0px !important;
-         margin-top: 0px !important;
-     }
+         }
 
-     #footer .footer-site-info {
-         margin-left: 12%;
-     }
+         .our-core-sub {
+             max-width: 100% !important;
+             margin-left: 0px;
 
-     .Right-section ul li .field-link a {
-         margin-left: 45px;
-         padding-top: 9px;
-         padding-right: 24px;
-     }
+         }
 
+         .core-values .col-lg-6 .field-title {
 
+             font-weight: 400;
+             margin-top: 90px;
+             margin-left: 0px;
+             text-align: center;
+         }
 
-     .digital-experience-engineering .component-content {
-         background-position: 90% 4% !important;
-     }
+         .our-core-sub .col-lg-3:nth-child(2) {
+             margin-right: 0%;
+         }
 
+         .our-core-sub .col-lg-2 {
 
+             max-width: 70% !important;
 
-     .banner-header h4 {
-         font-size: 20px;
-     }
+         }
 
- 
 
 
-     .six-col-content .button {
-         margin-left: 10%;
-     }
 
-     .main-banner-image-RightText .field-content {
-         margin-top: 0% !important;
+         .corporate-image {
+             width: 100%;
+         }
 
-     }
+         
+         .back-image2 .corporate-image .field-promoicon img {
+             width: 97% !important;
 
-     .promo .partner-image .field-promoicon img,
-     .back-image2 .field-promoicon img {
-         max-width: 100%;
-         height: auto !important;
-     }
+         }
 
-     .partner-content .header-content1 h2 {
+         .abouot-balck-box p:after {
+             right: 32px;
+         }
 
-         margin-top: 10px;
-     }
+         .corporate-image .field-promoicon img {
+             width: 100% !important;
 
 
-     .connect-content-about .connect-main-4 .connectUs-inner-content {
+         }
 
-         padding-bottom: 50px;
-     }
+         /********************digistal experience******************/
 
-     .about-us-core .core-values h2.field-title {
-         margin-top: 0px;
-     }
 
-     .component-content .digital-mar .field-promotext {
-         text-align: center;
-         margin-left: 0px;
-     }
+         .subfullrange.col-6:nth-child(4),
+         .subfullrange.col-6:nth-child(6) {
+             margin-right: 0px !important;
+             margin-left: 0px;
+         }
 
-     .digital-cum-sub .col-2 img {
-         max-width: 100%;
-     }
+         #footer .textwidget {
+             margin-left: 20px;
 
-     .google-adwords-img {
-         padding: :0px;
-     }
+         }
 
-     .corporate-image .field-promoicon img {
+         .main-digital-exp .subfullrange p {
 
-         margin-top: 80px !important;
+             font-size: 18px;
+         }
 
-     }
+         .main-digital-exp .subfullrange.col-6:nth-child(2),
+         .subfullrange.col-6:nth-child(4),
+         .subfullrange.col-6:nth-child(6) {
+             margin-right: 0px !important;
+             margin-left: 0px;
+         }
 
-     .container.inerservice-page .col-12:nth-child(1) .col-12:nth-child(1) {
+         .invigorated-commerce-con-8 .digital-cum-sub1.digital-ex-content {
+             display: inherit;
+         }
 
-         max-width: 97%;
-         margin-left: 2%;
-         width: 100% !important;
-     }
+         .invigorated-commerce-con-8 .digital-cum-sub1.digital-ex-content .col-2 img {
 
-     .support-migration {
-         max-width: 90%;
-         margin-left: 5%;
-     }
+             margin-left: 0px !important; width:100%;
 
+         }
 
-     .wpcf7 .form-sidebar input {
-         width: 100%;
-     }
+         .component-content .digital-cum-sub1 {
+             display: inherit;
+         }
 
-     .opeartion-procees-conent {
-         width: 86%;
-         margin-left: 9%;
-     }
+         .digital-ourservice-4 {
+             flex: 0 0 100%;
+             max-width: 100%;
+         }
 
+         .digital-cum-sub .col-6 {
+             max-width: 100%;
+         }
 
+         .component-content .digital-cum-sub1 .col-6 p {
+             text-align: justify;
+             width: 100%;
 
-     .partner-content .header-content1 h2 {
-         margin-top: 10px;
-         padding-right: 0px;
-         line-height: 30px;
-     }
+         }
 
-     .container .partners-banner .component-content {
-         background-position: 35% 68% !important;
-         /* width: 50%; */
-         max-width: 100%;
-         height: auto;
-     }
+         .digital-cum-sub1 {
+             margin-left: 0px;
+         }
 
-     .partner-content .header-content1 h2 {
-         max-width: 90%;
-         text-align: center;
-         margin-top: 0px
-     }
 
-     #nav-trigger {
 
-         left: 240px;
+         .digital-ourservice-6 {
+             flex: 0 0 100%;
+             max-width: 100%;
+         }
 
-     }
+         .digital-ourservice-6 .col-2 {
+             flex: 0 0 100%;
+             max-width: 100%;
+         }
 
-     .sticky {
+         .digital-ourservice-6 .col-6 {
+             flex: 0 0 100%;
+             max-width: 100%;
+         }
 
-         margin-left: 8%;
-     }
+         .coporate-banner h1,
+         coporate-banner h4 {
+             color: #000;
+         }
 
-     .equalized-content .field-content {
-         margin-top: 0px;
-     }
 
 
-     .content h1,
-     .content h2,
-     .rich-text h1,
-     .rich-text h2 {
-         margin: 0px 0;
-     }
+         .digital-cum-sub .field-promotext2 {
+             margin-left: 0px;
+         }
 
 
-     ol.corporate-ol span:first-child {
-         width: 85px !important;
-     }
 
+         .digital-ourservice-8 {
+             flex: 0 0 100%;
+             max-width: 100%;
+         }
 
-     .corporate-text-left .header-content2 p {
+         .commerce-image .back-image2 .field-promoicon img {
+             width: 90% !important;
+             margin-left: 0px !important;
+             margin-top: 0px !important;
+         }
 
-         padding-right: 0px !important;
-     }
 
-     .corporate-text-left .header-content2 p {
-         width: 100%;
-         text-align: justify;
-     }
 
-     .digital-ourservice-4 .Right-section li absolute {
-         margin-left: 35px;
-         display: block;
-     }
+         .Right-section ul li .field-link a {
+             margin-left: 45px;
+             padding-top: 9px;
+             padding-right: 24px;
+         }
 
 
-     .carousel .nav-items {
-         display: none;
-     }
+         .analytics-actionable -main .component-content {
+             background-position: 24%;
+         }
 
-     .connect-us-about .fullwidth-block-background img {
-         height: 160px;
-     }
+         .digital-experience-engineering .component-content {
+             background-position: 83% 4%;
+         }
 
-     .connect-us-about .connect-main .title-h1 {
 
-         top: 5%;
-         text-align: center;
-         margin-left: 10px;
-     }
+         .our-services .col-12 {
+             margin-left: 8px;
+             margin-right: 15px;
+         }
 
-     .connect-us-about .connect-main h1 {
-         color: #ffffff;
-         margin-left: 32px;
-     }
+         .contact-us-banner .component-content {
+             background-position: 22%;
+         }
 
-     .connect-content-about {
-         position: absolute;
-         top: 39%;
-         background: #F0F0F0;
-         width: 100%;
-         margin-left: 62px;
-         height: 58%;
-     }
+         .contact-us-banner .banner-header {
+             width: 100% !important;
+             padding-left: 50px;
+         }
 
 
-     .connect-main-4 {
-         width: 100% !important;
-         margin-bottom: 12%;
-         margin-top: 2%;
-     }
 
-     .circleBase {
-         position: absolute;
-         top: -23px;
-         margin-left: 42% !important;
-     }
+         .main-banner-image-RightText .field-content {
+             margin-top: 0% !important;
 
-     .connect-content-about {
-         position: relative;
-         margin-left: 0px;
+         }
 
-     }
+         /*  .promo .partner-image .field-promoicon img,
+         .back-image2 .field-promoicon img {
+             max-width: 100%;
+             height: auto !important;
+         }*/
 
-     .connect-main .container-connect {
-         height: 100%;
-     }
+         .partner-content .header-content1 h2 {
 
-     .circleBase {
-         position: relative;
+             margin-top: 10px;
+         }
 
-     }
+         .about-us-mission .header-content2 h2 {
+             padding-top: 0px;
+         }
 
-     .connect-main-4 .col-4 {
-         text-align: center;
-         margin-top: 3%;
-         padding-left: 40px;
-     }
+         /*  .about-us-mission .field-promotext2 {
+                padding-top: 0px
+            }*/
 
-     .about-us-core .component-content:first-child {
-         background-position: -349px 0px;
-     }
+         .connect-content-about .connect-main-4 .connectUs-inner-content {
 
-     .our-core-sub .col-lg-3 {
+             padding-bottom: 50px;
+         }
 
-         max-width: 100% !important;
+         .about-us-core .core-values h2.field-title {
+             margin-top: 0px;
+         }
 
-     }
+         .component-content .digital-mar .field-promotext {
+             text-align: center;
+             margin-left: 0px;
+         }
 
-     .our-core-sub {
-         max-width: 100% !important;
-         margin-left: 0px;
+         .digital-cum-sub .col-2 img {
+             max-width: 100%;
+         }
 
-     }
+         .google-adwords-img {
+             padding: :0px;
+         }
 
-     .core-values .col-lg-6 .field-title {
+         .corporate-image .field-promoicon img {
 
-         font-weight: 400;
-         margin-top: 90px;
-         margin-left: 0px;
-         text-align: center;
-     }
+             margin-top: 80px !important;
 
-     .our-core-sub .col-lg-3:nth-child(2) {
-         margin-right: 0%;
-     }
+         }
 
-     .our-core-sub .col-lg-2 {
+         .support-migration {
+             max-width: 90%;
+             margin-left: 5%;
+         }
 
-         max-width: 70% !important;
 
-     }
 
-     .back-image1 {
-         margin-left: 0px !important;
-     }
+         .component-content .digital-mar {
+             margin-left: 0px !important;
+         }
 
-     .carrier-popup-overlay .component-content {
-         display: inline-block;
-         height: 90%;
-         vertical-align: middle;
-     }
 
-     .carrier-popup-overlay .close {
-         background: none;
-         border: none;
-         /* float: right; */
-         font-size: 30px;
-         font-weight: 700;
-         line-height: 1;
-         color: #fdfbfb;
-         text-shadow: 0 1px 0 #fff;
-         opacity: 1;
-         z-index: 10;
-         position: absolute;
-         left: 74%;
-         top: 5px;
-     }
 
-     .corporate-image {
-         width: 100%;
-     }
 
-     .component.rich-text.col-12.our-service-headline.position-center {
-         margin-top: 28px;
-         margin-bottom: 0px;
-     }
+         .digital-ex {
+             margin-left: -75px !important;
+         }
 
-     #footer .f-social-icon ul {
+         .opeartion-procees-conent {
+             width: 86%;
+             margin-left: 9%;
+         }
 
-         margin-left: -10px
-     }
+         .partner-content .header-content1 h2 {
+             margin-top: 10px;
+             padding-right: 0px;
+             line-height: 30px;
+         }
 
-     .back-image2 .corporate-image .field-promoicon img {
-         width: 97% !important;
 
-     }
+         .partner-content .header-content1 h2 {
+             max-width: 90%;
+             text-align: center;
+             margin-top: 0px
+         }
 
 
 
+         .equalized-content .field-content {
+             margin-top: 0px;
+         }
 
-     .corporate-image .field-promoicon img {
-         width: 100% !important;
 
+         .content h1,
+         .content h2,
+         .rich-text h1,
+         .rich-text h2 {
+             margin: 0px 0;
+         }
 
-     }
+         ol.corporate-ol span:first-child {
+             width: 85px !important;
+         }
 
-     /********************digistal experience******************/
-     .digital-ourservice-8 .col-6 {
-         flex: 0 0 100%;
-         max-width: 100%;
+         .partner-content .header-content1 p {
+             padding-left: 8px;
+         }
 
-     }
+         .methodology-content p {
+             margin-top: 0px !important;
+         }
 
-     .digital-ourservice-8 {
-         flex: 0 0 100%;
-         max-width: 100%;
-     }
 
-     .digital-ourservice-8 .col-6 {
-         flex: 0 0 100%;
-         max-width: 100%;
 
-     }
 
-     .digital-ourservice-8 .col-2 {
-         flex: 0 0 100%;
-         max-width: 100%;
-     }
+         .digital-ourservice-4 .Right-section li absolute {
+             margin-left: 35px;
+             display: block;
+         }
 
-     .digital-ourservice-4 {
-         flex: 0 0 100%;
-         max-width: 100%;
-     }
 
-     .digital-cum-sub .col-6 {
-         max-width: 100%;
-     }
+         .carousel .nav-items {
+             display: none;
+         }
 
-     .component-content .digital-cum-sub1 .col-6 p {
-         text-align: justify;
-         width: 100%;
-         /* line-height: 28px; */
-     }
+         .connect-us-about .fullwidth-block-background img {
+             height: 160px;
+         }
 
-     .digital-cum-sub1 {
-         margin-left: 0px;
-     }
+         .connect-content-about {
+             position: absolute;
+             top: 39%;
+             background: #fff;
+             width: 100%;
+             margin-left: 62px;
+             height: 58%;
+         }
 
-     .digital-cum-sub {
-         display: inherit;
-         margin-left: 0px;
-     }
+         .connect-main .container-connect {
+             height: 100%;
+         }
 
-     .digital-ourservice-6 {
-         flex: 0 0 100%;
-         max-width: 100%;
-     }
 
-     .digital-ourservice-6 .col-2 {
-         flex: 0 0 100%;
-         max-width: 100%;
-     }
 
-     .digital-ourservice-6 .col-6 {
-         flex: 0 0 100%;
-         max-width: 100%;
-     }
+         .connect-main-4 .col-4 {
+             text-align: center;
+             margin-top: 3%;
+             padding-left: 40px;
+         }
 
-     .coporate-banner h1,
-     coporate-banner h4 {
-         color: #000;
-     }
+         .our-core-sub .col-lg-3 {
 
+             max-width: 100% !important;
 
+         }
 
-     .digital-cum-sub .field-promotext2 {
-         margin-left: 0px;
-     }
+         .our-core-sub {
+             max-width: 100% !important;
+             margin-left: 0px;
 
-     .digital-ourservice-8 .component-content .aiengine-left {
-         width: 100%;
-         text-align: justify;
-     }
+         }
 
+         .core-values .col-lg-6 .field-title {
 
-     .commerce-image .back-image2 .field-promoicon img {
-         width: 90% !important;
-         margin-left: 0px !important;
-         margin-top: 0px !important;
-     }
+             font-weight: 400;
+             margin-top: 90px;
+             margin-left: 0px;
+             text-align: center;
+         }
 
-     #footer .footer-site-info {
-         margin-left: 12%;
-     }
+         .our-core-sub .col-lg-3:nth-child(2) {
+             margin-right: 0%;
+         }
 
-     .Right-section ul li .field-link a {
-         margin-left: 45px;
-         padding-top: 9px;
-         padding-right: 24px;
-     }
+         .our-core-sub .col-lg-2 {
 
-     .invigorated-commerce .component-content {
-         background-position: 97% 34%;
-     }
+             max-width: 70% !important;
 
-     .parallax-background > .component-content {
-         background-position: 23% 0px;
-     }
+         }
 
-     .analytics-actionable -main {
-         background-position: 24%;
-     }
 
-     .invigorated-commerce .field-content {
-         margin-top: 0px;
-     }
 
-     .inerservice-page . our-services-inner .col-4 {
-         margin-top: 24px;
-     }
+         .corporate-image {
+             width: 100%;
+         }
 
-     .inerservice-page . our-services-inner .col-4 ul {
-         margin-top: 36px;
-     }
+         
+         .back-image2 .corporate-image .field-promoicon img {
+             width: 97% !important;
 
-     .component-content .field-content .banner-header {
-         margin-top: 0px;
-         width: 200px;
-     }
+         }
 
-     .digital-experience-engineering .banner-header {
-         margin-left: 10%;
-     }
+         .main-banner-image-RightText .component-content .field-content {
+             margin-left: 40%
+         }
 
-     .invigorated-commerce .component-content .banner-header {
-         margin-top: 0%;
-         width: 55%;
-     }
+         .main-banner-image-RightText .component-content h1 {
+             text-align: center
+         }
 
-     .digital-experience-engineering .component-content {
-         background-position: 90% 4%;
-     }
+         .main-banner-image-RightText .component-content h4 {
+             text-align: center
+         }
 
-     .row .careers-banner .component-content {
-         background-position: 100% 0% !important;
-     }
 
-     .banner-header h4 {
-         font-size: 20px;
-     }
 
-   
+         .corporate-image .field-promoicon img {
+             width: 100% !important;
 
 
-     .six-col-content .button {
-         margin-left: 10%;
-     }
+         }
 
-     .main-banner-image-RightText .field-content {
-         margin-top: 0% !important;
+         /********************digistal experience******************/
 
-     }
 
-     .promo .partner-image .field-promoicon img,
-     .back-image2 .field-promoicon img {
-         max-width: 100%;
-         height: auto !important;
-     }
 
-     .partner-content .header-content1 h2 {
 
-         margin-top: 10px;
-     }
 
-     .about-us-mission .header-content2 h2 {
-         padding-top: 0px;
-     }
 
+         .main-digital-exp .subfullrange.col-6 {
 
+             flex: 0 0 100%;
+             max-width: 94% !important;
 
-     .connect-content-about .connect-main-4 .connectUs-inner-content {
+         }
 
-         padding-bottom: 50px;
-     }
+         .digital-ourservice-4 {
+             flex: 0 0 100%;
+             max-width: 100%;
+         }
 
-     .about-us-core .core-values h2.field-title {
-         margin-top: 0px;
-     }
+         .digital-cum-sub .col-6 {
+             max-width: 100%;
+         }
 
-     .component-content .digital-mar .field-promotext {
-         text-align: center;
-         margin-left: 0px;
-     }
 
-     .digital-cum-sub .col-2 img {
-         max-width: 100%;
-     }
+         .digital-ourservice-6 {
+             flex: 0 0 100%;
+             max-width: 100%;
+         }
 
-     .google-adwords-img {
-         padding: :0px;
-     }
+         .digital-ourservice-6 .col-2 {
+             flex: 0 0 100%;
+             max-width: 100%;
+         }
 
-     .corporate-image .field-promoicon img {
+         .digital-ourservice-6 .col-6 {
+             flex: 0 0 100%;
+             max-width: 100%;
+         }
 
-         margin-top: 80px !important;
+         .coporate-banner h1,
+         coporate-banner h4 {
+             color: #000;
+         }
 
-     }
 
-     .container.inerservice-page .col-12:nth-child(1) .col-12:nth-child(1) {
 
-         max-width: 97%;
-         margin-left: 2%;
-         width: 100% !important;
-     }
+         .digital-cum-sub .field-promotext2 {
+             margin-left: 0px;
+         }
 
-     .support-migration {
-         max-width: 90% !important;
-         margin-left: 5%;
-     }
 
-     .header .col-2 {
-         width: 380px;
-         max-width: 40%;
-         flex: 0 0 22% !important;
 
-     }
+
+         .commerce-image .back-image2 .field-promoicon img {
+             width: 90% !important;
+             margin-left: 0px !important;
+             margin-top: 0px !important;
+         }
+
+
+         .Right-section ul li .field-link a {
+             margin-left: 45px;
+             padding-top: 9px;
+             padding-right: 24px;
+         }
+
+
+
+         .digital-experience-engineering .component-content {
+             background-position: 90% 4% !important;
+         }
+
+
+
+         .main-banner-image-RightText .field-content {
+             margin-top: 0% !important;
+
+         }
+
+         .promo .partner-image .field-promoicon img,
+         .back-image2 .field-promoicon img {
+             max-width: 100%;
+             height: auto !important;
+         }
+
+         .partner-content .header-content1 h2 {
+
+             margin-top: 10px;
+         }
+
+
+         .connect-content-about .connect-main-4 .connectUs-inner-content {
+
+             padding-bottom: 50px;
+         }
+
+         .about-us-core .core-values h2.field-title {
+             margin-top: 0px;
+         }
+
+         .component-content .digital-mar .field-promotext {
+             text-align: center;
+             margin-left: 0px;
+         }
+
+         .digital-cum-sub .col-2 img {
+             max-width: 100%;
+         }
+
+         .google-adwords-img {
+             padding: :0px;
+         }
+
+         .corporate-image .field-promoicon img {
+
+             margin-top: 80px !important;
+
+         }
+
+         .container.inerservice-page .col-12:nth-child(1) .col-12:nth-child(1) {
+
+             max-width: 97%;
+             margin-left: 2%;
+             width: 100% !important;
+         }
+
+         .support-migration {
+             max-width: 90%;
+             margin-left: 5%;
+         }
+
+
+         .wpcf7 .form-sidebar input {
+             width: 100%;
+         }
+
+         .opeartion-procees-conent {
+             width: 86%;
+             margin-left: 9%;
+         }
+
+
+
+         .partner-content .header-content1 h2 {
+             margin-top: 10px;
+             padding-right: 0px;
+             line-height: 30px;
+         }
+
+         .container .partners-banner .component-content {
+             background-position: 35% 68% !important;
+             /* width: 50%; */
+             max-width: 100%;
+             height: auto;
+         }
+
+         .partner-content .header-content1 h2 {
+             max-width: 90%;
+             text-align: center;
+             margin-top: 0px
+         }
+
+         #nav-trigger {
+
+             left: 265px;
+
+         }
+
+         
+
+         .equalized-content .field-content {
+             margin-top: 0px;
+         }
+
+
+
+
+         ol.corporate-ol span:first-child {
+             width: 85px !important;
+         }
+
+
+
+
+         .digital-ourservice-4 .Right-section li absolute {
+             margin-left: 35px;
+             display: block;
+         }
+
+
+         .carousel .nav-items {
+             display: none;
+         }
+
+         .connect-us-about .fullwidth-block-background img {
+             height: 160px;
+         }
+
+
+         .circleBase {
+             position: absolute;
+             top: -23px;
+             margin-left: 42% !important;
+         }
+
+         .connect-content-about {
+             position: relative;
+             margin-left: 0px;
+
+         }
+
+         .connect-main .container-connect {
+             height: 100%;
+         }
+
+         .circleBase {
+             position: relative;
 
-     #header.container .col-12:nth-child(2) .row {
-         margin: 0px 2% 0px 0%;
+         }
+
+         .connect-main-4 .col-4 {
+             text-align: center;
+             margin-top: 3%;
+             padding-left: 40px;
+         }
+
+         .about-us-core .component-content:first-child {
+             background-position: -349px 0px;
+         }
+
+         .our-core-sub .col-lg-3 {
+
+             max-width: 100% !important;
+
+         }
+
+         .our-core-sub {
+             max-width: 100% !important;
+             margin-left: 0px;
+
+         }
+
+         .core-values .col-lg-6 .field-title {
+
+             font-weight: 400;
+             margin-top: 90px;
+             margin-left: 0px;
+             text-align: center;
+         }
+
+         .our-core-sub .col-lg-3:nth-child(2) {
+             margin-right: 0%;
+         }
+
+         .our-core-sub .col-lg-2 {
+
+             max-width: 70% !important;
+
+         }
+
+         footer .container {
+             padding-right: 6px !important;
+         }
+
+         .back-image1 {
+             margin-left: 0px !important;
+         }
+
+         .carrier-popup-overlay .component-content {
+             display: inline-block;
+             height: 90%;
+             vertical-align: middle;
+         }
+
+         .carrier-popup-btn {
+
+             padding: 0px 0px 0px 0px;
+         }
+
+         .carrier-popup-overlay .close {
+             background: none;
+             border: none;
+
+             font-size: 30px;
+             font-weight: 700;
+             line-height: 1;
+             color: #fdfbfb;
+             text-shadow: 0 1px 0 #fff;
+             opacity: 1;
+             z-index: 10;
+             position: absolute;
+             left: 74%;
+             top: 7px;
+         }
+
+         .corporate-image {
+             width: 100%;
+         }
+
+         
+         .back-image2 .corporate-image .field-promoicon img {
+             width: 97% !important;
+
+         }
+
+
+
+
+         .corporate-image .field-promoicon img {
+             width: 100% !important;
+
+
+         }
+
+         /********************digistal experience******************/
+
+
+
+
+
+         .digital-ourservice-8 .col-2 {
+             flex: 0 0 100%;
+             max-width: 100%;
+             padding-left: 0px;
+         }
+
+         .digital-ourservice-8 .col-2 img {
+             width: 88%;
+         }
+
+         .digital-cum-sub:nth-child(2) .col-2 img {
+             width: 98%;
+         }
+
+         .digital-ourservice-4 {
+             flex: 0 0 100%;
+             max-width: 100%;
+         }
+
+         .digital-cum-sub .col-6 {
+             max-width: 100%;
+         }
+
+
+
+
+
+
+         .digital-ourservice-6 {
+             flex: 0 0 100%;
+             max-width: 100%;
+         }
+
+         .digital-ourservice-6 .col-2 {
+             flex: 0 0 100%;
+             max-width: 100%;
+         }
+
+         .digital-ourservice-6 .col-6 {
+             flex: 0 0 100%;
+             max-width: 100%;
+         }
+
+         .coporate-banner h1,
+         coporate-banner h4 {
+             color: #000;
+         }
+
+
+
+         .digital-cum-sub .field-promotext2 {
+             margin-left: 0px;
+         }
+
+         .digital-ourservice-8 .component-content .aiengine-left {
+             width: 100%;
+             text-align: justify;
+         }
+
+     
+
+         .commerce-image .back-image2 .field-promoicon img {
+             width: 90% !important;
+             margin-left: 0px !important;
+             margin-top: 0px !important;
+         }
+
+        
+         .Right-section ul li .field-link a {
+             margin-left: 45px;
+             padding-top: 9px;
+             padding-right: 24px;
+         }
+
+         .invigorated-commerce .component-content {
+             background-position: 97% 34%;
+         }
+
+         .parallax-background > .component-content {
+             background-position: 23% 0px;
+         }
+
+         .analytics-actionable-main .component-content {
+             background-position: 24%;
+         }
+
+         .invigorated-commerce .field-content {
+             margin-top: 0px;
+         }
+
+         .inerservice-page . our-services-inner .col-4 {
+             margin-top: 24px;
+         }
+
+         .inerservice-page . our-services-inner .col-4 ul {
+             margin-top: 36px;
+         }
+
+
+
+
+
+         .invigorated-commerce .component-content .banner-header {
+             margin-top: 0%;
+             width: 55%;
+         }
+
+         .digital-experience-engineering .component-content {
+             background-position: 90% 4%;
+         }
+
+         .row .careers-banner .component-content {
+             background-position: 100% 0% !important;
+         }
+
+         .banner-header h4 {
+             font-size: 20px;
+         }
+
+
+
+
+         .six-col-content .button {
+             /* margin-left: 10%;*/
+             text-align: center;
+             */
+         }
+
+         .main-banner-image-RightText .field-content {
+             margin-top: 0% !important;
+
+         }
+
+         .promo .partner-image .field-promoicon img,
+         .back-image2 .field-promoicon img {
+             max-width: 100%;
+             height: auto !important;
+         }
+
+         .partner-content .header-content1 h2 {
+
+             margin-top: 10px;
+         }
+
+         .about-us-mission .header-content2 h2 {
+             padding-top: 0px;
+         }
+
+
+
+         .connect-content-about .connect-main-4 .connectUs-inner-content {
+
+             padding-bottom: 50px;
+         }
+
+         .about-us-core .core-values h2.field-title {
+             margin-top: 0px;
+         }
+
+         .component-content .digital-mar .field-promotext {
+             text-align: center;
+             margin-left: 0px;
+         }
+
+         .digital-cum-sub .col-2 img {
+             max-width: 100%;
+         }
+
+         .google-adwords-img {
+             padding: :0px;
+         }
+
+         .corporate-image .field-promoicon img {
+
+             margin-top: 80px !important;
+
+         }
+
+         .container.inerservice-page .col-12:nth-child(1) .col-12:nth-child(1) {
+
+             max-width: 97%;
+             margin-left: 2%;
+             width: 100% !important;
+         }
+
+         .support-migration {
+             max-width: 90% !important;
+             margin-left: 5%;
+         }
+
+         
+		 .main-fullrange {
+			width: 87%;
+			margin-left: 6%;
+		}
+
+        
+		.footer-iso-main h4 {
+		display:block;
+		}
+		footer .file-type-icon-media-link .field-image {
+			float:left;
+	}
      }
+
+     @media only screen and (max-width: 380px) {
 
- }
+
+         .six-col-content .button {
+             margin-left: 7%;
+             /*text-align: center;*/
+         }
+     }

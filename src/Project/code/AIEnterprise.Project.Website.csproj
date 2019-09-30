@@ -80,12 +80,20 @@
       <SubType>Designer</SubType>
     </Content>
     <None Include="packages.config" />
+    <Content Include="Styles\about-us.css" />
+    <Content Include="Styles\AIE-main.css" />
+    <Content Include="Styles\banner.css" />
     <Content Include="Styles\blogs.css" />
     <Content Include="Styles\component-confrimation.css" />
     <Content Include="Styles\custom-new.css" />
+    <Content Include="Styles\custom.css" />
+    <Content Include="Styles\global-footer.css" />
     <Content Include="Styles\global-theme.css" />
     <Content Include="Styles\header.css" />
     <Content Include="Styles\mediaquery.css" />
+    <Content Include="Styles\mobile_media.css" />
+    <Content Include="Styles\our_services.css" />
+    <Content Include="Styles\tablet_mediaquery.css" />
     <Content Include="Views\AIE\AIEPageLayout.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
@@ -94,6 +102,7 @@
       <DependentUpon>Web.config</DependentUpon>
     </None>
   </ItemGroup>
+  <ItemGroup />
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
