@@ -2,7 +2,7 @@
 ID: "20ce5464-00e1-4d7b-bf95-ab1d296a0871"
 Parent: "48429094-4c3c-485e-9d3c-7eedfe229a6a"
 Template: "962b53c4-f93b-4df9-9821-415c867b8903"
-Path: "/sitecore/media library/Themes/AIE/AIE Corporate Site/AIEnterprise/styles/AIE/component-confrimation"
+Path: "/sitecore/media library/Themes/AIE/AIE Corporate Site/AIEnterprise/styles/AIE/popup-confirmation"
 DB: master
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
