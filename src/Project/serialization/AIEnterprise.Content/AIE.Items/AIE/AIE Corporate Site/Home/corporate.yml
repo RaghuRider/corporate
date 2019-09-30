@@ -77,14 +77,14 @@ Languages:
               p:after="r[@uid='{CE3FDC97-C76B-45C1-9CAE-7ADE15C2818E}']"
               s:ds=""
               s:id="{896A2C68-1362-4E88-8BA0-1805AE6D4837}"
-              s:par="DynamicPlaceholderId=11"
+              s:par="GridParameters&amp;BackgroundImage&amp;Styles=%7B6979B4B6-617D-4520-A479-7702D805DC21%7D&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=11"
               s:ph="main" />
             <r
               uid="{C22D3A4C-88B6-43D4-8C70-307833B124E9}"
               p:after="r[@uid='{F07E9633-899E-4FF2-9139-AE1993A3E5C8}']"
               s:ds=""
               s:id="{896A2C68-1362-4E88-8BA0-1805AE6D4837}"
-              s:par="DynamicPlaceholderId=12"
+              s:par="GridParameters&amp;BackgroundImage&amp;Styles=%7BC096E80E-0CCD-4A93-9108-B878FBDE10D1%7D&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=12"
               s:ph="main" />
             <r
               uid="{442546C1-7F94-4746-93E2-86789E5F1CB6}"
