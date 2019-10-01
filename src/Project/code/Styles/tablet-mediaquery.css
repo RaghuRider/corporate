@@ -6,13 +6,38 @@
         background-position: 23% 0px !important;
     }
 
+    .digital-cum-sub {
+        display: inline-flex;
+    }
+
+
+    p.india-para {
+        margin-left: 0px !important;
+    }
+
+    .component.iframe.contact-us iframe {
+        margin-left: 0px;
+    }
+
     .analytics-actionable -main .field-content .banner-header {
         margin-top: 0%;
+    }
+
+
+    .careers-banner .banner-header {
+        padding-left: 10px;
+    }
+
+    .component-content .cosnslult-3-com .field-promoicon img {
+        width: 50%;
+        margin-left: 0px !important;
+        margin-left: 33px !important;
     }
 
     .digital-ourservice-8 .corporate-text-left {
         width: 100%;
     }
+
 
     .analytics-aiengine .corporate-image img {
         width: 45% !important;
@@ -29,28 +54,42 @@
         padding-right: 0px;
     }
 
+
+
     .col-4.digital-ourservice-4 .Right-section ul li .field-link {
         padding-left: 56px;
     }
 
     .header.sticky #nav-trigger {
-        left: 526px;
+        left: 563px;
         top: -4px;
     }
 
-    background-position: 102%;
+    /* background-position: 102%;*/
+
 
     .carrier-popup-overlay .close {
         top: 0px;
     }
 
+    #header .component.link-list.col-3.position-right {
+        padding-top: 10px;
+    }
+
+    .carrier-popup-overlay .sitecore-form .ult_modal-content {
+        border-bottom: 1px solid #333333;
+        width: 100%;
+        margin-left: 0px !important;
+    }
+
     .carrier-popup-overlay .col-contact-4 {
-        padding-top: 70px;
+        padding-top: 18px;
     }
 
     .contact-us-banner .banner-header {
-        width: 392px !important;
+        width: 350px !important;
         padding-top: 0px;
+        padding-left: 56px;
     }
 
     .contact-us-banner .boxed position-left {
@@ -58,17 +97,49 @@
     }
 
     .wpcf7 .form-sidebar textarea {
-
-        width: 277px;
+        width: 306px;
     }
+
+    .corporate-ol li {
+        padding-left: 18%;
+    }
+
+    .leading {
+        max-width: 100% !important;
+        margin-left: 20px;
+    }
+
+    .partner-content .header-content1 p {
+        padding-left: 15px;
+        padding-right: 12px;
+    }
+
+
+
+
+
+
 
     .coporate-banner .component-content {
         background-position: 42% !important;
     }
 
+
+
+    .corporate-ol li:first-child {
+        padding-bottom: 5px;
+    }
+
     .coporate-banner .banner-header {
-        width: 410px;
-        padding-left: 18%;
+        padding-top: 0px;
+        margin-top: 0px !important;
+        width: 387px;
+        padding-left: 40%;
+        margin-top: 0% !important;
+    }
+
+    .contact-us-banner.main-banner-image-RightText .component-content {
+        background-position: 15% 0px !important;
     }
 
     .digital-experience-engineering .banner-header {
@@ -83,18 +154,13 @@
 
     .contact-captcha {
         transform: scale(0.77);
-        -webkit-transform: scale(0.93);
+        -webkit-transform: scale(1.02);
         transform-origin: 0 0;
         -webkit-transform-origin: 0 0;
     }
 
-    .main-digital-exp .subfullrange.col-6 {
-        max-width: 46% !important;
-    }
-
-    .header #nav-trigger {
-        left: 526px;
-        top: -5px;
+    .wpcf7 .form-sidebar input.btn.btn-red {
+        margin-top: 34px;
     }
 
     .position-left .component-content .field-content .banner-header {
@@ -113,45 +179,26 @@
     }
 
     #header .sticky .image {
-        max-width: 22% !important;
+        max-width: 18% !important;
         margin: 5px 0px 7px 0px;
     }
 
-    #header img {
-        width: 87px;
-        padding-top: 15px;
-        margin: 0px 0px 0px 30px;
+
+
+
+
+    /*#header .sticky img {
+
+        margin: 0px 0px 0px 0px;
     }
-
-    .header .field-image a {
-        width: 61px;
-        max-width: 241px;
-        display: inline-block;
-    }
-
-
+	*/
 
     /* #header .sticky img {
             max-width: 60%;
             padding-top: 0px;
         }*/
 
-    .carousel .field-slidelink {
 
-        margin-left: 30px;
-
-        min-width: 100px;
-
-        max-width: 127px;
-
-        padding: 0px 10px 0px 15px;
-
-        margin-top: 30px;
-
-        font-size: 14px;
-
-        height: 28px;
-    }
 
 
     .ContactUs-map {
@@ -163,7 +210,6 @@
         width: 732px;
         max-width: 40%;
         flex: 0 0 100% !important;
-
     }
 
     /*  #header .image {
@@ -172,7 +218,7 @@
         }*/
 
     #header.container .col-12:nth-child(2) .row {
-        margin: 0px 2% 0px 0%;
+        margin: 0px 0% 0px 0%;
     }
 
     .analytics-aiengine .corporate-image img {
@@ -187,22 +233,12 @@
     }
 
     .about-us-core .component-content {
-        background-position: 42%;
+        background-position: 44% !important;
     }
 
     digital-cum-sub1 {
         flex: 0 0 100%;
         max-width: 100%;
-    }
-
-    #footer #colophon {
-        padding-top: 25px !important;
-    }
-
-    .component-content .digital-cum-sub1 .col-2 img {
-        /* max-width: 300% !important; */
-        margin-left: 36px !important;
-        margin-top: 23px;
     }
 
     .carrier-popup-overlay .close {
@@ -231,17 +267,11 @@
         padding-top: 2%;
     }
 
-    .carousel .field-slidetext P:nth-child(2) {
-        padding-top: 0px;
-        margin-left: 30px;
-    }
 
-    .component-content .field-content .banner-header {
-        margin-top: 16%;
-    }
+
+
 
     .slide .slide-info p:nth-child(1) {
-
         min-width: 640px !important;
     }
 
@@ -259,14 +289,9 @@
 
     h1 {
         font-size: 30px !important;
-
     }
 
-    .col-3-home-4 {
-        max-width: 44% !important;
 
-
-    }
 
     .home-what-line {
         top: -8px;
@@ -275,9 +300,6 @@
     }
 
 
-    .six-col-content .col-12:first-child {
-        margin-bottom: 50px
-    }
 
     .col-3-home-4 .col-12 .col-12 p.quickfinder-item-text.field-promotext2 {
         width: 210px;
@@ -289,109 +311,50 @@
         max-width: 50%;
     }
 
-    .six-col-content .col-4 {
-        margin-left: 32px !important;
-        max-width: 45% !important;
 
-    }
 
-    footer .row:first-child .component-content:first-child .row:first-child .col-12 {
-        max-width: 48% !important;
-        flex: 0 0 100%;
-        /* padding-left: 5%; */
-        padding-right: 0%;
-    }
-
-    #footer .col-md-6:nth-child(2) {
-        max-width: 50%;
-        margin-left: 10%;
-    }
 
     /*****************aboout page*****************/
-    .connect-us-about .fullwidth-block-background img {
-        height: 220px;
-    }
-
-    .connect-content-about .connect-main-4 {
-
-        margin-top: 6% !important;
-        background: #fff;
-        width: 100% !important;
-        margin-bottom: 12%;
-        margin-top: 2%;
-        margin-left: 4%;
-    }
 
     .our-core-sub .core-img img {
-
         margin-left: 16px;
         width: 100%;
         height: auto;
-        margin-left: 16px;
-    }
-
-    .connect-content-about .connect-main-4 .connectUs-inner-content {
-        padding-bottom: 50px;
-    }
-
-    .connect-us-about .connect-main .title-h1 {
-
-        top: 5%;
-        text-align: center;
-        margin-left: 150px;
-    }
-
-    .connect-content-about {
-        position: absolute;
-        top: 39%;
-        background: #F0F0F0;
-        width: 100%;
-        margin-left: 62px;
-
-    }
-
-    .connect-main-4:first-child {
-        margin-top: 12%;
-    }
-
-
-
-    .circleBase {
-        position: absolute;
-        top: -45px;
-        margin-left: 46% !important;
-    }
-
-
-    .connect-content-about {
-        position: relative;
         margin-left: 0px;
-
+        margin-top: 28px;
+        min-width: 40px;
     }
 
-    .connect-main .container-connect {
-        height: 100%;
+
+    .our-core-sub {
+        margin-left: 0px !important;
     }
 
-    .circleBase {
-        position: relative;
-
+    .core-values .col-lg-6 .col-lg-3 .col-lg-2 {
+        padding-left: 0px;
+        padding-right: 0px;
     }
 
-    .connect-main-4 .col-4 {
-        text-align: center;
-        margin-top: 3%;
+    .core-values .col-lg-6 .field-title {
+        margin-left: 14px;
     }
 
-    .about-us-core .component-content:first-child {
-        background-position: -349px 0px;
+
+
+    .our-core-sub {
+        margin-left: 3px;
     }
 
-    .our-core-sub .col-lg-3 {
 
-        max-width: 36% !important;
+        .our-core-sub .col-lg-2 {
+            max-width: 73% !important;
+        }
 
-    }
+
+        .our-core-sub .col-lg-3 {
+            max-width: 36% !important;
+            margin-bottom: 60px !important;
+        }
 
     .main-banner-image-RightText .component-content .field-content {
         margin-left: 40%
@@ -406,15 +369,11 @@
     }
 
     .main-banner-image-RightText .component-content {
-
         background-position: 20% 0px !important;
-
     }
 
     .Right-section ul li:before {
-
         position: inherit !important;
-
         padding-right: 15px !important;
     }
 
@@ -423,10 +382,7 @@
         padding-top: 9px !important;
         padding-left: 0px !important;
         padding-right: 3px !important;
-
-
         width: 12px !important;
-
     }
 
     /****************digital experiece*******************/
@@ -435,19 +391,19 @@
         max-width: 100%;
     }
 
-    .digital-ourservice-6 .col-2 {
-        flex: 0 0 50%;
-        max-width: 50%;
-    }
+        .digital-ourservice-6 .col-2 {
+            flex: 0 0 50%;
+            max-width: 50%;
+        }
 
-    .digital-ourservice-6 .col-6 {
-        flex: 0 0 50%;
-        max-width: 50%;
-    }
+        .digital-ourservice-6 .col-6 {
+            flex: 0 0 50%;
+            max-width: 50%;
+        }
 
-    .digital-ourservice-6 .col-6 p.field-promotext2 {
-        margin-left: 0px !important;
-    }
+            .digital-ourservice-6 .col-6 p.field-promotext2 {
+                margin-left: 0px !important;
+            }
 
     .commerce-image .back-image2 .field-promoicon img {
         width: 59% !important;
@@ -470,11 +426,9 @@
         width: 100%;
         float: left;
         margin-left: 0px;
-
     }
 
     ol.corporate-ol span:first-child {
-
         width: 45px !important;
         height: 45px;
     }
@@ -482,27 +436,21 @@
     ol.corporate-ol span {
         width: 60px !important;
         height: 50px;
-
     }
 
 
 
     .commerce-image .back-image2 .field-promoicon img {
-
         margin-left: 0px !important;
-
     }
 
     .corporate-image img {
-
         position: inherit;
         width: 100% !imporant;
-
     }
 
     .commerce-image .back-image2 .field-promoicon img {
         width: 100% !important;
-
     }
 
     .analytics-aiengine .aiengine-left {
@@ -511,7 +459,6 @@
 
     .contact-us-banner .component-content {
         background-position: 50%;
-
     }
 
     .container .partners-banner .component-content {
@@ -519,12 +466,10 @@
         /* width: 50%; */
         max-width: 100%;
         height: auto;
-
     }
 
     .main-banner-image-RightText .component-content {
         min-height: 200px;
-
     }
 
     .corporate-text-left {
@@ -537,18 +482,17 @@
         float: left;
         width: 100%;
         height: 100%;
-
     }
 
     .corporate-image {
         width: 100% !important;
     }
 
-    .corporate-image img {
-        width: 100% !important;
-    }
+        .corporate-image img {
+            width: 100% !important;
+        }
 
-    #header .sticky img {
+    /* #header .sticky img {
 
         max-width: 100%;
         height: auto;
@@ -558,21 +502,82 @@
     }
 
     #header .image {
-        max-width: 22% !important;
+        max-width: 18% !important;
         margin: 0px 0px 7px 0px;
     }
-
+*/
     .career-field-jobapplied {
         width: 228px !important;
+    }
 
+    .Contact-Information .col-8 {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+
+    .contactus-right {
+        margin-bottom: 0px;
+    }
+
+    .at-follow-tbx-element p {
+        padding-bottom: 0px;
+        float: left;
+        padding-top: 0px;
+        margin-right: 32px;
+    }
+
+    .col-4.icon-cont {
+        max-width: 48% !important;
+        float: right;
+    }
+
+    .Contact-Information .component.column-splitter .col-4 {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+
+    .Contact-Information .at-follow-tbx-element {
+        margin-left: 36%;
+    }
+
+    .addthis_inline_follow_toolbox_9eon {
+        margin-top: 20px;
+    }
+
+    form h4.widget-title {
+        margin-top: 38px !important;
+        margin: 6px 0;
+    }
+
+    .wpcf7 .form-sidebar input {
+        width: 88%;
     }
 
     .contact-list .contacts-address {
         margin-left: 0px;
     }
 
+    .Contact-Information {
+        margin-left: 0px;
+    }
+
+        .Contact-Information .col-8 .component.rich-text.col-12 {
+            padding-left: 0px;
+        }
+
+    .contactus-right .contacts-address .contact-list {
+        margin-left: 0px;
+    }
+
+        .contactus-right .contacts-address .contact-list .gem-contacts-item gem-contacts-address,
+        .contactus-right .contacts-address .contact-list li {
+            margin-left: 0px;
+        }
+
     .contactus .contactus-right {
-        max-width: 32.333333% !important;
+        max-width: 50.333333% !important;
+        display: inline-flex;
+        flex: 0 0 87.333333%;
     }
 
     .contacts-social-icons li.facebook-icon {
@@ -586,6 +591,6 @@
     }
 
     .contactus {
-        margin-top: 77px;
+        margin-top: 30px;
     }
 }

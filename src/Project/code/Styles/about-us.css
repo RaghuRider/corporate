@@ -1,0 +1,644 @@
+/*******************what is aie enterprise started ****************************/
+.about-main-page .header-content1 p {
+    padding: 0px 0px 0px 21px;
+    text-align: justify;
+}
+
+.what_is_aie {
+    max-width: 1200px !important;
+    margin: 0px auto !important;
+}
+
+.about-main-page .image-default-size .back-image1 {
+    margin-top: 40px;
+    margin-left: 0px;
+}
+
+.about-us-core .row .component.content.col-12 {
+    max-width: 1200px !important;
+    margin: 0px auto !important;
+    height: 590px;
+}
+
+.about_us_main .container:nth-child(2) {
+    max-width: 1200px !important;
+    margin: 0px auto;
+}
+
+.about-us-core {
+    margin-top: -6px;
+}
+
+/* Our Core value*/
+
+.about-us-core .core-values .col-lg-6 .col-lg-3 {
+    float: left;
+    max-width: 38%;
+    padding-bottom: 0px;
+    margin-bottom: 102px;
+    padding-left: 0px;
+
+}
+
+.about-us-core .core-values .col-lg-6 .col-lg-3 .col-lg-2 {
+    display: inline-flex;
+    max-width: 45%;
+    padding-left: 0px;
+}
+
+.about-us-core .core-values .col-lg-6 .field-title {
+    margin-top: 104px;
+    margin-left: 54px;
+}
+
+.about-us-core .core-values .col-lg-6 .col-lg-3 .col-lg-2 a {
+    color: #5f727f;
+    font-size: 18px;
+    line-height: 25px;
+    font-weight: 400;
+    font-family: 'Montserrat';
+    text-transform: uppercase;
+    text-align: left;
+
+}
+
+.about-us-core .core-img span:nth-child(2) {
+    display: none;
+}
+
+.about-us-core .our-core-sub {
+    max-width: 100% !important;
+    margin-left: 0px;
+    margin-top: 7.5%
+}
+
+.our-core-sub .core-img img {
+    width: 50px;
+    height: 50px;
+    margin-top: 15px;
+}
+
+.our-core-sub .col-lg-3:nth-child(2) {
+    margin-right: 20%
+}
+
+.our-core-sub .col-lg-3 {
+    float: left !important;
+    padding-bottom: 0px !important;
+    margin-bottom: 50px !important;
+    display: inline-flex;
+}
+
+.our-core-sub .col-lg-2 {
+    width: 100% !important;
+    flex: 0 0 100% !important;
+    max-width: 63% !important;
+    display: inline-flex;
+}
+
+.our-core-sub .col-lg-1 {
+    flex: 0 0 31%;
+}
+
+.about-us-mission .vc_row-fluid .gem-list ul li:before {
+    content: '\f046';
+    margin-left: 0px;
+    max-width: 20px;
+    height: 20px;
+    font-size: 20px;
+    color: #5f727f;
+    font: normal normal normal 14px/1 FontAwesome;
+    margin-top: 7px;
+}
+
+.about-us-mission .vc_row-fluid .gem-list ul li:before {
+    color: #00bcd4 !important;
+
+}
+
+.about-main-page .header-content1 {
+    padding-top: 20%;
+}
+
+/*******************what is aie enterprise ended here **************************/
+/****************connect with us************************************************/
+.connect-us-about .fullwidth-block-background-bottom {
+    background-color: #F3F2F0;
+    height: 610px;
+}
+
+.about-us-core.connect-us-about .fullwidth-block-background-bottom img {
+    width: 100%;
+}
+
+.connect-content-about {
+    position: absolute;
+    top: 42%;
+    background: #fff;
+    /* margin-left: 62px;*/
+    height: 46%;
+    max-width: 1200px !important;
+}
+
+.connect-main .container-connect {
+    max-width: 1200px;
+    margin: 0px auto;
+    height: 0px;
+}
+
+.connect-us-about .connect-main .title-h1 {
+    font-family: 'Montserrat';
+    position: absolute;
+    top: 13.5%;
+    text-align: center;
+    left: 34.5%;
+}
+
+.connect-us-about .connect-main h1 {
+    color: #ffffff;
+    margin-left: 0px;
+    font-weight: 700 !important;
+    padding-top: 20px;
+
+}
+
+.connect-content-about {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.connect-content-about .row {
+    margin-right: 0px;
+    margin-left: 0px;
+}
+
+.connectUs-item-text p {
+
+    padding-left: 0px !important;
+}
+
+.connectUs-inner-content .connectUs-item-title h3 {
+    margin-left: 0px !important;
+}
+
+.connect-main-4 .col-4 {
+    text-align: center;
+    margin-top: 20%;
+
+}
+
+.connect-main-4 {
+    width: 33% !important;
+    margin: 0px auto;
+}
+
+.circleBase {
+    position: absolute;
+    top: -45px;
+    margin-left: 13% !important;
+}
+
+.connectUs-item-text p {
+    line-height: 24px;
+    padding-left: 30px;
+    padding-top: 12px;
+}
+.connectUs-item-title p {
+    line-height: 24px;
+    padding-left: 30px;
+    padding-top: 12px;
+}
+.circleBase .fa-map-marker {
+    margin-left: 26px;
+    font-size: 40px;
+    margin-top: 18px;
+    color: white
+}
+
+.circleBase .fa-envelope {
+    margin-left: 18px;
+    font-size: 40px;
+    margin-top: 18px;
+    color: white;
+
+}
+
+.circleBase .fa-headphones {
+    margin-left: 19px;
+    font-size: 40px;
+    margin-top: 18px;
+    color: white;
+}
+
+.connect-us-contentBox {
+    background-color: #ffffff;
+}
+
+.connectUs-inner-content .connectUs-item-title h3 {
+    margin-left: 72px;
+    font-weight: 100px;
+
+}
+
+
+.circleBase {
+    border-radius: 50%;
+    behavior: url(PIE.htc);
+}
+
+.type1 {
+    width: 75px;
+    height: 75px;
+    background: purple;
+    margin-left: 100px;
+}
+
+.type2 {
+    width: 75px;
+    height: 75px;
+    background-color: #4cd2b1;
+    margin-left: 100px;
+}
+
+.type3 {
+    width: 75px;
+    height: 75px;
+    background-color: #f85d52;
+    margin-left: 100px;
+}
+
+
+/**************connect with us ended here*************************************/
+/*******************desktop media query started*********************/
+@media only screen and (min-width: 1024px) {
+
+    /*********************connect us part ended here **********************/
+    .our-core-sub .col-lg-1 {
+        flex: 0 0 23%;
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+
+    .connect-us-about .connect-us-about .connect-main h1 {
+        color: #ffffff;
+        margin-left: 32px;
+    }
+
+    .about-main-page.image-default-size .back-image1 {
+        margin-top: 74px;
+        margin-left: 0px;
+    }
+
+    /*********************connect us part ended here **********************/
+    /**************about us core  started *************************/
+    .component.container.col-12.about-us-core > div.component-content {
+        background-size: 100%;
+        background-repeat: no-repeat;
+    }
+
+    .core-values .col-lg-6 .field-title {
+        margin-left: 0px !important;
+    }
+
+    .our-core-sub {
+        max-width: 100% !important;
+        margin-left: 16px;
+    }
+
+    #content .component.container.col-12.about-us-core {
+        max-width: 100% !important;
+    }
+
+    /**************about us core  *************************/
+
+}
+
+/********************desktop mediquery ended ***************/
+
+
+
+/****************mobile part started *********************/
+@media only screen and (max-width: 767px) {
+
+    .about-main-page .container .image-default-size .component-content .col-sm-12 {
+        padding-top: 95px;
+    }
+
+    .about-main-page .partner-image .back-image1 .field-promoicon {
+        padding-top: 15%;
+    margin-left: 7px;
+    margin-right: 10px;
+    width: 96% !important;
+    }
+
+    .about-main-page .partner-content .header-content1 h2 {
+        margin-top: -122%;
+    }
+
+    .about-main-page {
+        margin-bottom: 4%;
+    }
+
+    .about-us-mission .gem-list-type-checkbox ul li {
+        font-size: 18px;
+    }
+
+    .about-main-page .partner-content .header-content1 p {
+        max-width: 92% !important;
+        padding-top: 84%;
+        padding-left: 0px;
+        text-align: justify !important;
+        margin-left: 15px !important;
+        margin-right: 15px !important;
+    }
+
+    .about-main-page .partner-content {
+        margin-bottom: 4%;
+    }
+
+    .about-us-mission .header-content2 .field-promotext2 {
+        width: 80%;
+    }
+
+    .about-us-mission .header-content2 .field-promotext2 {
+        margin-left: 45px;
+
+    }
+
+    .about-us-core .row .component.content.col-12 {
+
+        height: 100%;
+    }
+
+    .about-us-core .our-core-sub {
+        margin-left: 6px;
+
+    }
+
+    .about-us-core .core-values .col-lg-6 .field-title {
+        margin-top: 30px;
+        margin-left: 6px;
+    }
+
+    /********************connecte is startng here *****************/
+    .connect-us-about .connect-main .title-h1 {
+        top: 0%;
+        text-align: center;
+        margin-left: 10%;
+        left: 0%;
+    }
+
+    .connect-us-about .fullwidth-block-background-bottom img {
+        height: auto;
+    }
+
+    .connect-us-about .connect-main h1 {
+        color: #ffffff;
+        margin-left: 0px;
+    }
+
+    .connect-content-about {
+        position: absolute;
+        top: 39%;
+        background: #F0F0F0;
+        width: 100%;
+        margin-left: 62px;
+        height: 58%;
+    }
+
+    .connect-us-about .fullwidth-block-background-bottom {
+        background-color: #F3F2F0;
+        height: 175px;
+    }
+
+    .connect-main-4 {
+        width: 100% !important;
+        margin-bottom: 12%;
+        margin-top: 2%;
+    }
+
+    .connect-us-about .fullwidth-block-background img {
+        height: 220px;
+    }
+
+    .connect-us-about .connect-content-about {
+        background: #F0F0F0;
+
+    }
+
+    .connect-us-about .connect-content-about .connect-main-4 {
+        background: #ffffff;
+        margin-bottom: 58px;
+    }
+
+    .connect-us-about .connect-content-about .connect-main-4 .col-4 .connectUs-item-text {
+        margin-left: -10px !important
+    }
+
+    .our-core-sub .col-lg-1 p {
+        padding-top: 6px;
+    }
+	.our-core-sub .core-img img {
+    width: 50px;
+    height: 50px;
+    margin-top: 27px;
+}
+.our-core-sub .col-lg-3 {
+    float: left !important;
+    padding-bottom: 0px !important;
+    margin-bottom: 0px !important;
+    display: inline-flex;
+}
+
+}
+
+/*****************mobile part eneded *****************/
+
+
+
+
+
+/*******************tablet part started *******************/
+@media (min-width: 768px) and (max-width: 1024px) {
+    .about-main-page .header-content1 {
+        padding-top: 4%;
+    }
+
+    .about-main-page .promo .field-promoicon img {
+        width: 96%;
+        height: auto;
+        margin-left: 15px;
+        margin-right: 15px;
+    }
+
+    .about-main-page .partner-image .back-image1 .field-promoicon {
+        padding-top: 10%;
+    }
+
+    .about-main-page .partner-content {
+        margin-bottom: 4%;
+    }
+
+    .about-main-page {
+        margin-bottom: 4%;
+    }
+
+    .about-main-page .container .image-default-size .component-content .col-sm-12 {
+        padding-top: 84px;
+    }
+
+    .about-main-page .partner-content .header-content1 h2 {
+        margin-top: -99%;
+    }
+
+    .about-main-page .partner-content .header-content1 p {
+        max-width: 100%;
+        padding-top: 88%;
+        padding-left: 16px;
+        padding-right: 17px;
+    }
+
+    /********connect us part is started *****************/
+    .connect-us-about .connect-content-about .connect-main-4 {
+        background: #ffffff;
+        margin-bottom: 58px;
+    }
+
+    .connect-us-about .connect-main .title-h1 {
+        top: 3%;
+        text-align: center;
+		left: 32.5%;
+
+    }
+
+    .connect-us-about .fullwidth-block-background-bottom {
+        background-color: #F3F2F0;
+        height: 242px;
+    }
+
+    .connect-us-about .fullwidth-block-background-bottom img {
+        width: 100%;
+        height: auto;
+    }
+
+    .connect-us-about .fullwidth-block-background-bottom {
+        height: 300px;
+    }
+
+    .connect-us-about .fullwidth-block-background img {
+        height: 220px;
+    }
+
+    .connect-content-about .connect-main-4 {
+        margin-top: 6% !important;
+        background: #fff;
+        width: 100% !important;
+        margin-bottom: 12%;
+        margin-top: 2%;
+        margin-left: 4%;
+        margin-right: 4%;
+    }
+
+    .col-8.connect-content-about .connect-main-4:first-child {
+        margin-top: 0% !important;
+    }
+
+    .col-8.connect-content-about .connect-main-4:first-child .circleBase.type2 {
+        position: absolute;
+        left: 0px;
+    }
+
+    .col-8.connect-content-about .connect-main-4:first-child .connectUs-inner-content:first-child {
+        padding-top: 60px;
+    }
+
+    .our-core-sub .col-lg-1 p {
+        padding-top: 6px;
+    }
+
+	.connect-us-about .fullwidth-block-background img {
+        height: 220px;
+    }
+
+    .connect-content-about .connect-main-4 {
+
+        margin-top: 6% !important;
+        background: #fff;
+        width: 100% !important;
+        margin-bottom: 12%;
+        margin-top: 2%;
+        margin-left: 4%;
+    }
+
+    .col-8.connect-content-about .connect-main-4:first-child {
+        margin-top: 0% !important;
+    }
+
+    .col-8.connect-content-about .connect-main-4:first-child .circleBase.type2 {
+        position: absolute;
+        left: 0px;
+    }
+
+    .col-8.connect-content-about .connect-main-4:first-child .connectUs-inner-content:first-child {
+        padding-top: 60px;
+    }
+ .connect-content-about .connect-main-4 .connectUs-inner-content {
+        padding-bottom: 50px;
+    }
+
+ 
+    .connect-content-about {
+        position: absolute;
+        top: 39%;
+        background: #F0F0F0;
+        width: 100%;
+        margin-left: 62px;
+
+    }
+
+    .connect-main-4:first-child {
+        margin-top: 12%;
+    }
+.circleBase {
+        position: absolute;
+        top: -45px;
+        margin-left: 44% !important;
+    }
+	.connect-content-about {
+        position: relative;
+        margin-left: 0px;
+
+    }
+
+    .connect-main .container-connect {
+        height: 100%;
+    }
+
+    .circleBase {
+        position: relative;
+
+    }
+
+    .connect-main-4 .col-4 {
+        text-align: center;
+        margin-top: 3%;
+    }
+.about-us-core .component-content:first-child {
+        background-position: -500px 0px;
+    }
+
+
+}
+
+/**************tablet ended here **************************/
+
+
+/*******************1400*******************/
+@media only screen and (min-width: 1024px) and (max-width: 1400px) {
+    .col-12.core-values .col-lg-6 {
+        max-width: 78%;
+        padding-left: 0px;
+    }
+}
+
+/*************1400ending ****************/

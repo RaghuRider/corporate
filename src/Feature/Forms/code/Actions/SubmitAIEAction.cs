@@ -24,6 +24,7 @@ namespace AIEnterprise.Feature.Forms.Actions
 
         bool isJobApplicationForm;
         bool isBookAMeeting = false;
+        bool isLookingBrochure = false;
         string EmailTemplate = "AIE_ContactEmail";
         FileUploadModel fileUpload = null;
         string contactUsRecipientsIDs = Sitecore.Context.Site.SiteInfo.Properties.Get("ContactUsRecipientsIDs");
@@ -32,6 +33,13 @@ namespace AIEnterprise.Feature.Forms.Actions
         string careersEmailsubject = Sitecore.Context.Site.SiteInfo.Properties.Get("CareersEmailsubject");
         string BookaMeetingRecipientsIDs = Sitecore.Context.Site.SiteInfo.Properties.Get("BookaMeetingRecipientsIDs");
         string BookaMeetingsubject = Sitecore.Context.Site.SiteInfo.Properties.Get("BookaMeetingsubject");
+
+
+        #region Brochure Form
+        string LookingBrochureRecipientsIDs = Sitecore.Context.Site.SiteInfo.Properties.Get("LookingBrochureRecipientsIDs");
+        string LookingBrochuresubject = Sitecore.Context.Site.SiteInfo.Properties.Get("LookingBrochuresubject");
+        #endregion
+
         string SenderEmail = Sitecore.Context.Site.SiteInfo.Properties.Get("SenderEmail");
 
         public SubmitAIEAction(ISubmitActionData submitActionData) : base(submitActionData)
@@ -111,10 +119,21 @@ namespace AIEnterprise.Feature.Forms.Actions
                 EmailTemplate = "AIE_CareersEmail";
             }
 
-            if (hstable.ContainsKey("Evaluation"))
+            else if (formSubmitContext.FormId != null && formSubmitContext.FormId.Equals(new Guid("{12222371-463a-4679-b9e2-c15187a8116a}")))
+
             {
                 isBookAMeeting = true;
                 EmailTemplate = "AIE_BookAMeeting";
+            }
+
+            else if (hstable.ContainsKey("Brochure"))
+            {
+                isLookingBrochure = true;
+                EmailTemplate = "AIE_LookingBrochure";
+            }
+            else
+            {
+                EmailTemplate = "AIE_ContactEmail";
             }
 
             bool isMailSent = SendEmailNotification(hstable);
@@ -144,11 +163,19 @@ namespace AIEnterprise.Feature.Forms.Actions
                     subject = BookaMeetingsubject;
                     allEmails = BookaMeetingRecipientsIDs.Split(';');
                 }
+
+                else if (isLookingBrochure)
+                {
+                    subject = LookingBrochuresubject;
+                    allEmails = LookingBrochureRecipientsIDs.Split(';');
+                }
+
                 else
                 {
                     subject = contactUsEmailsubject;
                     allEmails = contactUsRecipientsIDs.Split(';');
                 }
+
 
                 foreach (string email in allEmails)
                 {

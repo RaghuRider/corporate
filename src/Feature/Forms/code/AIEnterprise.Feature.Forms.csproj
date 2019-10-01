@@ -202,6 +202,7 @@
     <Content Include="EmailTemplate\AIE_CareersEmail.html" />
     <Content Include="EmailTemplate\AIE_BookAMeeting.html" />
     <Content Include="EmailTemplate\AIE_ContactEmail.html" />
+    <Content Include="EmailTemplate\AIE_LookingBrochure.html" />
     <Content Include="Views\FormBuilder\FieldTemplates\ConfirmationPopup.cshtml" />
     <Content Include="Views\FormBuilder\FieldTemplates\AIEHiddenField.cshtml" />
     <Content Include="App_Config\Include\AIEnterprise\Feature\FormsExtensions\Feature.FormsExtensions.FileUploadStorageProviders.config" />
