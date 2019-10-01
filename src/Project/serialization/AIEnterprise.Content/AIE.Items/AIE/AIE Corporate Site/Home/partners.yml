@@ -56,14 +56,14 @@ Languages:
               p:after="r[@uid='{BE9B501D-95C2-4E2E-BA76-89B506F2CD61}']"
               s:ds="{03735BF3-1FD4-42FC-9E3F-5C101F27D44E}"
               s:id="{51C13F03-8364-4F61-B860-2EC6CA7439B3}"
-              s:par="GridParameters=%7b908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7d&amp;DynamicPlaceholderId=15&amp;Caching=0%7c0%7c0%7c0%7c0%7c0%7c0%7c0&amp;FieldNames=%7bE5AF05E7-454B-41AD-9515-99928B20C50E%7d"
+              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7BE5AF05E7-454B-41AD-9515-99928B20C50E%7D&amp;Styles=%7B48C7845F-4CF8-43CD-91D0-10C4311CF635%7D&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=15"
               s:ph="main" />
             <r
               uid="{0DDBE948-1BF4-4173-A841-F0A6DB4C5A71}"
               p:after="*[1=2]"
               s:ds="{0A4F94BB-BAF3-4C62-8E2B-A17359B503E6}"
               s:id="{8B0393E9-EE25-4F0B-A5FD-777B3AD2C737}"
-              s:par="FieldNames=%7bE5487834-C545-4032-8225-2B40FBC256B0%7d&amp;GridParameters=%7b908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7d"
+              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7BE5487834-C545-4032-8225-2B40FBC256B0%7D&amp;Styles=%7BD0C0BEFC-1603-453E-80DE-2FE53D555F6D%7D&amp;Reset Caching Options&amp;RenderingIdentifier"
               s:ph="main" />
           </d>
         </r>
