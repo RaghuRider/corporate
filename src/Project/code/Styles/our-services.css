@@ -14,9 +14,9 @@
     padding-right: 18px;
 }
 
-.ourservices-main > p {
-    margin-bottom: 5% !important;
-}
+    .ourservices-main > p {
+        margin-bottom: 5% !important;
+    }
 
 .our-service-headline .wpb_wrapper {
     margin: 50px 0px;
@@ -49,17 +49,17 @@
     padding: 50px 50px 50px 50px;
 }
 
-.our-services .abouot-balck-box p:after {
-    position: absolute;
-    font-size: 76px;
-    right: 44px;
-    content: '\f10e';
-    margin-left: 0px;
-    width: 67px;
-    top: 50%;
-    color: #4dd0e1;
-    font: normal normal normal 50px/1 FontAwesome;
-}
+    .our-services .abouot-balck-box p:after {
+        position: absolute;
+        font-size: 76px;
+        right: 44px;
+        content: '\f10e';
+        margin-left: 0px;
+        width: 67px;
+        top: 55%;
+        color: #4dd0e1;
+        font: normal normal normal 50px/1 FontAwesome;
+    }
 
 .ourservices-main .abouot-balck-box p {
     color: #bcc6cd;
@@ -72,10 +72,12 @@
     margin-bottom: 5%;
 }
 
+/*
 .ourservices-right-text li,
 .our-services-mission li {
     list-style: none !important;
 }
+*/
 
 /*********The perfect intersection end*******/
 
@@ -83,25 +85,20 @@
     margin-top: 70px;
     margin-bottom: 60px;
     text-align: center;
-
 }
 
 .subfullrange.col-6:first-child {
     /* border-bottom: 1px solid transparent; */
-
 }
 
 .subfullrange.col-6:hover {
-
     background: #1b1a1a !important;
     border: 1px dashed #f2f2f2 !important;
-
 }
 
 .subfullrange.col-6:nth-child(2),
 .subfullrange.col-6:nth-child(4),
 .subfullrange.col-6:nth-child(6) {
-
     margin-right: 0px !important;
     margin-left: 20px;
     border-radius: 12px;
@@ -126,35 +123,31 @@
 .main-fullrange {
     width: 87%;
     margin-left: 11%;
-
 }
 
 
-.main-fullrange .subfullrange p {
-    color: #fff;
-    text-align: center;
-    padding-bottom: 10%;
-    font-size: 24px
-}
+    .main-fullrange .subfullrange p {
+        color: #fff;
+        text-align: center;
+        padding-bottom: 10%;
+        font-size: 24px
+    }
 
 
-.main-fullrange .subfullrange a {
-    width: 100%;
+    .main-fullrange .subfullrange a {
+        width: 100%;
+    }
 
-}
+        .main-fullrange .subfullrange a img {
+            margin-left: 45%;
+            text-align: center;
+            margin-top: 14% !important;
+        }
 
-.main-fullrange .subfullrange a img {
-    margin-left: 45% !important;
-    text-align: center;
-
-    margin-top: 14% !important;
-}
-
-.main-fullrange .subfullrange img {
-
-    width: 50px;
-    height: 50px
-}
+    .main-fullrange .subfullrange img {
+        width: 50px;
+        height: 50px
+    }
 
 /******************************features of digital experience***********************/
 
@@ -174,7 +167,6 @@
 
 .main-digital-exp .subfullrange.col-6:first-child {
     /* border-bottom: 1px solid transparent; */
-
 }
 
 .main-digital-exp .subfullrange div {
@@ -184,7 +176,6 @@
 .main-digital-exp .subfullrange.col-6:nth-child(2),
 .subfullrange.col-6:nth-child(4),
 .subfullrange.col-6:nth-child(6) {
-
     margin-right: 0px !important;
     margin-left: 20px
 }
@@ -193,44 +184,166 @@
     border-bottom: none;
     background: none;
     flex: 0 0 50%;
-    max-width: 47% !important;
+    max-width: 46% !important;
     display: inline-flex;
     margin-right: 12px;
     border: 1px dashed #302E5E;
     background: #302e3c;
-
 }
 
 .main-digital-exp {
     width: 87%;
     margin-left: 9%;
-
 }
 
 
-.main-digital-exp .subfullrange p {
-    color: #fff;
+    .main-digital-exp .subfullrange p {
+        color: #fff;
+        text-align: center;
+        padding-bottom: 10%;
+        font-size: 24px;
+        /* padding-left: 17%; */
+    }
+
+    .main-digital-exp .subfullrange {
+        width: 100%;
+    }
+
+        .main-digital-exp .subfullrange img {
+            margin-left: 43% !important;
+            text-align: center;
+            margin-top: 14% !important;
+        }
+
+        .main-digital-exp .subfullrange img {
+            width: 50px;
+            height: 50px
+        }
+
+/*****************************our-services/invigorated-commerce start*******************************/
+
+.component.container.our-services-inner {
+    max-width: 1200px;
+}
+
+.our-services-inner .col-8.digital-ourservice-8 {
+    padding-left: 10px !important;
+    padding-right: 10px !important;
+}
+
+.our-services-inner .container-fluid {
+    padding: 0px;
+}
+
+.our-services-inner .col-4.digital-ourservice-4 {
+    padding-left: 15px !important;
+    padding-right: 15px !important;
+}
+
+.our-services-inner .col-6.digital-ourservice-6 {
+    padding-left: 10px !important;
+    padding-right: 10px !important;
+}
+
+.promo > .component-content {
+    border-style: none !important;
+}
+
+.component-content .digital-cum-sub1 {
+    display: inline-flex;
+}
+
+.digital-cum-sub1.digital-ex-content .col-6 {
+    padding-left: 0px;
+}
+
+.component-content .digital-cum-sub1 .col-6 p {
+    text-align: justify;
+    width: 124%;
+    line-height: 28px;
+}
+
+.component-content .digital-cum-sub1 .col-2 img {
+    margin-left: 79px !important;
+    margin-top: 23px;
+}
+
+.component-content .digital-mar .field-promotext {
+    color: #3c3950 !important;
+    line-height: 38px;
+    margin-left: 0px;
+    font-size: 24px !important;
+    font-family: 'Montserrat';
+}
+
+.component-content .digital-ex .field-promotext {
+    color: #3c3950 !important;
+    line-height: 38px;
+    margin-left: 0px;
+    font-size: 24px !important;
+    font-family: 'Montserrat';
+}
+
+/*****************Right Nav***********************/
+
+.Right-section h3 {
     text-align: center;
-    padding-bottom: 10%;
-    font-size: 24px;
-    /* padding-left: 17%; */
+    text-transform: inherit !important;
+    font-weight: 400;
+    border-bottom-style: none;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    border-bottom-style: none !important;
+    font-size: 19px !important;
+    font-family: 'Montserrat';
 }
 
-.main-digital-exp .subfullrange {
-    width: 100%;
+    .Right-section h3:after {
+        font-family: "FontAwesome";
+        color: red;
+        content: '\f0d7';
+        font-size: 19px;
+        padding-left: 8px;
+        font-weight: normal
+    }
 
+.Right-section ul {
+    margin-bottom: 1.421em;
+    background-color: #f4f6f7 !important;
 }
 
-.main-digital-exp .subfullrange img {
-    margin-left: 43% !important;
-    text-align: center;
-    margin-top: 14% !important;
-}
+    .Right-section ul li {
+        padding-bottom: 25px;
+        padding-top: 20px;
+        border-bottom: 1px solid #dfe5e8;
+    }
 
-.main-digital-exp .subfullrange img {
+        .Right-section ul li:before {
+            content: '\f0f6 ';
+            float: left;
+            font-family: "fontawesome";
+            font-size: 24px;
+            padding-left: 22px;
+            padding-right: 6px;
+            position: absolute;
+        }
 
-    width: 50px;
-    height: 50px
+        .Right-section ul li .field-link a {
+            margin-left: 43px;
+            padding-top: 9px;
+            padding-right: 24px;
+            font-size: 16px;
+            color: #384554;
+        }
+
+            .Right-section ul li .field-link a:hover {
+                border-bottom: none;
+                color: #00bcd4;
+            }
+
+/*****************Right Nav end***********************/
+
+@media only screen and (max-width: 1400px) and (min-width: 1024px) {
 }
 
 /************Media query start****************/
@@ -290,11 +403,11 @@
         max-width: 100% !important;
     }
 
-    .subfullrange.col-6:nth-child(2),
-    .subfullrange.col-6:nth-child(4),
-    .subfullrange.col-6:nth-child(6) {
-        margin-bottom: 32px;
-    }
+        .subfullrange.col-6:nth-child(2),
+        .subfullrange.col-6:nth-child(4),
+        .subfullrange.col-6:nth-child(6) {
+            margin-bottom: 32px;
+        }
 
     .ourservices-fullrange > .component-content {
         padding-bottom: 0%;
@@ -307,7 +420,63 @@
     .ourservices-right-text ul li {
         margin-left: 4px !important;
     }
+
+    .component-content .digital-cum-sub1 {
+        display: inherit;
+    }
+
+    .digital-ourservice-8 .col-6 {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+
+    .digital-ourservice-8 .col-2 {
+        flex: 0 0 100%;
+        max-width: 100%;
+        padding-left: 15px;
+    }
+
+    .digital-ourservice-6 {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+
+        .digital-ourservice-6 .col-2 {
+            flex: 0 0 100%;
+            max-width: 100%;
+        }
+
+        .digital-ourservice-6 .col-6 {
+            flex: 0 0 100%;
+            max-width: 100%;
+        }
+
+    .digital-ourservice-8 {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+
+    .component.container.our-services-inner p {
+        font-size: 18px !important;
+        text-align: justify;
+        width: 100%;
+    }
+
+    .digital-cum-sub1.digital-ex-content .col-6 {
+        padding-left: 15px;
+    }
+
+    .digital-cum-sub:nth-child(2) .col-2 img {
+        width: 100%;
+    }
 }
+
+@media only screen and (max-width: 768px) {
+    .our-services-inner .col-4.digital-ourservice-4 {
+        display: none;
+    }
+}
+
 
 /************mobile media end**************/
 
@@ -345,6 +514,52 @@
         padding-bottom: 0%;
     }
 
+    .main-fullrange .subfullrange a img {
+        margin-left: 40%;
+    }
+
+    .our-services-inner .col-8.digital-ourservice-8 {
+        -ms-flex: 0 0 100.666667%;
+        flex: 0 0 100.666667%;
+        max-width: 100.666667%;
+    }
+
+    .component-content .digital-cum-sub1 .col-2 img {
+        max-width: 300% !important;
+        margin-left: 68px !important;
+        margin-top: 23px;
+    }
+
+    .digital-cum-sub:nth-child(2) .col-6 {
+        display: inline-flex;
+        padding-left: 0px;
+        -ms-flex: 0 0 60%;
+        flex: 0 0 60%;
+        max-width: 60%;
+    }
+
+    .digital-cum-sub:nth-child(2) .col-2 {
+        display: inline-flex;
+        padding-left: 0px;
+        -ms-flex: 0 0 40.666667%;
+        flex: 0 0 40.666667%;
+        max-width: 40.666667%;
+        order: 2;
+    }
+
+    .digital-cum-sub .col-6 .field-promotext2 {
+        padding-top: 0px;
+        text-align: justify;
+    }
+
+    .digital-cum-sub:nth-child(2) .col-2 img {
+        max-width: 100%;
+        width: 100%;
+    }
+
+    .fullrange-h .field-title {
+        line-height: 40px;
+    }
 }
 
 /****************Tablet media end***********************/
@@ -363,12 +578,55 @@
     .ourservices-fullrange > .component-content {
         padding-bottom: 30px;
     }
+
+    .digital-cum-sub {
+        display: inline-flex;
+    }
+
+        .digital-cum-sub:nth-child(2) .col-2 {
+            display: inline-flex;
+            max-width: 53.666667%;
+        }
+
+        .digital-cum-sub .col-2 {
+            display: inline-flex;
+            max-width: 38.666667%;
+            padding-left: 0px;
+        }
+
+        .digital-cum-sub:nth-child(2) .col-6 {
+            display: inline-flex;
+            max-width: 53.666667%;
+            padding-left: 0px;
+        }
+
+        .digital-cum-sub .col-6 .field-promotext2 {
+            padding-top: 0px;
+            margin-top: 0px;
+            text-align: justify;
+        }
+
+    #content.inerservice-page .component.container.col-12:last-child {
+        max-width: 100% !important;
+    }
 }
+
+/*********************desktop end***********************/
 
 @media only screen and (max-width: 1400px) and (min-width: 1024px) {
     .subfullrange.col-6 {
         max-width: 43% !important;
     }
-}
 
-/*********************desktop end***********************/
+    .main-digital-exp .subfullrange.col-6 {
+        max-width: 46% !important;
+        border: 1px dashed #302E5E;
+        background: #302e3c;
+    }
+
+        .main-digital-exp .subfullrange.col-6:hover {
+            max-width: 46% !important;
+            border: 1px dashed #f2f2f2;
+            background: #1b1a1a;
+        }
+}
