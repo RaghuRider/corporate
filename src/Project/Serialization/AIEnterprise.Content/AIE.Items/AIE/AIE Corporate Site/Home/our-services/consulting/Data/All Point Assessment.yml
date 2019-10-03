@@ -19,5 +19,5 @@ Languages:
     - ID: "b3635965-6786-457c-9dee-28de73c0a331"
       Hint: Text
       Value: |
-        <h2 class="event-headline field-promotext">All Point Assessment</h2>
-        <p>We become embedded within your team.  Your plan becomes our plan  Your brand becomes our brand. We can prescribe a pertinent activities like Code Reviews, Architecture Reviews, Performance Reviews, Security Reviews, Operations Reviews, etc.  The results of our reviews can be used internally, shared with other partners  or be used to drive projects lead by AIEnterprise. It is imperative to establish a baseline prior to starting heavy investing on the perceived ‘next thing’.</p>
+        <h2 class="event-headline field-promotext consulting-h2">All Point Assessment</h2>
+        <p class="consulting-p">We become embedded within your team.  Your plan becomes our plan  Your brand becomes our brand. We can prescribe a pertinent activities like Code Reviews, Architecture Reviews, Performance Reviews, Security Reviews, Operations Reviews, etc.  The results of our reviews can be used internally, shared with other partners  or be used to drive projects lead by AIEnterprise. It is imperative to establish a baseline prior to starting heavy investing on the perceived &lsquo;next thing&rsquo;.</p>

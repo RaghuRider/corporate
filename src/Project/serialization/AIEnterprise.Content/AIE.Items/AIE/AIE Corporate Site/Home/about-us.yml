@@ -63,7 +63,7 @@ Languages:
               p:after="r[@uid='{73189A70-750C-4C54-B5DC-C7B062FB47AF}']"
               s:ds=""
               s:id="{896A2C68-1362-4E88-8BA0-1805AE6D4837}"
-              s:par="DynamicPlaceholderId=16"
+              s:par="DynamicPlaceholderId=16&amp;GridParameters&amp;BackgroundImage&amp;Styles=%7BDFECDDF6-5992-4F21-BCCC-1D161D07523E%7D"
               s:ph="main" />
             <r
               uid="{7E1CCED7-F5A7-449D-A0B6-ACEEEE18784A}"
