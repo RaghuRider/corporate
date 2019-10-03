@@ -132,7 +132,7 @@ Languages:
       Hint: Content
       Value: |
         <div class="banner-header">
-        <h1>Invigorated Commerce</h1>
+        <h1>INVIGORATED COMMERCE</h1>
         <h4>It is in our DNA. Global. With a local flavor.</h4>
         </div>
     - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
@@ -145,7 +145,7 @@ Languages:
       Value: "og:locale=en_US&og:type=article&og:title=Invigorated%20Commerce%20-%20AiEnterprise%20Inc.&og:site_name=AiEnterprise%20Inc.&article:publisher=https%3A%2F%2Fwww.facebook.com%2Faienterpriseinc%2F&og:image=http%3A%2F%2Fdev.aienterprise.com%2F-%2Fmedia%2FProject%2FAIE%2FAIE-Corporate-Site%2FBannerImages%2FINVIGORATED-COMMERCE.jpg"
     - ID: "bb6835c4-82af-4d11-9102-a61694c17055"
       Hint: Title
-      Value: INVIGORATED COMMERCE
+      Value: Invigorated Commerce
     - ID: "ce53062e-4385-4244-8382-c2b4530a51ba"
       Hint: TwitterCardType
       Value: "{C770CC78-859C-4B9A-B509-5EC1F9E20985}"
