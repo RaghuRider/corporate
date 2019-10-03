@@ -70,7 +70,7 @@ Languages:
               p:after="r[@uid='{9B4E384D-8601-4959-B67E-17D1C50E865F}']"
               s:ds="{77CA28A9-7F9D-43E7-830E-C9870AF80AF9}"
               s:id="{DCEE78E1-1843-4456-A13A-F10A12191630}"
-              s:par="Styles=%7b0DD2F09B-7734-4874-A978-954B2D3CD5F6%7d%7c%7bD874F1FF-8E9C-45CA-B29C-DC151E22A0C3%7d&amp;GridParameters=%7b908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7d"
+              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames&amp;Styles=%7B7A871B36-2036-4DC6-B2C4-900C483924DC%7D%7C%7B0DD2F09B-7734-4874-A978-954B2D3CD5F6%7D%7C%7BD874F1FF-8E9C-45CA-B29C-DC151E22A0C3%7D&amp;Reset Caching Options&amp;RenderingIdentifier"
               s:ph="main" />
             <r
               uid="{F07E9633-899E-4FF2-9139-AE1993A3E5C8}"
