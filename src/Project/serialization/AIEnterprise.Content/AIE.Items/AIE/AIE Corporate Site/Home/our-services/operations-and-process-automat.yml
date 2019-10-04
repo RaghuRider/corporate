@@ -74,7 +74,7 @@ Languages:
               p:after="r[@uid='{A046B969-E7A2-483D-9D7E-B92685594D59}']"
               s:ds="{33A965CF-E98D-43CA-862C-2FA6BF6B9BC2}"
               s:id="{51C13F03-8364-4F61-B860-2EC6CA7439B3}"
-              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7B28180243-17FD-46BB-900B-7272AC4E74DA%7D&amp;Styles&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=22"
+              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7B28180243-17FD-46BB-900B-7272AC4E74DA%7D&amp;Styles=%7B976985BA-F2DE-4F30-9724-9974CEF6FD51%7D&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=22"
               s:ph="/main/sxa-ourservicebody/container-5/row-1-1/row-2-20" />
             <r
               uid="{16F59680-913D-4E3B-A82D-C9AB4684B0E3}"
@@ -102,7 +102,7 @@ Languages:
               p:after="r[@uid='{0EB85B46-8008-4433-A977-81CD686EA66C}']"
               s:ds="local:/Data/Our People Your Pain Points"
               s:id="{87182F78-4399-4896-8D59-9D6A45282F8A}"
-              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames&amp;Styles=%7BD874F1FF-8E9C-45CA-B29C-DC151E22A0C3%7D&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=19"
+              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames&amp;Styles=%7B0DD2F09B-7734-4874-A978-954B2D3CD5F6%7D%7C%7BD874F1FF-8E9C-45CA-B29C-DC151E22A0C3%7D&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=19"
               s:ph="/main/sxa-ourservicebody/container-5/row-2-1/row-1-2" />
             <r
               uid="{1437E2DD-BF62-4569-B1B9-56715216718B}"
