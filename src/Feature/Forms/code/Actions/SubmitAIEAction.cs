@@ -27,15 +27,23 @@ namespace AIEnterprise.Feature.Forms.Actions
         bool isLookingBrochure = false;
         string EmailTemplate = "AIE_ContactEmail";
         FileUploadModel fileUpload = null;
+
+        #region Contact Form Variables
         string contactUsRecipientsIDs = Sitecore.Context.Site.SiteInfo.Properties.Get("ContactUsRecipientsIDs");
         string contactUsEmailsubject = Sitecore.Context.Site.SiteInfo.Properties.Get("ContactUsEmailsubject");
+        #endregion
+
+        #region Profile Form Variables
         string careersRecipientsIDs = Sitecore.Context.Site.SiteInfo.Properties.Get("CareersRecipientsIDs");
         string careersEmailsubject = Sitecore.Context.Site.SiteInfo.Properties.Get("CareersEmailsubject");
+        #endregion
+
+        #region Book a Meeting Form Variables
         string BookaMeetingRecipientsIDs = Sitecore.Context.Site.SiteInfo.Properties.Get("BookaMeetingRecipientsIDs");
         string BookaMeetingsubject = Sitecore.Context.Site.SiteInfo.Properties.Get("BookaMeetingsubject");
+        #endregion
 
-
-        #region Brochure Form
+        #region Brochure Form Variables
         string LookingBrochureRecipientsIDs = Sitecore.Context.Site.SiteInfo.Properties.Get("LookingBrochureRecipientsIDs");
         string LookingBrochuresubject = Sitecore.Context.Site.SiteInfo.Properties.Get("LookingBrochuresubject");
         #endregion
@@ -113,28 +121,37 @@ namespace AIEnterprise.Feature.Forms.Actions
             hstable = formDict.GetFieldsDictionary(formSubmitContext.Fields);
             Dictionary<string, string> attributeList = new Dictionary<string, string>();
 
-            if (hstable.ContainsKey("JobApplied"))
+            #region Profile Form
+            if (formSubmitContext.FormId != null && formSubmitContext.FormId.Equals(new Guid("{3C63E239-4DE8-4615-8C1F-B1C35A2167D8}")))
             {
                 isJobApplicationForm = true;
                 EmailTemplate = "AIE_CareersEmail";
             }
+            #endregion
 
+            #region Book a Meeting Form
             else if (formSubmitContext.FormId != null && formSubmitContext.FormId.Equals(new Guid("{12222371-463a-4679-b9e2-c15187a8116a}")))
 
             {
                 isBookAMeeting = true;
                 EmailTemplate = "AIE_BookAMeeting";
             }
+            #endregion
 
-            else if (hstable.ContainsKey("Brochure"))
+            #region Looking For Brochure Form
+            else if (formSubmitContext.FormId != null && formSubmitContext.FormId.Equals(new Guid("{9EDEE103-DE3C-45F7-970D-FC1D13D5D7D4}")))
             {
                 isLookingBrochure = true;
                 EmailTemplate = "AIE_LookingBrochure";
             }
+            #endregion
+
+            #region Contact Corporate Form
             else
             {
                 EmailTemplate = "AIE_ContactEmail";
-            }
+            } 
+            #endregion
 
             bool isMailSent = SendEmailNotification(hstable);
 
