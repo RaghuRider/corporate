@@ -152,7 +152,7 @@ Languages:
               p:after="*[1=2]"
               s:ds=""
               s:id="{896A2C68-1362-4E88-8BA0-1805AE6D4837}"
-              s:par="GridParameters=%7b908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7d&amp;DynamicPlaceholderId=6"
+              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;DynamicPlaceholderId=6&amp;BackgroundImage&amp;Styles=%7BB8CF2A56-BA7C-4813-A573-F8CE83961644%7D"
               s:ph="main" />
           </d>
         </r>
