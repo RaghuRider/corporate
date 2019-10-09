@@ -1,8 +1,8 @@
 ﻿---
-ID: "735d045e-affb-4368-86e0-2f18000fe6a8"
-Parent: "ef97bbe5-b36d-467e-9af5-6faf471049d7"
+ID: "0d4dc71e-8f05-4105-9e25-5bf47558ca33"
+Parent: "7ff258a5-7e00-46d1-bfd3-3d7d16b3a974"
 Template: "0908030b-4564-42ea-a6fa-c7a5a2d921a8"
-Path: /sitecore/Forms/AIE/AIE Corporate Site/Profile Form/Page/div/div/form/Failed
+Path: "/sitecore/Forms/AIE/AIE Corporate Site/Profile Form/Page/div/div/form/Pop-up/Confirmation"
 DB: master
 SharedFields:
 - ID: "589a7ade-81d4-4a60-b9e2-7eaf6ae8a563"
@@ -10,10 +10,10 @@ SharedFields:
   Value: "{A2C5CC35-30CB-489A-8C84-B3ED0C0FDB9D}"
 - ID: "7abaa3f6-6ec0-4b65-a463-7919bfae55aa"
   Hint: Css Class
-  Value: "title-fail"
+  Value: "title-success"
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
-  Value: 700
+  Value: 400
 Languages:
 - Language: en
   Versions:
@@ -31,4 +31,4 @@ Languages:
       Value: 
     - ID: "b775bca9-2605-4d60-b367-a0c354be2504"
       Hint: Default Value
-      Value: REQUEST FAILED
+      Value: REQUEST CONFIRMED
