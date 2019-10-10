@@ -1,8 +1,8 @@
 ﻿---
-ID: "adfa153e-5cbb-4b7c-b602-0ac994e31e7f"
-Parent: "1a747e55-5135-448e-8997-7ea2d737c0df"
+ID: "263f5759-9009-47ce-9467-93d80aba931e"
+Parent: "7ff258a5-7e00-46d1-bfd3-3d7d16b3a974"
 Template: "0908030b-4564-42ea-a6fa-c7a5a2d921a8"
-Path: /sitecore/Forms/AIE/AIE Corporate Site/Looking For a Brochure/Page/div/div/div/Brochuer
+Path: "/sitecore/Forms/AIE/AIE Corporate Site/Profile Form/Page/div/div/form/Pop-up/FailureMessage"
 DB: master
 SharedFields:
 - ID: "589a7ade-81d4-4a60-b9e2-7eaf6ae8a563"
@@ -10,10 +10,10 @@ SharedFields:
   Value: "{A2C5CC35-30CB-489A-8C84-B3ED0C0FDB9D}"
 - ID: "7abaa3f6-6ec0-4b65-a463-7919bfae55aa"
   Hint: Css Class
-  Value: 
+  Value: "subtitle-fail"
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
-  Value: 75
+  Value: 700
 Languages:
 - Language: en
   Versions:
@@ -31,4 +31,4 @@ Languages:
       Value: 
     - ID: "b775bca9-2605-4d60-b367-a0c354be2504"
       Hint: Default Value
-      Value: 
+      Value: Please try again later.

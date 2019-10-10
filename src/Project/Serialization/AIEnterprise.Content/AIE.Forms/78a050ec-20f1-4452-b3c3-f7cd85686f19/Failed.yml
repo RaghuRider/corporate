@@ -1,8 +1,8 @@
 ﻿---
 ID: "1e63ec31-71e9-4652-aaca-2f9c52ce33dc"
-Parent: "f1579bda-db1f-4d37-aca1-5436b67192fd"
+Parent: "78a050ec-20f1-4452-b3c3-f7cd85686f19"
 Template: "0908030b-4564-42ea-a6fa-c7a5a2d921a8"
-Path: /sitecore/Forms/AIE/AIE Corporate Site/Contact Corporate Form/Page/form/div/div/div/div/Failed
+Path: "/sitecore/Forms/AIE/AIE Corporate Site/Contact Corporate Form/Page/form/div/div/div/div/Pop-up/Failed"
 DB: master
 SharedFields:
 - ID: "589a7ade-81d4-4a60-b9e2-7eaf6ae8a563"
@@ -11,6 +11,9 @@ SharedFields:
 - ID: "7abaa3f6-6ec0-4b65-a463-7919bfae55aa"
   Hint: Css Class
   Value: "title-fail"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 50
 Languages:
 - Language: en
   Versions:

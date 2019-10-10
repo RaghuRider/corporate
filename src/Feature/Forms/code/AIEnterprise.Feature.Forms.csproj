@@ -206,6 +206,7 @@
     <Content Include="Views\FormBuilder\FieldTemplates\ConfirmationPopup.cshtml" />
     <Content Include="Views\FormBuilder\FieldTemplates\AIEHiddenField.cshtml" />
     <Content Include="App_Config\Include\AIEnterprise\Feature\FormsExtensions\Feature.FormsExtensions.FileUploadStorageProviders.config" />
+    <Content Include="Views\FormBuilder\FieldTemplates\DropdownList.cshtml" />
     <None Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
