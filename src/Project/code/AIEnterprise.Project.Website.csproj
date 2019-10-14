@@ -69,6 +69,7 @@
   <ItemGroup>
     <Content Include="App_Config\Include\zzz.AIEnterprise\Project\AIEnterprise.Roles.Serialization.config" />
     <Content Include="App_Config\Include\zzz.AIEnterprise\Project\AIEnterprise.Users.Serialization.config" />
+    <Content Include="App_Config\Include\Disable_sql_server_access_from_xslt.config" />
     <None Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
