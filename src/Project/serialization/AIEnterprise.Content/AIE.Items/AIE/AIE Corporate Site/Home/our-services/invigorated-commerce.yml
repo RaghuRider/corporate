@@ -81,7 +81,7 @@ Languages:
               p:after="r[@uid='{288F31EF-7718-4DAE-863B-AC1A917379DE}']"
               s:ds="local:/Data/Our Service Feature List"
               s:id="{8B0393E9-EE25-4F0B-A5FD-777B3AD2C737}"
-              s:par="GridParameters=%7B742CA7FF-6640-441F-A4AC-4A7446A3B895%7D&amp;FieldNames=%7B6304A76A-BD86-4B3F-91BD-01807091FAD8%7D&amp;Styles&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=10"
+              s:par="GridParameters=%7B742CA7FF-6640-441F-A4AC-4A7446A3B895%7D&amp;FieldNames=%7B6304A76A-BD86-4B3F-91BD-01807091FAD8%7D&amp;Styles=%7B2E08564C-CB6E-4AAE-8EB4-A54575D0FC6E%7D&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=10"
               s:ph="/main/sxa-ourservicebody/container-7/container-9" />
             <r
               uid="{AE9216F4-8363-4F1C-B562-2F89DA7FDE60}"
@@ -122,6 +122,10 @@ Languages:
     - ID: "48a66e40-d164-4c8e-bc06-172ecc6769ec"
       Hint: TwitterTitle
       Value: "Invigorated Commerce - AiEnterprise Inc."
+    - ID: "4c2f221f-9426-45ed-9eeb-c79bb3169565"
+      Hint: StickyNotes
+      Value: |
+        {"items":[]}
     - ID: "4d263b95-322f-4003-adbd-70920facf823"
       Hint: TwitterDescription
       Value: It is in our DNA. Global. With a local flavor.
