@@ -10,7 +10,7 @@ SharedFields:
   Value: "{18C8C889-C723-452A-970C-7CE4D41EE371}"
 - ID: "bea2740e-90d1-4b16-bd1d-7a7cc8605d2d"
   Hint: CssClass
-  Value: "col-8"
+  Value: "col-lg-8 col-sm-12 col-md-8"
 Languages:
 - Language: en
   Versions:
