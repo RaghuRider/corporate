@@ -10,7 +10,7 @@ SharedFields:
   Value: "-/media/B568BD4D7001464FA1A9CBEC9979A643.ashx?h=16&thn=1&w=16"
 - ID: "22eac599-f13b-4607-a89d-c091763a467d"
   Hint: Width
-  Value: 768
+  Value: 
 - ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
   Hint: Blob
   BlobID: "ccddabe8-69e9-4641-a717-5df0d8c21568"
@@ -29,7 +29,7 @@ SharedFields:
   Value: 768 x 558
 - ID: "de2ca9e4-c117-4c8a-a139-1ff4b199d15a"
   Hint: Height
-  Value: 558
+  Value: 
 Languages:
 - Language: en
   Versions:
