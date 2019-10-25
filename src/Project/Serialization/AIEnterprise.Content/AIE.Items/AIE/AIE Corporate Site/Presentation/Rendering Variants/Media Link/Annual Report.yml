@@ -1,0 +1,14 @@
+﻿---
+ID: "67396311-57b4-46e4-817b-99762bee94ec"
+Parent: "ecb9848c-47db-4e61-9738-da6abde57de6"
+Template: "fb3e3034-33f8-4ce8-be98-dd05010f4c22"
+Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Media Link/Annual Report
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191025T074908Z

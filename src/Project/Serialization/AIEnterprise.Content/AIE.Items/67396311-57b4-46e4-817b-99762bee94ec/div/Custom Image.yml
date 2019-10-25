@@ -1,0 +1,18 @@
+﻿---
+ID: "8fe06e33-5634-414f-ba58-ae8c7a07362f"
+Parent: "56d2b49d-425b-440f-a97d-025b2a6d7b32"
+Template: "fcd285da-9ab2-4c8d-b185-5a7487a9ba1b"
+Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Media Link/Annual Report/div/Custom Image
+DB: master
+SharedFields:
+- ID: "4753764c-c05a-4623-841b-97f85135241c"
+  Hint: FieldName
+  Value: CustomImage
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191025T075206Z
