@@ -1,0 +1,40 @@
+﻿---
+ID: "f7ad073e-4998-47b9-8c86-666f6458ffbf"
+Parent: "b3644ab1-4007-4095-b966-8f0c8cdc6fae"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: "/sitecore/content/AIE/AIE Corporate Site/Home/our-services/AI-driven-intelligent-commerce/Data/Information"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191025T125117Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: |
+        <p class="ai-description">Our AI driven commerce services are designed to aid your team’s “Digital Intuition”, to enhance your customer experience, getting the best ROI, and focus on optimization. Our clients have benefited from our AI driven solutions for Recommendation Engine, Search Optimization, Personalization, Automated Machine Learning for CXOs and Labor Optimization in stores, to name a few.</p>
+        <br />
+        <h3>Recommendation Engine</h3>
+        <ul>
+        <li> Recommendation algorithms aim to correctly predict user&apos;s preferences leading to increased purchases and better online experience for the user.</li>
+        <li> Different types of recommendation algorithms are presented to the user in the form of clickthrough carousel bands</li>
+        <li>Bestselling & trending</li>
+        <li>Frequently bought together</li>
+        <li>Popular, based on customer rating</li>
+        <li>View, based on product similarity</li>
+        <li>Promotions, based on user-product similarity</li>
+        </ul>
+        <br />
+        <h3>Search Optimization</h3>
+        <p class="search-optimization">Every search query is 'categorized' into one of available categories using ML algorithm and then the results are tailored using this.</p>
+        <br />
+        <h4 class="recommendation">Recommendation based on user Propensity & search query</h4>
+        <p class="recommentdation-content">2 users for the same search may be presented with different product options (Brand 1 & Brand 2). Propensity is measured for various end-points like product-category, sub-category, brand, age, etc.</p>
+        
