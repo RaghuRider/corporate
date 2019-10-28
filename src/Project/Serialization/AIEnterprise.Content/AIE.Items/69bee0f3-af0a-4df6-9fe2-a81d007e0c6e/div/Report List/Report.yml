@@ -2,7 +2,7 @@
 ID: "cf0cd59e-3f80-4267-8725-c7601aa7bd05"
 Parent: "d09c5d85-07d0-49f1-b110-e5a397b568b6"
 Template: "1151b2a9-08af-4f4d-a892-c2cc9a92ea6a"
-Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Page Content/Annual Report/Report List/Report
+Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Page Content/Annual Report/div/Report List/Report
 DB: master
 SharedFields:
 - ID: "06882697-dc92-477d-a99a-5d79bd2ccb8d"
