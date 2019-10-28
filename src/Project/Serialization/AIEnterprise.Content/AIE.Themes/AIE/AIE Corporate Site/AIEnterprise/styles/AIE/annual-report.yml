@@ -1,0 +1,31 @@
+﻿---
+ID: "4827c692-7d0a-40e0-a700-9aebc76e4540"
+Parent: "48429094-4c3c-485e-9d3c-7eedfe229a6a"
+Template: "962b53c4-f93b-4df9-9821-415c867b8903"
+Path: "/sitecore/media library/Themes/AIE/AIE Corporate Site/AIEnterprise/styles/AIE/annual-report"
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/4827C6927D0A40E0A7009AEBC76E4540.ashx?h=16&thn=1&w=16"
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "570704cf-b005-4951-9819-b0d18ecbe610"
+  Value: DQoNCi5saW5rLWhvdmVyLWJ1dHRvbiAuZmllbGQtY3VzdG9taW1hZ2UNCnsNCiAgbWF4LXdpZHRoOjIwJTsNCiAgZGlzcGxheTppbmxpbmUtYmxvY2s7DQogIG1hcmdpbjoxMHB4Ow0KIA0KfQ0KIC5saW5rLWhvdmVyLWJ1dHRvbl9fYSBhIHNwYW4NCnsNCmNvbG9yOiAjMDBiY2Q0OyAhaW1wb3J0YW50DQogDQp9DQoubGluay1ob3Zlci1idXR0b25fX2EgDQp7DQogIGRpc3BsYXk6aW5saW5lLWJsb2NrOw0KICB3aWR0aDo3MCU7DQogIHBhZGRpbmc6IC43NXJlbTsNCiAgYm9yZGVyOm5vbmU7DQoNCn0NCi5saW5rLWhvdmVyLWJ1dHRvbjpob3Zlcg0Kew0KICAgICBib3JkZXI6IDJweCBzb2xpZCAjMDAwOw0KDQp9DQoubGluay1ob3Zlci1idXR0b24NCnsNCiAgcG9zaXRpb246cmVsYXRpdmU7DQogIGNvbG9yOiAjMGI3Ow0KICAvKiBoZWlnaHQ6IDYwcHg7ICovDQogIHRyYW5zaXRpb246IDAuNXM7DQogIGN1cnNvcjogcG9pbnRlcjsNCiAgYm9yZGVyOiAycHggc29saWQgI2ZmZjsNCiAgLXdlYmtpdC10cmFuc2l0aW9uOjAuNXM7DQogIHdpZHRoOiAzMCU7DQogIG1hcmdpbi1ib3R0b206MTBweDsNCiAgYm9yZGVyLXJhZGl1czoxMHB4Ow0KfQ0KDQogLm1lZGlhLWxpbmstcGRmLCAubWVkaWEtbGluay0NCnsNCiAgICBib3JkZXI6bm9uZSAhaW1wb3J0YW50Ow0KfQ0KDQouYW5udWFsLXJlcG9ydC1oMg0Kew0KICAgICBwYWRkaW5nLXRvcDozMHB4Ow0KICAgIHBhZGRpbmctbGVmdDoyMHB4Ow0KICAgIHBhZGRpbmctYm90dG9tOjIwcHgNCn0NCi5saW5rLWhvdmVyLWJ1dHRvbl9fc3BhbiAuZmllbGQtbGlua3RleHQgYQ0Kew0KICAgIGNvbG9yOiNBN0E4QUEgIWltcG9ydGFudA0KfQ0KLnJlcG9ydC1jb250ZW50LW1haW4NCnsNCiAgICBtYXJnaW4tYm90dG9tOjE1cHg7DQp9DQoNCg0KDQovKioqKioqKioqKioqKioqKioqKioqKm1vYmllKioqKioqKioqKioqKi8NCkBtZWRpYSBvbmx5IHNjcmVlbiBhbmQgKG1heC13aWR0aDogMTAyNHB4KSB7DQogICAubGluay1ob3Zlci1idXR0b24NCnsNCiAgIGJvcmRlcjpzb2xpZCAjMjQyNzI0IDFweDsNCiAgYm9yZGVyLXJhZGl1czoxMHB4Ow0KICB3aWR0aDogOTklICFpbXBvcnRhbnQ7DQp9DQogDQogIA0KICAgIC5yZXBvcnQtY29udGVudC1tYWluDQogICAgew0KICAgICAgICAgIA0KICAgIHdpZHRoOiA3MCU7DQogICAgbWFyZ2luOjBweCBhdXRvOw0KICAgIH0NCiAgIA0KDQoNCg0KfQ==
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 1210
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: text/css
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: css
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191025T120759Z
