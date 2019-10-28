@@ -1,0 +1,31 @@
+﻿---
+ID: "08e2cfa8-8748-4644-86b8-59f5107b67f6"
+Parent: "26016faf-ee48-47d3-9451-7ea71015da69"
+Template: "324733cf-afec-4281-9a18-03b6cfc4e535"
+Path: /sitecore/content/AIE/AIE Corporate Site/Data/Promos/Our Services/AI Driven Intelligent Commerce/Labor Forecasting Optimization
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "14023dd5-30e7-4e3c-bf31-d835f3a87410"
+      Hint: PromoText
+      Value: |
+        <h2 class="event-headline field-promotext">Labor Forecasting Optimization</h2>
+    - ID: "18f9beb8-0116-40fd-b47e-fd0a2327d7e0"
+      Hint: PromoIcon
+      Value: |
+        <image mediaid="{8C021FD8-6250-454C-9611-F08734758C88}" ></image>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191028T100411Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "b59adc09-32a3-46f2-aede-b0c633979263"
+      Hint: PromoText2
+      Value: |
+        <p>Provides forecasts for optimal allocation of labor at the store, selected department level by day
+        and hour</p>
