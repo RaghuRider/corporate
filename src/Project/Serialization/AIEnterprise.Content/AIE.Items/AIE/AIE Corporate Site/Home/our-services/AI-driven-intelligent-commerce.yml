@@ -1,0 +1,86 @@
+﻿---
+ID: "f7fe0f5b-fe2b-404c-af1d-a07a5727f069"
+Parent: "75331564-3ccf-4533-9c32-b8b9f9a0df6b"
+Template: "fcdfe9cd-364f-46a6-a466-8ceb8cbf74cc"
+Path: "/sitecore/content/AIE/AIE Corporate Site/Home/our-services/AI-driven-intelligent-commerce"
+DB: master
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{CBE603FF-5DFF-4584-9EF0-440B05133ECF}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        s:l="{269BDDC7-E377-4C61-9B26-A00BA2CCD14D}" />
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{5B33763C-9F45-409D-927A-F2A511DD3B8A}"
+              p:before="*"
+              s:ds="local:/Data/Personalization"
+              s:id="{DCEE78E1-1843-4456-A13A-F10A12191630}"
+              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames&amp;Styles&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=5"
+              s:ph="/main/sxa-ourservicebody/container-5/row-1-1" />
+            <r
+              uid="{5045057A-D90D-40DD-B7EB-104D373CF128}"
+              p:after="r[@uid='{5B33763C-9F45-409D-927A-F2A511DD3B8A}']"
+              s:ds="local:/Data/Information"
+              s:id="{DCEE78E1-1843-4456-A13A-F10A12191630}"
+              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames&amp;Styles&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=4"
+              s:ph="/main/sxa-ourservicebody/container-5/row-2-1/row-2-2/column-1-3" />
+            <r
+              uid="{134D13C2-1AB0-42C4-9014-331765754058}"
+              p:after="r[@uid='{5045057A-D90D-40DD-B7EB-104D373CF128}']"
+              s:ds="local:/Data/Page Heading"
+              s:id="{DCEE78E1-1843-4456-A13A-F10A12191630}"
+              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames&amp;Styles=%7B0DD2F09B-7734-4874-A978-954B2D3CD5F6%7D%7C%7BD874F1FF-8E9C-45CA-B29C-DC151E22A0C3%7D&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=3"
+              s:ph="/main/sxa-ourservicebody/container-5/row-2-1/row-1-2" />
+            <r
+              uid="{AA7E617D-726C-422F-AC0E-4A924FAA9CDE}"
+              p:after="r[@uid='{134D13C2-1AB0-42C4-9014-331765754058}']"
+              s:ds=""
+              s:id="{8B0393E9-EE25-4F0B-A5FD-777B3AD2C737}"
+              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames&amp;Styles=%7BD874F1FF-8E9C-45CA-B29C-DC151E22A0C3%7D&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=2"
+              s:ph="/main/sxa-ourservicebody/container-6/container-1" />
+            <r
+              uid="{6C1F3688-8C7C-4B5A-8D16-3AFEFCF1136B}"
+              p:after="*[1=2]"
+              s:ds=""
+              s:id="{896A2C68-1362-4E88-8BA0-1805AE6D4837}"
+              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;BackgroundImage=%3Cimage%20mediaid%3D%22%7BA7EEA137-964A-4778-AE6A-FB15616BFD08%7D%22%20%2F%3E&amp;Styles=%7B1226A1A0-DA51-429D-9341-F9DE247AD3E8%7D&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=1"
+              s:ph="/main/sxa-ourservicebody/container-6" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191025T115451Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: AI Driven Intelligent Commerce
+    - ID: "4f441595-f0b8-48fc-8f58-8ceda868003e"
+      Hint: Content
+      Value: |
+        <div class="banner-header">
+        <h1>AI Driven Intelligent Commerce</h1>
+        <h4>Where “Digital Intuition” is driven by Machine Intelligence.</h4>
+        </div>
+    - ID: "bb6835c4-82af-4d11-9102-a61694c17055"
+      Hint: Title
+      Value: AI Driven Intelligent Commerce

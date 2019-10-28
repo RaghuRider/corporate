@@ -1,0 +1,24 @@
+﻿---
+ID: "2db632eb-73be-422a-b395-8b3c78bf1822"
+Parent: "b3644ab1-4007-4095-b966-8f0c8cdc6fae"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: "/sitecore/content/AIE/AIE Corporate Site/Home/our-services/AI-driven-intelligent-commerce/Data/Personalization"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191025T130418Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: |
+        <h3>Personalization</h3>
+        <p class="personalization-content">Landing page personalization based on different features including buying behavior, previously evinced interests, device, location, demographic information, what similar users view or buy  to present the products that may interest the user towards conversion. The personalization goes to the extent of defining dynamic user level promotions or personalizing the top-trending or most-popular products to interest the user towards making buying decisions. </p>
+        <br />
