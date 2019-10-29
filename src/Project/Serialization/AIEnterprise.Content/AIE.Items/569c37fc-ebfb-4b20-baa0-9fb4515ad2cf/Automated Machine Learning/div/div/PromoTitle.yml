@@ -1,16 +1,19 @@
 ﻿---
-ID: "9068e657-16de-40a2-a9f5-56722dc81878"
-Parent: "fb508699-14e9-4a8d-a5a4-16edbeef1b5e"
+ID: "b76528b6-7fea-4943-b8e3-18294c0e3f2a"
+Parent: "d236deff-d8c0-4a28-ab3e-7826b2195da2"
 Template: "fcd285da-9ab2-4c8d-b185-5a7487a9ba1b"
-Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Promo/Automated Machine Learning/div/Promo Content2
+Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Promo/Automated Machine Learning/div/div/PromoTitle
 DB: master
 SharedFields:
 - ID: "4753764c-c05a-4623-841b-97f85135241c"
   Hint: FieldName
-  Value: PromoText3
+  Value: PromoText
+- ID: "7495124d-09b5-4cb3-b4a6-fe77a95827da"
+  Hint: CssClass
+  Value: "corporate-headline"
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
-  Value: 300
+  Value: 75
 - ID: "db805bdc-8eec-4238-b174-2427b6f1f077"
   Hint: Tag
   Value: 
@@ -21,4 +24,4 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20190624T102923Z
+      Value: 20190606T123032Z

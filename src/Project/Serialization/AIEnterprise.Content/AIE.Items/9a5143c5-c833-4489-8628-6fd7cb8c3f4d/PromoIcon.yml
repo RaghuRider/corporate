@@ -1,13 +1,13 @@
 ﻿---
-ID: "c2fb0826-cce6-4e13-acf6-be92694bd4f0"
-Parent: "93d01615-794d-4870-8246-1a33513892f0"
+ID: "b2adc02c-19d8-40f6-a4fe-b8efb76183e0"
+Parent: "9a5143c5-c833-4489-8628-6fd7cb8c3f4d"
 Template: "fcd285da-9ab2-4c8d-b185-5a7487a9ba1b"
 Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Promo/Automated Machine Learning/div/div/div/PromoIcon
 DB: master
 SharedFields:
 - ID: "4753764c-c05a-4623-841b-97f85135241c"
   Hint: FieldName
-  Value: PromoIcon
+  Value: PromoIcon2
 - ID: "7495124d-09b5-4cb3-b4a6-fe77a95827da"
   Hint: CssClass
   Value: 

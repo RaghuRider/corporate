@@ -1,13 +1,13 @@
 ﻿---
-ID: "93d01615-794d-4870-8246-1a33513892f0"
-Parent: "23b2bb4b-ad23-47fc-9ab8-837cce10b790"
+ID: "9a5143c5-c833-4489-8628-6fd7cb8c3f4d"
+Parent: "16a1befd-9bf6-49ed-bd21-fc24e20a120c"
 Template: "aca5c9a3-cda0-49b6-893f-1d4a7cb595b0"
 Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Promo/Automated Machine Learning/div/div/div
 DB: master
 SharedFields:
 - ID: "bea2740e-90d1-4b16-bd1d-7a7cc8605d2d"
   Hint: CssClass
-  Value: "back-image2"
+  Value: "automated-image col-6"
 Languages:
 - Language: en
   Versions:
@@ -15,4 +15,4 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20190606T121856Z
+      Value: 20191029T105707Z

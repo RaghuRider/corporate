@@ -12,7 +12,12 @@ Languages:
     - ID: "14023dd5-30e7-4e3c-bf31-d835f3a87410"
       Hint: PromoText
       Value: |
-        <h2 class="event-headline field-promotext">Automated Machine Learning (AML)</h2>
+        <h3 class="event-headline field-promotext">Automated Machine Learning (AML)</h3>
+                <div class="automated-text col-6">
+                    <p>AML automates building machine learning models on raw data thereby yielding a most accurate model.</p>
+                    <p>AML enables the CXOs to assess whether any problem at hand can be solved using ML and if it’s worth investing into DSS to get more optimal models.
+                    </p>
+                </div>
     - ID: "18f9beb8-0116-40fd-b47e-fd0a2327d7e0"
       Hint: PromoIcon
       Value: |
@@ -27,15 +32,19 @@ Languages:
     - ID: "82a6ce45-59b5-4bc8-83b9-79ccb8174a2a"
       Hint: PromoIcon2
       Value: |
-        <image mediaid="{86A94B23-532B-452B-A4FF-30BE1AC11C86}" />
+        <image mediaid="{86A94B23-532B-452B-A4FF-30BE1AC11C86}" ></image>
     - ID: "832d3c97-5c05-49bf-89ef-9c29d30345e7"
       Hint: PromoText3
       Value: |
-        <p>AML automates building machine learning models on raw data thereby yielding a most accurate
-        model.
-        <br />
-        AML enables the CXOs to assess whether any problem at hand can be solved using ML and if it’s worth investing into DSS to get more optimal models.
-        </p>
+        <p>AML automates the stages of Machine Learning as:</p>
+        <ul>
+           <li> Auto-processing raw data feed (normally 70% of work in DS) </li>
+           <li>Auto-detects variables and needs prediction parameter as input </li>
+          <li> Multiple algorithms work on the dataset in parallel </li>
+           <li>Model dashboard arranged based on best performing algorithm </li>
+        </ul>
+        
     - ID: "b59adc09-32a3-46f2-aede-b0c633979263"
       Hint: PromoText2
-      Value: <p>TURNS EXPERT ANALYSTS INTO DATA SCIENTISTS</p>
+      Value: |
+        <h3 class="event-headline field-promotext">TURNS EXPERT ANALYSTS INTO DATA SCIENTISTS</h3>

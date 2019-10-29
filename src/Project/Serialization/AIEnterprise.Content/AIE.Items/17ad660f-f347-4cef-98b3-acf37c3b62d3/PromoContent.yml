@@ -1,13 +1,13 @@
 ﻿---
-ID: "235e5cb9-233f-49c0-90c1-a6be8b594f75"
-Parent: "9bedc2b0-a430-42fe-901b-c05233d1f54a"
+ID: "6b4e7cb1-9381-4a69-8476-243b93bcca17"
+Parent: "17ad660f-f347-4cef-98b3-acf37c3b62d3"
 Template: "fcd285da-9ab2-4c8d-b185-5a7487a9ba1b"
 Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Promo/Automated Machine Learning/div/div/div/PromoContent
 DB: master
 SharedFields:
 - ID: "4753764c-c05a-4623-841b-97f85135241c"
   Hint: FieldName
-  Value: PromoText2
+  Value: PromoText3
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
   Value: 75
