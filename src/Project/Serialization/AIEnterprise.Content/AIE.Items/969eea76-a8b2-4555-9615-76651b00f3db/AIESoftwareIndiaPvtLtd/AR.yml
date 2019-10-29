@@ -2,12 +2,15 @@
 ID: "9cb81775-563a-4c4b-88d1-ac9b4682b1ea"
 Parent: "abab282e-5eaf-47c1-a103-9911368b8e0c"
 Template: "fcdfe9cd-364f-46a6-a466-8ceb8cbf74cc"
-Path: /sitecore/content/AIE/AIE Corporate Site/Home/Ind/AIESoftwarePvtLtd/AR
+Path: /sitecore/content/AIE/AIE Corporate Site/Home/Ind/AIESoftwareIndiaPvtLtd/AR
 DB: master
 SharedFields:
 - ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
   Hint: Page Design
   Value: "{E6E33FA3-2659-4750-A1DD-EB8BDFC5F37B}"
+- ID: "508c54c0-cd02-4266-8b68-d71f88de1aa9"
+  Hint: ChangeFrequency
+  Value: "{1C2878D9-80A6-4760-B7EB-DBADE16AE8C8}"
 - ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
   Hint: __Renderings
   Type: layout
