@@ -1,8 +1,8 @@
 ﻿---
-ID: "ed563d49-d683-4ab4-8cb7-49bcc46bcd47"
-Parent: "ced13a1f-3dd3-4030-b6cf-28d23bcfcffc"
+ID: "9bedc2b0-a430-42fe-901b-c05233d1f54a"
+Parent: "d236deff-d8c0-4a28-ab3e-7826b2195da2"
 Template: "aca5c9a3-cda0-49b6-893f-1d4a7cb595b0"
-Path: "/sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Promo/Ai-Driven Page Right Image/div/div/div"
+Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Promo/Automated Machine Learning/div/div/div
 DB: master
 SharedFields:
 - ID: "bea2740e-90d1-4b16-bd1d-7a7cc8605d2d"

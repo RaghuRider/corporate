@@ -1,8 +1,8 @@
 ﻿---
-ID: "6a700397-c711-443f-a134-5699125b23f6"
-Parent: "6d4935ad-d189-49c5-9d9f-03d4f476581b"
+ID: "c2fb0826-cce6-4e13-acf6-be92694bd4f0"
+Parent: "93d01615-794d-4870-8246-1a33513892f0"
 Template: "fcd285da-9ab2-4c8d-b185-5a7487a9ba1b"
-Path: "/sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Promo/Ai-Driven Page Right Image/div/div/div/PromoIcon"
+Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Promo/Automated Machine Learning/div/div/div/PromoIcon
 DB: master
 SharedFields:
 - ID: "4753764c-c05a-4623-841b-97f85135241c"

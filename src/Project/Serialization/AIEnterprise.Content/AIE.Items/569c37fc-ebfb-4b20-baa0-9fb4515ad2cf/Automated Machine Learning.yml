@@ -1,9 +1,13 @@
 ﻿---
-ID: "33561c12-a8ef-4400-8f22-9ef57d8ea6d5"
+ID: "2b12ac1a-1faa-46c8-b647-dcbd6709e558"
 Parent: "569c37fc-ebfb-4b20-baa0-9fb4515ad2cf"
 Template: "fb3e3034-33f8-4ce8-be98-dd05010f4c22"
-Path: "/sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Promo/Ai-Driven Page Right Image"
+Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Promo/Automated Machine Learning
 DB: master
+SharedFields:
+- ID: "e1d5adba-8348-4127-9bb6-455936653839"
+  Hint: CssClass
+  Value: "analytics-aiengine cloud"
 Languages:
 - Language: en
   Versions:
