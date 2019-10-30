@@ -12,8 +12,8 @@ Languages:
     - ID: "14023dd5-30e7-4e3c-bf31-d835f3a87410"
       Hint: PromoText
       Value: |
-        <h3 class="event-headline field-promotext">Automated Machine Learning (AML)</h3>
-                <div class="automated-text col-6">
+               <div class="automated-text col-6">
+                   <h3 class="event-headline field-promotext">Automated Machine Learning (AML)</h3>
                     <p>AML automates building machine learning models on raw data thereby yielding a most accurate model.</p>
                     <p>AML enables the CXOs to assess whether any problem at hand can be solved using ML and if it’s worth investing into DSS to get more optimal models.
                     </p>
@@ -36,7 +36,7 @@ Languages:
     - ID: "832d3c97-5c05-49bf-89ef-9c29d30345e7"
       Hint: PromoText3
       Value: |
-        <p>AML automates the stages of Machine Learning as:</p>
+        <h4>AML automates the stages of Machine Learning as:</h4>
         <ul>
            <li> Auto-processing raw data feed (normally 70% of work in DS) </li>
            <li>Auto-detects variables and needs prediction parameter as input </li>
@@ -47,4 +47,4 @@ Languages:
     - ID: "b59adc09-32a3-46f2-aede-b0c633979263"
       Hint: PromoText2
       Value: |
-        <h3 class="event-headline field-promotext">TURNS EXPERT ANALYSTS INTO DATA SCIENTISTS</h3>
+        <h4 class="turns-expert">TURNS EXPERT ANALYSTS INTO DATA SCIENTISTS</h4>
