@@ -1,8 +1,8 @@
 ﻿---
 ID: "b76528b6-7fea-4943-b8e3-18294c0e3f2a"
-Parent: "d236deff-d8c0-4a28-ab3e-7826b2195da2"
+Parent: "7576559a-6f60-4d2d-be3f-fc1050b5ec0c"
 Template: "fcd285da-9ab2-4c8d-b185-5a7487a9ba1b"
-Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Promo/Automated Machine Learning/div/div/PromoTitle
+Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Promo/Automated Machine Learning/div/div/div/PromoTitle
 DB: master
 SharedFields:
 - ID: "4753764c-c05a-4623-841b-97f85135241c"
