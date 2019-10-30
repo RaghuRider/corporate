@@ -1,6 +1,6 @@
 ﻿---
 Username: |
-  sitecore\admin
+  sitecore\Admin
 Email: 
 Comment: Sitecore Administrator
 Created: "2018-06-04T03:29:28.0000000Z"
@@ -13,11 +13,11 @@ Properties:
   IsCustom: True
 - Key: |
     /sitecore\admin/Content Editor/Sections/Collapsed
-  Value: "?QuickInfo=0"
+  Value: "?QuickInfo=0&Advanced=0&Appearance=0&Statistics=0"
   ValueType: System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
   IsCustom: True
 - Key: |
-    /sitecore\admin/Listviews/ItemList
+    /sitecore\admin/Listviews/MessageList
   Value: Details
   ValueType: System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
   IsCustom: True
@@ -43,12 +43,12 @@ Properties:
   IsCustom: True
 - Key: |
     /sitecore\admin/Publish/Republish
-  Value: true
+  Value: false
   ValueType: System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
   IsCustom: True
 - Key: |
     /sitecore\admin/Publish/SmartPublish
-  Value: false
+  Value: true
   ValueType: System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
   IsCustom: True
 - Key: |
@@ -58,7 +58,7 @@ Properties:
   IsCustom: True
 - Key: |
     /sitecore\admin/Rebuild Search Index/Selected
-  Value: sitecore_core_index|sitecore_master_index|sitecore_web_index|sitecore_marketingdefinitions_master|sitecore_marketingdefinitions_web|sitecore_marketing_asset_index_master|sitecore_marketing_asset_index_web|sitecore_testing_index|sitecore_suggested_test_index|sitecore_fxm_master_index|sitecore_fxm_web_index|sitecore_sxa_master_index|sitecore_sxa_web_index
+  Value: sitecore_core_index|sitecore_master_index|sitecore_web_index|sitecore_sxa_master_index|sitecore_sxa_web_index
   ValueType: System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
   IsCustom: True
 - Key: |
@@ -67,8 +67,18 @@ Properties:
   ValueType: System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
   IsCustom: True
 - Key: |
+    /sitecore\admin/UserOptions.ContentEditor.ShowSystemFields
+  Value: true
+  ValueType: System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  IsCustom: True
+- Key: |
     /sitecore\admin/UserOptions.ContentEditor.VisibleStrips
   Value: "{C3FCEBB9-F38F-4AB4-857F-CFC415B6A342}|{D0FC99D9-5C65-43A3-ACB6-4495D44FB0E7}|{92ADE792-683F-480D-A30A-01C1F1BAAB53}|{F51BC51A-F5AF-41DF-AD11-F0D1B48FFC93}|{6553636F-E904-4F2D-B222-090D0A26298C}|{4CF64716-8B8C-4ABC-86C2-F9C5F3FF1128}|{D600C139-92D7-48DE-BB9F-4812A3DB9A8B}|{48967C19-C387-454D-8ED2-562DF1409D08}|{AED95E7E-874A-4CF0-924B-8DD90FC8D730}|{336E99C8-C45F-4CB7-9136-C9F8FE802E8F}|{BB2FBB55-EBC8-4724-9A1F-37BCFED0370D}|{A9FE4B4E-C98B-43F2-B2EA-8827A3587DD9}|{58BF476F-86A7-47EA-B373-093EA228E441}|{1756C7EE-5F3A-4F62-83E4-586F0BE185D1}"
+  ValueType: System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  IsCustom: True
+- Key: |
+    /sitecore\admin/UserOptions.View.ShowBucketItems
+  Value: true
   ValueType: System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
   IsCustom: True
 - Key: FullName
@@ -99,6 +109,31 @@ Properties:
 - Key: "SpeakComponentStatus-8FB5606FA0F0410A991EB66E2D099852-LanguageListControl"
   Value: |
     {"ViewMode":"TileList","SelectedValue":"-","CheckedValues":[],"Sorting":""}
+  ValueType: System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  IsCustom: True
+- Key: "SpeakComponentStatus-A599EC5D354144E396519E9A35908D4F-AdvancedSettings"
+  Value: |
+    {"IsOpen":true}
+  ValueType: System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  IsCustom: True
+- Key: "SpeakComponentStatus-A599EC5D354144E396519E9A35908D4F-DetailsExpander"
+  Value: |
+    {"IsOpen":true}
+  ValueType: System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  IsCustom: True
+- Key: "SpeakComponentStatus-A599EC5D354144E396519E9A35908D4F-StylingExpander"
+  Value: |
+    {"IsOpen":true}
+  ValueType: System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  IsCustom: True
+- Key: "SpeakComponentStatus-A599EC5D354144E396519E9A35908D4F-ValidationExpander"
+  Value: |
+    {"IsOpen":false}
+  ValueType: System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  IsCustom: True
+- Key: "SpeakComponentStatus-CrossPagesNavigationStatus-1950632152BB4E39ACA3EAEB8E926F78"
+  Value: |
+    [{"id":"{9837BB1B-CA0E-4694-B1DB-AE18D2951EA0}"}]
   ValueType: System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
   IsCustom: True
 - Key: WallpaperBackground
