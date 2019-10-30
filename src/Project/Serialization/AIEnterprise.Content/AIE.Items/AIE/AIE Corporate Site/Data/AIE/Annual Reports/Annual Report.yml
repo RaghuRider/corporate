@@ -18,9 +18,7 @@ Languages:
     - ID: "29fc5236-41f9-4d11-988d-9a0cafe0f0aa"
       Hint: Report List
       Type: Multilist
-      Value: |
-        {BEF5B9B3-1667-4D04-9DCD-B780DBE1C909}
-        {458E40BC-DB1F-4FD8-8F6C-C52691E1ADEB}
+      Value: 
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
