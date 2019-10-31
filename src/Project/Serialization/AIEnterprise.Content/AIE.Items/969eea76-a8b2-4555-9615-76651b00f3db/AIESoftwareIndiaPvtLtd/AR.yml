@@ -74,7 +74,7 @@ Languages:
               p:after="*[1=2]"
               s:ds=""
               s:id="{896A2C68-1362-4E88-8BA0-1805AE6D4837}"
-              s:par="GridParameters&amp;BackgroundImage&amp;Styles&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=3"
+              s:par="GridParameters&amp;BackgroundImage&amp;Styles=%7B6897ED4D-5335-474F-8417-B292727691E3%7D&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=3"
               s:ph="main" />
           </d>
         </r>
