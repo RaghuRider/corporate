@@ -1,0 +1,18 @@
+﻿---
+ID: "9ae5ad33-0fd5-4183-b789-4274086d6f04"
+Parent: "9cb81775-563a-4c4b-88d1-ac9b4682b1ea"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: /sitecore/content/AIE/AIE Corporate Site/Home/Ind/AIESoftwareIndiaPvtLtd/AR/Data
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191031T123053Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
