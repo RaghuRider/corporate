@@ -1,13 +1,16 @@
 ﻿---
-ID: "ba4bf68a-6320-4af5-bc6e-1b780f4490a2"
+ID: "d50d5872-b992-4433-8c2b-f8b748496a84"
 Parent: "3a925469-760d-4477-b6ed-e094aeeaf98d"
 Template: "aca5c9a3-cda0-49b6-893f-1d4a7cb595b0"
 Path: "/sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Page Content/Home-WhatWeDo/Section/div/div/Blogs/div/div/div"
 DB: master
 SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
 - ID: "bea2740e-90d1-4b16-bd1d-7a7cc8605d2d"
   Hint: CssClass
-  Value: "What-we-do-content"
+  Value: button
 Languages:
 - Language: en
   Versions:
@@ -15,4 +18,4 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20190726T060639Z
+      Value: 20190614T074524Z
