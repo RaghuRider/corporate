@@ -23,6 +23,65 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{8698C7F4-DD40-48CE-A6F6-C65989231071}"
+              p:before="*"
+              s:ds="{A845F1E3-B1D4-4D4E-BF03-EBD97CC9D362}"
+              s:id="{51C13F03-8364-4F61-B860-2EC6CA7439B3}"
+              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7B517F9F29-A044-48B5-A2A4-EF34F6688687%7D&amp;Styles&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=4"
+              s:ph="/main/sxa-ourservicebody/container-5/row-2-1/row-2-2/column-1-3" />
+            <r
+              uid="{6DD2DCB9-C351-49FD-9EAF-5D3F49A5CAC8}"
+              p:after="r[@uid='{8698C7F4-DD40-48CE-A6F6-C65989231071}']"
+              s:ds="local:/Data/Text 2"
+              s:id="{DCEE78E1-1843-4456-A13A-F10A12191630}"
+              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames&amp;Styles&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=5"
+              s:ph="/main/sxa-ourservicebody/container-5/row-2-1/row-2-2/column-1-3" />
+            <r
+              uid="{81F4AFC5-D2F0-4B98-A532-8F6AFF14318C}"
+              p:after="r[@uid='{6DD2DCB9-C351-49FD-9EAF-5D3F49A5CAC8}']"
+              s:ds="{A607BF96-37B8-4853-91A0-FBE3A452139B}"
+              s:id="{3972C278-7E7A-4C2B-A293-66AF860F5C3A}"
+              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames&amp;Styles&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=6"
+              s:ph="/main/sxa-ourservicebody/container-5/row-2-1/row-2-2/column-1-3" />
+            <r
+              uid="{B8489A9E-3B47-4BF0-8295-F95F468082D5}"
+              p:after="r[@uid='{81F4AFC5-D2F0-4B98-A532-8F6AFF14318C}']"
+              s:ds="local:/Data/Text 4"
+              s:id="{DCEE78E1-1843-4456-A13A-F10A12191630}"
+              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames&amp;Styles&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=7"
+              s:ph="/main/sxa-ourservicebody/container-5/row-2-1/row-2-2/column-1-3" />
+            <r
+              uid="{55453BBB-9927-4DBA-9E4F-6FA45085D72D}"
+              p:after="r[@uid='{B8489A9E-3B47-4BF0-8295-F95F468082D5}']"
+              s:ds="local:/Data/Text 1"
+              s:id="{87182F78-4399-4896-8D59-9D6A45282F8A}"
+              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames&amp;Styles=%7B0DD2F09B-7734-4874-A978-954B2D3CD5F6%7D%7C%7BD874F1FF-8E9C-45CA-B29C-DC151E22A0C3%7D&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=3"
+              s:ph="/main/sxa-ourservicebody/container-5/row-2-1/row-1-2" />
+            <r
+              uid="{205EBC7A-D948-4898-A27B-46B73E554772}"
+              p:after="r[@uid='{55453BBB-9927-4DBA-9E4F-6FA45085D72D}']"
+              s:ds=""
+              s:id="{8B0393E9-EE25-4F0B-A5FD-777B3AD2C737}"
+              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames&amp;Styles=%7BD874F1FF-8E9C-45CA-B29C-DC151E22A0C3%7D&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=2"
+              s:ph="/main/sxa-ourservicebody/container-6/container-1" />
+            <r
+              uid="{A68E5F72-65F6-43BB-8D28-07524D76C057}"
+              p:after="*[1=2]"
+              s:ds=""
+              s:id="{896A2C68-1362-4E88-8BA0-1805AE6D4837}"
+              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;BackgroundImage=%3Cimage%20mediaid%3D%22%7BA7EEA137-964A-4778-AE6A-FB15616BFD08%7D%22%20%2F%3E&amp;Styles=%7B1226A1A0-DA51-429D-9341-F9DE247AD3E8%7D&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=1"
+              s:ph="/main/sxa-ourservicebody/container-6" />
+          </d>
+        </r>
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20191107T101615Z
