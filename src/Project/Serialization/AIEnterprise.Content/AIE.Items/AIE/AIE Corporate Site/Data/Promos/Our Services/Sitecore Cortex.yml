@@ -1,0 +1,25 @@
+﻿---
+ID: "a845f1e3-b1d4-4d4e-bf03-ebd97cc9d362"
+Parent: "2082c55a-92de-48e2-850c-6c40b783c8ac"
+Template: "324733cf-afec-4281-9a18-03b6cfc4e535"
+Path: /sitecore/content/AIE/AIE Corporate Site/Data/Promos/Our Services/Sitecore Cortex
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "18f9beb8-0116-40fd-b47e-fd0a2327d7e0"
+      Hint: PromoIcon
+      Value: |
+        <image mediaid="{8A658A87-26D5-417A-BDA8-62AD6CB439D6}" alt="sitecore-cortex" height="" width="" hspace="" vspace=""></image>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191107T113433Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "b59adc09-32a3-46f2-aede-b0c633979263"
+      Hint: PromoText2
+      Value: "We are passionate about engineering differentiating and immersive experiences, that is why AIEnterprise is proud to use Sitecore Experience Cloud™ to magnify our customers’ marketing abilities. Sitecore offers Industry-leading content management, digital marketing, optimized data and commerce solutions suitable for expansive and experience centric brands. We are particularly excited about the opportunities for marketing automation and intelligence afforded by Sitecore Cortex"

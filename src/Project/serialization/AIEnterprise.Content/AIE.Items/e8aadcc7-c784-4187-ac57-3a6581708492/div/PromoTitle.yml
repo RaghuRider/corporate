@@ -14,6 +14,10 @@ SharedFields:
 - ID: "db805bdc-8eec-4238-b174-2427b6f1f077"
   Hint: Tag
   Value: "{AD7A95FD-05D0-484E-8AFB-FB1DDD5F44AB}"
+- ID: "fe56eae5-d6a1-4703-92f7-4862da6deac8"
+  Hint: RenderIfEmpty
+  Type: Checkbox
+  Value: 1
 Languages:
 - Language: en
   Versions:

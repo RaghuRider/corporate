@@ -1,0 +1,32 @@
+﻿---
+ID: "11bdc6cc-3986-446f-bada-babfd3416fd6"
+Parent: "2b6ecbbb-b5e1-485e-874c-3cb1a0ec84d5"
+Template: "f4d9f467-7714-4920-b47b-e05bb9a8b6e1"
+Path: /sitecore/content/AIE/AIE Corporate Site/Data/AIE/Our Service Feature List/Sitecore with Description/Multichannel Expansion Services
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1c3af964-4507-4e02-bc9a-471ed67ba0c8"
+      Hint: Title
+      Value: MULTICHANNEL EXPANSION SERVICES
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191108T063721Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "6dc31b58-2488-40e1-a43c-93398a628f0b"
+      Hint: Description
+      Value: Sitecore is not just a CMS. We can help you fully leverage Sitecores powerful digital asset management, personalization, marketing, commerce, and analytic features on and off your website. Our solutionists can help weave Sitecore APIs into mobile clienteling solutions and points of service. We can help you deliver endless aisles in your stores and stores wherever your customers are.
+    - ID: "9c364854-777d-4b7b-b5b7-f064aa03d2ee"
+      Hint: Icon
+      Value: |
+        <image mediaid="{83FE0607-38EB-460F-B3AB-3FA079AE8A77}" ></image>

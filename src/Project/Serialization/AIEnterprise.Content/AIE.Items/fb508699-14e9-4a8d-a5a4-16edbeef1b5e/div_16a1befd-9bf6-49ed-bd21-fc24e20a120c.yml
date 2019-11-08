@@ -10,7 +10,7 @@ SharedFields:
   Value: 100
 - ID: "bea2740e-90d1-4b16-bd1d-7a7cc8605d2d"
   Hint: CssClass
-  Value: "automated-content col-12"
+  Value: "automated-content col-12 aml-automates"
 Languages:
 - Language: en
   Versions:
