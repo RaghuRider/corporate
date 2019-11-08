@@ -1,20 +1,17 @@
 ﻿---
-ID: "5a262177-9074-47cb-b349-8fe12044087b"
-Parent: "6bf78199-5fce-43fa-9012-64a1a21984de"
+ID: "15551f8b-9e45-47bb-9e6e-a927c399f7db"
+Parent: "864a445e-475f-4ef6-a901-241801acea26"
 Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
-Path: /sitecore/templates/Feature/AIE/Annual Report/Annual Report
+Path: /sitecore/templates/Feature/AIE/_Base Template
 DB: master
 SharedFields:
-- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
-  Hint: __Icon
-  Value: Apps/32x32/Finance.png
 - ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
   Hint: __Base template
   Type: tree list
   Value: "{1930BBEB-7805-471A-A3BE-4858AC7CF696}"
 - ID: "f7d48a55-2158-4f02-9356-756654404f73"
   Hint: __Standard values
-  Value: "{D83B9101-5D39-4FD7-89A4-E64273C0AD33}"
+  Value: "{030BFDF8-0EDA-44E8-9398-99B9D9020613}"
 Languages:
 - Language: en
   Versions:
@@ -22,7 +19,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20191025T072744Z
+      Value: 20191108T070224Z
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
