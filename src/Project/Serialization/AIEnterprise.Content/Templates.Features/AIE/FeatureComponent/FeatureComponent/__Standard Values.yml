@@ -1,8 +1,8 @@
 ﻿---
-ID: "e7ea25bf-a421-49b2-be37-8fd691027c2a"
-Parent: "e58828f9-5b4c-477c-a414-1aad308fba5f"
-Template: "e58828f9-5b4c-477c-a414-1aad308fba5f"
-Path: /sitecore/templates/Feature/AIE/Job Listing/Job Details/__Standard Values
+ID: "94c05279-1526-4b39-9c60-f8dd0cee16de"
+Parent: "520083b0-d965-4bad-ab2b-b4f89e16d1b7"
+Template: "520083b0-d965-4bad-ab2b-b4f89e16d1b7"
+Path: /sitecore/templates/Feature/AIE/FeatureComponent/FeatureComponent/__Standard Values
 DB: master
 SharedFields:
 - ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
@@ -16,12 +16,9 @@ Languages:
   Versions:
   - Version: 1
     Fields:
-    - ID: "221ed456-ef88-475e-9a8e-5dd45f81433a"
-      Hint: Title
-      Value: JOB DESCRIPTION
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20190730T055418Z
+      Value: 20191107T105400Z
     - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
       Hint: __Workflow state
       Value: "{013DD6E7-FF4C-410C-825B-FFFC20EAC95E}"
@@ -29,9 +26,3 @@ Languages:
       Hint: __Created by
       Value: |
         sitecore\admin
-    - ID: "aa2242e8-e723-4914-b73b-3ab39bdb70e0"
-      Hint: Exp Title
-      Value: "Exp :"
-    - ID: "b1578035-981a-441e-88f2-35aa18d6805b"
-      Hint: Location Title
-      Value: "Location :"
