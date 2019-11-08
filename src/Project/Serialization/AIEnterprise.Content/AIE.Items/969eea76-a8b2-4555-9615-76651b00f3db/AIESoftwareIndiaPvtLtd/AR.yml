@@ -11,6 +11,9 @@ SharedFields:
 - ID: "508c54c0-cd02-4266-8b68-d71f88de1aa9"
   Hint: ChangeFrequency
   Value: "{1C2878D9-80A6-4760-B7EB-DBADE16AE8C8}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: 
 - ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
   Hint: __Renderings
   Type: layout
@@ -61,14 +64,14 @@ Languages:
               s:ds="{BEF5B9B3-1667-4D04-9DCD-B780DBE1C909}"
               s:id="{B3D80586-1081-4C7C-835F-DD75B2681CC8}"
               s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7B67396311-57B4-46E4-817B-99762BEE94EC%7D&amp;Styles&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=5"
-              s:ph="/main/container-3" />
+              s:ph="/main/container-31" />
             <r
               uid="{45A81B1E-034A-44DA-9F23-9FE6FD639622}"
               p:after="r[@uid='{D10A97D2-8C18-4491-9D1B-8C6BF357E4C4}']"
               s:ds="{458E40BC-DB1F-4FD8-8F6C-C52691E1ADEB}"
               s:id="{B3D80586-1081-4C7C-835F-DD75B2681CC8}"
               s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7B67396311-57B4-46E4-817B-99762BEE94EC%7D&amp;Styles&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=6"
-              s:ph="/main/container-3" />
+              s:ph="/main/container-31" />
             <r
               uid="{AC46E6F8-D22B-4856-8316-E86BB8FF2633}"
               p:after="r[@uid='{45A81B1E-034A-44DA-9F23-9FE6FD639622}']"
@@ -102,6 +105,9 @@ Languages:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20191025T065125Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
     - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
       Hint: NavigationTitle
       Value: AR1
