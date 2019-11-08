@@ -1,0 +1,32 @@
+﻿---
+ID: "ed5120c2-4c60-4194-b293-0b1acfaf5531"
+Parent: "2b6ecbbb-b5e1-485e-874c-3cb1a0ec84d5"
+Template: "f4d9f467-7714-4920-b47b-e05bb9a8b6e1"
+Path: /sitecore/content/AIE/AIE Corporate Site/Data/AIE/Our Service Feature List/Sitecore with Description/Digital Strategy
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1c3af964-4507-4e02-bc9a-471ed67ba0c8"
+      Hint: Title
+      Value: DIGITAL STRATEGY
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191108T063033Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "6dc31b58-2488-40e1-a43c-93398a628f0b"
+      Hint: Description
+      Value: Our team of technical and consulting solutionists defines the blueprints that leverage Sitecore optimally. We leverage industry best practices and patterns, to develop the information, technical &amp; content architectures.
+    - ID: "9c364854-777d-4b7b-b5b7-f064aa03d2ee"
+      Hint: Icon
+      Value: |
+        <image mediaid="{D970FF10-9AE5-4FBF-BD92-BE3954BBBBAA}" ></image>

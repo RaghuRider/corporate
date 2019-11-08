@@ -1,0 +1,33 @@
+﻿---
+ID: "8bdf8dbf-d69c-47c8-817e-1876b1bacfe8"
+Parent: "3c46f9b3-1a8c-415d-9bf0-23983a910280"
+Template: "2f5b73a7-dfab-4073-9dc3-c8405bb078d0"
+Path: "/sitecore/content/AIE/AIE Corporate Site/Home/our-services/digital-experience-engineering/sitecore/Data/OurServiceFeature"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191108T073617Z
+    - ID: "3e38e8bf-d4e7-44fa-85b7-eceb2e21921d"
+      Hint: Title
+      Value: WHAT WE OFFER
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "9dddfb6e-18eb-4915-b888-638bacbe6739"
+      Hint: Feature List
+      Type: TreelistEx
+      Value: |
+        {ED5120C2-4C60-4194-B293-0B1ACFAF5531}
+        {01DF04CF-45F9-4373-9E88-B3756CAEA229}
+        {11BDC6CC-3986-446F-BADA-BABFD3416FD6}
+        {6CF6EED4-3F33-4CB8-B63F-B0D31F03FF26}
