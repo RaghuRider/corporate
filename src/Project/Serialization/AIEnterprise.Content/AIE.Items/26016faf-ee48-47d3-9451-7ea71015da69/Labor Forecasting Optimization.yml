@@ -12,7 +12,7 @@ Languages:
     - ID: "14023dd5-30e7-4e3c-bf31-d835f3a87410"
       Hint: PromoText
       Value: |
-        <h3 class="event-headline field-promotext">Labor Forecasting Optimization</h3>
+        <h2 class="event-headline field-promotext">Labor Forecasting Optimization</h2>
     - ID: "18f9beb8-0116-40fd-b47e-fd0a2327d7e0"
       Hint: PromoIcon
       Value: |

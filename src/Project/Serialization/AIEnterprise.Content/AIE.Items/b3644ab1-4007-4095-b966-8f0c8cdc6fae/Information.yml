@@ -21,20 +21,19 @@ Languages:
       Value: |
         <p class="ai-description">Our AI driven commerce services are designed to aid your team’s “Digital Intuition”, to enhance your customer experience, getting the best ROI, and focus on optimization. Our clients have benefited from our AI driven solutions for Recommendation Engine, Search Optimization, Personalization, Automated Machine Learning for CXOs and Labor Optimization in stores, to name a few.</p>
         <br />
-        <h3>Recommendation Engine</h3>
+        <h2>Recommendation Engine</h2>
         <ul>
-        <li> Recommendation algorithms aim to correctly predict user&apos;s preferences leading to increased purchases and better online experience for the user.</li>
-        <li> Different types of recommendation algorithms are presented to the user in the form of clickthrough carousel bands</li>
-        <li>Bestselling & trending</li>
-        <li>Frequently bought together</li>
-        <li>Popular, based on customer rating</li>
-        <li>View, based on product similarity</li>
-        <li>Promotions, based on user-product similarity</li>
+            <li> Recommendation algorithms aim to correctly predict user's preferences leading to increased purchases and better online experience for the user.</li>
+            <li> Different types of recommendation algorithms are presented to the user in the form of clickthrough carousel bands</li>
+            <li>Bestselling &amp; trending</li>
+            <li>Frequently bought together</li>
+            <li>Popular, based on customer rating</li>
+            <li>View, based on product similarity</li>
+            <li>Promotions, based on user-product similarity</li>
         </ul>
         <br />
-        <h3>Search Optimization</h3>
+        <h2>Search Optimization</h2>
         <p class="search-optimization">Every search query is 'categorized' into one of available categories using ML algorithm and then the results are tailored using this.</p>
         <br />
-        <h4 class="recommendation">Recommendation based on user Propensity & search query</h4>
-        <p class="recommentdation-content">2 users for the same search may be presented with different product options (Brand 1 & Brand 2). Propensity is measured for various end-points like product-category, sub-category, brand, age, etc.</p>
-        
+        <h4 class="recommendation">Recommendation based on user Propensity &amp; search query</h4>
+        <p class="recommentdation-content">2 users for the same search may be presented with different product options (Brand 1 &amp; Brand 2). Propensity is measured for various end-points like product-category, sub-category, brand, age, etc.</p>

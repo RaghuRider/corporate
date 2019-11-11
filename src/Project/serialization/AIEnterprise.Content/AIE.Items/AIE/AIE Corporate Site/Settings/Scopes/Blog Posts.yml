@@ -7,7 +7,7 @@ DB: master
 SharedFields:
 - ID: "b04fe662-2b23-44dd-b971-2b864a1ec55f"
   Hint: ScopeQuery
-  Value: "location:{b84b42e6-a9c8-446c-9738-c0ca390ad1d3};template:{1310df35-9ee0-44bb-aebf-619a708b54ad};"
+  Value: "location:{b84b42e6-a9c8-446c-9738-c0ca390ad1d3};template:{1310df35-9ee0-44bb-aebf-619a708b54ad};-id:{B84B42E6-A9C8-446C-9738-C0CA390AD1D3}"
 Languages:
 - Language: en
   Versions:

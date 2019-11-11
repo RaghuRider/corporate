@@ -12,12 +12,12 @@ Languages:
     - ID: "14023dd5-30e7-4e3c-bf31-d835f3a87410"
       Hint: PromoText
       Value: |
-               <div class="automated-text col-6">
-                   <h3 class="event-headline field-promotext">Automated Machine Learning (AML)</h3>
-                    <p>AML automates building machine learning models on raw data thereby yielding a most accurate model.</p>
-                    <p>AML enables the CXOs to assess whether any problem at hand can be solved using ML and if it’s worth investing into DSS to get more optimal models.
-                    </p>
-                </div>
+        <div class="automated-text col-6">
+        <h2 class="event-headline field-promotext">Automated Machine Learning (AML)</h2>
+        <p>AML automates building machine learning models on raw data thereby yielding a most accurate model.</p>
+        <p>AML enables the CXOs to assess whether any problem at hand can be solved using ML and if it&rsquo;s worth investing into DSS to get more optimal models.
+        </p>
+        </div>
     - ID: "18f9beb8-0116-40fd-b47e-fd0a2327d7e0"
       Hint: PromoIcon
       Value: |
