@@ -117,7 +117,7 @@ Languages:
               p:after="r[@uid='{D5C99335-441D-49AA-B7C0-C108B1948A6E}']"
               s:ds=""
               s:id="{896A2C68-1362-4E88-8BA0-1805AE6D4837}"
-              s:par="Styles=%7bD874F1FF-8E9C-45CA-B29C-DC151E22A0C3%7d%7c%7b1226A1A0-DA51-429D-9341-F9DE247AD3E8%7d&amp;GridParameters=%7b908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7d&amp;DynamicPlaceholderId=9&amp;BackgroundImage=%3cimage+mediaid%3d%22%7bA7EEA137-964A-4778-AE6A-FB15616BFD08%7d%22+%2f%3e"
+              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;BackgroundImage=%3Cimage%20mediaid%3D%22%7BA7EEA137-964A-4778-AE6A-FB15616BFD08%7D%22%20%2F%3E&amp;Styles=%7BD874F1FF-8E9C-45CA-B29C-DC151E22A0C3%7D&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=9"
               s:ph="main" />
             <r
               uid="{CC41B132-6A44-40FB-B6B8-64F5719D2CD2}"
