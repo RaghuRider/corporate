@@ -11,6 +11,12 @@ SharedFields:
   Value: |
     {FCDFE9CD-364F-46A6-A466-8CEB8CBF74CC}
     {C14B6289-8AC2-439C-9E5B-40DE9F820C3F}
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{FDD4D90D-F31D-453C-8924-5F85BD198470}"
+- ID: "ca9b9f52-4fb0-4f87-a79f-24dea62cda65"
+  Hint: __Default workflow
+  Value: "{FDD4D90D-F31D-453C-8924-5F85BD198470}"
 - ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
   Hint: __Renderings
   Type: layout
@@ -31,6 +37,9 @@ Languages:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20190506T091127Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{013DD6E7-FF4C-410C-825B-FFFC20EAC95E}"
     - ID: "bb6835c4-82af-4d11-9102-a61694c17055"
       Hint: Title
       Value: $name

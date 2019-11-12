@@ -1,0 +1,28 @@
+﻿---
+ID: "ed8359bf-d057-4704-ae5a-80feac609710"
+Parent: "71027bef-7c0a-40fb-ae6e-34c65b14a29a"
+Template: "71027bef-7c0a-40fb-ae6e-34c65b14a29a"
+Path: /sitecore/templates/Feature/AIE/OurServiceFeature/Range of Services/__Standard Values
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{FDD4D90D-F31D-453C-8924-5F85BD198470}"
+- ID: "ca9b9f52-4fb0-4f87-a79f-24dea62cda65"
+  Hint: __Default workflow
+  Value: "{FDD4D90D-F31D-453C-8924-5F85BD198470}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191107T110847Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{013DD6E7-FF4C-410C-825B-FFFC20EAC95E}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

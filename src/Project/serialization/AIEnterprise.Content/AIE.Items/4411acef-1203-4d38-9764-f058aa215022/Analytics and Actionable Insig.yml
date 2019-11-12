@@ -4,6 +4,10 @@ Parent: "4411acef-1203-4d38-9764-f058aa215022"
 Template: "e24e0789-a058-48bf-abb6-c69c0e60b6b7"
 Path: /sitecore/content/AIE/AIE Corporate Site/Data/Link Lists/Navigation/Our Services/Analytics and Actionable Insights
 DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
 Languages:
 - Language: en
   Versions:

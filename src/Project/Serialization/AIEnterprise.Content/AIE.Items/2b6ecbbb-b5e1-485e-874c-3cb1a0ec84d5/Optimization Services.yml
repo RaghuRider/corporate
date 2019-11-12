@@ -1,0 +1,32 @@
+﻿---
+ID: "6cf6eed4-3f33-4cb8-b63f-b0d31f03ff26"
+Parent: "2b6ecbbb-b5e1-485e-874c-3cb1a0ec84d5"
+Template: "f4d9f467-7714-4920-b47b-e05bb9a8b6e1"
+Path: /sitecore/content/AIE/AIE Corporate Site/Data/AIE/Our Service Feature List/Sitecore with Description/Optimization Services
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 400
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1c3af964-4507-4e02-bc9a-471ed67ba0c8"
+      Hint: Title
+      Value: OPTIMIZATION SERVICES
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191108T063721Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "6dc31b58-2488-40e1-a43c-93398a628f0b"
+      Hint: Description
+      Value: We provide detailed assessment, reports &amp; recommendations for existing Sitecore implementations related to system infrastructure, configuration, platform architecture, feature enablement, development practices, release management, content management operations, website and solution performance analysis, best practice compliance evaluation.
+    - ID: "9c364854-777d-4b7b-b5b7-f064aa03d2ee"
+      Hint: Icon
+      Value: |
+        <image mediaid="{06DD3F43-BCBC-4AD9-9192-EE5286726DFC}" ></image>

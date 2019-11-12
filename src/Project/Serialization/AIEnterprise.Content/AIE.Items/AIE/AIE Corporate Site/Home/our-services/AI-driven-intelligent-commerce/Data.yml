@@ -1,0 +1,18 @@
+﻿---
+ID: "b3644ab1-4007-4095-b966-8f0c8cdc6fae"
+Parent: "f7fe0f5b-fe2b-404c-af1d-a07a5727f069"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: "/sitecore/content/AIE/AIE Corporate Site/Home/our-services/AI-driven-intelligent-commerce/Data"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191025T122033Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

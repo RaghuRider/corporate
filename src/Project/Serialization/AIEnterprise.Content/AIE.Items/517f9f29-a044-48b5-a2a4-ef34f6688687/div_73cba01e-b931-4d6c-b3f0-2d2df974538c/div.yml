@@ -1,0 +1,18 @@
+﻿---
+ID: "2de09d97-afbc-4cc6-b3ec-01659e42342d"
+Parent: "73cba01e-b931-4d6c-b3f0-2d2df974538c"
+Template: "aca5c9a3-cda0-49b6-893f-1d4a7cb595b0"
+Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Promo/ServicePromoImageRightWithoutTitle/div/div
+DB: master
+SharedFields:
+- ID: "bea2740e-90d1-4b16-bd1d-7a7cc8605d2d"
+  Hint: CssClass
+  Value: "col-lg-4 col-sm-12 col-md-4"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190626T140116Z

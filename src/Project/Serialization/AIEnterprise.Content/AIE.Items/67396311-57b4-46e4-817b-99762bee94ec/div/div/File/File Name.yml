@@ -1,0 +1,22 @@
+﻿---
+ID: "c03fae50-608e-4cf7-b298-a156054b058e"
+Parent: "f82eae62-3144-43e7-9461-e20a1e6096ee"
+Template: "6eca12e9-f4d5-4f6e-9c3c-6df716bc593b"
+Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Media Link/Annual Report/div/div/File/File Name
+DB: master
+SharedFields:
+- ID: "3a4dd4df-8d32-405f-831a-39f87a550085"
+  Hint: Token
+  Value: $name
+- ID: "a9ac9fba-2873-4395-b016-ff8717d67784"
+  Hint: IsLink
+  Type: Checkbox
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191025T075414Z

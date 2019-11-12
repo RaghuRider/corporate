@@ -1,0 +1,25 @@
+﻿---
+ID: "cf0cd59e-3f80-4267-8725-c7601aa7bd05"
+Parent: "d09c5d85-07d0-49f1-b110-e5a397b568b6"
+Template: "1151b2a9-08af-4f4d-a892-c2cc9a92ea6a"
+Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Page Content/Annual Report/div/Report List/Report
+DB: master
+SharedFields:
+- ID: "06882697-dc92-477d-a99a-5d79bd2ccb8d"
+  Hint: RenderingItem
+  Value: "{B3D80586-1081-4C7C-835F-DD75B2681CC8}"
+- ID: "af48c671-dd3e-41ed-95b3-534560bef882"
+  Hint: RenderingParameters
+  Value: "FieldNames=%7b67396311-57B4-46E4-817B-99762BEE94EC%7d&Caching=0%7c0%7c0%7c0%7c0%7c0%7c0%7c0"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191025T094855Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
