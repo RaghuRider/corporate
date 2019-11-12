@@ -5,6 +5,9 @@ Template: "886adec1-abf8-40e1-9926-d9189c4e8e1b"
 Path: "/sitecore/Forms/AIE/AIE Corporate Site/Contact Corporate Form/Page/form/div/div/div/div/p/span/your-email"
 DB: master
 SharedFields:
+- ID: "7abaa3f6-6ec0-4b65-a463-7919bfae55aa"
+  Hint: Css Class
+  Value: "contact-email"
 - ID: "8a43af61-0812-4b37-a343-96cde3f12bb1"
   Hint: Required
   Type: Checkbox

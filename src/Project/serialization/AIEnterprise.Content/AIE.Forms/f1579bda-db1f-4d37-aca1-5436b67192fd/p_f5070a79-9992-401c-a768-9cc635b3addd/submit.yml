@@ -13,7 +13,7 @@ SharedFields:
   Value: "{7CE25CAB-EF3A-4F73-AB13-D33BDC1E4EE2}"
 - ID: "7abaa3f6-6ec0-4b65-a463-7919bfae55aa"
   Hint: Css Class
-  Value: "btn btn-red"
+  Value: "btn btn-red send-loader"
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
   Value: 0

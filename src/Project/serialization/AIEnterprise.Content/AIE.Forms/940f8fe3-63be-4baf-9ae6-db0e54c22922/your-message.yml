@@ -5,9 +5,12 @@ Template: "d8386d04-c1e3-4cd3-9227-9e9f86ef3c88"
 Path: "/sitecore/Forms/AIE/AIE Corporate Site/Contact Corporate Form/Page/form/div/div/div/div/p/span/your-message"
 DB: master
 SharedFields:
+- ID: "467c22b4-b1a2-4620-b8bb-74c2d8b369fc"
+  Hint: Label Css Class
+  Value: 
 - ID: "7abaa3f6-6ec0-4b65-a463-7919bfae55aa"
   Hint: Css Class
-  Value: "wpcf7-form-control wpcf7-textarea wpcf7-validates-as-required"
+  Value: "wpcf7-form-control wpcf7-textarea wpcf7-validates-as-required contact-message"
 - ID: "8a43af61-0812-4b37-a343-96cde3f12bb1"
   Hint: Required
   Type: Checkbox

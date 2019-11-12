@@ -4,6 +4,10 @@ Parent: "9f9c50bb-1a9c-41eb-b092-c6e619d32527"
 Template: "94a46d66-b1b8-405d-aae4-7b5a9cd61c5e"
 Path: /sitecore/Forms/AIE/AIE Corporate Site/Profile Form/Page/div/div/form/p/Submit
 DB: master
+SharedFields:
+- ID: "7abaa3f6-6ec0-4b65-a463-7919bfae55aa"
+  Hint: Css Class
+  Value: "profile-loader-button"
 Languages:
 - Language: en
   Versions:
