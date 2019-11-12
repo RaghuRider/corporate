@@ -8,6 +8,9 @@ SharedFields:
 - ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
   Hint: Page Design
   Value: "{E6E33FA3-2659-4750-A1DD-EB8BDFC5F37B}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: 
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
   Value: 100
@@ -91,6 +94,9 @@ Languages:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20190506T122143Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
     - ID: "45ce257a-6060-4c4a-9a0f-ae77bf705b25"
       Hint: TwitterSite
       Value: @AiEnterpriseInc
@@ -111,7 +117,7 @@ Languages:
       Hint: Content
       Value: |
         <div class="banner-header">
-        <h1>About Us</h1>
+        <h1>ABOUT US</h1>
         <h4>We have been there. We understand.</h4>
         </div>
     - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
