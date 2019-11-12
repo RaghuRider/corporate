@@ -4,6 +4,10 @@ Parent: "875cafb7-fbc7-42dd-b3db-a677b4fa6290"
 Template: "324733cf-afec-4281-9a18-03b6cfc4e535"
 Path: /sitecore/content/AIE/AIE Corporate Site/Data/AIE/Home/What We Do/What we do List/AI DRIVEN INTELLIGENT COMMERCE
 DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: 
 Languages:
 - Language: en
   Versions:
@@ -19,13 +23,16 @@ Languages:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20190614T080343Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\admin
     - ID: "b59adc09-32a3-46f2-aede-b0c633979263"
       Hint: PromoText2
-      Value: Strategize. Deploy. Measure. Results. Repeat.
+      Value: Where “Digital Intuition” is driven by Machine Intelligence.
     - ID: "b8c1a9d2-de76-4519-aff4-1442525f32b0"
       Hint: PromoLink
       Value: |
