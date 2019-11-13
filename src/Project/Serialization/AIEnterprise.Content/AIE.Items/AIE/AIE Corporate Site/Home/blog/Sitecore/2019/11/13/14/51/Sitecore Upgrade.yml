@@ -47,7 +47,7 @@ Languages:
             Opportunity to integrate web content with commerce and product cataloguing functionality (requires Sitecore commerce)</li>
             <li>Federated authentication and marketing automation enhancements</li>
         </ul>
-        <p style="color: #5f727f; background-color: #ffffff; margin-top: 0px; margin-right: 0px; margin-left: 0px;"><a href="~/link.aspx?_id=EB8ED58391F54C2B9C84F637C85B7208&amp;_z=z">Contact us</a>&nbsp;and we can show you the many other benefits of upgrading to Sitecore 9.2 at absolutely Zero cost</p>
+        <p style="color: #5f727f; background-color: #ffffff; margin-top: 0px; margin-right: 0px; margin-left: 0px;"><a href="~/link.aspx?_id=EB8ED58391F54C2B9C84F637C85B7208&amp;_z=z" class="link-color">Contact us</a>&nbsp;and we can show you the many other benefits of upgrading to Sitecore 9.2 at absolutely Zero cost</p>
     - ID: "62c4305f-4328-4126-a0c3-657315ad18e6"
       Hint: Blog Title
       Value: Sitecore Upgrade
