@@ -1,0 +1,54 @@
+﻿---
+ID: "6901baff-34c5-49ae-adba-0e681abc5767"
+Parent: "6b5e597e-3409-4878-b440-53bdb14e9f85"
+Template: "e24de305-c60f-47d1-97c0-de121d6831d0"
+Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Cache Settings/Cache Settting for AIE
+DB: master
+SharedFields:
+- ID: "3ad2506a-dc39-4b1e-959f-9d524addbf50"
+  Hint: VaryByParm
+  Type: Checkbox
+  Value: 1
+- ID: "3d08db46-2267-41b0-bc52-be69fd618633"
+  Hint: Cacheable
+  Type: Checkbox
+  Value: 1
+- ID: "8b6d532b-6128-4486-a044-ca06d90948ba"
+  Hint: VaryByData
+  Type: Checkbox
+  Value: 1
+- ID: "e4451eaf-dbfd-4d31-a525-6b42f236289d"
+  Hint: Rendering
+  Type: TreelistEx
+  Value: |
+    {BF03AD4B-F614-4A13-8891-30804F058085}
+    {DCEE78E1-1843-4456-A13A-F10A12191630}
+    {51C13F03-8364-4F61-B860-2EC6CA7439B3}
+    {8B0393E9-EE25-4F0B-A5FD-777B3AD2C737}
+    {87182F78-4399-4896-8D59-9D6A45282F8A}
+    {99A633FC-B9A9-44A0-B78A-BCBB08DD02C9}
+    {896A2C68-1362-4E88-8BA0-1805AE6D4837}
+    {C25766C8-9AFD-4D28-87FE-147774F6806D}
+    {2DA9B139-FB9C-4FD7-BE84-CB066B2D7CC3}
+    {3972C278-7E7A-4C2B-A293-66AF860F5C3A}
+    {4646BD4F-05FF-4A19-9600-4D74F2F1548B}
+    {4A0D4E0B-BC20-4F2E-BD84-A4BD35834E86}
+    {B3D80586-1081-4C7C-835F-DD75B2681CC8}
+    {5A21C781-8E74-4DD0-8261-8CCDA1BF0454}
+    {00E2C7CF-2247-4596-B878-E6BB3850A77F}
+- ID: "f3e7e552-d7c8-469b-a150-69e4e14ab35c"
+  Hint: ClearOnIndexUpdate
+  Type: Checkbox
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191113T073120Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
