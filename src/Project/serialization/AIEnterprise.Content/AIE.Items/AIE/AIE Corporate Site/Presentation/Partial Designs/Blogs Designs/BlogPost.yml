@@ -29,22 +29,8 @@ Languages:
               s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames&amp;Styles=%7BD874F1FF-8E9C-45CA-B29C-DC151E22A0C3%7D&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=8"
               s:ph="/main/container-7" />
             <r
-              uid="{D927B7B2-9C95-41F7-ABC1-9366D043B4F7}"
-              p:after="r[@uid='{49B17ADC-C5D4-4D62-8845-C41603E228CB}']"
-              s:ds="{BA3005AD-775C-427D-B93D-C6B2C3F56B6A}"
-              s:id="{87182F78-4399-4896-8D59-9D6A45282F8A}"
-              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames&amp;Styles=%7B14C31106-39E3-431C-9094-C51AA711CCC1%7D&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=6"
-              s:ph="/main/container-4" />
-            <r
-              uid="{B8342411-9FA3-4B5B-83C6-A29C44742C94}"
-              p:after="r[@uid='{D927B7B2-9C95-41F7-ABC1-9366D043B4F7}']"
-              s:ds="{B84B42E6-A9C8-446C-9738-C0CA390AD1D3}"
-              s:id="{2400E52D-F9B3-445D-8629-A69720A22B44}"
-              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;SearchResultPage=%7B493300F0-160D-41D4-A6F7-958FA5A98428%7D&amp;Facet=%7B8907541F-00AF-4783-8352-A2848FC1D3AC%7D&amp;FieldNames&amp;Styles=%7BF6668D3F-7289-4481-AA17-466A8144EC57%7D%7C%7B5EC876AC-99B7-4504-9426-CC4EEFFBD5A6%7D&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=5"
-              s:ph="/main/container-4" />
-            <r
               uid="{049D1CC0-B331-42BC-BAED-B87B77E6CFEB}"
-              p:after="r[@uid='{B8342411-9FA3-4B5B-83C6-A29C44742C94}']"
+              p:after="r[@uid='{49B17ADC-C5D4-4D62-8845-C41603E228CB}']"
               s:ds=""
               s:id="{8B0393E9-EE25-4F0B-A5FD-777B3AD2C737}"
               s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7BBDC5B7A8-A5EF-4C64-9BC7-4EEE156A70B0%7D&amp;Styles=%7BC02075B8-D928-4CA1-A1D7-DE5DED977FF7%7D%7C%7BD874F1FF-8E9C-45CA-B29C-DC151E22A0C3%7D&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=3"
