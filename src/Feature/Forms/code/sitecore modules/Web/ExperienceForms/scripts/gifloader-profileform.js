@@ -11,11 +11,11 @@
         $(".error").remove();
 
         if (profile_name.length >= 1 && profile_email.length >= 1 && profile_phone.length >= 1 &&
-            profile_dropdown.length >=1 )
+            profile_dropdown == false)
         {
             $('.gif-loader').show();
             $(".profile-loader-button").css("background-color", "#3c3950");
-            $(".profile-loader-button").attr("disabled", true); 
+           // $(".profile-loader-button").attr("disabled", true); 
         }
     });
 
