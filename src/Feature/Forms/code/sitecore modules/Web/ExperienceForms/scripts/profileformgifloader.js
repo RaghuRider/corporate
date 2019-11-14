@@ -14,7 +14,6 @@
             profile_dropdown.length >=1 )
         {
             $('.gif-loader').show();
-            console.log("waiting");
         }
     });
 

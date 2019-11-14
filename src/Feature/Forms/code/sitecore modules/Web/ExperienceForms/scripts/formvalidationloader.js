@@ -11,7 +11,6 @@
  
     if (first_name.length > 1 && email.length > 1 && phone.length > 1 && org.length > 1) {
       $('.gif-loader').show();
-	  console.log("waiting");
 	  $(".submit-button").css("background-color", "#3c3950");
 	  $(".submit-button").attr("disabled", true);
     }

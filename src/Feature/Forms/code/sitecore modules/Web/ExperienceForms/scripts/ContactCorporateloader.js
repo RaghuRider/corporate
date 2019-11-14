@@ -9,8 +9,7 @@
         $(".error").remove();
 
         if (contact_name.length >= 1 && contact_email.length >= 1 && contact_message.length >= 1) {
-            $('.gif-loader').show();
-            console.log("waiting");
+            $('.gif-loader').show();            
         }
     });
 });
