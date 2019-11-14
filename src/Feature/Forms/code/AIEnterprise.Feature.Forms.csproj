@@ -203,9 +203,10 @@
     <Content Include="EmailTemplate\AIE_BookAMeeting.html" />
     <Content Include="EmailTemplate\AIE_ContactEmail.html" />
     <Content Include="EmailTemplate\AIE_LookingBrochure.html" />
-    <Content Include="sitecore modules\Web\ExperienceForms\scripts\contactcorporateloader.js" />
-    <Content Include="sitecore modules\Web\ExperienceForms\scripts\formvalidationloader.js" />
-    <Content Include="sitecore modules\Web\ExperienceForms\scripts\profileformgifloader.js" />
+    <Content Include="sitecore modules\Web\ExperienceForms\scripts\gifloader-bookameeting.js" />
+    <Content Include="sitecore modules\Web\ExperienceForms\scripts\gifloader-contactcorporate.js" />
+    <Content Include="sitecore modules\Web\ExperienceForms\scripts\gifloader-lookingforbrochure.js" />
+    <Content Include="sitecore modules\Web\ExperienceForms\scripts\gifloader-profileform.js" />
     <Content Include="Views\FormBuilder\FieldTemplates\ConfirmationPopup.cshtml" />
     <Content Include="Views\FormBuilder\FieldTemplates\AIEHiddenField.cshtml" />
     <Content Include="App_Config\Include\AIEnterprise\Feature\FormsExtensions\Feature.FormsExtensions.FileUploadStorageProviders.config" />

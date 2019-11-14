@@ -9,7 +9,9 @@
         $(".error").remove();
 
         if (contact_name.length >= 1 && contact_email.length >= 1 && contact_message.length >= 1) {
-            $('.gif-loader').show();            
+            $('.gif-loader').show();  
+            $(".send-loader").css("background-color", "#3c3950");
+            $(".send-loader").attr("disabled", true); 
         }
     });
 });

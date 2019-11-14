@@ -14,6 +14,8 @@
             profile_dropdown.length >=1 )
         {
             $('.gif-loader').show();
+            $(".profile-loader-button").css("background-color", "#3c3950");
+            $(".profile-loader-button").attr("disabled", true); 
         }
     });
 
