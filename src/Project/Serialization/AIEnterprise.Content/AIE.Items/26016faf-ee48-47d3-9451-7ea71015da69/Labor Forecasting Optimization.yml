@@ -4,6 +4,10 @@ Parent: "26016faf-ee48-47d3-9451-7ea71015da69"
 Template: "324733cf-afec-4281-9a18-03b6cfc4e535"
 Path: /sitecore/content/AIE/AIE Corporate Site/Data/Promos/Our Services/AI Driven Intelligent Commerce/Labor Forecasting Optimization
 DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: 
 Languages:
 - Language: en
   Versions:
@@ -16,10 +20,13 @@ Languages:
     - ID: "18f9beb8-0116-40fd-b47e-fd0a2327d7e0"
       Hint: PromoIcon
       Value: |
-        <image mediaid="{8C021FD8-6250-454C-9611-F08734758C88}" ></image>
+        <image mediaid="{659CF4DC-9D10-4D81-A15A-E7A3203CD4FB}"></image>
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20191028T100411Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
