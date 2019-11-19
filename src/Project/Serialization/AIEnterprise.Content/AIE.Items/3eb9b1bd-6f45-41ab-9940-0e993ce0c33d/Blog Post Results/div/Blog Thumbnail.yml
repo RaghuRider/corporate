@@ -2,12 +2,12 @@
 ID: "89bd88dc-b92e-4cd5-a7a9-d5ec28d3d14c"
 Parent: "bcc610e7-cb47-471f-85cb-a4520eeb3ee3"
 Template: "fcd285da-9ab2-4c8d-b185-5a7487a9ba1b"
-Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Search Results/Blog Post Results/div/img
+Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Search Results/Blog Post Results/div/Blog Thumbnail
 DB: master
 SharedFields:
 - ID: "4753764c-c05a-4623-841b-97f85135241c"
   Hint: FieldName
-  Value: Blog Image
+  Value: Blog Thumbnail
 - ID: "7495124d-09b5-4cb3-b4a6-fe77a95827da"
   Hint: CssClass
   Value: "col-2"
