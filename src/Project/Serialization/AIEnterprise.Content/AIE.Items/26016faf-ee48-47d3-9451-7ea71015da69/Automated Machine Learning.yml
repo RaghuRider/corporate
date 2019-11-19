@@ -32,7 +32,7 @@ Languages:
     - ID: "82a6ce45-59b5-4bc8-83b9-79ccb8174a2a"
       Hint: PromoIcon2
       Value: |
-        <image mediaid="{86A94B23-532B-452B-A4FF-30BE1AC11C86}" ></image>
+        <image mediaid="{E258535E-9C5E-4E12-B74A-4DC3BE48D33D}" />
     - ID: "832d3c97-5c05-49bf-89ef-9c29d30345e7"
       Hint: PromoText3
       Value: |
