@@ -65,8 +65,9 @@
     <Reference Include="Sitecore.XA.Foundation.Mvc">
       <HintPath>..\..\..\..\Lib\Sitecore.XA.Foundation.Mvc.dll</HintPath>
     </Reference>
-    <Reference Include="Sitecore.XA.Foundation.SitecoreExtensions">
-      <HintPath>..\..\..\..\Lib\Sitecore.XA.Foundation.SitecoreExtensions.dll</HintPath>
+    <Reference Include="Sitecore.XA.Foundation.SitecoreExtensions, Version=3.8.1.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\SVMGlobalRepo\AIEProject\Lib\Sitecore.XA.Foundation.SitecoreExtensions.dll</HintPath>
     </Reference>
     <Reference Include="System.Linq, Version=4.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
       <HintPath>..\..\..\..\packages\System.Linq.4.1.0\lib\net463\System.Linq.dll</HintPath>

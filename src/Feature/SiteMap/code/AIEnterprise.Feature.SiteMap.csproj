@@ -51,7 +51,8 @@
       <HintPath>..\..\..\..\packages\Sitecore.XA.Foundation.Multisite.3.8.1\lib\NET462\Sitecore.XA.Foundation.Multisite.dll</HintPath>
     </Reference>
     <Reference Include="Sitecore.XA.Foundation.SitecoreExtensions, Version=3.8.1.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\..\..\..\packages\Sitecore.XA.Foundation.SitecoreExtensions.3.8.1\lib\NET462\Sitecore.XA.Foundation.SitecoreExtensions.dll</HintPath>
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\SVMGlobalRepo\AIEProject\Lib\Sitecore.XA.Foundation.SitecoreExtensions.dll</HintPath>
     </Reference>
     <Reference Include="System.Web.DynamicData" />
     <Reference Include="System.Web.Entity" />
