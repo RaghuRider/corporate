@@ -62,10 +62,11 @@
     <Reference Include="Sitecore.XA.Foundation.MarkupDecorator">
       <HintPath>..\..\..\..\Lib\Sitecore.XA.Foundation.MarkupDecorator.dll</HintPath>
     </Reference>
-    <Reference Include="Sitecore.XA.Foundation.Mvc">
-      <HintPath>..\..\..\..\Lib\Sitecore.XA.Foundation.Mvc.dll</HintPath>
+    <Reference Include="Sitecore.XA.Foundation.Mvc, Version=3.8.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\SVMGlobalRepo\AIEProject\Lib\Sitecore.XA.Foundation.Mvc.dll</HintPath>
     </Reference>
-    <Reference Include="Sitecore.XA.Foundation.SitecoreExtensions, Version=3.8.1.0, Culture=neutral, processorArchitecture=MSIL">
+    <Reference Include="Sitecore.XA.Foundation.SitecoreExtensions, Version=3.8.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\..\..\..\..\..\SVMGlobalRepo\AIEProject\Lib\Sitecore.XA.Foundation.SitecoreExtensions.dll</HintPath>
     </Reference>

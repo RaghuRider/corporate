@@ -50,7 +50,7 @@
     <Reference Include="Sitecore.XA.Foundation.Multisite, Version=3.8.1.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\..\..\..\packages\Sitecore.XA.Foundation.Multisite.3.8.1\lib\NET462\Sitecore.XA.Foundation.Multisite.dll</HintPath>
     </Reference>
-    <Reference Include="Sitecore.XA.Foundation.SitecoreExtensions, Version=3.8.1.0, Culture=neutral, processorArchitecture=MSIL">
+    <Reference Include="Sitecore.XA.Foundation.SitecoreExtensions, Version=3.8.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\..\..\..\..\..\SVMGlobalRepo\AIEProject\Lib\Sitecore.XA.Foundation.SitecoreExtensions.dll</HintPath>
     </Reference>
