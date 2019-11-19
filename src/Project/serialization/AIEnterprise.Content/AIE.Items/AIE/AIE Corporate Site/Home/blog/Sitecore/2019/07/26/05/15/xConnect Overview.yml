@@ -103,6 +103,10 @@ Languages:
     - ID: "82f4bd76-0837-4e55-a1f6-15231096b2b9"
       Hint: Attributes
       Value: "og:locale=en_US&og:type=article&og:title=xConnect%20Overview%20-%20AiEnterprise%20Inc.%20Blogs&og:site_name=AiEnterprise%20Inc.&og:image=http%3A%2F%2Fdev.aienterprise.com%2F-%2Fmedia%2FProject%2FAIE%2FAIE%20Corporate%20Site%2FBlogs%2FBanner%20Images%2FSmapleBanner.jpg"
+    - ID: "9e2ad13b-6212-4baf-b391-af5f6ca84fe9"
+      Hint: Blog Image
+      Value: |
+        <image mediaid="{A7EEA137-964A-4778-AE6A-FB15616BFD08}" />
     - ID: "aef7a11c-4fce-41f0-a684-2398486cdf2b"
       Hint: Thumbnail
       Value: |
