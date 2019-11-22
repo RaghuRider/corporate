@@ -34,6 +34,5 @@ Languages:
         <br />
         <h2>Search Optimization</h2>
         <p class="search-optimization">Every search query is 'categorized' into one of available categories using ML algorithm and then the results are tailored using this.</p>
-        <br />
         <h4 class="recommendation">Recommendation based on user Propensity &amp; search query</h4>
         <p class="recommentdation-content">2 users for the same search may be presented with different product options (Brand 1 &amp; Brand 2). Propensity is measured for various end-points like product-category, sub-category, brand, age, etc.</p>
