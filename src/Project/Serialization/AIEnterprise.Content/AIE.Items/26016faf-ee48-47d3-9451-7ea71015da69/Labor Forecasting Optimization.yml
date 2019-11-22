@@ -15,12 +15,11 @@ Languages:
     Fields:
     - ID: "14023dd5-30e7-4e3c-bf31-d835f3a87410"
       Hint: PromoText
-      Value: |
-        <h2 class="event-headline field-promotext">Labor Forecasting Optimization</h2>
+      Value: Labor Forecasting Optimization
     - ID: "18f9beb8-0116-40fd-b47e-fd0a2327d7e0"
       Hint: PromoIcon
       Value: |
-        <image mediaid="{659CF4DC-9D10-4D81-A15A-E7A3203CD4FB}" />
+        <image mediaid="{659CF4DC-9D10-4D81-A15A-E7A3203CD4FB}" ></image>
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20191028T100411Z
