@@ -128,11 +128,11 @@ Languages:
       Value: We have been there. We understand.
     - ID: "82f4bd76-0837-4e55-a1f6-15231096b2b9"
       Hint: Attributes
-      Value: "og:locale=en_US&og:type=article&og:title=About%20us%20-%20AiEnterprise%20Inc.&og:site_name=AiEnterprise%20Inc.&og:image=http%3A%2F%2Fdev.aienterprise.com%2F-%2Fmedia%2FProject%2FAIE%2FAIE-Corporate-Site%2FBannerImages%2FAbout-us.jpg"
+      Value: "og:locale=en_US&og:type=article&og:title=About%20us%20-%20AiEnterprise%20Inc.&og:site_name=AiEnterprise%20Inc.&og:image=https%3A%2F%2Fwww.aienterprise.com%2F-%2Fmedia%2FProject%2FAIE%2FAIE-Corporate-Site%2FAbout-us%2FAIEnterprise-Promo.jpg%3F"
     - ID: "bb6835c4-82af-4d11-9102-a61694c17055"
       Hint: Title
       Value: About Us
     - ID: "de457091-0989-414e-addf-59db0ddb6690"
       Hint: TwitterImage
       Value: |
-        <image mediaid="{6677ECB3-3AEA-4D15-B981-3682AEA1A6D4}" />
+        <image mediaid="{64858F36-03E3-460A-88E4-51C2E9A776D8}" />

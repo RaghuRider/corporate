@@ -101,6 +101,13 @@ Languages:
         <h1>AI Driven Intelligent Commerce</h1>
         <h4>Where “Digital Intuition” is driven by Machine Intelligence.</h4>
         </div>
+    - ID: "82f4bd76-0837-4e55-a1f6-15231096b2b9"
+      Hint: Attributes
+      Value: "og:locale=en_US&og:type=article&og:title=AI%20Driven%20Intelligent%20Commerce%20-%20AiEnterprise%20Inc.&og:site_name=AiEnterprise%20Inc.&article:publisher=https%3A%2F%2Fwww.facebook.com%2Faienterpriseinc%2F&og:image=https%3A%2F%2Fwww.aienterprise.com%2F-%2Fmedia%2FProject%2FAIE%2FAIE-Corporate-Site%2FHome-WhatWeDo%2Fall-services.jpg%3F"
     - ID: "bb6835c4-82af-4d11-9102-a61694c17055"
       Hint: Title
       Value: AI Driven Intelligent Commerce
+    - ID: "de457091-0989-414e-addf-59db0ddb6690"
+      Hint: TwitterImage
+      Value: |
+        <image mediaid="{D1719A4A-2FB2-4936-A847-E642D5E725F3}" />
