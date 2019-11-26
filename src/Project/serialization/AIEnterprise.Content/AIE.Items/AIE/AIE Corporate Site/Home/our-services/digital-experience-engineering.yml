@@ -38,15 +38,8 @@ Languages:
           <d
             id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
             <r
-              uid="{F0DEA782-03A9-4471-BAD1-8A716D8EC2DA}"
-              p:before="*"
-              s:ds="{BE0D6D7F-2D21-4D9E-8172-0D32A172D07D}"
-              s:id="{51C13F03-8364-4F61-B860-2EC6CA7439B3}"
-              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7BF3BF9C15-5081-4FC3-8C35-F58285670C9F%7D&amp;Styles&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=15"
-              s:ph="/main/sxa-ourservicebody/container-5/row-2-1/row-2-2/column-1-3" />
-            <r
               uid="{2A4C1A93-C926-406A-8D88-17A1DC4F495F}"
-              p:after="r[@uid='{F0DEA782-03A9-4471-BAD1-8A716D8EC2DA}']"
+              p:before="*"
               s:ds="local:/Data/Sitecore"
               s:id="{DCEE78E1-1843-4456-A13A-F10A12191630}"
               s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames&amp;Styles&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=19"
@@ -152,11 +145,11 @@ Languages:
         
     - ID: "82f4bd76-0837-4e55-a1f6-15231096b2b9"
       Hint: Attributes
-      Value: "og:locale=en_US&og:type=article&og:title=Digital%20%26%20Experience%20Engineering%20-%20AiEnterprise%20Inc.&og:site_name=AiEnterprise%20Inc.&article:publisher=https%3A%2F%2Fwww.facebook.com%2Faienterpriseinc%2F&og:image=http%3A%2F%2Fdev.aienterprise.com%2F-%2Fmedia%2FProject%2FAIE%2FAIE-Corporate-Site%2FBannerImages%2FDIGITAL--EXPERIENCE.jpg"
+      Value: "og:locale=en_US&og:type=article&og:title=Digital%20%26%20Experience%20Engineering%20-%20AiEnterprise%20Inc.&og:site_name=AiEnterprise%20Inc.&article:publisher=https%3A%2F%2Fwww.facebook.com%2Faienterpriseinc%2F&og:image=https%3A%2F%2Fwww.aienterprise.com%2F-%2Fmedia%2FProject%2FAIE%2FAIE-Corporate-Site%2FHome-WhatWeDo%2Fdigital-experience-engineering-image.jpg%3F"
     - ID: "bb6835c4-82af-4d11-9102-a61694c17055"
       Hint: Title
       Value: Digital and Experience Engineering
     - ID: "de457091-0989-414e-addf-59db0ddb6690"
       Hint: TwitterImage
       Value: |
-        <image mediaid="{5D5892B2-A34C-495B-8236-46BE79B029F2}" />
+        <image mediaid="{74B70877-5CEF-422F-AC54-977470EA7C8F}" />

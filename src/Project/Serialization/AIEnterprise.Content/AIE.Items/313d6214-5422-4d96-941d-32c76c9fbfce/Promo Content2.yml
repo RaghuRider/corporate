@@ -1,0 +1,18 @@
+﻿---
+ID: "7d1a9a46-2ecd-488c-9a70-374fb4e88dfa"
+Parent: "313d6214-5422-4d96-941d-32c76c9fbfce"
+Template: "fcd285da-9ab2-4c8d-b185-5a7487a9ba1b"
+Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Promo/Corporate card with Left Image/div/div/Promo Content2
+DB: master
+SharedFields:
+- ID: "4753764c-c05a-4623-841b-97f85135241c"
+  Hint: FieldName
+  Value: PromoText3
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190624T102923Z
