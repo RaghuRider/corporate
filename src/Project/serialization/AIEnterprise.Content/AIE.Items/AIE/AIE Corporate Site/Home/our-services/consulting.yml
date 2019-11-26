@@ -8,9 +8,6 @@ SharedFields:
 - ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
   Hint: Page Design
   Value: "{CBE603FF-5DFF-4584-9EF0-440B05133ECF}"
-- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
-  Hint: __Workflow
-  Value: 
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
   Value: 600
@@ -126,9 +123,6 @@ Languages:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20190506T122625Z
-    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
-      Hint: __Workflow state
-      Value: 
     - ID: "45ce257a-6060-4c4a-9a0f-ae77bf705b25"
       Hint: TwitterSite
       Value: @AiEnterpriseInc
@@ -157,11 +151,11 @@ Languages:
       Value: "Your goals. Our know-how. Digital Nirvana."
     - ID: "82f4bd76-0837-4e55-a1f6-15231096b2b9"
       Hint: Attributes
-      Value: "og:locale=en_US&og:type=article&og:title=Premium%20Business%20Consulting%20-%20AiEnterprise%20Inc.&og:site_name=AiEnterprise%20Inc.&article:publisher=https%3A%2F%2Fwww.facebook.com%2Faienterpriseinc%2F&og:image=https%3A%2F%2Fwww.aienterprise.com%2F-%2Fmedia%2FProject%2FAIE%2FAIE-Corporate-Site%2FHome-WhatWeDo%2Fpremiumbusinessconsultingthumb.jpg%3F"
+      Value: "og:locale=en_US&og:type=article&og:title=Premium%20Business%20Consulting%20-%20AiEnterprise%20Inc.&og:site_name=AiEnterprise%20Inc.&article:publisher=https%3A%2F%2Fwww.facebook.com%2Faienterpriseinc%2F&og:image=http%3A%2F%2Fdev.aienterprise.com%2F-%2Fmedia%2FProject%2FAIE%2FAIE-Corporate-Site%2FBannerImages%2FPREMIUM-BUSINESS-CONSULTING.jpg"
     - ID: "bb6835c4-82af-4d11-9102-a61694c17055"
       Hint: Title
       Value: Premium Business Consulting
     - ID: "de457091-0989-414e-addf-59db0ddb6690"
       Hint: TwitterImage
       Value: |
-        <image mediaid="{64B8AF98-800A-4E2A-AB3A-708BE823C8D3}" />
+        <image mediaid="{6928A30D-8150-4B4A-8E11-63112A4A609C}" />

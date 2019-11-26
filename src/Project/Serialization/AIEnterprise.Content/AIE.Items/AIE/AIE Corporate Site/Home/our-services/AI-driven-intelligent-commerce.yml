@@ -46,7 +46,7 @@ Languages:
               p:after="r[@uid='{5B33763C-9F45-409D-927A-F2A511DD3B8A}']"
               s:ds="{08E2CFA8-8748-4644-86B8-59F5107B67F6}"
               s:id="{51C13F03-8364-4F61-B860-2EC6CA7439B3}"
-              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7B4A11A4B0-C427-42BD-8CAB-D83EF08BACF6%7D&amp;Styles=%7BBCF7BBEB-BB0B-4FEF-8B99-5A38175219D7%7D&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=6"
+              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7B28180243-17FD-46BB-900B-7272AC4E74DA%7D&amp;Styles=%7BBCF7BBEB-BB0B-4FEF-8B99-5A38175219D7%7D&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=6"
               s:ph="/main/sxa-ourservicebody/container-5/row-1-1" />
             <r
               uid="{8AA0FC18-F8B8-4C89-A76B-BED53DBFCFC1}"
@@ -101,13 +101,6 @@ Languages:
         <h1>AI Driven Intelligent Commerce</h1>
         <h4>Where “Digital Intuition” is driven by Machine Intelligence.</h4>
         </div>
-    - ID: "82f4bd76-0837-4e55-a1f6-15231096b2b9"
-      Hint: Attributes
-      Value: "og:locale=en_US&og:type=article&og:title=AI%20Driven%20Intelligent%20Commerce%20-%20AiEnterprise%20Inc.&og:site_name=AiEnterprise%20Inc.&article:publisher=https%3A%2F%2Fwww.facebook.com%2Faienterpriseinc%2F&og:image=https%3A%2F%2Fwww.aienterprise.com%2F-%2Fmedia%2FProject%2FAIE%2FAIE-Corporate-Site%2FHome-WhatWeDo%2Fall-services.jpg%3F"
     - ID: "bb6835c4-82af-4d11-9102-a61694c17055"
       Hint: Title
       Value: AI Driven Intelligent Commerce
-    - ID: "de457091-0989-414e-addf-59db0ddb6690"
-      Hint: TwitterImage
-      Value: |
-        <image mediaid="{D1719A4A-2FB2-4936-A847-E642D5E725F3}" />

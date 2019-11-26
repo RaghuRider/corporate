@@ -108,9 +108,9 @@ Languages:
       Value: |
         <image mediaid="{A7EEA137-964A-4778-AE6A-FB15616BFD08}" />
     - ID: "aef7a11c-4fce-41f0-a684-2398486cdf2b"
-      Hint: Blog Thumbnail
+      Hint: Thumbnail
       Value: |
-        <image mediaid="{D8923832-B908-41FA-9623-EA8BCE8098FD}" />
+        <image mediaid="{9336B305-86C2-4D71-9532-E669FBED11CE}" />
     - ID: "b138f795-2f6c-46f7-9903-acb647bbccbf"
       Hint: Author
       Type: tree list

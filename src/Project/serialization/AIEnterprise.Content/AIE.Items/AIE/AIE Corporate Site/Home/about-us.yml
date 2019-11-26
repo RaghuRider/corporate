@@ -87,7 +87,7 @@ Languages:
               p:after="*[1=2]"
               s:ds="{AE828822-7B99-42F7-A4E8-EDE3F6540837}"
               s:id="{51C13F03-8364-4F61-B860-2EC6CA7439B3}"
-              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7B7CA8CCB3-EF00-496A-B83E-ED4CB9AFEAD7%7D&amp;Styles=%7BDD31C8C6-24DD-457C-8F79-472448B58EA5%7D%7C%7B898BBA11-18AF-4311-8E53-DE63E827CEEF%7D&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=3"
+              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7BE5AF05E7-454B-41AD-9515-99928B20C50E%7D&amp;Styles=%7BDD31C8C6-24DD-457C-8F79-472448B58EA5%7D%7C%7B898BBA11-18AF-4311-8E53-DE63E827CEEF%7D&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=3"
               s:ph="/main/container-16" />
           </d>
         </r>
@@ -128,11 +128,11 @@ Languages:
       Value: We have been there. We understand.
     - ID: "82f4bd76-0837-4e55-a1f6-15231096b2b9"
       Hint: Attributes
-      Value: "og:locale=en_US&og:type=article&og:title=About%20us%20-%20AiEnterprise%20Inc.&og:site_name=AiEnterprise%20Inc.&og:image=https%3A%2F%2Fwww.aienterprise.com%2F-%2Fmedia%2FProject%2FAIE%2FAIE-Corporate-Site%2FAbout-us%2FAIEnterprise-Promo.jpg%3F"
+      Value: "og:locale=en_US&og:type=article&og:title=About%20us%20-%20AiEnterprise%20Inc.&og:site_name=AiEnterprise%20Inc.&og:image=http%3A%2F%2Fdev.aienterprise.com%2F-%2Fmedia%2FProject%2FAIE%2FAIE-Corporate-Site%2FBannerImages%2FAbout-us.jpg"
     - ID: "bb6835c4-82af-4d11-9102-a61694c17055"
       Hint: Title
       Value: About Us
     - ID: "de457091-0989-414e-addf-59db0ddb6690"
       Hint: TwitterImage
       Value: |
-        <image mediaid="{64858F36-03E3-460A-88E4-51C2E9A776D8}" />
+        <image mediaid="{6677ECB3-3AEA-4D15-B981-3682AEA1A6D4}" />
