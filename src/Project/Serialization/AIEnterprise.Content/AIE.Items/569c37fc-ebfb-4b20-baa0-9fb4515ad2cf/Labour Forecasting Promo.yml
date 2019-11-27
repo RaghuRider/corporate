@@ -1,0 +1,18 @@
+﻿---
+ID: "4a11a4b0-c427-42bd-8cab-d83ef08bacf6"
+Parent: "569c37fc-ebfb-4b20-baa0-9fb4515ad2cf"
+Template: "fb3e3034-33f8-4ce8-be98-dd05010f4c22"
+Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Promo/Labour Forecasting Promo
+DB: master
+SharedFields:
+- ID: "e1d5adba-8348-4127-9bb6-455936653839"
+  Hint: CssClass
+  Value: "analytics-aiengine"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190606T115026Z
