@@ -1,0 +1,21 @@
+﻿---
+ID: "8566a6a4-f49d-460f-b1e5-e1a32be2070c"
+Parent: "ea6558e0-1a0a-4ece-b829-850be4ce8333"
+Template: "aca5c9a3-cda0-49b6-893f-1d4a7cb595b0"
+Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Page Content/Insights/Section
+DB: master
+SharedFields:
+- ID: "a4d004e6-2a4b-4c53-a4f3-9c481df71cdc"
+  Hint: Tag
+  Value: "{CFE9AF06-F220-40AE-8C7A-90D019B642F1}"
+- ID: "bea2740e-90d1-4b16-bd1d-7a7cc8605d2d"
+  Hint: CssClass
+  Value: "six-col-content"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190614T095557Z

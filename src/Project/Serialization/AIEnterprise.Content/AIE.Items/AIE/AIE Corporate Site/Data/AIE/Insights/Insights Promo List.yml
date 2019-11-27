@@ -1,0 +1,25 @@
+﻿---
+ID: "b38b1df8-1674-4906-b785-0f26e0522f85"
+Parent: "7668d33d-71e4-408f-aea5-8950c803b7b9"
+Template: "7ef3f917-4c61-4953-ab7c-f2a5696bb023"
+Path: /sitecore/content/AIE/AIE Corporate Site/Data/AIE/Insights/Insights Promo List
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{FDD4D90D-F31D-453C-8924-5F85BD198470}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191127T125839Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{013DD6E7-FF4C-410C-825B-FFFC20EAC95E}"
+    - ID: "cb5956a9-6a3e-4a93-9150-a221dad9b1a3"
+      Hint: Promo List
+      Type: Multilist
+      Value: "{935917FF-E5FB-431E-939E-E7CF4D494D48}"

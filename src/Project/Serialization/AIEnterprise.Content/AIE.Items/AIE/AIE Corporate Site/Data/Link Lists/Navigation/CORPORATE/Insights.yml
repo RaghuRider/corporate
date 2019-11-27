@@ -1,0 +1,22 @@
+﻿---
+ID: "ca7b7d4f-6334-41cf-ae23-06f31635b7c6"
+Parent: "cd3a1c23-eb5a-42e7-b8b2-f154eb49d24d"
+Template: "e24e0789-a058-48bf-abb6-c69c0e60b6b7"
+Path: /sitecore/content/AIE/AIE Corporate Site/Data/Link Lists/Navigation/CORPORATE/Insights
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191127T123357Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "dd05144a-bd66-4ea3-956a-4b7104daaba3"
+      Hint: Link
+      Value: |
+        <link text="Insights" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{86882536-E534-459D-ABBD-04C96F119C8D}" />

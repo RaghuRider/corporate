@@ -15,7 +15,9 @@ Languages:
     - ID: "37245767-3c9e-4be7-9594-49b8191156fd"
       Hint: SubNav
       Type: Treelist
-      Value: "{1299D6F5-5DFF-466C-9053-1BD6E0321D5E}"
+      Value: |
+        {1299D6F5-5DFF-466C-9053-1BD6E0321D5E}
+        {CA7B7D4F-6334-41CF-AE23-06F31635B7C6}
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
