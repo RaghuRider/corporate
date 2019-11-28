@@ -1,13 +1,13 @@
 ﻿---
-ID: "6c0f72bb-1329-47a1-a201-6808ac350b2d"
-Parent: "8566a6a4-f49d-460f-b1e5-e1a32be2070c"
+ID: "483868fb-a64b-46ac-9fa6-94b09f08f7d0"
+Parent: "6c0f72bb-1329-47a1-a201-6808ac350b2d"
 Template: "aca5c9a3-cda0-49b6-893f-1d4a7cb595b0"
-Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Page Content/Insights/Section/div
+Path: "/sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Page Content/Insights- Assesment cards/Section/div/div"
 DB: master
 SharedFields:
 - ID: "bea2740e-90d1-4b16-bd1d-7a7cc8605d2d"
   Hint: CssClass
-  Value: container
+  Value: row
 Languages:
 - Language: en
   Versions:
@@ -15,4 +15,4 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20190614T095624Z
+      Value: 20190614T095648Z

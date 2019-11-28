@@ -1,0 +1,23 @@
+﻿---
+ID: "b9fd7a9f-ba72-4b22-9deb-dd81d372022a"
+Parent: "7668d33d-71e4-408f-aea5-8950c803b7b9"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/content/AIE/AIE Corporate Site/Data/AIE/Insights/Assesment Details
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: "{CEE184AB-CCC7-47B5-91B6-24217FEFBA4F}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191128T102629Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

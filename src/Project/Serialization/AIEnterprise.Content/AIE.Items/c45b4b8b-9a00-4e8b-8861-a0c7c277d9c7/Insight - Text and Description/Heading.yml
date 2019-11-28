@@ -1,16 +1,16 @@
 ﻿---
-ID: "bcbee58b-2f6a-44ee-a403-490c69aeb60c"
-Parent: "f6b43f3a-c2ca-4890-b7b0-8ab5eb090f13"
+ID: "f03079da-b97b-46bb-8f85-519a71761799"
+Parent: "4bbdae34-80fd-4b48-923d-19b06f366130"
 Template: "fcd285da-9ab2-4c8d-b185-5a7487a9ba1b"
-Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Page Content/Insights/Section/div/div/Promo List/div/div/div/a
+Path: "/sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Page Content/Insight - Text and Description/Heading"
 DB: master
 SharedFields:
 - ID: "4753764c-c05a-4623-841b-97f85135241c"
   Hint: FieldName
-  Value: PromoLink
+  Value: Heading
 - ID: "db805bdc-8eec-4238-b174-2427b6f1f077"
   Hint: Tag
-  Value: 
+  Value: "{AD7A95FD-05D0-484E-8AFB-FB1DDD5F44AB}"
 Languages:
 - Language: en
   Versions:
@@ -18,4 +18,4 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20190614T074544Z
+      Value: 20191128T103329Z
