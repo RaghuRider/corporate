@@ -10,7 +10,7 @@ SharedFields:
   Value: "{A2C5CC35-30CB-489A-8C84-B3ED0C0FDB9D}"
 - ID: "7abaa3f6-6ec0-4b65-a463-7919bfae55aa"
   Hint: Css Class
-  Value: 
+  Value: assesment_type
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
   Value: 450
