@@ -1,0 +1,25 @@
+﻿---
+ID: "16f0f657-4515-43e1-ba2c-542e89a68dc9"
+Parent: "cfbfd3d2-59eb-4521-bb5d-79bbcce94805"
+Template: "f6a655a9-5776-4d0a-a948-759bc9e656cc"
+Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Page Designs/Insights
+DB: master
+SharedFields:
+- ID: "0966b999-0d0e-4278-acc9-9da69d461fe6"
+  Hint: PartialDesigns
+  Value: "{427C18F7-9B7B-4CC2-941B-DEA99983E193}|{1C5A85F0-CE42-4749-975A-AAD8161AAF2A}|{41E3721D-7CE8-4E9B-8506-FFA7EC997087}|{5A62ADAC-47F0-4773-821F-F08BC3696D7E}"
+- ID: "7b487159-e180-4846-be49-e196e4c3a2b3"
+  Hint: Page Design Theme
+  Value: "{632804B5-E033-488A-8BAE-D0038080C03E}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191128T052428Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
