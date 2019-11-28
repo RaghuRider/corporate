@@ -32,7 +32,7 @@ namespace AIEnterprise.Feature.Forms.Helper
                 htmlEmailTemplate = htmlEmailTemplate.Replace("#Phone#", GetValuefromDictionary(formData, "phone"));
                 htmlEmailTemplate = htmlEmailTemplate.Replace("#JobApplied#", GetValuefromDictionary(formData, "JobApplied"));
                 htmlEmailTemplate = htmlEmailTemplate.Replace("#Organization#", GetValuefromDictionary(formData, "Organization"));
-                htmlEmailTemplate = htmlEmailTemplate.Replace("#Evaluation#", GetValuefromDictionary(formData, "Evaluation"));
+                htmlEmailTemplate = htmlEmailTemplate.Replace("#Evaluation#", GetValuefromDictionary(formData, "formassement"));
 
                 //emailHtml = htmlEmailTemplate.ReplacePatternCaseInsensitive(replacements);
                 emailHtml = htmlEmailTemplate;
