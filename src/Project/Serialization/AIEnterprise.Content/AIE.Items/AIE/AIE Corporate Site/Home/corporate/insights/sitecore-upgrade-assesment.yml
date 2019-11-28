@@ -26,22 +26,6 @@ Languages:
   Versions:
   - Version: 1
     Fields:
-    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
-      Hint: __Final Renderings
-      Type: Layout
-      Value: |
-        <r xmlns:p="p" xmlns:s="s"
-          p:p="1">
-          <d
-            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
-            <r
-              uid="{145ADC60-11E2-4681-85A7-D2546A8C04AA}"
-              s:ds="{12222371-463A-4679-B9E2-C15187A8116A}"
-              s:id="{6B5B0FE6-5C85-4487-BA7E-F8C2ECC186A8}"
-              s:par=""
-              s:ph="/main/sxa-insights/container-9/column-2-10/sitecoreFormsWrapper-12" />
-          </d>
-        </r>
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20191127T131514Z
