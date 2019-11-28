@@ -24,4 +24,24 @@ Languages:
       Value: "{013DD6E7-FF4C-410C-825B-FFFC20EAC95E}"
     - ID: "467549da-675b-4830-9f56-542deca00387"
       Hint: Description
-      Value: The latest version of Sitecore &ndash; has a large number of features that enable you to better achieve your business and digital marketing goals. If you&rsquo;re a marketer who wants to take advantage of the clean design and customer data that enables context marketing, an upgrade to Sitecore 9 is essential.
+      Value: |
+        <strong>Are you running on an older Sitecore solution and are looking for upgrade and get access to the new possibilities in the latest version?</strong>
+        
+        Do you feel that the upgrade process might come at a high cost, or complexity? If the answer to the above questions is a “Yes”, then we can help you a free upgrade assessment
+        
+        Sitecore 9.2 – the latest version of Sitecore – has a large number of features that enable you to better achieve your business and digital marketing goals. If you’re a marketer who wants to take advantage of the clean design and customer data that enables context marketing, an upgrade to Sitecore 9.2 is essential. In addition, the longer you wait to upgrade, the higher the risk. Sitecore has already announced that support for 8.2 and older versions ends on 31st Dec, 2019
+        
+        Sitecore 9.2 comes with a lot of exciting advantages.
+        
+        <h4>SOME OF THESE ARE LISTED BELOW:</h4>
+        <ul>
+         <li>Sitecore 9.2 is optimized for the cloud</li>
+            <li>Build and deploy to new environments is more efficient</li>
+            <li>Support for headless JavaScript</li>
+            <li>Smarter forms for improved data capture</li>
+            <li>Multisystem integration powers 360° view of customer data</li>
+            <li>Sitecore Forms and Automation have been developed from the ground up to replace the Web Forms for Marketers and Engagement Plans respectively</li>
+            <li>The new xConnect will enable marketers to personalize content from data contained in 3rd party systems<br />
+            Opportunity to integrate web content with commerce and product cataloguing functionality (requires Sitecore commerce)</li>
+            <li>Federated authentication and marketing automation enhancements</li>
+        </ul>
