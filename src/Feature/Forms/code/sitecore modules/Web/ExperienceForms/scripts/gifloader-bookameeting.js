@@ -18,3 +18,9 @@
     });
     return false;
 });
+
+var url = window.location.href;
+console.log(url);
+var value1 = url.substring(url.lastIndexOf('/') + 1);
+console.log(value1);
+document.getElementsByClassName('.assesment_type').value = value1;
