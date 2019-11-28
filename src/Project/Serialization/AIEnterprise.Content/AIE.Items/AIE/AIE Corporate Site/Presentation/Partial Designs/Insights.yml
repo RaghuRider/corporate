@@ -56,10 +56,17 @@ Languages:
               s:ph="main" />
             <r
               uid="{EBC54D2D-95D0-4886-9EFF-8442BACB834C}"
-              p:after="*[1=2]"
+              p:after="r[@uid='{B08DA24B-1BD3-415A-BF80-888C81699374}']"
               s:ds=""
               s:id="{896A2C68-1362-4E88-8BA0-1805AE6D4837}"
               s:par="GridParameters=%7B9843B82C-8C18-4AE6-AF60-5861EF582920%7D&amp;BackgroundImage&amp;Styles=%7BD33AC97D-0AA0-4B39-AD4E-A26DB75754DB%7D&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=9"
+              s:ph="main" />
+            <r
+              uid="{30F01F5B-C194-41B0-877E-238371974870}"
+              p:after="*[1=2]"
+              s:ds=""
+              s:id="{AF59C4B8-D3F3-4D02-9687-0603606A5B28}"
+              s:par=""
               s:ph="main" />
           </d>
         </r>
