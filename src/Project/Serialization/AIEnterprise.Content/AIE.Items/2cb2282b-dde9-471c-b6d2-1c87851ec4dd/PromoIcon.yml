@@ -2,7 +2,7 @@
 ID: "05df91d5-30f7-4cb5-a299-6bac9bf246a4"
 Parent: "2cb2282b-dde9-471c-b6d2-1c87851ec4dd"
 Template: "fcd285da-9ab2-4c8d-b185-5a7487a9ba1b"
-Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Page Content/Insights/Section/div/div/Promo List/div/div/div/PromoIcon
+Path: "/sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Page Content/Insights- Assesment cards/Section/div/div/Promo List/div/div/div/PromoIcon"
 DB: master
 SharedFields:
 - ID: "4753764c-c05a-4623-841b-97f85135241c"

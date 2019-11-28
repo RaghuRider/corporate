@@ -1,0 +1,18 @@
+﻿---
+ID: "4bbdae34-80fd-4b48-923d-19b06f366130"
+Parent: "c45b4b8b-9a00-4e8b-8861-a0c7c277d9c7"
+Template: "fb3e3034-33f8-4ce8-be98-dd05010f4c22"
+Path: "/sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Page Content/Insight - Text and Description"
+DB: master
+SharedFields:
+- ID: "e1d5adba-8348-4127-9bb6-455936653839"
+  Hint: CssClass
+  Value: "assessment-details"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191128T103308Z

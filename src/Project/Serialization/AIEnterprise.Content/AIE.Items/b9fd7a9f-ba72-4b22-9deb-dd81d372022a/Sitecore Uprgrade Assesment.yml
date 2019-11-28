@@ -1,0 +1,27 @@
+﻿---
+ID: "c3a58365-4337-41e9-a405-fe2e3356257f"
+Parent: "b9fd7a9f-ba72-4b22-9deb-dd81d372022a"
+Template: "cee184ab-ccc7-47b5-91b6-24217fefba4f"
+Path: /sitecore/content/AIE/AIE Corporate Site/Data/AIE/Insights/Assesment Details/Sitecore Uprgrade Assesment
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{FDD4D90D-F31D-453C-8924-5F85BD198470}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "139f612d-8eea-4397-93ef-dec0c502f2b6"
+      Hint: Heading
+      Value: Sitecore Upgrade
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191128T102828Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{013DD6E7-FF4C-410C-825B-FFFC20EAC95E}"
+    - ID: "467549da-675b-4830-9f56-542deca00387"
+      Hint: Description
+      Value: The latest version of Sitecore &ndash; has a large number of features that enable you to better achieve your business and digital marketing goals. If you&rsquo;re a marketer who wants to take advantage of the clean design and customer data that enables context marketing, an upgrade to Sitecore 9 is essential.
