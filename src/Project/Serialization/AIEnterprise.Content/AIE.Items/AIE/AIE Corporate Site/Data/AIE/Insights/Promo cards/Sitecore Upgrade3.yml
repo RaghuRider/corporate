@@ -1,0 +1,35 @@
+﻿---
+ID: "67e75f2b-8764-4b84-bbe1-a6b4e73603e9"
+Parent: "34b73af6-9563-45ef-90d1-ff0e826e89b5"
+Template: "324733cf-afec-4281-9a18-03b6cfc4e535"
+Path: /sitecore/content/AIE/AIE Corporate Site/Data/AIE/Insights/Promo cards/Sitecore Upgrade3
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{FDD4D90D-F31D-453C-8924-5F85BD198470}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "14023dd5-30e7-4e3c-bf31-d835f3a87410"
+      Hint: PromoText
+      Value: Sitecore Upgrade
+    - ID: "18f9beb8-0116-40fd-b47e-fd0a2327d7e0"
+      Hint: PromoIcon
+      Value: |
+        <image mediaid="{7D3D166F-04D5-4CDD-B18A-C7B4520A04A5}" ></image>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191127T125721Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{013DD6E7-FF4C-410C-825B-FFFC20EAC95E}"
+    - ID: "b59adc09-32a3-46f2-aede-b0c633979263"
+      Hint: PromoText2
+      Value: "Free Pre - Migration Assesment for your Sitecore Application"
+    - ID: "b8c1a9d2-de76-4519-aff4-1442525f32b0"
+      Hint: PromoLink
+      Value: |
+        <link text="Free Assesment" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{43E89C23-856B-4353-8719-A6261599EED0}" />
