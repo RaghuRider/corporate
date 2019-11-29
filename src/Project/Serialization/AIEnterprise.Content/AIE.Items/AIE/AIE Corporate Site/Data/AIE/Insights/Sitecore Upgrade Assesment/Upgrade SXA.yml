@@ -1,0 +1,36 @@
+﻿---
+ID: "d44262a6-0732-4e81-84bb-2af34264c842"
+Parent: "dc75dacb-efa1-4307-ba47-6af94112f0b6"
+Template: "d3e40f32-5987-4eea-9309-c71529fba79f"
+Path: /sitecore/content/AIE/AIE Corporate Site/Data/AIE/Insights/Sitecore Upgrade Assesment/Upgrade SXA
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191129T074309Z
+    - ID: "41acb9ce-25eb-4163-80ae-dbf7e42a72d0"
+      Hint: Sitecore Upgrade List
+      Type: Treelist
+      Value: |
+        {A47F9F7A-1785-49DB-8461-DEA6FFACBE64}
+        {C6740F6C-B6E4-4279-9AE7-EFBF9D6D95D1}
+        {91D59B40-18A9-4A8F-81C0-6E25A1837FE5}
+        {9F0DDD86-5C3C-457D-A224-C3E636A3E141}
+        {3DC62B05-C3A6-4F6F-B2D5-CEB8EBE436F3}
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "e07832f6-318e-4804-9ba9-f7832d1d3ecf"
+      Hint: Title
+      Value: |
+        <h2>Sitecore Experience Accelerator (SXA) is a new way of building websites. SXA allows us to create a standardized set of page layouts and components based on best practices that can be reused across multiple websites
+        </h2>

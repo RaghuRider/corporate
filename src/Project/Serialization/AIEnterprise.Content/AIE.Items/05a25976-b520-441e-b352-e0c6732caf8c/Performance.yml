@@ -1,0 +1,30 @@
+﻿---
+ID: "c6740f6c-b6e4-4279-9ae7-efbf9d6d95d1"
+Parent: "05a25976-b520-441e-b352-e0c6732caf8c"
+Template: "324733cf-afec-4281-9a18-03b6cfc4e535"
+Path: /sitecore/content/AIE/AIE Corporate Site/Data/Promos/Insights/Sitecore Upgrade/Sxa Features/Performance
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "14023dd5-30e7-4e3c-bf31-d835f3a87410"
+      Hint: PromoText
+      Value: Performance
+    - ID: "18f9beb8-0116-40fd-b47e-fd0a2327d7e0"
+      Hint: PromoIcon
+      Value: |
+        <image mediaid="{51ED0504-9AF4-40AB-AA1D-E5F33932FCFE}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191129T073229Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "b59adc09-32a3-46f2-aede-b0c633979263"
+      Hint: PromoText2
+      Value: |
+        SXA’s Asset Optimizer and caching techniques helps in improving performance
+        
