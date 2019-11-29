@@ -1,0 +1,46 @@
+﻿---
+ID: "51ed0504-9af4-40ab-aa1d-e5f33932fcfe"
+Parent: "343c0995-77cf-4718-ad0a-8a004379723c"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Project/AIE/AIE Corporate Site/Insights/Sitecore Upgrade/Performance
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/51ED05049AF440ABAA1DE5F33932FCFE.ashx?h=16&thn=1&w=16"
+- ID: "22eac599-f13b-4607-a89d-c091763a467d"
+  Hint: Width
+  Value: 121
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "db9ee105-303a-4e8a-900c-cfa2e54ea4e0"
+  Value: iVBORw0KGgoAAAANSUhEUgAAAG4AAABcCAMAAAC4N3BvAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAtUExURQAAAP///////////////////////////////////////////////////////6FIq5sAAAAOdFJOUwAQIEBQYHCAj6+/z9/v5cFx1gAAAAlwSFlzAAAXEQAAFxEByibzPwAAAMhJREFUaEPt10EOgkAQRFFQBAXl/sc16SqT0ZCOi2ES5b9ddYC/plvD0DVCriJyFf18rh9LH1+unzvpk7b4ajqS+9ZP5oZS7+OWOrm7npTseXJeCXKBnFeCXCDnlThgbinNuu2Y85SHbuS8EuQCOa8EuUDOK/E3ufFaGnXcLzfraH6BXCDnJeTEU8jpSM4zkBNyOhq5QE5Hcp6BnBw+d/G/j0w6vv0WnXXrPMUP9p7i48tWbkfkKjpC7ja14Vwr5CoiV1HT3Lo+AXei60+KDX2vAAAAAElFTkSuQmCC
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 390
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/png
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 500
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: png
+- ID: "cb09946f-3218-4823-87d2-d5007c199a96"
+  Hint: Dimensions
+  Value: 110 x 92
+- ID: "de2ca9e4-c117-4c8a-a139-1ff4b199d15a"
+  Hint: Height
+  Value: 108
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191129T062615Z
+    - ID: "65885c44-8fcd-4a7f-94f1-ee63703fe193"
+      Hint: Alt
+      Value: Performance

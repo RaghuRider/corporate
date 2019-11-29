@@ -1,0 +1,14 @@
+﻿---
+ID: "4d22acab-cfd1-4048-9b18-297c9ee76316"
+Parent: "3cc8bfcd-f7e1-42d6-93c2-e98772b9a815"
+Template: "f07cbe89-73ae-4de6-9217-2570260cac6e"
+Path: /sitecore/content/AIE/AIE Corporate Site/Data/Promos/Insights
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191129T060807Z

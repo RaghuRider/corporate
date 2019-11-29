@@ -1,0 +1,22 @@
+﻿---
+ID: "4c8ecc15-9fcf-4551-b3f5-ec9174ce3e49"
+Parent: "2fed4dc8-c11b-4588-ac38-3a291d625c28"
+Template: "f07cbe89-73ae-4de6-9217-2570260cac6e"
+Path: /sitecore/content/AIE/AIE Corporate Site/Data/Promos/Insights/Sitecore Upgrade/Upgrade Versions
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {324733CF-AFEC-4281-9A18-03B6CFC4E535}
+    {F07CBE89-73AE-4DE6-9217-2570260CAC6E}
+    {D3E40F32-5987-4EEA-9309-C71529FBA79F}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191129T060936Z

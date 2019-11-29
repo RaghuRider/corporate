@@ -1,0 +1,36 @@
+﻿---
+ID: "1df3cf8b-0550-432d-96fe-dd1a7054365b"
+Parent: "4c8ecc15-9fcf-4551-b3f5-ec9174ce3e49"
+Template: "324733cf-afec-4281-9a18-03b6cfc4e535"
+Path: /sitecore/content/AIE/AIE Corporate Site/Data/Promos/Insights/Sitecore Upgrade/Upgrade Versions/Agile Methodology
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "14023dd5-30e7-4e3c-bf31-d835f3a87410"
+      Hint: PromoText
+      Value: |
+        Agile Methodology
+        
+    - ID: "18f9beb8-0116-40fd-b47e-fd0a2327d7e0"
+      Hint: PromoIcon
+      Value: |
+        <image mediaid="{38011E87-8158-48A6-B2B3-96C3CC4A1D31}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191129T061858Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "b59adc09-32a3-46f2-aede-b0c633979263"
+      Hint: PromoText2
+      Value: |
+        Through multiple upgrades, we have perfected the solution and have created the fail-safe Agile plan which has been enriched with all our experiences
+        
