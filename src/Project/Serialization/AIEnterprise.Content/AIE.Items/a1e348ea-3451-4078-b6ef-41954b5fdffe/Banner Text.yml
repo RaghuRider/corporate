@@ -1,0 +1,21 @@
+﻿---
+ID: "3135b3f2-7f99-4332-8de9-1b5193a1d170"
+Parent: "a1e348ea-3451-4078-b6ef-41954b5fdffe"
+Template: "fcd285da-9ab2-4c8d-b185-5a7487a9ba1b"
+Path: "/sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Page Content/Insights- Sitecore Upgrade banner/div/div/Banner Text"
+DB: master
+SharedFields:
+- ID: "4753764c-c05a-4623-841b-97f85135241c"
+  Hint: FieldName
+  Value: Banner Text
+- ID: "7495124d-09b5-4cb3-b4a6-fe77a95827da"
+  Hint: CssClass
+  Value: "col-md-6 main-text"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191129T103525Z

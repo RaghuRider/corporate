@@ -1,0 +1,18 @@
+﻿---
+ID: "9ba5ee05-b2a0-440a-8f64-0a1b6aac24c6"
+Parent: "a8b124b5-13be-46c0-869d-9811f43debbf"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: "/sitecore/content/AIE/AIE Corporate Site/Home/corporate/insights/sitecore-upgrade/Data"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191129T100708Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

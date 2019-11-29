@@ -4,6 +4,10 @@ Parent: "dc75dacb-efa1-4307-ba47-6af94112f0b6"
 Template: "ee7fba2c-d56a-4c0b-996b-3cdef074b351"
 Path: /sitecore/content/AIE/AIE Corporate Site/Data/AIE/Insights/Sitecore Upgrade Assesment/Sitecore Upgrade Banner
 DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: 
 Languages:
 - Language: en
   Versions:
@@ -12,7 +16,24 @@ Languages:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20191129T094525Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\admin
+    - ID: "7cf8e6a8-d2ff-4e08-80c3-5ecb500b44ca"
+      Hint: Banner Description
+      Value: "Sitecore 9 is the enterprise experience platform that's powerful, intuitive and scalable Talk to us about upgrading today!"
+    - ID: "910e5e2f-2c29-412c-b70b-a05851507d97"
+      Hint: Banner Text
+      Value: |
+        Supercharged Sitecore 9.x
+        <hr />
+        You will <span> love</span> it!
+        
+    - ID: "99ca6bf5-b77b-4878-8f24-522bcd814906"
+      Hint: Banner Image
+      Value: |
+        <image mediaid="{E91F29A5-06FB-4ABB-8D82-DB6BC53187CB}" ></image>

@@ -1,0 +1,31 @@
+﻿---
+ID: "53b314cf-24e5-4e6f-aaf0-bed5506ea184"
+Parent: "9ba5ee05-b2a0-440a-8f64-0a1b6aac24c6"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: "/sitecore/content/AIE/AIE Corporate Site/Home/corporate/insights/sitecore-upgrade/Data/Hero content"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{FDD4D90D-F31D-453C-8924-5F85BD198470}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191129T100709Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{013DD6E7-FF4C-410C-825B-FFFC20EAC95E}"
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: |
+        <p class="">BEEN THERE. DONE THAT.
+        <br />
+        AIE HAS MULTIPLE YEARS OF SITECORE EXPERIENCE</p>
+        
+        Contact us for a pre-upgrade assessment at <span> NO COST</span>
+        
+        
