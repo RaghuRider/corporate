@@ -1,0 +1,18 @@
+﻿---
+ID: "5b6abb1f-7124-495c-922b-96f79225f6c8"
+Parent: "dc75dacb-efa1-4307-ba47-6af94112f0b6"
+Template: "ee7fba2c-d56a-4c0b-996b-3cdef074b351"
+Path: /sitecore/content/AIE/AIE Corporate Site/Data/AIE/Insights/Sitecore Upgrade Assesment/Sitecore Upgrade Banner
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191129T094525Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
