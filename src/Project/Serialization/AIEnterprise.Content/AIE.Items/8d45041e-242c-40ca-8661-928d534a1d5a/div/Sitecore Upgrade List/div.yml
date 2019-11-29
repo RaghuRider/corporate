@@ -1,10 +1,13 @@
 ﻿---
 ID: "52d1730f-68c3-434a-909f-2e97ddf68bab"
-Parent: "263e80a0-1257-4ca9-8648-5f0d1c817c14"
+Parent: "2287f3e3-6fcd-4cba-8541-6eb3152e5a61"
 Template: "aca5c9a3-cda0-49b6-893f-1d4a7cb595b0"
-Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Page Content/Upgrade Version/div/div
+Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Page Content/Upgrade Version/div/Sitecore Upgrade List/div
 DB: master
 SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: "-75"
 - ID: "bea2740e-90d1-4b16-bd1d-7a7cc8605d2d"
   Hint: CssClass
   Value: "col-md-6"

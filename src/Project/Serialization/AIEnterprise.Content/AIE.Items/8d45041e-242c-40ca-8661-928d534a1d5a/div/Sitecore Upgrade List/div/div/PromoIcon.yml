@@ -1,8 +1,8 @@
 ﻿---
 ID: "d5e45820-9e87-451c-a5e3-e19b5ba14da4"
-Parent: "2287f3e3-6fcd-4cba-8541-6eb3152e5a61"
+Parent: "cb715a9e-90c3-4aea-affc-a1af41da0108"
 Template: "fcd285da-9ab2-4c8d-b185-5a7487a9ba1b"
-Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Page Content/Upgrade Version/div/div/div/Sitecore Upgrade List/PromoIcon
+Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Page Content/Upgrade Version/div/Sitecore Upgrade List/div/div/PromoIcon
 DB: master
 SharedFields:
 - ID: "4753764c-c05a-4623-841b-97f85135241c"
