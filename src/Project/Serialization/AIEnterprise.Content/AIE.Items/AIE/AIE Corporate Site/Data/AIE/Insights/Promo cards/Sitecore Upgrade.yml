@@ -32,4 +32,4 @@ Languages:
     - ID: "b8c1a9d2-de76-4519-aff4-1442525f32b0"
       Hint: PromoLink
       Value: |
-        <link id="{06560254-4FA0-4B9F-8696-AF5DF5BB8245}" querystring="" target="" text="Free Assesment" anchor="" title="" class="" url="/AIE/AIE Corporate Site/Home/corporate/insights/sitecore-uprgrade-assesment" linktype="internal" />
+        <link text="Free Assesment" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{A8B124B5-13BE-46C0-869D-9811F43DEBBF}" />
