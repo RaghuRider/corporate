@@ -1,13 +1,16 @@
 ﻿---
 ID: "2287f3e3-6fcd-4cba-8541-6eb3152e5a61"
-Parent: "cb715a9e-90c3-4aea-affc-a1af41da0108"
+Parent: "263e80a0-1257-4ca9-8648-5f0d1c817c14"
 Template: "6354d18e-54e9-45ad-9ec7-510769db4809"
-Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Page Content/Upgrade Version/div/div/div/Sitecore Upgrade List
+Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Page Content/Upgrade Version/div/Sitecore Upgrade List
 DB: master
 SharedFields:
 - ID: "6a018521-3d58-4cdd-98fc-88be689650d5"
   Hint: PassThroughField
   Value: Sitecore Upgrade List
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 50
 Languages:
 - Language: en
   Versions:
