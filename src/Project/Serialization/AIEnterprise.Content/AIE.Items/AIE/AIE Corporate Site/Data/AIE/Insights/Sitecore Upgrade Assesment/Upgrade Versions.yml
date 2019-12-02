@@ -33,4 +33,4 @@ Languages:
         sitecore\admin
     - ID: "e07832f6-318e-4804-9ba9-f7832d1d3ecf"
       Hint: Title
-      Value: "<h2>Upgrade from any version of Sitecore: 6.x, 7.x, 8.x </h2>"
+      Value: "Upgrade from any version of Sitecore: 6.x, 7.x, 8.x"

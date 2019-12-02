@@ -1,0 +1,33 @@
+﻿---
+ID: "d678ae51-7722-44ea-96b6-030c28077538"
+Parent: "9ba5ee05-b2a0-440a-8f64-0a1b6aac24c6"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: "/sitecore/content/AIE/AIE Corporate Site/Home/corporate/insights/sitecore-upgrade/Data/Benefits Text"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{FDD4D90D-F31D-453C-8924-5F85BD198470}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191202T102530Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{013DD6E7-FF4C-410C-825B-FFFC20EAC95E}"
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: |
+        <p style="language:en-US;margin-top:0pt;margin-bottom:0pt;margin-left:0in;
+        text-align:center;direction:ltr;unicode-bidi:embed;mso-line-break-override:
+        none;word-break:normal;punctuation-wrap:hanging"><span style="font-size:36.0pt;
+        font-family:Calibri;mso-ascii-font-family:Calibri;mso-fareast-font-family:+mn-ea;
+        mso-bidi-font-family:+mn-cs;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:
+        minor-fareast;mso-bidi-theme-font:minor-bidi;color:black;mso-color-index:1;
+        mso-font-kerning:12.0pt;language:en-US;mso-style-textfill-type:solid;
+        mso-style-textfill-fill-themecolor:text1;mso-style-textfill-fill-color:black;
+        mso-style-textfill-fill-alpha:100.0%">BENEFITS FROM UPGRADING TO SITECORE 9</span></p>
