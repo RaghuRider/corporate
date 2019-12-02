@@ -29,9 +29,9 @@ Languages:
     - ID: "910e5e2f-2c29-412c-b70b-a05851507d97"
       Hint: Banner Text
       Value: |
-        Supercharged Sitecore 9.x
-        <hr />
-        You will <span> love</span> it!
+        <div class="banner-upgrade-text">Supercharged Sitecore 9.x
+        <hr /></div>
+        <div class="banner-upgrade-sub-text">You will <span> love</span> it!</div>
         
     - ID: "99ca6bf5-b77b-4878-8f24-522bcd814906"
       Hint: Banner Image
