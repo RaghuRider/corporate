@@ -1,9 +1,13 @@
 ﻿---
 ID: "032bed9a-88ab-497c-8f4d-925051190b27"
 Parent: "dc75dacb-efa1-4307-ba47-6af94112f0b6"
-Template: "d3e40f32-5987-4eea-9309-c71529fba79f"
+Template: "cdd44b75-8d16-4e7e-b912-8842b99c28a4"
 Path: /sitecore/content/AIE/AIE Corporate Site/Data/AIE/Insights/Sitecore Upgrade Assesment/Upgrade Versions
 DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: 
 Languages:
 - Language: en
   Versions:
@@ -12,6 +16,9 @@ Languages:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20191129T074309Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
     - ID: "41acb9ce-25eb-4163-80ae-dbf7e42a72d0"
       Hint: Sitecore Upgrade List
       Type: Treelist
@@ -27,3 +34,11 @@ Languages:
     - ID: "e07832f6-318e-4804-9ba9-f7832d1d3ecf"
       Hint: Title
       Value: "<h2>Upgrade from any version of Sitecore: 6.x, 7.x, 8.x </h2>"
+    - ID: "efce6251-c339-4306-9018-81cfb5f3d19c"
+      Hint: Upgrade version
+      Type: Multilist
+      Value: |
+        {1DF3CF8B-0550-432D-96FE-DD1A7054365B}
+        {145CFC98-6FCE-41E4-9657-A31EC088DEA7}
+        {F71C66BC-D381-4DC8-BA52-E24FDDAED4BF}
+        {2EE05F1F-3A86-4E01-9B46-6E011F93A3DF}
