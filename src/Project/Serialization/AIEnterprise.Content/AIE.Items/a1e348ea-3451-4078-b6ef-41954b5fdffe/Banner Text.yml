@@ -10,7 +10,7 @@ SharedFields:
   Value: Banner Text
 - ID: "7495124d-09b5-4cb3-b4a6-fe77a95827da"
   Hint: CssClass
-  Value: "col-md-6 main-text"
+  Value: "col-md-7 main-text"
 Languages:
 - Language: en
   Versions:
