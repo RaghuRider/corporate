@@ -15,14 +15,14 @@ Languages:
     Fields:
     - ID: "0211359b-f0fe-4265-9d29-38ed12036dc3"
       Hint: Title
-      Value: Experienced Professionals
+      Value: Experienced <br /> Professionals
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20191202T100338Z
     - ID: "2801d17e-930d-46c4-b687-f01d24a7cfd0"
       Hint: Description
       Value: |
-        Our Sitecore experienced team will help you find the most cost-effective upgrade path, and make it an easy, seamless journey
+        Our Sitecore team will help you find the most cost-effective upgrade path, and make it an easy, seamless journey
         
     - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
       Hint: __Workflow state

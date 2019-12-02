@@ -16,7 +16,7 @@ Languages:
     - ID: "0211359b-f0fe-4265-9d29-38ed12036dc3"
       Hint: Title
       Value: |
-        Agile Methodology
+        Agile <br /> Methodology
         
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
@@ -24,7 +24,7 @@ Languages:
     - ID: "2801d17e-930d-46c4-b687-f01d24a7cfd0"
       Hint: Description
       Value: |
-        Through multiple upgrades, we have perfected the solution and have created the fail-safe Agile plan which has been enriched with all our experiences
+        Through multiple upgrades, we have perfected the solution and have created a fail-safe Agile plan which has been enriched with all our experiences
         
     - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
       Hint: __Workflow state

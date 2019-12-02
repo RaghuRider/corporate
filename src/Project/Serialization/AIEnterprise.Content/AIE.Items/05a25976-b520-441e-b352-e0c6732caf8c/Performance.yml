@@ -15,7 +15,7 @@ Languages:
     - ID: "18f9beb8-0116-40fd-b47e-fd0a2327d7e0"
       Hint: PromoIcon
       Value: |
-        <image mediaid="{51ED0504-9AF4-40AB-AA1D-E5F33932FCFE}" />
+        <image mediaid="{51ED0504-9AF4-40AB-AA1D-E5F33932FCFE}" ></image>
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20191129T073229Z

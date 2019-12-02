@@ -1,0 +1,21 @@
+﻿---
+ID: "7f490911-ef7c-4c20-9f68-6001a8332acc"
+Parent: "5d5dfeb4-ca5d-49a8-8709-4e5d1e6e4d43"
+Template: "fcd285da-9ab2-4c8d-b185-5a7487a9ba1b"
+Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Page Content/Upgrade SXA/div/div/Title
+DB: master
+SharedFields:
+- ID: "4753764c-c05a-4623-841b-97f85135241c"
+  Hint: FieldName
+  Value: Title
+- ID: "7495124d-09b5-4cb3-b4a6-fe77a95827da"
+  Hint: CssClass
+  Value: "col-md-12 sitecore-add-sub-toptext"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191202T105509Z
