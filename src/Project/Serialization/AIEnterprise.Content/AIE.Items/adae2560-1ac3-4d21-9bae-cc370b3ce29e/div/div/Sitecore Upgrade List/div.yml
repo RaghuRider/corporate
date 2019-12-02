@@ -2,7 +2,7 @@
 ID: "87a74d77-6760-47ea-bde0-7e99a3415cc2"
 Parent: "007e9a8d-005e-494e-950e-18011f47f052"
 Template: "aca5c9a3-cda0-49b6-893f-1d4a7cb595b0"
-Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Page Content/Upgrade SXA/div/div/Sitecore Upgrade List/div
+Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Page Content/Upgrade SXA/div/div/div/Sitecore Upgrade List/div
 DB: master
 SharedFields:
 - ID: "bea2740e-90d1-4b16-bd1d-7a7cc8605d2d"
