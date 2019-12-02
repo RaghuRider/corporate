@@ -2,7 +2,7 @@
 ID: "51e3526b-2687-4eae-a81c-d7448ca14e7d"
 Parent: "cdd44b75-8d16-4e7e-b912-8842b99c28a4"
 Template: "e269fbb5-3750-427a-9149-7aa950b49301"
-Path: /sitecore/templates/Feature/AIE/Insights/Upgrade Version/Data
+Path: /sitecore/templates/Feature/AIE/Insights/Custom Promo with Color/Data
 DB: master
 Languages:
 - Language: en
