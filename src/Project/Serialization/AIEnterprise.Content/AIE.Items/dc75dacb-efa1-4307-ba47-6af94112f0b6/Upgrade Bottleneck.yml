@@ -5,6 +5,9 @@ Template: "d3e40f32-5987-4eea-9309-c71529fba79f"
 Path: /sitecore/content/AIE/AIE Corporate Site/Data/AIE/Insights/Sitecore Upgrade Assesment/Upgrade Bottleneck
 DB: master
 SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: 
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
   Value: 200
@@ -16,6 +19,9 @@ Languages:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20191129T074309Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
     - ID: "41acb9ce-25eb-4163-80ae-dbf7e42a72d0"
       Hint: Sitecore Upgrade List
       Type: Treelist
@@ -32,4 +38,4 @@ Languages:
         sitecore\admin
     - ID: "e07832f6-318e-4804-9ba9-f7832d1d3ecf"
       Hint: Title
-      Value: <h2>An answer to every upgrade bottleneck</h2>
+      Value: An answer to every upgrade bottleneck

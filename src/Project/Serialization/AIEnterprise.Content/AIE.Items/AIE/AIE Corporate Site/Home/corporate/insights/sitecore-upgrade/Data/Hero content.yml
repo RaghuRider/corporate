@@ -22,10 +22,10 @@ Languages:
     - ID: "b3635965-6786-457c-9dee-28de73c0a331"
       Hint: Text
       Value: |
-        <p class="">BEEN THERE. DONE THAT.
+        <div class="sitecore-hero-content">BEEN THERE. DONE THAT.
         <br />
-        AIE HAS MULTIPLE YEARS OF SITECORE EXPERIENCE</p>
+        AIE HAS MULTIPLE YEARS OF SITECORE EXPERIENCE</div>
         
-        Contact us for a pre-upgrade assessment at <span> NO COST</span>
+        <div class="sitecore-hero-sub"></div>Contact us for a pre-upgrade assessment at <span class="no-cost"> NO COST</span>
         
         
