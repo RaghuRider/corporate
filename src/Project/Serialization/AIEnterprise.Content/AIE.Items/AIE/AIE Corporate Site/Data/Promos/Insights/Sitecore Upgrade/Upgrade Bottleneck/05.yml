@@ -29,9 +29,7 @@ Languages:
         sitecore\admin
     - ID: "832d3c97-5c05-49bf-89ef-9c29d30345e7"
       Hint: PromoText3
-      Value: |
-        By moving to the latest version, you might have to introduce three infrastructure requirements: xConnect, SOLR, and SQL Server 2016
-        
+      Value: By moving to the latest version, you might have to introduce new infrastructure requirements like xConnect, SOLR, SQL Server 2016, etc.
     - ID: "b59adc09-32a3-46f2-aede-b0c633979263"
       Hint: PromoText2
       Value: |
