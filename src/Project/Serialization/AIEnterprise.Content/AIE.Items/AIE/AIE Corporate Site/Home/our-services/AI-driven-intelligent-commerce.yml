@@ -91,6 +91,15 @@ Languages:
     - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
       Hint: __Workflow state
       Value: 
+    - ID: "45ce257a-6060-4c4a-9a0f-ae77bf705b25"
+      Hint: TwitterSite
+      Value: @AiEnterpriseInc
+    - ID: "48a66e40-d164-4c8e-bc06-172ecc6769ec"
+      Hint: TwitterTitle
+      Value: "AI Driven Intelligent Commerce - AiEnterprise Inc."
+    - ID: "4d263b95-322f-4003-adbd-70920facf823"
+      Hint: TwitterDescription
+      Value: Where “Digital Intuition” is driven by Machine Intelligence.
     - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
       Hint: NavigationTitle
       Value: AI Driven Intelligent Commerce
@@ -101,6 +110,9 @@ Languages:
         <h1>AI Driven Intelligent Commerce</h1>
         <h4>Where “Digital Intuition” is driven by Machine Intelligence.</h4>
         </div>
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: Where “Digital Intuition” is driven by Machine Intelligence
     - ID: "82f4bd76-0837-4e55-a1f6-15231096b2b9"
       Hint: Attributes
       Value: "og:locale=en_US&og:type=article&og:title=AI%20Driven%20Intelligent%20Commerce%20-%20AiEnterprise%20Inc.&og:site_name=AiEnterprise%20Inc.&article:publisher=https%3A%2F%2Fwww.facebook.com%2Faienterpriseinc%2F&og:image=https%3A%2F%2Fwww.aienterprise.com%2F-%2Fmedia%2FProject%2FAIE%2FAIE-Corporate-Site%2FHome-WhatWeDo%2Fall-services.jpg%3F"
