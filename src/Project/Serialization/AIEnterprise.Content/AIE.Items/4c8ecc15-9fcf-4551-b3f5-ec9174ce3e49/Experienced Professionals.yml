@@ -1,39 +1,36 @@
 ﻿---
-ID: "f71c66bc-d381-4dc8-ba52-e24fddaed4bf"
+ID: "512e493c-5fc5-450f-9c57-d1b2ff5f88d6"
 Parent: "4c8ecc15-9fcf-4551-b3f5-ec9174ce3e49"
-Template: "324733cf-afec-4281-9a18-03b6cfc4e535"
+Template: "cdd44b75-8d16-4e7e-b912-8842b99c28a4"
 Path: /sitecore/content/AIE/AIE Corporate Site/Data/Promos/Insights/Sitecore Upgrade/Upgrade Versions/Experienced Professionals
 DB: master
 SharedFields:
-- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
-  Hint: __Sortorder
-  Value: 300
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: 
 Languages:
 - Language: en
   Versions:
   - Version: 1
     Fields:
-    - ID: "14023dd5-30e7-4e3c-bf31-d835f3a87410"
-      Hint: PromoText
-      Value: |
-        Experienced Professionals
-        
-    - ID: "18f9beb8-0116-40fd-b47e-fd0a2327d7e0"
-      Hint: PromoIcon
-      Value: |
-        <image mediaid="{1DACA874-713D-442C-BDEF-3DC3C713DB86}" ></image>
+    - ID: "0211359b-f0fe-4265-9d29-38ed12036dc3"
+      Hint: Title
+      Value: Experienced Professionals
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20191129T061858Z
-    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
-      Hint: __Created by
-      Value: |
-        sitecore\admin
-    - ID: "832d3c97-5c05-49bf-89ef-9c29d30345e7"
-      Hint: PromoText3
-      Value: greensec
-    - ID: "b59adc09-32a3-46f2-aede-b0c633979263"
-      Hint: PromoText2
+      Value: 20191202T100338Z
+    - ID: "2801d17e-930d-46c4-b687-f01d24a7cfd0"
+      Hint: Description
       Value: |
         Our Sitecore experienced team will help you find the most cost-effective upgrade path, and make it an easy, seamless journey
         
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "48eeac66-4256-4625-ad2e-7075a684f1a3"
+      Hint: Block Color
+      Value: greensec
+    - ID: "d3d4692c-3907-4324-87e4-c6ba2404aa51"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{1DACA874-713D-442C-BDEF-3DC3C713DB86}" />

@@ -2,7 +2,7 @@
 ID: "cdd44b75-8d16-4e7e-b912-8842b99c28a4"
 Parent: "8e583bd3-8f15-41f5-9dd2-55a991bc0189"
 Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
-Path: /sitecore/templates/Feature/AIE/Insights/Upgrade Version
+Path: /sitecore/templates/Feature/AIE/Insights/Custom Promo with Color
 DB: master
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"

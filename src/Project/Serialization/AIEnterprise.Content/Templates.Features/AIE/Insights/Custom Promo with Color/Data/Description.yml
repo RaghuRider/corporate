@@ -1,19 +1,16 @@
 ﻿---
-ID: "efce6251-c339-4306-9018-81cfb5f3d19c"
+ID: "2801d17e-930d-46c4-b687-f01d24a7cfd0"
 Parent: "51e3526b-2687-4eae-a81c-d7448ca14e7d"
 Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Feature/AIE/Insights/Upgrade Version/Data/Upgrade version
+Path: /sitecore/templates/Feature/AIE/Insights/Custom Promo with Color/Data/Description
 DB: master
 SharedFields:
-- ID: "1eb8ae32-e190-44a6-968d-ed904c794ebf"
-  Hint: Source
-  Value: /sitecore/content/AIE/AIE Corporate Site/Data/Promos/Insights/Sitecore Upgrade/Upgrade Versions
 - ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
   Hint: Type
-  Value: Multilist
+  Value: Rich Text
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
-  Value: 200
+  Value: 500
 Languages:
 - Language: en
   Versions:
@@ -21,4 +18,4 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20191129T061358Z
+      Value: 20191202T095051Z
