@@ -40,4 +40,4 @@ Languages:
         sitecore\admin
     - ID: "e07832f6-318e-4804-9ba9-f7832d1d3ecf"
       Hint: Title
-      Value: Sitecore Experience Accelerator (SXA) is a new way of building websites. SXA allows us to create a standardized set of page layouts and components based on best practices that can be reused across multiple websites
+      Value: With Sitecore 9.x you have an option to use Sitecore Experience Accelerator (SXA), which is a new way of building your websites. SXA allows us to create a standardized set of page layouts and components based on best practices that can be reused across multiple websites
