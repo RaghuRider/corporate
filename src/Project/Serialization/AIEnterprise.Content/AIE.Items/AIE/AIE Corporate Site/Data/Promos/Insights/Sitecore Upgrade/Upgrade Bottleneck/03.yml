@@ -12,7 +12,7 @@ Languages:
     - ID: "14023dd5-30e7-4e3c-bf31-d835f3a87410"
       Hint: PromoText
       Value: |
-        <h2 class="answer_count_3"><span>03</span></h2>
+        <div class="col-md-2 numbersize darkblue">03</div>
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20191129T071648Z
@@ -28,5 +28,4 @@ Languages:
     - ID: "b59adc09-32a3-46f2-aede-b0c633979263"
       Hint: PromoText2
       Value: |
-        Will I lose my Analytics Data?
-        
+        <div class="numbertoptext darkblue">Will I lose my Analytics Data?</div>

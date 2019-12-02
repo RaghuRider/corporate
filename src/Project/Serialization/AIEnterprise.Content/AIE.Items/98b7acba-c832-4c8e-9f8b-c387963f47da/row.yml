@@ -1,0 +1,18 @@
+﻿---
+ID: "5565c572-cc32-4d0d-8fdb-b4c1317e8c95"
+Parent: "98b7acba-c832-4c8e-9f8b-c387963f47da"
+Template: "aca5c9a3-cda0-49b6-893f-1d4a7cb595b0"
+Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Page Content/Upgrade Bottleneck/div/Sitecore Upgrade List/row
+DB: master
+SharedFields:
+- ID: "bea2740e-90d1-4b16-bd1d-7a7cc8605d2d"
+  Hint: CssClass
+  Value: row
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191202T073658Z

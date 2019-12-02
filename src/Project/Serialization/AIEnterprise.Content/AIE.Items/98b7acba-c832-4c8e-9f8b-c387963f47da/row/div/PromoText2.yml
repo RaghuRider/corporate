@@ -1,0 +1,21 @@
+﻿---
+ID: "0c5da53e-af15-437a-996e-7833ccd24e05"
+Parent: "5055881a-a639-4ffa-b51d-a4bbb0d3aa04"
+Template: "fcd285da-9ab2-4c8d-b185-5a7487a9ba1b"
+Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Page Content/Upgrade Bottleneck/div/Sitecore Upgrade List/row/div/PromoText2
+DB: master
+SharedFields:
+- ID: "4753764c-c05a-4623-841b-97f85135241c"
+  Hint: FieldName
+  Value: PromoText2
+- ID: "db805bdc-8eec-4238-b174-2427b6f1f077"
+  Hint: Tag
+  Value: 
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191202T073806Z

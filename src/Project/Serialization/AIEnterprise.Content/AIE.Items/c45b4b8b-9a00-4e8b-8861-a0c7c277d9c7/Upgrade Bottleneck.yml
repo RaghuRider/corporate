@@ -1,0 +1,14 @@
+﻿---
+ID: "fc1110d7-c79c-47c0-ab0e-833ca3a7a5d1"
+Parent: "c45b4b8b-9a00-4e8b-8861-a0c7c277d9c7"
+Template: "fb3e3034-33f8-4ce8-be98-dd05010f4c22"
+Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Page Content/Upgrade Bottleneck
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191202T073343Z
