@@ -22,12 +22,4 @@ Languages:
     - ID: "b3635965-6786-457c-9dee-28de73c0a331"
       Hint: Text
       Value: |
-        <p style="language:en-US;margin-top:0pt;margin-bottom:0pt;margin-left:0in;
-        text-align:center;direction:ltr;unicode-bidi:embed;mso-line-break-override:
-        none;word-break:normal;punctuation-wrap:hanging"><span style="font-size:36.0pt;
-        font-family:Calibri;mso-ascii-font-family:Calibri;mso-fareast-font-family:+mn-ea;
-        mso-bidi-font-family:+mn-cs;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:
-        minor-fareast;mso-bidi-theme-font:minor-bidi;color:black;mso-color-index:1;
-        mso-font-kerning:12.0pt;language:en-US;mso-style-textfill-type:solid;
-        mso-style-textfill-fill-themecolor:text1;mso-style-textfill-fill-color:black;
-        mso-style-textfill-fill-alpha:100.0%">BENEFITS FROM UPGRADING TO SITECORE 9</span></p>
+        <p class="upgrade-benefits">BENEFITS FROM UPGRADING TO SITECORE 9</p>
