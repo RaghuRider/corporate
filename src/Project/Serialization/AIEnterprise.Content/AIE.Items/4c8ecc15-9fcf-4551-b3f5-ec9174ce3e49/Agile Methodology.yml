@@ -31,7 +31,7 @@ Languages:
       Value: 
     - ID: "48eeac66-4256-4625-ad2e-7075a684f1a3"
       Hint: Block Color
-      Value: bluesec
+      Value: "bluesec-down"
     - ID: "d3d4692c-3907-4324-87e4-c6ba2404aa51"
       Hint: Card Image
       Value: |
