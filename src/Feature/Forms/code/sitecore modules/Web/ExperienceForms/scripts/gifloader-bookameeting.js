@@ -23,4 +23,4 @@ var url = window.location.href;
 console.log(url);
 var value1 = url.substring(url.lastIndexOf('/') + 1);
 console.log(value1);
-document.getElementById("fxb_42670f43-c983-4139-b247-86256666930f_Fields_aa208da2-e3f9-4559-b44d-556cc40755ed__Value").value = value1; 
+document.getElementById("fxb_e01f3894-ed48-4de5-a759-9b00d75d99e1_Fields_aa208da2-e3f9-4559-b44d-556cc40755ed__Value").value = value1; 

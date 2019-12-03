@@ -19,4 +19,4 @@ Languages:
     - ID: "ebe4fdef-16d5-4d19-833c-24a241628a3a"
       Hint: Image
       Value: |
-        <image mediaid="{340D5E88-2E09-4E3A-B334-B6BA09B5274A}" />
+        <image mediaid="{340D5E88-2E09-4E3A-B334-B6BA09B5274A}" ></image>
