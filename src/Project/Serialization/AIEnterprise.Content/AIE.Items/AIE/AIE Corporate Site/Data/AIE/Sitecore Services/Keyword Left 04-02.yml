@@ -28,7 +28,7 @@ Languages:
       Value: |
         <image mediaid="{9D3E480F-C80B-4C91-BAD8-7C29B1955913}" ></image>
     - ID: "86e4dddc-502a-4ce8-a7ea-00ff2bbce1f5"
-      Hint: Sitecore Title 04
+      Hint: Sitecore Title
       Value: One Stop Shop
     - ID: "afc88472-5e8b-4e5f-bfda-11e5ed962753"
       Hint: Sitecore Keyword 02
@@ -39,7 +39,7 @@ Languages:
         {6AE71739-7875-4FAE-B884-2A899E185460}
         {C6274E84-4792-437F-B823-FD63D718175C}
     - ID: "d5f0ee22-f53e-4814-9c59-575b1d6ab67a"
-      Hint: Sitecore Keyword 04
+      Hint: Sitecore Keyword
       Type: Multilist
       Value: |
         {E2D1DDD6-3C16-433D-93C1-552D36CFCBAE}

@@ -24,7 +24,7 @@ Languages:
       Value: |
         sitecore\admin
     - ID: "86e4dddc-502a-4ce8-a7ea-00ff2bbce1f5"
-      Hint: Sitecore Title 04
+      Hint: Sitecore Title
       Value: Customer Centric Engagement
     - ID: "afc88472-5e8b-4e5f-bfda-11e5ed962753"
       Hint: Sitecore Keyword 02
@@ -35,7 +35,7 @@ Languages:
         {29A28E8F-50EE-4F00-9541-1C95716B4F21}
         {3D6D9228-20FB-472B-834A-E182B4EEA931}
     - ID: "d5f0ee22-f53e-4814-9c59-575b1d6ab67a"
-      Hint: Sitecore Keyword 04
+      Hint: Sitecore Keyword
       Type: Multilist
       Value: |
         {238D4E39-D481-4F25-BBD6-CE8D6E029830}
