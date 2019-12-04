@@ -1,0 +1,22 @@
+﻿---
+ID: "615b3557-da28-4583-8652-c21dd0a6a45e"
+Parent: "6dab4de4-4e82-432a-987f-32729e2782f5"
+Template: "6354d18e-54e9-45ad-9ec7-510769db4809"
+Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Page Content/Keyword Right Col/div/div/Sitecore Keyword 02
+DB: master
+SharedFields:
+- ID: "6a018521-3d58-4cdd-98fc-88be689650d5"
+  Hint: PassThroughField
+  Value: Sitecore Keyword 02
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191204T101045Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

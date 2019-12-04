@@ -21,6 +21,8 @@ Languages:
       Value: |
         <div class="ss-onestopbanner">
         <div class="ss-aieyour">AIE - YOUR</div>
-        <div class="ss-onestoptitle">ONE STOP</div>
-        <div class="ss-sitecorepartner">SITECORE PARTNER</div>
+        <div class="ss-onestoptitle">ONE<br />
+        STOP</div>
+        <div class="ss-sitecorepartner">SITECORE<br />
+        PARTNER</div>
         </div>

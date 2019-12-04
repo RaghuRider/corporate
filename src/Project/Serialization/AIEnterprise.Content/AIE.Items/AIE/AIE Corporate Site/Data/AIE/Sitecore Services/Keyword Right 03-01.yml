@@ -1,0 +1,44 @@
+﻿---
+ID: "5ebb2690-9b28-4e07-9268-6b3149762b17"
+Parent: "7da88c30-8f70-407e-8ed4-9af2a6932918"
+Template: "32ee5898-64c8-4e69-a7eb-76f9fb153fa0"
+Path: "/sitecore/content/AIE/AIE Corporate Site/Data/AIE/Sitecore Services/Keyword Right 03-01"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191204T092814Z
+    - ID: "4a3411d3-6fe0-4993-a19c-6c7dd2e00256"
+      Hint: Sitecore Title 02
+      Value: Sitecore Specialists
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "86e4dddc-502a-4ce8-a7ea-00ff2bbce1f5"
+      Hint: Sitecore Title 04
+      Value: Customer Centric Engagement
+    - ID: "afc88472-5e8b-4e5f-bfda-11e5ed962753"
+      Hint: Sitecore Keyword 02
+      Type: Multilist
+      Value: |
+        {A8BCA393-8C46-4E40-9E1B-85759B2908F1}
+        {FDF1A8D0-9D01-46C9-B062-E1D96CF84EEF}
+        {29A28E8F-50EE-4F00-9541-1C95716B4F21}
+        {3D6D9228-20FB-472B-834A-E182B4EEA931}
+    - ID: "d5f0ee22-f53e-4814-9c59-575b1d6ab67a"
+      Hint: Sitecore Keyword 04
+      Type: Multilist
+      Value: |
+        {238D4E39-D481-4F25-BBD6-CE8D6E029830}
+        {29D6728A-F339-405E-A4A1-FC3AE0D98F36}
+        {4881E5F9-B148-4537-A650-63AAC4275E2F}
+        {021C5761-C33A-4BD2-A1B6-936C2CD9CFB4}

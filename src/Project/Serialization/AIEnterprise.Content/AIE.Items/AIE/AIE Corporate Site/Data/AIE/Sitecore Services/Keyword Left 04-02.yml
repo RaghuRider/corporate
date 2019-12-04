@@ -1,0 +1,48 @@
+﻿---
+ID: "16d3b62e-ef3b-4ce9-85d8-875b2dbdc654"
+Parent: "7da88c30-8f70-407e-8ed4-9af2a6932918"
+Template: "32ee5898-64c8-4e69-a7eb-76f9fb153fa0"
+Path: "/sitecore/content/AIE/AIE Corporate Site/Data/AIE/Sitecore Services/Keyword Left 04-02"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191204T092814Z
+    - ID: "4a3411d3-6fe0-4993-a19c-6c7dd2e00256"
+      Hint: Sitecore Title 02
+      Value: Industry Driven Solutions
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "6fd670b2-aa7b-4af4-9ac5-50501d38b092"
+      Hint: Image
+      Value: |
+        <image mediaid="{9D3E480F-C80B-4C91-BAD8-7C29B1955913}" ></image>
+    - ID: "86e4dddc-502a-4ce8-a7ea-00ff2bbce1f5"
+      Hint: Sitecore Title
+      Value: One Stop Shop
+    - ID: "afc88472-5e8b-4e5f-bfda-11e5ed962753"
+      Hint: Sitecore Keyword 02
+      Type: Multilist
+      Value: |
+        {892F8FBC-5107-43E8-9855-F150BB618483}
+        {71DA8B07-7D4A-467C-A2D6-9CAAEBACFD16}
+        {6AE71739-7875-4FAE-B884-2A899E185460}
+        {C6274E84-4792-437F-B823-FD63D718175C}
+    - ID: "d5f0ee22-f53e-4814-9c59-575b1d6ab67a"
+      Hint: Sitecore Keyword 04
+      Type: Multilist
+      Value: |
+        {E2D1DDD6-3C16-433D-93C1-552D36CFCBAE}
+        {76E0638B-4589-4031-A15D-52599ADE1046}
+        {E2A51114-3FDF-4B30-AE9B-EF43875D4939}
+        {E12BEAA2-1420-4E8D-B8DA-1B153D36B359}

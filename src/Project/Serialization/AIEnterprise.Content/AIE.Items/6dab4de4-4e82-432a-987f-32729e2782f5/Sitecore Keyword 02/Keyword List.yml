@@ -1,0 +1,21 @@
+﻿---
+ID: "6f0fe84f-6ac3-4cd1-8d93-dc3a5f4c25e8"
+Parent: "615b3557-da28-4583-8652-c21dd0a6a45e"
+Template: "fcd285da-9ab2-4c8d-b185-5a7487a9ba1b"
+Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Page Content/Keyword Right Col/div/div/Sitecore Keyword 02/Keyword List
+DB: master
+SharedFields:
+- ID: "4753764c-c05a-4623-841b-97f85135241c"
+  Hint: FieldName
+  Value: Keyword List
+- ID: "7495124d-09b5-4cb3-b4a6-fe77a95827da"
+  Hint: CssClass
+  Value: "keyword-text"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191204T101106Z
