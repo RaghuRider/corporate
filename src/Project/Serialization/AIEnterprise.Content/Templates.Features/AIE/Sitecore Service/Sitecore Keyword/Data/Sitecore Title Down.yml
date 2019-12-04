@@ -2,7 +2,7 @@
 ID: "4a3411d3-6fe0-4993-a19c-6c7dd2e00256"
 Parent: "a67217f0-c1b7-4cc9-8e6a-5f123bac712a"
 Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Feature/AIE/Sitecore Service/Sitecore Keyword/Data/Sitecore Title 02
+Path: /sitecore/templates/Feature/AIE/Sitecore Service/Sitecore Keyword/Data/Sitecore Title Down
 DB: master
 SharedFields:
 - ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"

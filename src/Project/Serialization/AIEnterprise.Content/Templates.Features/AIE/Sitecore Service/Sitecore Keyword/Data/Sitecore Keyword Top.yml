@@ -1,8 +1,8 @@
 ﻿---
-ID: "afc88472-5e8b-4e5f-bfda-11e5ed962753"
+ID: "d5f0ee22-f53e-4814-9c59-575b1d6ab67a"
 Parent: "a67217f0-c1b7-4cc9-8e6a-5f123bac712a"
 Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Feature/AIE/Sitecore Service/Sitecore Keyword/Data/Sitecore Keyword 02
+Path: /sitecore/templates/Feature/AIE/Sitecore Service/Sitecore Keyword/Data/Sitecore Keyword Top
 DB: master
 SharedFields:
 - ID: "1eb8ae32-e190-44a6-968d-ed904c794ebf"
@@ -13,7 +13,7 @@ SharedFields:
   Value: Multilist
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
-  Value: 400
+  Value: 200
 Languages:
 - Language: en
   Versions:
@@ -21,4 +21,4 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20191204T093547Z
+      Value: 20191204T090648Z

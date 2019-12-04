@@ -1,8 +1,8 @@
 ﻿---
-ID: "6f0fe84f-6ac3-4cd1-8d93-dc3a5f4c25e8"
-Parent: "615b3557-da28-4583-8652-c21dd0a6a45e"
+ID: "c3fcd792-336e-42e6-9614-e5785b12310f"
+Parent: "4303a87b-fde0-468e-b944-45659c9b1730"
 Template: "fcd285da-9ab2-4c8d-b185-5a7487a9ba1b"
-Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Page Content/Keyword Right Col/div/div/Sitecore Keyword 02/Keyword List
+Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Page Content/Keyword Left Col/div/div/Sitecore Keyword Top/Keyword List
 DB: master
 SharedFields:
 - ID: "4753764c-c05a-4623-841b-97f85135241c"

@@ -1,8 +1,8 @@
 ﻿---
-ID: "a37236f2-5478-48b9-91ed-f88ca8b767bd"
-Parent: "615b3557-da28-4583-8652-c21dd0a6a45e"
+ID: "ae4bb768-4cef-44a1-9dc5-10fa0147ebcf"
+Parent: "4303a87b-fde0-468e-b944-45659c9b1730"
 Template: "aca5c9a3-cda0-49b6-893f-1d4a7cb595b0"
-Path: "/sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Page Content/Keyword Right Col/div/div/Sitecore Keyword 02/keyword-img"
+Path: "/sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Page Content/Keyword Left Col/div/div/Sitecore Keyword Top/keyword-img"
 DB: master
 SharedFields:
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"

@@ -1,5 +1,5 @@
 ﻿---
-ID: "a16acae3-fd75-43ce-8eec-b109bd2134ff"
+ID: "933b895f-cf8c-414a-8d7a-8c9fd6ce7c98"
 Parent: "01ca4f6f-74ee-46db-95d3-cc4b148ab295"
 Template: "aca5c9a3-cda0-49b6-893f-1d4a7cb595b0"
 Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Page Content/Keyword Left Col/div/div
@@ -7,7 +7,7 @@ DB: master
 SharedFields:
 - ID: "bea2740e-90d1-4b16-bd1d-7a7cc8605d2d"
   Hint: CssClass
-  Value: "sitecore-keyword-industry"
+  Value: "sitecore-service-keyword"
 Languages:
 - Language: en
   Versions:

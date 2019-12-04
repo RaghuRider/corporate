@@ -2,12 +2,12 @@
 ID: "790417b9-07e2-4557-8c87-f0bba7a27492"
 Parent: "2e85b564-88ef-488f-b39d-b6ef0e7cd0a6"
 Template: "6354d18e-54e9-45ad-9ec7-510769db4809"
-Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Page Content/Keyword Right Col/div/div/Sitecore Keyword 04
+Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Page Content/Keyword Right Col/div/div/Sitecore Keyword Top
 DB: master
 SharedFields:
 - ID: "6a018521-3d58-4cdd-98fc-88be689650d5"
   Hint: PassThroughField
-  Value: Sitecore Keyword 04
+  Value: Sitecore Keyword Top
 Languages:
 - Language: en
   Versions:

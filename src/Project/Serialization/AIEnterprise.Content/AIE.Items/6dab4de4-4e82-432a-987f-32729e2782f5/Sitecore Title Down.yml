@@ -2,12 +2,12 @@
 ID: "e55abaf5-b246-4dff-8505-93c6c1f0f29b"
 Parent: "6dab4de4-4e82-432a-987f-32729e2782f5"
 Template: "fcd285da-9ab2-4c8d-b185-5a7487a9ba1b"
-Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Page Content/Keyword Right Col/div/div/Sitecore Title 02
+Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Page Content/Keyword Right Col/div/div/Sitecore Title Down
 DB: master
 SharedFields:
 - ID: "4753764c-c05a-4623-841b-97f85135241c"
   Hint: FieldName
-  Value: Sitecore Title 02
+  Value: Sitecore Title Down
 - ID: "7495124d-09b5-4cb3-b4a6-fe77a95827da"
   Hint: CssClass
   Value: "keywordmain-text"
