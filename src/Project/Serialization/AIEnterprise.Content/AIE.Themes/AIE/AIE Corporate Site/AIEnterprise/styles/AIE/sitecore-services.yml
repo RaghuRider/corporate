@@ -1,0 +1,31 @@
+﻿---
+ID: "9b650f07-5a63-44c5-a441-f86d3910f074"
+Parent: "48429094-4c3c-485e-9d3c-7eedfe229a6a"
+Template: "962b53c4-f93b-4df9-9821-415c867b8903"
+Path: "/sitecore/media library/Themes/AIE/AIE Corporate Site/AIEnterprise/styles/AIE/sitecore-services"
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/9B650F075A6344C5A441F86D3910F074.ashx?h=16&thn=1&w=16"
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "4382348a-3dee-4a7c-ad02-4f68906dc5cc"
+  Value: LnNzLWJhbm5lcnRpdGxle2hlaWdodDo2MzBweDt9DQouc3MtdG9wdGl0bGV7Zm9udC1zaXplOjQwcHg7IHRleHQtYWxpZ246Y2VudGVyOyBjb2xvcjojZmZmZmZmOyBwYWRkaW5nLXRvcDo2MnB4O30NCi5zcy10b3B0ZXh0e3BhZGRpbmctdG9wOjQ1NnB4OyBmb250LXNpemU6NDBweDsgY29sb3I6I2ZmZmZmZjt9DQo=
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 179
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: text/css
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: css
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191204T084918Z
