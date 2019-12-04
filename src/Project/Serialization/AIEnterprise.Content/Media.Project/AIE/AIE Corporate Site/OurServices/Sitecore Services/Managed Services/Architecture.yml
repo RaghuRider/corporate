@@ -1,0 +1,43 @@
+﻿---
+ID: "710317cb-c2fe-4698-9047-9d2bb960e49c"
+Parent: "45bf6a6c-f46c-48cc-82a5-a9c13c6667ff"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Project/AIE/AIE Corporate Site/OurServices/Sitecore Services/Managed Services/Architecture
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/710317CBC2FE469890479D2BB960E49C.ashx?h=16&thn=1&w=16"
+- ID: "22eac599-f13b-4607-a89d-c091763a467d"
+  Hint: Width
+  Value: 180
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "a773d4fa-5bcd-417f-8aa6-ce1cca7e19a1"
+  Value: iVBORw0KGgoAAAANSUhEUgAAALQAAAC4CAMAAAB90TZ7AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAL3UExURQAAAP///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////xjeeXgAAAD8dFJOUwABAgMEBQYHCAkKCwwNDg8QERITFBUWFxgZGhscHR4fICEiIyQlJicoKSorLC0uLzAxMjM0NTY3ODk6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
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 4031
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/png
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: png
+- ID: "cb09946f-3218-4823-87d2-d5007c199a96"
+  Hint: Dimensions
+  Value: 180 x 184
+- ID: "de2ca9e4-c117-4c8a-a139-1ff4b199d15a"
+  Hint: Height
+  Value: 184
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191204T115214Z
+    - ID: "65885c44-8fcd-4a7f-94f1-ee63703fe193"
+      Hint: Alt
+      Value: Architecture

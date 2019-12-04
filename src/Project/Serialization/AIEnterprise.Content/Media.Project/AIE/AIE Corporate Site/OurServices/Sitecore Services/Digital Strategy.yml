@@ -1,0 +1,22 @@
+﻿---
+ID: "c4c41490-8faf-489c-94f2-7ad5ff62c2f9"
+Parent: "5d1ed01f-aaea-43a9-8919-9315b16e5bfe"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Project/AIE/AIE Corporate Site/OurServices/Sitecore Services/Digital Strategy
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191204T115209Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

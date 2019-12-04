@@ -1,0 +1,43 @@
+﻿---
+ID: "7dcd3136-57f0-46eb-9c13-d22e3e9a8cf1"
+Parent: "de1744cd-267f-4e88-bf5e-90da97c1f45a"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/Project/AIE/AIE Corporate Site/OurServices/Sitecore Services/Why Us/why-People"
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/7DCD313657F046EB9C13D22E3E9A8CF1.ashx?h=16&thn=1&w=16"
+- ID: "22eac599-f13b-4607-a89d-c091763a467d"
+  Hint: Width
+  Value: 144
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "ed3501a4-f4b5-4daf-88b7-3bcfc23107f5"
+  Value: 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
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 1602
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/png
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: png
+- ID: "cb09946f-3218-4823-87d2-d5007c199a96"
+  Hint: Dimensions
+  Value: 144 x 134
+- ID: "de2ca9e4-c117-4c8a-a139-1ff4b199d15a"
+  Hint: Height
+  Value: 134
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191204T115216Z
+    - ID: "65885c44-8fcd-4a7f-94f1-ee63703fe193"
+      Hint: Alt
+      Value: People

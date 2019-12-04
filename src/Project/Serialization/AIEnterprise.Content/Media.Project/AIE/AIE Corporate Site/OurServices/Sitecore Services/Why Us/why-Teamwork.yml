@@ -1,0 +1,43 @@
+﻿---
+ID: "25796c81-6c18-460a-a7bf-6f4e647a12e0"
+Parent: "de1744cd-267f-4e88-bf5e-90da97c1f45a"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/Project/AIE/AIE Corporate Site/OurServices/Sitecore Services/Why Us/why-Teamwork"
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/25796C816C18460AA7BF6F4E647A12E0.ashx?h=16&thn=1&w=16"
+- ID: "22eac599-f13b-4607-a89d-c091763a467d"
+  Hint: Width
+  Value: 142
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "58cabf92-f0dd-4f0e-88be-3f8d77ffdec1"
+  Value: iVBORw0KGgoAAAANSUhEUgAAAI4AAACGCAMAAAA8cEJXAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAzUExURQAAAP///////////////////////////////////////////////////////////////7eV4oIAAAAQdFJOUwAQIDBAUGBwgI+fr7/P3+8jGoKKAAAACXBIWXMAABcRAAAXEQHKJvM/AAADNklEQVR4Xu2c4XqrIAxApdqWWpW+/9PO3aUhCkSiArcb50+LIp4PxYCKTZhOD6N5JcdMT32BXYbpRsiehScvpJ6QLxsP2LOPdoJMGRkV7NyhzXDKuIyw9zUq62ljGWD/KzSszs4VBBZcihyqbwwYLCCVM+hbcjRpNjdQoAyw7mW8lXc+N9jf69XDEoKCVYFDmQI8Hp6j1cKqYMM7H6wBj04Hq3w1lwpsPJAmlNDBsxnShKrz2TpKb/bDJq6DsIlIJy6kTsEOwjYinQcs2ODAwQ3oqBlXBzPzeANgHK5Op8fVblEH0ptA9h2sdXwd9WI6ynt2lNJR2KVYUEgn1I4dHdN5ceNfGzVcHDvIvtQJDalcHUivWJ+HZAmPLY8UcYV/DmV0gpfc/TpxA2rS97VFkMoZ9HUGe4r7dcTYImw/Fbrx7lUZ0ll0sJFrWFVWB/+9b2mU1YHf1wRrqk7V4flTOgdCKPyeqoNLeGx5f0rnQAiF3998Kov5FTqtl1I6W0D2HVQdjk/WiQlAM7bhpY1ZPSzY4AnZSek81l+kE3n3yz4/TKvTqH6z8k1PnmamjVnpqTocVYej6nB8sk5cCBIztFC+UMd/n/c4uEuZDqTPB8oX6mDmk7GPomXnThqfaWd/Jz1Vh6PqcFQdjk/WSRRC9w77MPPJ7Bxn/Wc6caM4MXXYF0nV4ag6HFWHQ6QTF7PIKE68gUgnctiHJcg3EOlAehPIvmMDkQ5m5vGM4niSDvsmGxHFG4h00lN1OKoOR9Xh+GQd8cM78QYiHczM4xk28aQd9uXSET+8E28g0klP1eGoOhxVh6PqcDA6OPMRdYqGUFyH13DMzJMmZr3nBtj54WV1mvucNIOdjJYzhL6PslWd6boDM+N24OoceJHsOFYH69XebckOmcaMM8UyXmbW4EyWJ5kMvv1tjETYzwNoMv0834TvJWTy3Fwj9q3A8JcoUkK+APL95iGeR3Nj931LIC3qSq6Z/6LGYjJdn+FjCpb74oXEn9cyVUy8y4CBSw12KcqCMSM42zAnd5CZKe+zbEUlvnBDITd1fyCfKsmOebhXvIsu1MKMDkTvqx7yHjQzDbq1NdM0X/SuCEKFi7HqAAAAAElFTkSuQmCC
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 1020
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/png
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: png
+- ID: "cb09946f-3218-4823-87d2-d5007c199a96"
+  Hint: Dimensions
+  Value: 142 x 134
+- ID: "de2ca9e4-c117-4c8a-a139-1ff4b199d15a"
+  Hint: Height
+  Value: 134
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191204T115218Z
+    - ID: "65885c44-8fcd-4a7f-94f1-ee63703fe193"
+      Hint: Alt
+      Value: Teamwork

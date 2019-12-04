@@ -1,0 +1,43 @@
+﻿---
+ID: "cb9c6ede-1f2a-456f-94c3-9765048c9eb2"
+Parent: "de1744cd-267f-4e88-bf5e-90da97c1f45a"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/Project/AIE/AIE Corporate Site/OurServices/Sitecore Services/Why Us/why-Passion"
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/CB9C6EDE1F2A456F94C39765048C9EB2.ashx?h=16&thn=1&w=16"
+- ID: "22eac599-f13b-4607-a89d-c091763a467d"
+  Hint: Width
+  Value: 142
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "5a515f56-fb8d-4915-bd1b-7a893850c69e"
+  Value: iVBORw0KGgoAAAANSUhEUgAAAI4AAACOCAMAAADQI8A6AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAzUExURQAAAP///////////////////////////////////////////////////////////////7eV4oIAAAAQdFJOUwAQIDBAUGBwgI+fr7/P3+8jGoKKAAAACXBIWXMAABcRAAAXEQHKJvM/AAAGeklEQVR4Xu1c2aKjIAyt1rUu9P+/dliOSVBQe6vQhzkvA7EtZ0ISQsD7+B7PbpyUmoeuhCAnqulNGJ4Q5kLRgwnwKvAgC4oBNAiqxqMMKEaQkOjwMD02urEY8DQ1aoy/Rh4+hfApHz0+kRRSOQr/AjnsmS1n1PGmeqFjkSEAkUZ6F2yeM/oas5WkxBMjv9US+qQxJXf3CgNLR2I+KvUCRpYs/Kjg+XpBlAohOo8SMo3E6mkwrB9lWgiTq4cG9q2WzSetejqM+m4gcCCHe7eQpAFFwVUIJrmCIA0ouVhNCqsn6WyRT69HpQcpZ4tcerMekI1PEKQAhZ0RAkKBB0mNhxxrm9zQbCVc18mSt7kN7S7SGQ/NSMB/KF6nW9b37JXMKl3STMEukBeT5jZWfhd45Q6kxUQnmaeTX1EqKIFnyVJUTrMCc5WeDinnXUHiAc9S0WHlhK0DD1PRYeWEIwseJqJT0g4raMiJPUuUUcLKSUuHpyqsHA5KKcJgw+WByBJJ+WACOk9mM4WVw/vT+/c2gk045miEd2B3QFYpooPRan93vlMJ3cSmKr7luRqtYKPimSdp8NadjVdE3qkfk59/lboXVdv3L4m+E8ZadEI1u2ZByaBqm6ap60rj+SzLsohO7wbV4I1G6KFwefSgsZcFSyVuodQ8T+MwvLquqSK+uS3mM4wDrcjs5+TC+Y4ROuiRDrPFVK/IqF0H5j36WYx+DaTeZbPBwSkIL2nnMQk3lYH2BKYD9/1orggUU4PHLnGgiBzF53PlsCy3XM07gfkw0P5lrizA5wPlqvY4cvxtrgzsnpWClubXmohFqBvvmOGthjNB33xxDR0NDdq27TRMsB3GacvbaJ6Uq3x3sxBcVXd9eaSsexlDTHJJATAY2pbayHhimv6Gp5gCTYF0FpwJl4WHFHcd2Bf1mrsEncieyD6+OY2iZPbdHG3RDJ3b9yc0X68zdG5PeUUVFo2sdMhi1Bk6u+nEJSB/+k8ngB+j81u2QyWPU551Ox1xvoFGVjqUAPa/QIcTwDo/naI3Y1ioMi+doqw6kYbpfBCtdHTKyH5XQ29K0UpHx894JczaiOYenWuX0NWWljGbhBPtdHRE/u3D7pnQTkfn8dQ7Coeul1tOW9hEOyEdD0+undjqFNq56EjTNhsENPPR4ezCzBaaGelQGdpQQDMjHUovjPGgmZEOz5YOPGjlpEOB8Tfo/JZ2RGr6C3Ro1TCbbzQz0qEKkxkHzXx0+BTcrKFo5qPDmbKpMKGZjU5hRrCwpUq0c9ERpyG2qIV2JjqlyC9s9RGdLHQq3tMsGTk6aehU4yQguOjxrXKS0mGz3QKnC+glocMl0g2WMdBNox2x4/QxuKlKbDvPDqe+5lTCjeuwsElLx4c4lqeyPvo56Ih7SXR5BP0sdDhrp8I++nnoeFm7Bfp56Nift0A/Mx3yfPQz03Fji9HRz0OHTtZ+w5QpE/wNR6fITPU+9LPQ4VvPdHMG/Sx0aEvDx5sQ5KDDL9/xCBDkoMNbGr7lBEEGOnxRRxxFQ5KejrjEJOrokCSmUzSi2i0v9kJEdIpuUmokvtfRqfgW4OgnqfKQAaKFDt1KQ2Z/GR1KbTbwbotCBjriMrLjcxmd6FVA5V0ehNDRkRsh997rZXRil7BWt18gdXTcd0a3lNgpvYzOo8MO1Leb9V0ciB0dy0PPkt2f2YTxOjqMivc0mzuIkDs6hrm9oWa+cBsdsZJvXpmC3NExg9tPWMPzJJcifocYckfHxiZt6dbdbeg2jRve0bM/ayCd3ABiR8fdPBtG+2ky5RvufslCuweIHR3a92iwo2tMvRcdvga51y4dWfJwGiGtaqXJy93fgdNACAgQgw7xWeZH0DEY+3r9//kLAmkgADnZuF5C32qiK9YrOgbzq/3WtgNpILCMt3E5C2lMHr6aOT67XkdBJhr0nuiht8HQ18GrmEfgOgosRIAOarePtHJEkhTB8Oqqz0hVvGrJTMeB85BprZ9CfPEAs2bVVFV5aOdF9WJzDPyxDM86Zg8BMz6GeQ8iDv8nQ4th/MaIQC/r41ch+PJb1HkETEm8aLy7zhdg41YW8Sx2AeePdce5yreI5S2H0+XfV76IUjyLOuCzdcdH1fanvS6I3Rdj9t6ViGYXhVbTXzmZv2e0A3kB3oNa3oiKoW4+JqUOyBgU7eZX1Ty0JwNuWdVt9xrHo2Cl5rGvorHy8fgHiOA2mN8Br/4AAAAASUVORK5CYII=
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 1856
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/png
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: png
+- ID: "cb09946f-3218-4823-87d2-d5007c199a96"
+  Hint: Dimensions
+  Value: 142 x 142
+- ID: "de2ca9e4-c117-4c8a-a139-1ff4b199d15a"
+  Hint: Height
+  Value: 142
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191204T115216Z
+    - ID: "65885c44-8fcd-4a7f-94f1-ee63703fe193"
+      Hint: Alt
+      Value: Passion

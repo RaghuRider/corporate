@@ -1,0 +1,43 @@
+﻿---
+ID: "dfca0f5f-e07d-463a-906a-778f7c9df160"
+Parent: "7f2a83bc-c9e5-4bdf-9ae0-96ea79c3aa63"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Project/AIE/AIE Corporate Site/OurServices/Sitecore Services/Engineering Services/Integrations
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/DFCA0F5FE07D463A906A778F7C9DF160.ashx?h=16&thn=1&w=16"
+- ID: "22eac599-f13b-4607-a89d-c091763a467d"
+  Hint: Width
+  Value: 121
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "3b8d01e2-5a28-41ba-9973-76d9ab5b51be"
+  Value: iVBORw0KGgoAAAANSUhEUgAAAHkAAABtCAMAAACyYz72AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAzUExURQAAAP///////////////////////////////////////////////////////////////7eV4oIAAAAQdFJOUwAQIDBAUGBwgI+fr7/P3+8jGoKKAAAACXBIWXMAABcRAAAXEQHKJvM/AAACXElEQVRoQ+2a63KEMAiFjbre3fj+T1svR6O7BNQmdqbD92erZTgGvACaXMJUvbUDgX23BWyikL4hRNJnMItABw0fOeyCk0HAi4VhcAoI+ImV6xL+/VSwDE0F/35qWIZGlSlUORyqTKHK4VBlClUOhypTqHI4VJkilvLfVfov+PcTq6Uz8O+lg2F4Gih46FPYRYCTto2BVRTyqmknXA/fzdttXUTVdaTQHYYX9jyFKj+JKj+JKj+JKofC5KWIK8la7GEoTpYqBTs+v0l9omgQ6o7biFmRK9u7CLPvnHw/EgY+4C2sYtBCg8RdLDHgFi13Eb+hhApFrBN7gQt3zDTzLQjK6HclUS+GIw32+NnuTD1UKKDMmSxcuW9vgVTlI6rMoMo8quzhaWVT1s0CKhKLzab6eqTm1fyPzdvQzds1UevkcLvdt+G22krRkquAjs9U4xS/+Jj/ZYwpxlcvvvTaR9MgGzSHh2DGe52WbXpseNh/qSGULDvpVKoksxPDzF28pR7AJZsNzsS4ICYdC66GOf8lizybHY9S7GVcuOUvWdazVlzOtCC5i4K3M5Xpmhnh3JmwCf5g2AaacuezXlnycsYF4ZfhgvL6NkGVaVSZRJVZVJlHlUlUmUWVeVSZ5P8pS23ILeUTVe8gH96VSn9tb8TmZmqmRSPXb+fY42dtt+VjHMMjNg5rBMe2U8rMZmrkSGby5ym7l03C+NtuZ4Tc0k3diBsYkzSLqxn+KO2+yT/llc1079YxwmW6P85quCzaGl5L30Vg3+VBeGyhPQG33adlktWeZNsmS5Ik+QG6TYpIxG/RxwAAAABJRU5ErkJggg==
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 802
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/png
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: png
+- ID: "cb09946f-3218-4823-87d2-d5007c199a96"
+  Hint: Dimensions
+  Value: 121 x 109
+- ID: "de2ca9e4-c117-4c8a-a139-1ff4b199d15a"
+  Hint: Height
+  Value: 109
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191204T115212Z
+    - ID: "65885c44-8fcd-4a7f-94f1-ee63703fe193"
+      Hint: Alt
+      Value: intergrations
