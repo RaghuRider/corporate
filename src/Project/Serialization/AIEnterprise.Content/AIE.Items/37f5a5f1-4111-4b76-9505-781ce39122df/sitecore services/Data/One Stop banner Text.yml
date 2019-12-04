@@ -19,8 +19,8 @@ Languages:
     - ID: "b3635965-6786-457c-9dee-28de73c0a331"
       Hint: Text
       Value: |
-        <div class="">
-        <div class="">AIE - YOUR</div>
-        <div class="">ONE STOP</div>
-        <div class="">SITECORE PARTNER</div>
+        <div class="ss-onestopbanner">
+        <div class="ss-aieyour">AIE - YOUR</div>
+        <div class="ss-onestoptitle">ONE STOP</div>
+        <div class="ss-sitecorepartner">SITECORE PARTNER</div>
         </div>

@@ -1,0 +1,25 @@
+﻿---
+ID: "238d4e39-d481-4f25-bbd6-ce8d6e029830"
+Parent: "cdb2e8a4-afa1-4f41-95aa-63cdff3ac66f"
+Template: "58478859-c711-410d-ab21-6921cdde7e4c"
+Path: /sitecore/content/AIE/AIE Corporate Site/Data/AIE/Sitecore Services/Keyword List/High Flexibility
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191204T090901Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "96e37819-a226-4f63-8b68-e7c5e28b6dfd"
+      Hint: Keyword List
+      Value: High Flexibility

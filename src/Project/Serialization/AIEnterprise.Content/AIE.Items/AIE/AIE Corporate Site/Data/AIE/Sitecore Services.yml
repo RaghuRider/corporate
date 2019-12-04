@@ -1,0 +1,26 @@
+﻿---
+ID: "7da88c30-8f70-407e-8ed4-9af2a6932918"
+Parent: "8e889b30-8d68-4313-97e8-60c0e8d141e1"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/content/AIE/AIE Corporate Site/Data/AIE/Sitecore Services
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {A87A00B1-E6DB-45AB-8B54-636FEC3B5523}
+    {32EE5898-64C8-4E69-A7EB-76F9FB153FA0}
+    {58478859-C711-410D-AB21-6921CDDE7E4C}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191204T090827Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
