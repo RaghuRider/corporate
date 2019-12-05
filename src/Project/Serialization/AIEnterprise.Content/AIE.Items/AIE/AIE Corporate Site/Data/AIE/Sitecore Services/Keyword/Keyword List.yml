@@ -1,13 +1,13 @@
 ﻿---
 ID: "cdb2e8a4-afa1-4f41-95aa-63cdff3ac66f"
-Parent: "7da88c30-8f70-407e-8ed4-9af2a6932918"
+Parent: "8f909597-94ed-4dac-864e-9f2879121d66"
 Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
-Path: /sitecore/content/AIE/AIE Corporate Site/Data/AIE/Sitecore Services/Keyword List
+Path: /sitecore/content/AIE/AIE Corporate Site/Data/AIE/Sitecore Services/Keyword/Keyword List
 DB: master
 SharedFields:
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
-  Value: 300
+  Value: "-50"
 Languages:
 - Language: en
   Versions:

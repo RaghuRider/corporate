@@ -2,7 +2,7 @@
 ID: "e2a51114-3fdf-4b30-ae9b-ef43875d4939"
 Parent: "cdb2e8a4-afa1-4f41-95aa-63cdff3ac66f"
 Template: "58478859-c711-410d-ab21-6921cdde7e4c"
-Path: /sitecore/content/AIE/AIE Corporate Site/Data/AIE/Sitecore Services/Keyword List/Managed Services Migration  Upgrades
+Path: /sitecore/content/AIE/AIE Corporate Site/Data/AIE/Sitecore Services/Keyword/Keyword List/Managed Services Migration  Upgrades
 DB: master
 SharedFields:
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"

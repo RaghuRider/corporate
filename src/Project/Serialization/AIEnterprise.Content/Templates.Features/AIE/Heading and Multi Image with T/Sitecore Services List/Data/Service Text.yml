@@ -1,0 +1,21 @@
+﻿---
+ID: "c977ea30-a94d-44d3-8818-753940b4e645"
+Parent: "6d4531b2-86f6-4eb3-a573-83e5acd55804"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/AIE/Heading and Multi Image with Text/Sitecore Services List/Data/Service Text
+DB: master
+SharedFields:
+- ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
+  Hint: Type
+  Value: Rich Text
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191205T070632Z

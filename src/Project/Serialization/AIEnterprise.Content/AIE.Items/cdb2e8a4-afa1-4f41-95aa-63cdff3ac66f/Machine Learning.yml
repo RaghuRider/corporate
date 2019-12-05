@@ -1,13 +1,13 @@
 ﻿---
-ID: "4881e5f9-b148-4537-a650-63aac4275e2f"
+ID: "c6274e84-4792-437f-b823-fd63d718175c"
 Parent: "cdb2e8a4-afa1-4f41-95aa-63cdff3ac66f"
 Template: "58478859-c711-410d-ab21-6921cdde7e4c"
-Path: /sitecore/content/AIE/AIE Corporate Site/Data/AIE/Sitecore Services/Keyword List/Faster Time to Market
+Path: /sitecore/content/AIE/AIE Corporate Site/Data/AIE/Sitecore Services/Keyword/Keyword List/Machine Learning
 DB: master
 SharedFields:
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
-  Value: 1000
+  Value: 700
 Languages:
 - Language: en
   Versions:
@@ -22,4 +22,4 @@ Languages:
         sitecore\admin
     - ID: "96e37819-a226-4f63-8b68-e7c5e28b6dfd"
       Hint: Keyword List
-      Value: Faster Time to Market
+      Value: Machine Learning

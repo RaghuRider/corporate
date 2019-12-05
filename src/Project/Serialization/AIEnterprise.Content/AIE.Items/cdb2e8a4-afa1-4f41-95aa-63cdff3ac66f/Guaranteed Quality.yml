@@ -1,13 +1,13 @@
 ﻿---
-ID: "29d6728a-f339-405e-a4a1-fc3ae0d98f36"
+ID: "29a28e8f-50ee-4f00-9541-1c95716b4f21"
 Parent: "cdb2e8a4-afa1-4f41-95aa-63cdff3ac66f"
 Template: "58478859-c711-410d-ab21-6921cdde7e4c"
-Path: /sitecore/content/AIE/AIE Corporate Site/Data/AIE/Sitecore Services/Keyword List/Complete Transparency
+Path: /sitecore/content/AIE/AIE Corporate Site/Data/AIE/Sitecore Services/Keyword/Keyword List/Guaranteed Quality
 DB: master
 SharedFields:
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
-  Value: 900
+  Value: 1300
 Languages:
 - Language: en
   Versions:
@@ -22,4 +22,4 @@ Languages:
         sitecore\admin
     - ID: "96e37819-a226-4f63-8b68-e7c5e28b6dfd"
       Hint: Keyword List
-      Value: Complete Transparency
+      Value: Guaranteed Quality

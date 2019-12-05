@@ -1,13 +1,13 @@
 ﻿---
-ID: "71da8b07-7d4a-467c-a2d6-9caaebacfd16"
+ID: "021c5761-c33a-4bd2-a1b6-936c2cd9cfb4"
 Parent: "cdb2e8a4-afa1-4f41-95aa-63cdff3ac66f"
 Template: "58478859-c711-410d-ab21-6921cdde7e4c"
-Path: /sitecore/content/AIE/AIE Corporate Site/Data/AIE/Sitecore Services/Keyword List/Experience Commerce
+Path: /sitecore/content/AIE/AIE Corporate Site/Data/AIE/Sitecore Services/Keyword/Keyword List/Lower Cost
 DB: master
 SharedFields:
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
-  Value: 500
+  Value: 1100
 Languages:
 - Language: en
   Versions:
@@ -22,4 +22,4 @@ Languages:
         sitecore\admin
     - ID: "96e37819-a226-4f63-8b68-e7c5e28b6dfd"
       Hint: Keyword List
-      Value: Experience Commerce
+      Value: Lower Cost

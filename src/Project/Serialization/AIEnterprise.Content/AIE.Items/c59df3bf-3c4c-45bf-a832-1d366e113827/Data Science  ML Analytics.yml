@@ -1,0 +1,27 @@
+﻿---
+ID: "5d897fd9-2f1d-434b-957b-126b2af9756b"
+Parent: "c59df3bf-3c4c-45bf-a832-1d366e113827"
+Template: "576ac25b-193f-4ecb-8d7d-46821e851c6d"
+Path: /sitecore/content/AIE/AIE Corporate Site/Data/AIE/Sitecore Services/Services/Services List/Data Science  ML Analytics
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191205T072247Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "828e97fb-ff32-4323-9be1-7f85edafeccc"
+      Hint: Service Images
+      Value: |
+        <image mediaid="{BDE06C53-E62B-408B-96A4-7D2A5CF70260}" />
+    - ID: "c977ea30-a94d-44d3-8818-753940b4e645"
+      Hint: Service Text
+      Value: |
+        Data Science <br />
+        ML &amp; Analytics

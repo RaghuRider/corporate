@@ -1,13 +1,13 @@
 ﻿---
-ID: "238d4e39-d481-4f25-bbd6-ce8d6e029830"
+ID: "71da8b07-7d4a-467c-a2d6-9caaebacfd16"
 Parent: "cdb2e8a4-afa1-4f41-95aa-63cdff3ac66f"
 Template: "58478859-c711-410d-ab21-6921cdde7e4c"
-Path: /sitecore/content/AIE/AIE Corporate Site/Data/AIE/Sitecore Services/Keyword List/High Flexibility
+Path: /sitecore/content/AIE/AIE Corporate Site/Data/AIE/Sitecore Services/Keyword/Keyword List/Experience Commerce
 DB: master
 SharedFields:
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
-  Value: 800
+  Value: 500
 Languages:
 - Language: en
   Versions:
@@ -22,4 +22,4 @@ Languages:
         sitecore\admin
     - ID: "96e37819-a226-4f63-8b68-e7c5e28b6dfd"
       Hint: Keyword List
-      Value: High Flexibility
+      Value: Experience Commerce
