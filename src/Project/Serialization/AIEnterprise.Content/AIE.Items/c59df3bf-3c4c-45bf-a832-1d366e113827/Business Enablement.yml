@@ -19,7 +19,7 @@ Languages:
     - ID: "828e97fb-ff32-4323-9be1-7f85edafeccc"
       Hint: Service Images
       Value: |
-        <image mediaid="{C023DDF5-CBC4-429E-BD7E-295315E655F4}" />
+        <image mediaid="{C023DDF5-CBC4-429E-BD7E-295315E655F4}" ></image>
     - ID: "c977ea30-a94d-44d3-8818-753940b4e645"
       Hint: Service Text
       Value: |

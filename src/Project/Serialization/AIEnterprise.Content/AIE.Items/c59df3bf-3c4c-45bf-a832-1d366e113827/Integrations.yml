@@ -1,8 +1,8 @@
 ﻿---
-ID: "f9be1169-98ec-40e4-8760-9fa26452fdb7"
+ID: "b045e188-5a81-484a-9721-d0453af7de24"
 Parent: "c59df3bf-3c4c-45bf-a832-1d366e113827"
 Template: "576ac25b-193f-4ecb-8d7d-46821e851c6d"
-Path: /sitecore/content/AIE/AIE Corporate Site/Data/AIE/Sitecore Services/Services/Services List/Turney Solutions
+Path: /sitecore/content/AIE/AIE Corporate Site/Data/AIE/Sitecore Services/Services/Services List/Integrations
 DB: master
 Languages:
 - Language: en
@@ -19,10 +19,7 @@ Languages:
     - ID: "828e97fb-ff32-4323-9be1-7f85edafeccc"
       Hint: Service Images
       Value: |
-        <image mediaid="{7E646B48-37B3-4FE7-AADE-F54877BDC421}" ></image>
+        <image mediaid="{DFCA0F5F-E07D-463A-906A-778F7C9DF160}" ></image>
     - ID: "c977ea30-a94d-44d3-8818-753940b4e645"
       Hint: Service Text
-      Value: |
-        Turney<br />
-        Solutions
-        
+      Value: Integrations
