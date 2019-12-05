@@ -4,6 +4,13 @@ Parent: "7da88c30-8f70-407e-8ed4-9af2a6932918"
 Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
 Path: /sitecore/content/AIE/AIE Corporate Site/Data/AIE/Sitecore Services/Services
 DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {A87A00B1-E6DB-45AB-8B54-636FEC3B5523}
+    {CF2A3CEE-EC02-4110-8900-EA6A84D45ACB}
 Languages:
 - Language: en
   Versions:

@@ -1,0 +1,32 @@
+﻿---
+ID: "aeee9743-3a25-4caa-a6cb-5c457ed66ad2"
+Parent: "726de1d8-ef7b-48ab-b4ee-fbb22879efdd"
+Template: "cf2a3cee-ec02-4110-8900-ea6a84d45acb"
+Path: /sitecore/content/AIE/AIE Corporate Site/Data/AIE/Sitecore Services/Services/Digital Strategy
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "13b9cfa8-fabc-4b2d-b1e8-e1c87709a2bd"
+      Hint: Services Heading
+      Value: Digital Strategy & Consulting
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191205T074020Z
+    - ID: "290aab7c-9bf4-4a3f-9927-5c51266fba27"
+      Hint: Services List
+      Type: Multilist
+      Value: |
+        {450FF9C7-876E-490B-9F27-C06056C72B31}
+        {D1D70AD0-9922-4245-81AE-C8101418DF92}
+        {F9BE1169-98EC-40E4-8760-9FA26452FDB7}
+        {1507C368-A668-48EF-B221-F8178B1B18A5}
+        {CB1A19C9-C77F-4D08-B233-2C572A830CB7}
+        {E786CFE5-AC2C-418A-8193-62C7BB680F98}
+        {5D897FD9-2F1D-434B-957B-126B2AF9756B}
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
