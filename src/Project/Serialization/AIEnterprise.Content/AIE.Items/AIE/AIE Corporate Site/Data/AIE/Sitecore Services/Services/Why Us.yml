@@ -1,0 +1,47 @@
+﻿---
+ID: "6fb300e6-e271-4f92-89c9-9ffb6bcb68ea"
+Parent: "726de1d8-ef7b-48ab-b4ee-fbb22879efdd"
+Template: "e46ec481-af7f-4e93-8c92-c1aa2d1a19ad"
+Path: /sitecore/content/AIE/AIE Corporate Site/Data/AIE/Sitecore Services/Services/Why Us
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 400
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191205T090255Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "855c3c93-1259-4da9-8512-824be0a8a0bf"
+      Hint: Specialize Description
+      Value: |
+        We are a team of highly dedicated professionals, who specialise in all areas of Sitecore, and are passionate about Client Success
+        
+    - ID: "a5c20fe1-b078-47f9-b14e-bc5b7b4ec882"
+      Hint: Image List
+      Type: Multilist
+      Value: |
+        {9334717C-AD04-47C9-92AA-3CA8EE78C6C3}
+        {481A9C0D-BA91-49B3-AF55-2E756B0AA592}
+        {786FB1DA-66EB-4724-879E-F9E5225FF114}
+        {09358317-BEAB-4949-AF5F-6CCC01475144}
+        {06DD5122-730F-416D-8E7E-B9BD9F205C83}
+        {A174ED49-D31A-4206-8EC8-99F3353A0417}
+        {AECB096B-3EDE-4203-8E57-C7A8EC9915DA}
+    - ID: "a89b4fdb-4fd4-4400-b33f-fbca3208f56f"
+      Hint: Why Description
+      Value: Best in Class Technology, Ideas, People, Process, Teamwork, Passion
+    - ID: "c6aa386e-aa89-4a20-b6bf-ac25807bb65f"
+      Hint: Why Heading
+      Value: "Why Us?"
+    - ID: "de6d0240-c459-4859-a6e7-348f6a5881c4"
+      Hint: Why Specialize
+      Value: "We Specialize!"

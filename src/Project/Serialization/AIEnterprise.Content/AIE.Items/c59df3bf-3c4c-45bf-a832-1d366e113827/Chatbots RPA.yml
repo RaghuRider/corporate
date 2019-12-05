@@ -1,8 +1,8 @@
 ﻿---
-ID: "f9be1169-98ec-40e4-8760-9fa26452fdb7"
+ID: "43d13342-6f91-44f5-b1e6-62b5cfb9a665"
 Parent: "c59df3bf-3c4c-45bf-a832-1d366e113827"
 Template: "576ac25b-193f-4ecb-8d7d-46821e851c6d"
-Path: /sitecore/content/AIE/AIE Corporate Site/Data/AIE/Sitecore Services/Services/Services List/Turney Solutions
+Path: /sitecore/content/AIE/AIE Corporate Site/Data/AIE/Sitecore Services/Services/Services List/Chatbots RPA
 DB: master
 Languages:
 - Language: en
@@ -19,10 +19,10 @@ Languages:
     - ID: "828e97fb-ff32-4323-9be1-7f85edafeccc"
       Hint: Service Images
       Value: |
-        <image mediaid="{7E646B48-37B3-4FE7-AADE-F54877BDC421}" ></image>
+        <image mediaid="{2C4E1643-B0BD-4BDC-AE17-482E4633160E}" ></image>
     - ID: "c977ea30-a94d-44d3-8818-753940b4e645"
       Hint: Service Text
       Value: |
-        Turney<br />
-        Solutions
+        Chatbots <br />
+        &amp; RPA
         

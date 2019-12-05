@@ -1,8 +1,8 @@
 ﻿---
-ID: "cb1a19c9-c77f-4d08-b233-2c572a830cb7"
-Parent: "c59df3bf-3c4c-45bf-a832-1d366e113827"
+ID: "786fb1da-66eb-4724-879e-f9e5225ff114"
+Parent: "e6d8cab8-91ae-4f58-8193-cfae16d00d44"
 Template: "576ac25b-193f-4ecb-8d7d-46821e851c6d"
-Path: /sitecore/content/AIE/AIE Corporate Site/Data/AIE/Sitecore Services/Services/Services List/Multisite
+Path: /sitecore/content/AIE/AIE Corporate Site/Data/AIE/Sitecore Services/Services/Services List/Why us/People
 DB: master
 Languages:
 - Language: en
@@ -11,7 +11,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20191205T072247Z
+      Value: 20191205T085021Z
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
@@ -19,7 +19,4 @@ Languages:
     - ID: "828e97fb-ff32-4323-9be1-7f85edafeccc"
       Hint: Service Images
       Value: |
-        <image mediaid="{751C4F12-D175-4805-87E1-1E8D1E402046}" ></image>
-    - ID: "c977ea30-a94d-44d3-8818-753940b4e645"
-      Hint: Service Text
-      Value: Multisite
+        <image mediaid="{7DCD3136-57F0-46EB-9C13-D22E3E9A8CF1}" ></image>

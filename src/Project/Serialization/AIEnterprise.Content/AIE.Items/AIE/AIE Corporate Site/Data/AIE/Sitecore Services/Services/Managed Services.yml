@@ -1,13 +1,13 @@
 ﻿---
-ID: "aeee9743-3a25-4caa-a6cb-5c457ed66ad2"
+ID: "0013d595-38ce-4e91-b4e1-1c505850508f"
 Parent: "726de1d8-ef7b-48ab-b4ee-fbb22879efdd"
 Template: "cf2a3cee-ec02-4110-8900-ea6a84d45acb"
-Path: /sitecore/content/AIE/AIE Corporate Site/Data/AIE/Sitecore Services/Services/Digital Strategy
+Path: /sitecore/content/AIE/AIE Corporate Site/Data/AIE/Sitecore Services/Services/Managed Services
 DB: master
 SharedFields:
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
-  Value: 100
+  Value: 300
 Languages:
 - Language: en
   Versions:
@@ -15,21 +15,21 @@ Languages:
     Fields:
     - ID: "13b9cfa8-fabc-4b2d-b1e8-e1c87709a2bd"
       Hint: Services Heading
-      Value: Digital Strategy & Consulting
+      Value: Managed Services
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20191205T074020Z
     - ID: "290aab7c-9bf4-4a3f-9927-5c51266fba27"
       Hint: Services List
-      Type: Multilist
+      Type: Treelist
       Value: |
-        {450FF9C7-876E-490B-9F27-C06056C72B31}
-        {D1D70AD0-9922-4245-81AE-C8101418DF92}
-        {F9BE1169-98EC-40E4-8760-9FA26452FDB7}
-        {1507C368-A668-48EF-B221-F8178B1B18A5}
-        {CB1A19C9-C77F-4D08-B233-2C572A830CB7}
-        {E786CFE5-AC2C-418A-8193-62C7BB680F98}
-        {5D897FD9-2F1D-434B-957B-126B2AF9756B}
+        {ECAEE617-BD3B-4556-95B8-0A75713C29C4}
+        {49FC2D85-5AF8-4C4F-A607-3C3787A242EF}
+        {E066DB60-2452-4054-94DD-F91A6D19878F}
+        {BA73E46C-8898-401B-86B6-E97C977B86ED}
+        {3D83B64B-9E5E-4D60-8A69-BF23943F5889}
+        {178EE2F7-5C3D-4D9B-B1D6-FEA7B3FB5C47}
+        {D319918C-3B60-4B08-B217-5B3F1D1B880E}
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
