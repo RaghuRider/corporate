@@ -25,14 +25,17 @@ Languages:
         sitecore\admin
     - ID: "7cf8e6a8-d2ff-4e08-80c3-5ecb500b44ca"
       Hint: Banner Description
-      Value: "Sitecore 9.x is the enterprise experience platform that's powerful, intuitive and scalable Talk to us about upgrading today!"
+      Value: "Sitecore 9.x is the enterprise experience platform that's powerful, intuitive and scalable. <br />Talk to us about upgrading today!"
     - ID: "910e5e2f-2c29-412c-b70b-a05851507d97"
       Hint: Banner Text
       Value: |
-        <div class="banner-upgrade-text">Supercharged Sitecore 9.x
-        <hr /></div>
+        <div class="banner-upgrade-text">
+        Supercharged<br />
+        Sitecore 9.x
+        <hr />
+        </div>
+        <p>&nbsp;</p>
         <div class="banner-upgrade-sub-text">You will <span> love</span> it!</div>
-        
     - ID: "99ca6bf5-b77b-4878-8f24-522bcd814906"
       Hint: Banner Image
       Value: |

@@ -24,9 +24,7 @@ Languages:
       Value: 20191202T095316Z
     - ID: "2801d17e-930d-46c4-b687-f01d24a7cfd0"
       Hint: Description
-      Value: |
-        Accelerate your upgrade from any Sitecore version to the latest version and class
-        
+      Value: Accelerate your upgrade from any Sitecore version to the latest version and class
     - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
       Hint: __Workflow state
       Value: 
