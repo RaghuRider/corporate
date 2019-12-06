@@ -1,19 +1,19 @@
 ﻿---
-ID: "50084084-9f73-42a2-ab47-666fa316ebb4"
-Parent: "9fae958d-ada6-4476-93e1-1a23ef483b17"
+ID: "163c2c14-8f23-4159-bbdd-dfc9496dd148"
+Parent: "718a2f65-4de5-4cf1-81d8-a3d0b45f153d"
 Template: "fcd285da-9ab2-4c8d-b185-5a7487a9ba1b"
-Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Page Content/Sitecore Services Why us/div/We Specialize
+Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Page Content/Sitecore Services Why us/div/div/Specialize Description
 DB: master
 SharedFields:
 - ID: "4753764c-c05a-4623-841b-97f85135241c"
   Hint: FieldName
-  Value: We Specialize
+  Value: Specialize Description
 - ID: "7495124d-09b5-4cb3-b4a6-fe77a95827da"
   Hint: CssClass
-  Value: "we-specialize"
+  Value: "specialize-description"
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
-  Value: 400
+  Value: 390
 Languages:
 - Language: en
   Versions:

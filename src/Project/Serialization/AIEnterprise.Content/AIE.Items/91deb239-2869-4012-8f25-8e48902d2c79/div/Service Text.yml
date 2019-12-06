@@ -1,8 +1,8 @@
 ﻿---
 ID: "7d9c3dc6-52ef-4dc2-b4ec-305f720b3545"
-Parent: "91deb239-2869-4012-8f25-8e48902d2c79"
+Parent: "8f2c547a-3dbf-4388-8dd7-3cb208d134ff"
 Template: "fcd285da-9ab2-4c8d-b185-5a7487a9ba1b"
-Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Page Content/Sitecore Services Types/div/div/div/Services List/Service Text
+Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Page Content/Sitecore Services Types/div/div/Services List/div/Service Text
 DB: master
 SharedFields:
 - ID: "4753764c-c05a-4623-841b-97f85135241c"
@@ -11,6 +11,9 @@ SharedFields:
 - ID: "7495124d-09b5-4cb3-b4a6-fe77a95827da"
   Hint: CssClass
   Value: "ss-textservices"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 150
 Languages:
 - Language: en
   Versions:

@@ -1,16 +1,16 @@
 ﻿---
-ID: "a5d177d6-b97f-4d38-9322-ae4c4a046ec8"
-Parent: "91deb239-2869-4012-8f25-8e48902d2c79"
+ID: "a8084989-20a7-41f5-9ff3-50952847ba47"
+Parent: "718a2f65-4de5-4cf1-81d8-a3d0b45f153d"
 Template: "fcd285da-9ab2-4c8d-b185-5a7487a9ba1b"
-Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Page Content/Sitecore Services Types/div/div/div/Services List/Service Images
+Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Rendering Variants/Page Content/Sitecore Services Why us/div/div/Why Heading
 DB: master
 SharedFields:
 - ID: "4753764c-c05a-4623-841b-97f85135241c"
   Hint: FieldName
-  Value: Service Images
+  Value: Why Heading
 - ID: "7495124d-09b5-4cb3-b4a6-fe77a95827da"
   Hint: CssClass
-  Value: "ss-imageservices"
+  Value: "whyus-heading"
 Languages:
 - Language: en
   Versions:
@@ -18,4 +18,4 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20191205T092518Z
+      Value: 20191205T092326Z
