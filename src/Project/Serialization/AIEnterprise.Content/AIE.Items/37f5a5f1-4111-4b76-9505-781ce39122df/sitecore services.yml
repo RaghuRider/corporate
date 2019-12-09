@@ -35,8 +35,36 @@ Languages:
           <d
             id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
             <r
-              uid="{0195F49D-4DC3-47CE-875B-CEEF2D7F016D}"
+              uid="{630AFBF4-A0A9-44B9-85EE-620419827A5F}"
               p:before="*"
+              s:ds="local:/Data/Sitecore Upgrade"
+              s:id="{DCEE78E1-1843-4456-A13A-F10A12191630}"
+              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames&amp;Styles&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=19"
+              s:ph="/main/container-18" />
+            <r
+              uid="{52A7B626-D05E-4226-88D7-EB312562E8ED}"
+              p:after="r[@uid='{630AFBF4-A0A9-44B9-85EE-620419827A5F}']"
+              s:ds="{5C6909B5-080A-4DD6-A02B-140D5FF82AC3}"
+              s:id="{3972C278-7E7A-4C2B-A293-66AF860F5C3A}"
+              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7B68FD705A-A1D5-4936-AAF3-32BEFB2FCE8C%7D&amp;Styles&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=20"
+              s:ph="/main/container-18" />
+            <r
+              uid="{FEB78049-EB41-4478-99F4-F7A0015AA6C0}"
+              p:after="r[@uid='{52A7B626-D05E-4226-88D7-EB312562E8ED}']"
+              s:ds="local:/Data/Sitecore experience Accelerator"
+              s:id="{DCEE78E1-1843-4456-A13A-F10A12191630}"
+              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames&amp;Styles&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=21"
+              s:ph="/main/container-18" />
+            <r
+              uid="{72C28235-AD77-4CF9-A306-8264311489F7}"
+              p:after="r[@uid='{FEB78049-EB41-4478-99F4-F7A0015AA6C0}']"
+              s:ds="{BA6DB137-BC76-49C6-BB73-6A83F9C99808}"
+              s:id="{3972C278-7E7A-4C2B-A293-66AF860F5C3A}"
+              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7B68FD705A-A1D5-4936-AAF3-32BEFB2FCE8C%7D&amp;Styles&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=22"
+              s:ph="/main/container-18" />
+            <r
+              uid="{0195F49D-4DC3-47CE-875B-CEEF2D7F016D}"
+              p:after="r[@uid='{72C28235-AD77-4CF9-A306-8264311489F7}']"
               s:ds="{6FB300E6-E271-4F92-89C9-9FFB6BCB68EA}"
               s:id="{8B0393E9-EE25-4F0B-A5FD-777B3AD2C737}"
               s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7BABB2BB56-5062-4176-8C02-60850833976D%7D&amp;Styles&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=17"
@@ -79,7 +107,7 @@ Languages:
             <r
               uid="{C948C48B-54F1-4BC6-9DCC-4DD974B3E581}"
               p:after="r[@uid='{11621EBA-0071-447A-9C1D-0D6FB766A462}']"
-              s:ds="local:/Data/Image 1"
+              s:ds="local:/Data/Keyword Image"
               s:id="{4A0D4E0B-BC20-4F2E-BD84-A4BD35834E86}"
               s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames&amp;Styles=%7B7653F02D-221C-45C5-9109-8D435694DF84%7D&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=7"
               s:ph="/main/container-5/column-2-6" />
@@ -148,10 +176,17 @@ Languages:
               s:ph="main" />
             <r
               uid="{CB3C0B79-EABC-4AE6-ADCE-2B775EF922DB}"
-              p:after="*[1=2]"
+              p:after="r[@uid='{507B04C0-BC1B-4700-AE8A-4CA3B4E6D0D6}']"
               s:ds=""
               s:id="{896A2C68-1362-4E88-8BA0-1805AE6D4837}"
               s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;BackgroundImage&amp;Styles=%7B55468097-C2F2-49D7-B984-C00B66968C2F%7D&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=13"
+              s:ph="main" />
+            <r
+              uid="{A8CABE9E-F56E-4AE4-AA1B-2B053D20BF92}"
+              p:after="*[1=2]"
+              s:ds=""
+              s:id="{896A2C68-1362-4E88-8BA0-1805AE6D4837}"
+              s:par="GridParameters&amp;BackgroundImage&amp;Styles&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=18"
               s:ph="main" />
           </d>
         </r>

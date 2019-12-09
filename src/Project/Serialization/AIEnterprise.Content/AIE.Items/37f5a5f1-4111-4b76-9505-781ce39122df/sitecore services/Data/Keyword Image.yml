@@ -2,8 +2,12 @@
 ID: "15a1b8fe-cf86-47e0-a43f-647c06ad6164"
 Parent: "cccf49de-42a7-4a9a-a2eb-4172d65adeae"
 Template: "bb8a85ab-1f6d-4518-8772-1c9f4f8dac18"
-Path: "/sitecore/content/AIE/AIE Corporate Site/Home/our-services/digital-experience-engineering/sitecore services/Data/Image 1"
+Path: "/sitecore/content/AIE/AIE Corporate Site/Home/our-services/digital-experience-engineering/sitecore services/Data/Keyword Image"
 DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
 Languages:
 - Language: en
   Versions:

@@ -1,0 +1,30 @@
+﻿---
+ID: "1c60189c-f793-407a-b657-4c62aba6d540"
+Parent: "cccf49de-42a7-4a9a-a2eb-4172d65adeae"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: "/sitecore/content/AIE/AIE Corporate Site/Home/our-services/digital-experience-engineering/sitecore services/Data/Sitecore experience Accelerator"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 450
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191107T114703Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: |
+        <div class="best-experience">
+        <h2 class="corporate-headline field-promotext">Sitecore eXperience Accelerator (SXA)</h2>
+        <p>SXA is a new module from Sitecore and provides a suite of ready-made, tested, proven components, templates and renderings which you can use to build a site.
+        We are Sitecore Implementation Partners and can help you get the most out of your Sitecore platform by leveraging Sitecore eXperience Accelerator (SXA)</p>
+        </div>
