@@ -4,6 +4,10 @@ Parent: "ceba00fe-6f2e-453e-8ebd-4138c4f90e16"
 Template: "2aa49812-11f9-49b2-bd74-74c5587379a7"
 Path: /sitecore/content/AIE/AIE Corporate Site/Data/AIE/Partners/Leading Partners
 DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: 
 Languages:
 - Language: en
   Versions:
@@ -15,12 +19,16 @@ Languages:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20190626T104641Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
     - ID: "4c5cc3f2-7d5e-48f3-8300-813ab8ab0fce"
       Hint: Partners List
       Type: Multilist
       Value: |
         {9DBFA2B6-7B71-4DF4-8BED-E342934D694D}
         {10E036FE-4BCF-4990-A63B-F14EBAE4DBEE}
+        {DE2A4405-6FDC-412C-993F-04BC3497CF6C}
         {FAA8FBA5-7DCB-4159-9FBB-EAB7D8A747AD}
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
