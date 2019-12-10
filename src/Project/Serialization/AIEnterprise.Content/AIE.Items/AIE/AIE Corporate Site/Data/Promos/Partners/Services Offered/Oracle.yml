@@ -1,0 +1,32 @@
+﻿---
+ID: "de2a4405-6fdc-412c-993f-04bc3497cf6c"
+Parent: "a06bb100-0a93-4ee5-a42e-590b2d7fcf2b"
+Template: "324733cf-afec-4281-9a18-03b6cfc4e535"
+Path: /sitecore/content/AIE/AIE Corporate Site/Data/Promos/Partners/Services Offered/Oracle
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: 
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "14023dd5-30e7-4e3c-bf31-d835f3a87410"
+      Hint: PromoText
+      Value: We have a very strong Oracle Commerce Relationships and Partner Network. We design &amp; develop Oracle ATG Web Commerce and Oracle Endeca for enterprises across multiple industries, with best in class development and support practices.
+    - ID: "18f9beb8-0116-40fd-b47e-fd0a2327d7e0"
+      Hint: PromoIcon
+      Value: |
+        <image mediaid="{82A4BF1D-3046-4C5D-9B53-79E82529B389}"></image>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190611T080934Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
