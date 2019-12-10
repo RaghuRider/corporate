@@ -4,6 +4,10 @@ Parent: "cccf49de-42a7-4a9a-a2eb-4172d65adeae"
 Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
 Path: "/sitecore/content/AIE/AIE Corporate Site/Home/our-services/digital-experience-engineering/sitecore services/Data/One Stop banner Text"
 DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
 Languages:
 - Language: en
   Versions:

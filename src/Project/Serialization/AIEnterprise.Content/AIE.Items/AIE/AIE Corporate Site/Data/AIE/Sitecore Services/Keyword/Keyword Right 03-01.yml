@@ -23,6 +23,9 @@ Languages:
       Hint: __Created by
       Value: |
         sitecore\admin
+    - ID: "6fd670b2-aa7b-4af4-9ac5-50501d38b092"
+      Hint: Image
+      Value: 
     - ID: "86e4dddc-502a-4ce8-a7ea-00ff2bbce1f5"
       Hint: Sitecore Title Top
       Value: Customer Centric Engagement
