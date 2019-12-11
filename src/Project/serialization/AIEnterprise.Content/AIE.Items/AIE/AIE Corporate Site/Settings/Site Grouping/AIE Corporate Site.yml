@@ -16,7 +16,7 @@ SharedFields:
   Value: "dev.aienterprise.com|test.aienterprise-cd.com|test.aienterprise-cms.com|prodcms.aienterprise.com|www.aienterprise.com|aienterprise.com"
 - ID: "a7803a5d-cd03-4eda-abed-1d9af4bf6660"
   Hint: Database
-  Value: master
+  Value: web
 - ID: "bdda404f-9835-456a-84d2-6e9cfe6b5909"
   Hint: HtmlCacheSize
   Value: 0

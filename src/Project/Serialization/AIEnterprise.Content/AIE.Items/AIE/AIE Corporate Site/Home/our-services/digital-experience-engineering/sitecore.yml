@@ -5,6 +5,10 @@ Template: "fcdfe9cd-364f-46a6-a466-8ceb8cbf74cc"
 Path: "/sitecore/content/AIE/AIE Corporate Site/Home/our-services/digital-experience-engineering/sitecore"
 DB: master
 SharedFields:
+- ID: "1fbc6a49-6281-48ee-87e9-a3970b145adb"
+  Hint: NavigationFilter
+  Type: Checklist
+  Value: "{A0E7FF57-6994-4B09-AA21-104239628D5A}"
 - ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
   Hint: Page Design
   Value: "{CBE603FF-5DFF-4584-9EF0-440B05133ECF}"
