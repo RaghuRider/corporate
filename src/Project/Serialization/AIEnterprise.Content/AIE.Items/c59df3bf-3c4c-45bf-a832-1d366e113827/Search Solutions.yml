@@ -22,6 +22,4 @@ Languages:
         <image mediaid="{139C4DA7-7EB9-4BAF-AB88-8439D25E870E}" ></image>
     - ID: "c977ea30-a94d-44d3-8818-753940b4e645"
       Hint: Service Text
-      Value: |
-        Search<br />
-        Solutions
+      Value: Search Solutions
