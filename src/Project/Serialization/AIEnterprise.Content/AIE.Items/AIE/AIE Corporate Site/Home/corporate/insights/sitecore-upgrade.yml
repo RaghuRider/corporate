@@ -8,9 +8,15 @@ SharedFields:
 - ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
   Hint: Page Design
   Value: "{E6E33FA3-2659-4750-A1DD-EB8BDFC5F37B}"
+- ID: "961cadd8-8f7d-4b12-b0da-7af04b54b22d"
+  Hint: OpenGraphType
+  Value: website
 - ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
   Hint: __Workflow
   Value: "{FDD4D90D-F31D-453C-8924-5F85BD198470}"
+- ID: "b0f2f11d-f706-41da-81fe-88ebfacb3b53"
+  Hint: OpenGraphSiteName
+  Value: AiEnterprise Inc.
 - ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
   Hint: __Renderings
   Type: layout
@@ -160,12 +166,22 @@ Languages:
     - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
       Hint: MetaDescription
       Value: "Sitecore 9.x is the enterprise experience platform that’s powerful, intuitive and scalable Talk to us about upgrading today!"
+    - ID: "7bddc8b8-1f77-46d8-9d7f-46e20e041f74"
+      Hint: OpenGraphDescription
+      Value: Sitecore Upgrade
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: "Sitecore Upgrade- AiEnterprise Inc."
     - ID: "82f4bd76-0837-4e55-a1f6-15231096b2b9"
       Hint: Attributes
-      Value: "og:locale=en_US&og:type=article&og:title=Sitecore%20Upgrade-%20AiEnterprise%20Inc.&og:site_name=AiEnterprise%20Inc.&article:publisher=https%3A%2F%2Fwww.facebook.com%2Faienterpriseinc%2F&og:image=https%3A%2F%2Fwww.aienterprise.com%2F-%2Fmedia%2FProject%2FAIE%2FAIE-Corporate-Site%2FBlogs%2FThumbnails%2Fupgrade.png"
+      Value: 
     - ID: "bb6835c4-82af-4d11-9102-a61694c17055"
       Hint: Title
       Value: Sitecore Upgrade
+    - ID: "d8b38dd7-e9a0-4410-9f17-d436b0c8635a"
+      Hint: OpenGraphImageUrl
+      Value: |
+        <image mediaid="{1C185BE3-3139-4994-B9F1-E13B958F641C}" />
     - ID: "de457091-0989-414e-addf-59db0ddb6690"
       Hint: TwitterImage
       Value: |

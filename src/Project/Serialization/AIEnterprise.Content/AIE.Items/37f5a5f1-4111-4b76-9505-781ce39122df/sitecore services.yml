@@ -8,9 +8,15 @@ SharedFields:
 - ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
   Hint: Page Design
   Value: "{E6E33FA3-2659-4750-A1DD-EB8BDFC5F37B}"
+- ID: "961cadd8-8f7d-4b12-b0da-7af04b54b22d"
+  Hint: OpenGraphType
+  Value: website
 - ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
   Hint: __Workflow
   Value: 
+- ID: "b0f2f11d-f706-41da-81fe-88ebfacb3b53"
+  Hint: OpenGraphSiteName
+  Value: AiEnterprise Inc.
 - ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
   Hint: __Renderings
   Type: layout
@@ -208,9 +214,19 @@ Languages:
     - ID: "4f441595-f0b8-48fc-8f58-8ceda868003e"
       Hint: Content
       Value: 
+    - ID: "7bddc8b8-1f77-46d8-9d7f-46e20e041f74"
+      Hint: OpenGraphDescription
+      Value: SitecoreServices
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: "SitecoreServices - AiEnterprise Inc."
     - ID: "82f4bd76-0837-4e55-a1f6-15231096b2b9"
       Hint: Attributes
       Value: "og:locale=en_US&og:type=article&og:title=SitecoreServices%20-%20AiEnterprise%20Inc.&og:site_name=AiEnterprise%20Inc.&article:publisher=https%3A%2F%2Fwww.facebook.com%2Faienterpriseinc%2F&og:image"
     - ID: "bb6835c4-82af-4d11-9102-a61694c17055"
       Hint: Title
       Value: Sitecore Services
+    - ID: "d8b38dd7-e9a0-4410-9f17-d436b0c8635a"
+      Hint: OpenGraphImageUrl
+      Value: |
+        <image mediaid="{A58A8DC8-F825-405C-85C7-290FE3FE482C}" />

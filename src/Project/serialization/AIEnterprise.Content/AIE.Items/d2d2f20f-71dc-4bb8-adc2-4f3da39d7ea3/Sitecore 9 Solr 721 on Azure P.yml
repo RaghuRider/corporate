@@ -8,6 +8,9 @@ SharedFields:
 - ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
   Hint: Page Design
   Value: "{EFD43539-E06D-421D-A942-690BBE52BB30}"
+- ID: "961cadd8-8f7d-4b12-b0da-7af04b54b22d"
+  Hint: OpenGraphType
+  Value: website
 - ID: "97fb669d-5b8e-4829-9a24-06418c315d73"
   Hint: SxaTags
   Value: "{9D2639A7-93A6-42C0-BE76-4A8CE0BAABE8}"
@@ -17,6 +20,9 @@ SharedFields:
 - ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
   Hint: __Workflow
   Value: 
+- ID: "b0f2f11d-f706-41da-81fe-88ebfacb3b53"
+  Hint: OpenGraphSiteName
+  Value: AiEnterprise Inc.
 Languages:
 - Language: en
   Versions:
@@ -125,9 +131,15 @@ Languages:
     - ID: "62c4305f-4328-4126-a0c3-657315ad18e6"
       Hint: Blog Title
       Value: "Sitecore 9: Solr 7.2.1 on Azure PaaS"
+    - ID: "7bddc8b8-1f77-46d8-9d7f-46e20e041f74"
+      Hint: OpenGraphDescription
+      Value: As most of the Sitecore installations are moving towards Microsoft Azure, so I thought of getting one for myself. This is the first of the blog series on how to install Sitecore 9.1 on Microsoft Azure.
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: "Sitecore 9 Solr 721 on Azure PaaS - AiEnterprise Inc. Blogs"
     - ID: "82f4bd76-0837-4e55-a1f6-15231096b2b9"
       Hint: Attributes
-      Value: "og:locale=en_US&og:type=article&og:title=Sitecore%209%20Solr%20721%20on%20Azure%20PaaS%20-%20AiEnterprise%20Inc.%20Blogs&og:site_name=AiEnterprise%20Inc.&og:image=http%3A%2F%2Fdev.aienterprise.com%2F-%2Fmedia%2FProject%2FAIE%2FAIE%20Corporate%20Site%2FBlogs%2FBanner%20Images%2FSmapleBanner.jpg"
+      Value: 
     - ID: "9e2ad13b-6212-4baf-b391-af5f6ca84fe9"
       Hint: Blog Image
       Value: |
@@ -146,3 +158,7 @@ Languages:
     - ID: "d48a736f-3a15-4c91-b8f3-47fbc248b441"
       Hint: PublishedOn
       Value: 20190726T100113Z
+    - ID: "d8b38dd7-e9a0-4410-9f17-d436b0c8635a"
+      Hint: OpenGraphImageUrl
+      Value: |
+        <image mediaid="{CA85C0F7-D3E8-4364-A007-34EA86FE871D}" />
