@@ -1,0 +1,24 @@
+﻿---
+ID: "b06e570b-68fa-4123-8064-debe36243c32"
+Parent: "c7e0e631-dbb6-4823-b235-4f7ea09c196d"
+Template: "754135be-facf-4d2e-b58d-910a4c24d5d2"
+Path: /sitecore/content/AIE/AIE Corporate Site/Data/AIE/Blog Authors/Sitecore/Raghu Raj T
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190726T124905Z
+    - ID: "33959c95-fa15-45b2-a460-297cdca143b1"
+      Hint: Email
+      Value: rraj@aienterprise.com
+    - ID: "590ff436-4036-4668-ac3e-a5b5e0fcc0d0"
+      Hint: Pic
+      Value: |
+        <image mediaid="{8F97C8D3-2FBA-48D2-927B-FF75FC113B3A}" />
+    - ID: "b158852c-938a-4d12-9e76-a998db1600ec"
+      Hint: Name
+      Value: Raghu Raj T

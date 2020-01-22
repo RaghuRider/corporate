@@ -63,7 +63,7 @@ Languages:
               p:after="r[@uid='{F1855FD1-AC13-44EF-8155-E5EDAD9D00D2}']"
               s:ds="{C4D49C11-BEBF-43FB-94CD-C5D2414CE3EA}"
               s:id="{FAE0D244-55C1-4F1B-8ED5-590C9F131CEE}"
-              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;SearchSignature&amp;FieldNames=%7B42DBDC99-9016-477F-9BF3-8E301167D21E%7D&amp;Styles&amp;Reset Caching Options&amp;Scope=%7B799DEE60-56B3-4341-ACD0-DDBA4D5ABF49%7D&amp;PageSize&amp;DefaultLanguageFilter&amp;DefaultSortOrder=%7B826DB025-B5EA-4228-99E8-1B2D155C5421%7D&amp;AutoFireSearchWhenNoCriteriaSet=1&amp;RenderingIdentifier&amp;DynamicPlaceholderId=5"
+              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;SearchSignature=search&amp;FieldNames=%7B42DBDC99-9016-477F-9BF3-8E301167D21E%7D&amp;Styles&amp;Reset Caching Options&amp;Scope=%7B799DEE60-56B3-4341-ACD0-DDBA4D5ABF49%7D&amp;PageSize=30&amp;DefaultLanguageFilter=%7B04C9B082-DE71-4035-8D16-737BF024FDE6%7D&amp;DefaultSortOrder=%7B826DB025-B5EA-4228-99E8-1B2D155C5421%7D&amp;AutoFireSearchWhenNoCriteriaSet=1&amp;RenderingIdentifier&amp;DynamicPlaceholderId=5"
               s:ph="main" />
             <r
               uid="{1A575E41-AB02-47B9-956D-FA1F2F3A55EA}"
@@ -77,7 +77,7 @@ Languages:
               p:after="*[1=2]"
               s:ds="{C4D49C11-BEBF-43FB-94CD-C5D2414CE3EA}"
               s:id="{FAE0D244-55C1-4F1B-8ED5-590C9F131CEE}"
-              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;SearchSignature&amp;FieldNames=%7B42DBDC99-9016-477F-9BF3-8E301167D21E%7D&amp;Styles&amp;Reset Caching Options&amp;Scope=%7B799DEE60-56B3-4341-ACD0-DDBA4D5ABF49%7D&amp;PageSize=5&amp;DefaultLanguageFilter&amp;DefaultSortOrder=%7B826DB025-B5EA-4228-99E8-1B2D155C5421%7D&amp;AutoFireSearchWhenNoCriteriaSet=1&amp;RenderingIdentifier&amp;DynamicPlaceholderId=1"
+              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;SearchSignature=search&amp;FieldNames=%7B42DBDC99-9016-477F-9BF3-8E301167D21E%7D&amp;Styles&amp;Reset Caching Options&amp;Scope=%7B799DEE60-56B3-4341-ACD0-DDBA4D5ABF49%7D&amp;PageSize=5&amp;DefaultLanguageFilter=%7B454E70DB-4ED7-4AAF-89B0-A4BB67DA5835%7D&amp;DefaultSortOrder=%7B826DB025-B5EA-4228-99E8-1B2D155C5421%7D&amp;AutoFireSearchWhenNoCriteriaSet=1&amp;RenderingIdentifier&amp;DynamicPlaceholderId=1"
               s:ph="/main/sxa-blog-base/container-7" />
           </d>
         </r>
