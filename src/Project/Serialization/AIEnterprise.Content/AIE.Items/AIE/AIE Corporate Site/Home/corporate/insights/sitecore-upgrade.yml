@@ -168,7 +168,9 @@ Languages:
       Value: "Sitecore 9.x is the enterprise experience platform that’s powerful, intuitive and scalable Talk to us about upgrading today!"
     - ID: "7bddc8b8-1f77-46d8-9d7f-46e20e041f74"
       Hint: OpenGraphDescription
-      Value: Sitecore Upgrade
+      Value: |
+        Sitecore 9.x is the enterprise experience platform that's powerful, intuitive and scalable.
+        
     - ID: "7d988161-3991-465a-a88c-280bc65542a0"
       Hint: OpenGraphTitle
       Value: "Sitecore Upgrade- AiEnterprise Inc."

@@ -130,7 +130,7 @@ Languages:
               p:after="r[@uid='{993ED2E5-144F-42E5-A63D-0F9E09355776}']"
               s:ds=""
               s:id="{896A2C68-1362-4E88-8BA0-1805AE6D4837}"
-              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;BackgroundImage=%3Cimage%20mediaid%3D%22%7B5A0CAA02-D011-43D9-9BEC-7EC7AA2AD6AC%7D%22%20%2F%3E&amp;Styles=%7BD874F1FF-8E9C-45CA-B29C-DC151E22A0C3%7D&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=1"
+              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;BackgroundImage=%3Cimage%20mediaid%3D%22%7B5A0CAA02-D011-43D9-9BEC-7EC7AA2AD6AC%7D%22%20%2F%3E&amp;Styles=%7BB3718CEA-39A3-44C4-B45F-2041578C129C%7D%7C%7BD874F1FF-8E9C-45CA-B29C-DC151E22A0C3%7D&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=1"
               s:ph="main" />
             <r
               uid="{CD175B7B-6095-4864-ADC1-F7488287F3DA}"
