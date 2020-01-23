@@ -30,7 +30,7 @@ Languages:
       Value: Sitecore is a leading digital experience CMS platform software product. The Sitecore team is continuously working on improving the product by adding new functionalities, features, bug fixes and incorporates latest technologies. Whenever new features are introduced, Sitecore releases a new product version (Sitecore product started with version 5.x and currently it is 9.3). 
     - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
       Hint: __Workflow state
-      Value: "{782EAD6C-A13F-4488-A798-4F67006EAA4C}"
+      Value: "{793F8726-0F56-4F90-B5C4-7D1AE105E043}"
     - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
       Hint: NavigationTitle
       Value: All about Sitecore Upgrade
@@ -44,59 +44,57 @@ Languages:
         <p style="background: white; margin-bottom: 0.0001pt;"><span style="color: black;">&nbsp; &nbsp; &nbsp; &nbsp; 3. Sitecore Upgrad</span><span class="Bold" unselectable="on"><a title="Bold" class="reTool" href="/EditorPage.aspx?da=core&amp;id=%7B037252FD-BD49-4107-A49B-A02EF359C784%7D&amp;ed=FIELD87245004&amp;vs&amp;la=en&amp;fld=%7B4F441595-F0B8-48FC-8F58-8CEDA868003E%7D&amp;so=%2Fsitecore%2Fsystem%2FSettings%2FHtml%20Editor%20Profiles%2FRich%20Text%20XA&amp;di=0&amp;hdl=H87245275&amp;mo&amp;pe=0&amp;fbd=1#" unselectable="on"></a></span><span style="color: black;">e steps</span></p>
         <p style="background: white; margin-bottom: 0.0001pt;"><span style="color: black;">&nbsp; &nbsp; &nbsp; &nbsp; 4.</span><span style="color: black;"></span><span style="color: black;">Sitecore Upgrade considerations for higher environments</span></p>
         <p style="background: white; margin-bottom: 0.0001pt;"><span style="color: black;">&nbsp; &nbsp; &nbsp; &nbsp; 5. Possible Challenges</span></p>
-        <p style="background: white; margin-bottom: 0.0001pt;"><span style="color: black;">&nbsp;</span></p>
-        <p style="background: white; margin-bottom: 0.0001pt;"><span style="color: black;"><strong>&nbsp; &nbsp; &nbsp;1.&nbsp;What is Sitecore Upgrade and Why it is needed?</strong></span></p>
-        <p style="background: white; margin-bottom: 0.0001pt; text-align: justify;"><span style="color: black;"><span style="white-space: pre;">	</span>Sitecore is a leading digital experience CMS platform software product. The Sitecore team is continuously working on improving the product by adding new functionalities, features, <span style="white-space: pre;">	</span>bug&nbsp; fixes and incorporates latest technologies. Whenever new features are introduced, Sitecore releases a new product version (Sitecore product started with version 5.x and <span style="white-space: pre;">	</span>currently it is&nbsp; 9.3). When new version of the product is released, it stops supporting the old versions after the support expiry date (</span><span style="color: black;"><a href="https://kb.sitecore.net/articles/641167"><span style="color: #729c0b;">https://kb.sitecore.net/articles/641167</span></a></span><span style="color: black;">) and <span style="white-space: pre;">	</span>recommends to upgrade <span style="white-space: pre;">	</span>the product to new version by providing&nbsp;<strong>upgrade packages</strong>&nbsp;and&nbsp;<strong>upgrade steps</strong>.</span></p>
-        <p style="background: white; margin-bottom: 0.0001pt; text-align: justify;"><span style="color: black;"><span style="white-space: pre;">	</span>In order to use new features and better version of Sitecore product, it is necessary to upgrade the existing Sitecore applications to newer versions.</span></p>
-        <p style="background: white; margin-bottom: 0.0001pt;"><strong><span style="white-space: pre; color: black;">     </span></strong><span style="color: black;">2. Sitecore Upgrade considerations</span></p>
-        <p style="color: black; background: white;"><span><span style="white-space: pre;">	</span>a. Discover the existing site</span></p>
-        <ul style="margin-left: 40px;">
-            <li style="background: white; margin-bottom: 0.0001pt;"><span style="color: black;">Identify the&nbsp;<strong>Sitecore Modules</strong>&nbsp;(Custom/MarketPlace) (Ex. WFFM, EXM, URL-Rewrite, PowerShell Extensions etc.) that are currently being used.</span></li>
-            <li style="background: white; margin-bottom: 0.0001pt;"><span style="color: black;">Identify the&nbsp;<strong>Sitecore customizations</strong>&nbsp;(Commands, pipelines, events, scheduled jobs etc.)</span></li>
-            <li style="background: white; margin-bottom: 0.0001pt;"><span style="color: black;">Identify&nbsp;<strong>Third Party Integrations</strong>&nbsp;(CRM integrations, DAM integrations etc.)</span></li>
-            <li style="background: white; margin-bottom: 0.0001pt;"><span style="color: black;">Identify the&nbsp;<strong>Third-party Libraries/NuGet packages</strong>&nbsp;being used in the solution. (ex. DI container, Glassmapper etc)</span></li>
-            <li style="background: white; margin-bottom: 0.0001pt;"><span style="color: black;">Identify the&nbsp;<strong>Sitecore hot fixes</strong>&nbsp;libraries.</span></li>
-            <li style="background: white; margin-bottom: 0.0001pt;"><span style="color: black;">Identify the&nbsp;<strong>patch config</strong>&nbsp;files. (patch files / direct file update)</span></li>
-            <li style="background: white; margin-bottom: 0.0001pt;"><span style="color: black;">Identify the obsolete&nbsp;<strong>Sitecore API&rsquo;s and services</strong>.</span></li>
-            <li style="background: white; margin-bottom: 0.0001pt;"><span style="color: black;">Identify the&nbsp;<strong>Caching, Search providers</strong>&nbsp;(Solr, lucene, Coveo), Dependency Injection, Session management techniques being used.</span></li>
-            <li style="background: white; margin-bottom: 0.0001pt;"><span style="color: black;">Identify the extent of&nbsp;<strong>DMS/xDB usage</strong>&nbsp;and&nbsp;<strong>marketing features</strong>.</span></li>
-        </ul>
-        <p style="background: white; margin-bottom: 0.0001pt;"><span style="color: black;"><span style="white-space: pre;">	</span><strong>b.&nbsp;</strong></span><strong><span style="color: black;"><strong>Discover the compatible/alternate solutions available for the site discovery points with respect to new Sitecore version</strong></span></strong></p>
+        <p style="background: white; margin-bottom: 0.0001pt;"><strong style="color: black;">&nbsp; &nbsp; &nbsp;1.&nbsp;What is Sitecore Upgrade and Why it is needed?</strong></p>
+        <p style="background: white; margin-bottom: 0.0001pt; text-align: justify; margin-left: 40px;"><span style="color: black;"><span style="white-space: pre;">		</span>Sitecore is a leading digital experience CMS platform software product. The Sitecore team is continuously working on improving the product by adding new functionalities, features, <span style="white-space: pre;">	</span>bug&nbsp; fixes and incorporates latest technologies. Whenever new features are introduced, Sitecore releases a new product version (Sitecore product started with version 5.x and currently it is&nbsp; 9.3). When new version of the product is released, it stops supporting the old versions after the support expiry date (</span><span style="color: black;"><a href="https://kb.sitecore.net/articles/641167"><span style="color: #729c0b;">https://kb.sitecore.net/articles/641167</span></a></span><span style="color: black;">) and recommends to upgrade <span style="white-space: pre;">	</span>the product to new version by providing&nbsp;<strong>upgrade packages</strong>&nbsp;and&nbsp;<strong>upgrade steps</strong>.&nbsp;</span><span style="color: black;">In order to use new features and better version of Sitecore product, it is necessary to upgrade the existing Sitecore applications to newer versions.</span></p>
+        <p style="background: white; margin-bottom: 0.0001pt;"><strong><span style="white-space: pre; color: black;">     </span></strong><span style="color: black;"><strong>2. Sitecore Upgrade considerations</strong></span></p>
+        <p style="background: white; margin-bottom: 0.0001pt;"><span style="color: black;"><strong><strong><span style="white-space: pre;">		</span>a.&nbsp;</strong><strong><strong style="color: #000000; background-color: #ffffff;">Discover the existing site</strong></strong></strong></span></p>
         <ul>
+            <li style="background: white; margin-bottom: 0.0001pt; margin-left: 80px;"><span style="color: #000000;">Identify the&nbsp;</span><strong style="color: black;">Sitecore Modules</strong><span style="color: #000000;">&nbsp;(Custom/MarketPlace) (Ex. WFFM, EXM, URL-Rewrite, Power-Shell&nbsp;Extensions etc.) that are currently being used.</span></li>
+            <li style="background: white; margin-bottom: 0.0001pt; margin-left: 80px;"><span style="color: #000000;">Identify the&nbsp;</span><strong style="color: black;">Sitecore&nbsp;</strong><span style="color: #000000;"><strong>customization</strong>&nbsp;(Commands, pipelines, events, scheduled jobs etc.)</span></li>
+            <li style="background: white; margin-bottom: 0.0001pt; margin-left: 80px;"><span style="color: black;">Identify&nbsp;<strong>Third Party Integrations</strong>&nbsp;(CRM integrations, DAM integrations etc.)</span></li>
+            <li style="background: white; margin-bottom: 0.0001pt; margin-left: 80px;"><span style="color: black;">Identify the&nbsp;<strong>Third-party Libraries/NuGet packages</strong>&nbsp;being used in the solution. (ex. DI container, Glassmapper etc)</span></li>
+            <li style="background: white; margin-bottom: 0.0001pt; margin-left: 80px;"><span style="color: black;">Identify the&nbsp;<strong>Sitecore hot fixes</strong>&nbsp;libraries.</span></li>
+            <li style="background: white; margin-bottom: 0.0001pt; margin-left: 80px;"><span style="color: black;">Identify the&nbsp;<strong>patch config</strong>&nbsp;files. (patch files / direct file update)</span></li>
+            <li style="background: white; margin-bottom: 0.0001pt; margin-left: 80px;"><span style="color: black;">Identify the obsolete&nbsp;<strong>Sitecore API&rsquo;s and services</strong>.</span></li>
+            <li style="background: white; margin-bottom: 0.0001pt; margin-left: 80px;"><span style="color: black;">Identify the&nbsp;<strong>Caching, Search providers</strong>&nbsp;(Solr, lucene, Coveo), Dependency Injection, Session management techniques being used.</span></li>
+            <li style="background: white; margin-bottom: 0.0001pt; margin-left: 80px;"><span style="color: black;">Identify the extent of&nbsp;<strong>DMS/xDB usage</strong>&nbsp;and&nbsp;<strong>marketing features</strong>.</span></li>
+        </ul>
+        <p style="background: white; margin-bottom: 0.0001pt;"><span style="color: black;"><span style="white-space: pre;">		</span><strong>b.&nbsp;</strong></span><strong><span style="color: black;"><strong>Discover the compatible/alternate solutions available for the site discovery points with respect to new Sitecore version</strong></span></strong></p>
+        <ul style="margin-left: 40px;">
             <li style="background: white; margin-bottom: 0.0001pt; margin-left: 40px;"><span style="color: black;">Make sure compatible Sitecore modules are available with the new Sitecore version.</span></li>
             <li style="background: white; margin-bottom: 0.0001pt; margin-left: 40px;"><span style="color: black;">Make sure compatible versions of Third-party Libraries/NuGet packages are available with respect to new Sitecore version.</span></li>
             <li style="background: white; margin-bottom: 0.0001pt; margin-left: 40px;"><span style="color: black;">Make sure the Sitecore hotfixes in the existing solution are addressed in the new version.</span></li>
             <li style="background: white; margin-bottom: 0.0001pt; margin-left: 40px;"><span style="color: black;">Make sure compatible/alternative solutions available for Caching, Search platform, DI, Session Management etc.</span></li>
             <li style="background: white; margin-bottom: 0.0001pt; margin-left: 40px;"><span style="color: black;">Make sure compatible/alternate features available for existing marketing features.</span></li>
         </ul>
-        <p style="color: black; background: white;"><span><strong><span style="white-space: pre;">	</span>c. Identify the infrastructural needs for new Sitecore version&nbsp; &nbsp;</strong></span><strong><span>(</span><a href="https://kb.sitecore.net/articles/087164"><span style="color: #729c0b;">https://kb.sitecore.net/articles/087164</span></a><span>)</span></strong></p>
-        <ul style="margin-left: 40px;">
-            <li style="background: white; margin-bottom: 0.0001pt;"><span style="color: black;">OS (Windows 10, Windows 2014 SP2 or Windows 2016 SP1)</span></li>
-            <li style="background: white; margin-bottom: 0.0001pt;"><span style="color: black;">Visual Studio 2017</span></li>
-            <li style="background: white; margin-bottom: 0.0001pt;"><span style="color: black;">.Net Framework 4.7.2</span></li>
-            <li style="background: white; margin-bottom: 0.0001pt;"><span style="color: black;">Microsoft SQL Server 2014 SP2 /SQL Server 2014 SP1 / MS Azure SQL</span></li>
-            <li style="background: white; margin-bottom: 0.0001pt;"><span style="color: black;">IIS10</span></li>
+        <p style="background: white; margin-bottom: 0.0001pt;"><strong style="color: #000000;"><span style="white-space: pre;">		</span>c. <strong>Identify the infrastructural needs for new Sitecore version&nbsp; &nbsp;</strong><strong>(<a href="https://kb.sitecore.net/articles/087164">https://kb.sitecore.net/articles/087164</a>)</strong></strong></p>
+        <ul>
+            <li style="color: black; background: white; margin-left: 80px;">OS (Windows 10, Windows 2014 SP2 or Windows 2016 SP1)</li>
+            <li style="background: white; margin-bottom: 0.0001pt; margin-left: 80px;"><span style="color: black;">Visual Studio 2017</span></li>
+            <li style="background: white; margin-bottom: 0.0001pt; margin-left: 80px;"><span style="color: black;">.Net Framework 4.7.2</span></li>
+            <li style="background: white; margin-bottom: 0.0001pt; margin-left: 80px;"><span style="color: black;">Microsoft SQL Server 2014 SP2 /SQL Server 2014 SP1 / MS Azure SQL</span></li>
+            <li style="background: white; margin-bottom: 0.0001pt; margin-left: 80px;"><span style="color: black;">IIS10</span></li>
         </ul>
-        <p style="color: black; background: white;"><strong><span><span style="white-space: pre;">	</span>d. Identify the Sitecore environments to be upgraded - Dev, QA, UAT, Prod</span></strong></p>
-        <p style="color: black; background: white;"><strong><span><span style="white-space: pre;">	</span>e.</span></strong><strong>Download the necessary assets required for the upgrade</strong></p>
-        <ul style="margin-left: 40px;">
-            <li style="background: white; margin-bottom: 0.0001pt;"><span style="color: black;">Upgrade packages/files</span></li>
+        <p style="background: white; margin-bottom: 0.0001pt;"><span style="color: black;"><strong style="color: #000000; background-color: #ffffff;"><span style="white-space: pre;">		</span>d.&nbsp;<strong>Identify&nbsp;<strong style="color: #000000; background-color: #ffffff;"><strong>the Sitecore environments to be upgraded - Dev, QA, UAT, Prod</strong></strong></strong></strong></span></p>
+        <p style="background: white; margin-bottom: 0.0001pt;"><span style="color: black;"><strong style="color: #000000; background-color: #ffffff;"><strong><strong style="color: #000000; background-color: #ffffff;"><strong><span style="white-space: pre;">		</span>e.&nbsp;<strong style="color: #000000; background-color: #ffffff;"><strong><strong>Download the necessary assets required for the upgrade</strong></strong></strong></strong></strong></strong></strong></span></p>
+        <ul style="margin-left: 80px;">
+            <li><span style="background-color: white; color: black;">Upgrade packages/files</span></li>
             <li style="background: white; margin-bottom: 0.0001pt;"><span style="color: black;"></span><span style="color: black;">Upgrade documents</span></li>
-            <li style="background: white; margin-bottom: 0.0001pt;"><span style="color: black;">Migration Tools (<strong>Express Migration Tool, xDB Migration Tool</strong>)&nbsp;</span><strong><span style="color: black;"></span></strong></li>
+            <li style="background: white; margin-bottom: 0.0001pt;"><span style="color: black;">Migration Tools (<strong>Express Migration Tool, xDB Migration Tool</strong>)&nbsp;</span></li>
         </ul>
-        <p style="background: white; margin-bottom: 0.0001pt; margin-left: 40px;"><strong><span style="color: black;">Express Migration Tool:</span></strong><span style="color: black;">&nbsp;Migrates Sitecore 6.6,7.2, 7.5 or 8.0 to the latest version of Sitecore&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </span></p>
-        <p style="background: white; margin-bottom: 0.0001pt; margin-left: 40px;"><span style="color: black;">&nbsp;<span style="white-space: pre;">	</span>Experience Platform migrates:</span></p>
+        <p style="background: white; margin-bottom: 0.0001pt; margin-left: 40px;"><strong><span style="color: black;">Express Migration Tool:</span></strong><span style="color: black;">&nbsp;Migrates Sitecore 6.6,7.2, 7.5 or 8.0 to the latest version of Sitecore&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span></p>
+        <p style="background: white; margin-bottom: 0.0001pt; margin-left: 40px;"><span style="color: black;"><strong>Experience Platform migrates:</strong></span></p>
         <ul style="margin-left: 80px;">
             <li style="background: white; margin-bottom: 0.0001pt;"><span style="color: black;">Content items and media</span></li>
             <li style="background: white; margin-bottom: 0.0001pt;"><span style="color: black;">All users, roles and security permissions</span></li>
             <li style="background: white; margin-bottom: 0.0001pt;"><span style="color: black;">Assists with configuration migrations</span></li>
             <li style="background: white; margin-bottom: 0.0001pt;"><span style="color: black;">WFFM items and data</span></li>
         </ul>
-        <p style="background: white; margin-bottom: 0.0001pt;"><strong><span style="color: black;">&nbsp; &nbsp; &nbsp;<span style="white-space: pre;">	</span>&nbsp; &nbsp; &nbsp; xDB&nbsp;Migration Tool:</span></strong><span style="color: black;">&nbsp;Migrates Sitecore 8.1 XDB data to Sitecore 9 XDB</span><strong><span style="color: black;"></span></strong></p>
-        <p style="background: white; margin-bottom: 0.0001pt;"><strong><span style="color: black;"><span style="white-space: pre;">	</span>&nbsp; &nbsp; &nbsp; DMS Analytics to&nbsp;xDB&nbsp;Migration:</span></strong><span style="color: black;">&nbsp; Set of conversion guidelines need to be followed, This is&nbsp; &nbsp;needed only for the sitecore upgrade with versions below 8.</span></p>
+        <p style="background: white; margin-bottom: 0.0001pt; text-align: justify; margin-left: 40px;"><strong><span style="color: black;">xDB&nbsp;Migration Tool:</span></strong><span style="color: black;">&nbsp;Migrates Sitecore 8.1 XDB data to Sitecore 9 XDB</span></p>
+        <p style="background: white; margin-bottom: 0.0001pt; text-align: justify; margin-left: 40px;"><strong><span style="color: black;">DMS Analytics to&nbsp;xDB&nbsp;Migration:</span></strong><span style="color: black;">&nbsp; Set of conversion guidelines need to be followed, This is&nbsp; &nbsp;needed only for the sitecore upgrade with versions below 8.</span></p>
         <p style="background: white; margin-bottom: 0.0001pt;"><strong><span style="color: black;">&nbsp; &nbsp; &nbsp; 3. Sitecore Upgrade Steps</span></strong></p>
         <p style="background: white; margin-bottom: 0.0001pt;"><span style="color: black;"><span style="white-space: pre;">	</span>&nbsp; The main steps involved in the Sitecore Upgrade are</span></p>
-        <ul style="margin-left: 40px;">
+        <ul style="margin-left: 80px;">
             <li style="background: white; margin-bottom: 0.0001pt;"><span style="color: black;">Infrastructure Upgrade</span></li>
             <li style="background: white; margin-bottom: 0.0001pt;"><span style="color: black;">Sitecore DB upgrade</span></li>
             <li style="background: white; margin-bottom: 0.0001pt;"><span style="color: black;">Upgrade Package installation</span></li>
@@ -104,9 +102,9 @@ Languages:
             <li style="background: white; margin-bottom: 0.0001pt;"><span style="color: black;">Sitecore Modules upgrade</span></li>
             <li style="background: white; margin-bottom: 0.0001pt;"><span style="color: black;">xDB data and Form data migration</span></li>
         </ul>
-        <p style="background: white; margin-bottom: 0.0001pt; margin-left: 40px;"><span style="color: black;"><img height="469" alt="Hosting" width="563" src="-/media/AF198FEB064D44E7B7B274D7C3F88253.ashx" /></span></p>
+        <p style="background: white; margin-bottom: 0.0001pt; margin-left: 200px;"><span style="color: black;"><img height="469" alt="Hosting" width="563" src="-/media/AF198FEB064D44E7B7B274D7C3F88253.ashx" /></span></p>
         <p style="background: white; margin-bottom: 0.0001pt;"><span style="color: black;"><strong><span style="color: black;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Upgrade steps on Developer environment</span></strong></span></p>
-        <ul style="margin-left: 40px;">
+        <ul style="margin-left: 80px;">
             <li style="background: white; margin-top: 0cm; margin-right: 0cm; margin-bottom: 0.0001pt;"><span style="color: black;">Upgrade the infrastructure</span></li>
             <li style="background: white; margin-top: 0cm; margin-right: 0cm; margin-bottom: 0.0001pt;"><span style="color: black;">Take back-up of current Sitecore instance</span></li>
             <li style="background: white; margin-top: 0cm; margin-right: 0cm; margin-bottom: 0.0001pt;"><span style="color: black;">Download and Keep all the Upgrade packages/files</span></li>
@@ -135,28 +133,28 @@ Languages:
         </ul>
         <p style="background: white; margin-bottom: 0.0001pt;"><strong><span style="color: black;">&nbsp; &nbsp; &nbsp; 4.&nbsp; Sitecore Upgrade considerations for higher environments</span></strong></p>
         <p style="background: white; margin-bottom: 0.0001pt;"><span style="color: black;"><span style="white-space: pre;">	</span>Once the upgrade is performed successfully on developer environment, we are ready with the followings</span></p>
-        <ul style="margin-left: 40px;">
-            <li style="color: black; background: white;"><span>Upgraded Sitecore project solution is ready and available in separate code branch.</span></li>
+        <ul style="margin-left: 80px;">
+            <li style="color: black; background: white;">Upgraded Sitecore project solution is ready and available in separate code branch.</li>
             <li style="color: black; background: white;">Exact steps need to be followed to run the upgrade on the higher Sitecore environments are known.</li>
             <li style="color: black; background: white;">Exact steps need to be followed for the xDB and Form data migration are known.</li>
         </ul>
         <p style="background: white; margin-bottom: 0.0001pt;"><span style="color: black;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;In case of&nbsp;<strong>QA</strong>&nbsp;and&nbsp;<strong>UAT</strong>&nbsp;environment upgrades, we can follow any of the below approaches.</span></p>
-        <ul style="margin-left: 40px;">
-            <li style="color: black; background: white;"><span>Perform the DB and package upgrade and deploy the upgraded code.</span></li>
+        <ul style="margin-left: 80px;">
+            <li style="background: white; margin-bottom: 0.0001pt;"><span style="color: black;"></span><span style="color: black;">Perform the DB and package upgrade and deploy the upgraded code.</span><br />
+            <p class="or-blog" style="background: white; margin-bottom: 0.0001pt;"><span style="font-weight: 1000; color: #da0000;"><sup>Or</sup></span></p>
+            </li>
         </ul>
-        <h1><strong><span style="white-space: pre;"><sup><sub>	</sub></sup></span></strong><span style="font-weight: bold;">Or</span></h1>
-        <ul style="margin-left: 40px;">
-            <li style="background: white;"><span style="color: black;">Restore the upgraded databases from the lower environments and deploy the code.</span></li>
-            <li style="background: white; margin-top: 0cm; margin-right: 0cm; margin-bottom: 0.0001pt;"><span style="color: black;">In case of&nbsp;<strong>Production</strong>&nbsp;upgrade, need to consider following points.</span><span style="color: black;"></span></li>
-            <li style="background: white;"><span style="color: black;">The upgrade must happen on the latest Sitecore databases</span></li>
-            <li style="background: white;"><span style="color: black;">Need to ensure zero downtime during upgrade.</span></li>
-            <li style="background: white;"><span style="color: black;">Need to enforce minimal content freeze for content authors</span></li>
-            <li style="background: white;"><span style="color: black;">Need to migrate complete xDB data</span></li>
-            <li style="background: white;"><span style="color: black;"></span><span style="color: black;">Need to have options for rollback to the older version of the site(s) in case of prod issues.</span></li>
+        <ul style="margin-left: 80px;">
+            <li style="background: white; margin-bottom: 0.0001pt;"><span style="color: black;">Restore the upgraded databases from the lower environments and deploy the code.</span></li>
+            <li style="background: white; margin-bottom: 0.0001pt;"><span style="color: black;">In case of Production upgrade, need to consider following points.</span></li>
+            <li style="background: white; margin-bottom: 0.0001pt;"><span style="color: black;">The upgrade must happen on the latest Sitecore databases</span></li>
+            <li style="background: white; margin-bottom: 0.0001pt;"><span style="color: black;">Need to ensure zero downtime during upgrade.</span></li>
+            <li style="background: white; margin-bottom: 0.0001pt;"><span style="color: black;">Need to enforce minimal content freeze for content authors</span></li>
+            <li style="background: white; margin-bottom: 0.0001pt;"><span style="color: black;">Need to migrate complete xDB data</span></li>
+            <li style="background: white; margin-bottom: 0.0001pt;"><span style="color: black;">Need to have options for rollback to the older version of the site(s) in case of prod issues.</span></li>
         </ul>
-        <p style="background: white; margin-bottom: 0.0001pt;"><strong><span style="color: black;">&nbsp;</span></strong></p>
-        <p style="background: white; margin-bottom: 0.0001pt;"><strong><span style="color: black;">&nbsp; &nbsp; &nbsp; 5. Possible Challenges</span></strong></p>
-        <ul style="list-style-type: disc; margin-left: 40px;">
+        <p style="background: white; margin-bottom: 0.0001pt;"><strong><span style="color: black;"> &nbsp; 5. Possible Challenges</span></strong></p>
+        <ul style="list-style-type: disc; margin-left: 80px;">
             <li><span style="color: black;">If any compatible version of the Sitecore marketplace modules are not available.</span></li>
             <li><span style="color: black;">If any Third-party Libraries are used and they are not upgraded to required version of .net framework.</span></li>
             <li><span style="color: black;">Migrating WFFM forms to Sitecore Forms (Sitecore 9.x does not support WFFM form)</span></li>
@@ -164,7 +162,7 @@ Languages:
             <li><span style="color: black;">Perform the Sitecore upgrade on production with zero downtime (it is possible with proper upgrade strategy)</span></li>
         </ul>
         <strong><span style="white-space: pre;"><sup><sub></sub></sup></span></strong>
-        <p style="background: white; margin-bottom: 0.0001pt;"><span style="color: black;">&nbsp; &nbsp; &nbsp; &nbsp; The sitecore upgrade steps and considerations mentioned above are general steps, might require additional steps based on application specific setup and implementations.</span></p>
+        <p style="background: white; margin-bottom: 0.0001pt; margin-left: 40px;"><span style="color: black;">The sitecore upgrade steps and considerations mentioned above are general steps, might require additional steps based on application specific setup and implementations.</span></p>
         <strong><span style="white-space: pre;"><sup><sub><br />
         </sub></sup></span></strong><br />
     - ID: "62c4305f-4328-4126-a0c3-657315ad18e6"
