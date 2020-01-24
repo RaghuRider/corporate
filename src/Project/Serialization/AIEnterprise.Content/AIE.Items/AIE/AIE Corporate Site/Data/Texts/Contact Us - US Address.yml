@@ -2,7 +2,7 @@
 ID: "8ce0e0c5-b08b-4a3f-a20e-b47a931c31e3"
 Parent: "bce7f746-c849-4592-b4ae-af55f5037aab"
 Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
-Path: /sitecore/content/AIE/AIE Corporate Site/Data/Texts/Contact Us Address
+Path: "/sitecore/content/AIE/AIE Corporate Site/Data/Texts/Contact Us - US Address"
 DB: master
 Languages:
 - Language: en
@@ -21,7 +21,7 @@ Languages:
       Value: |
         <div class="col-12 contactus">
         <div class="Contact-info">
-        <h2>Contact Information</h2>
+        <h2>Contact Information of USA Office</h2>
         </div>
         <div class="col-4 contactus-right">
         <div class="contacts-address">

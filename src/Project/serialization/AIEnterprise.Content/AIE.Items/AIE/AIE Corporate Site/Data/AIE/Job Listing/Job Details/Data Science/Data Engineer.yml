@@ -5,6 +5,9 @@ Template: "e58828f9-5b4c-477c-a414-1aad308fba5f"
 Path: /sitecore/content/AIE/AIE Corporate Site/Data/AIE/Job Listing/Job Details/Data Science/Data Engineer
 DB: master
 SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: 
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
   Value: 300
@@ -19,6 +22,9 @@ Languages:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20190626T131512Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
     - ID: "aa2242e8-e723-4914-b73b-3ab39bdb70e0"
       Hint: Exp Title
       Value: "Exp :"
@@ -48,7 +54,7 @@ Languages:
     - ID: "c5c8e313-007d-4456-870e-e4b11829720b"
       Hint: Technology Logo
       Value: |
-        <image mediaid="{BF83B9C4-DE53-47D4-B61B-144A6DFA52CE}" alt="sitecore" height="" width="" hspace="" vspace="" />
+        <image mediaid="{10E54124-544E-4552-A022-786A01E0DD0C}" alt="sitecore" height="" width="" hspace="" vspace="" />
     - ID: "c7aa4a32-7ab1-40fe-9698-d11d78bdbaba"
       Hint: Job Title
       Value: DATA ENGINEER

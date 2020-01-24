@@ -1,0 +1,51 @@
+﻿---
+ID: "aba9ebea-d196-41a8-bdd1-71076269abd8"
+Parent: "ef19bb95-88aa-4986-83e1-3541d61b1fab"
+Template: "e58828f9-5b4c-477c-a414-1aad308fba5f"
+Path: /sitecore/content/AIE/AIE Corporate Site/Data/AIE/Job Listing/Job Details/Java/Java 3Plus
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{FDD4D90D-F31D-453C-8924-5F85BD198470}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "16108162-879f-4846-bf88-a2fe3eebf35a"
+      Hint: Experience
+      Value: 3+ Years.
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200124T100541Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{013DD6E7-FF4C-410C-825B-FFFC20EAC95E}"
+    - ID: "b4836c11-2322-4a1d-a690-12911e25e9f6"
+      Hint: Job Description
+      Value: |
+        <div class="carrer-cont">
+        <ul>
+            <li>Experience designing, developing and deploying Microservices to either in-house or cloud architecture using SOA</li>
+            <li>Strong background in asynchronous patterns and multithreaded programming</li>
+            <li>Strong background with multi-threading, event-based software architecture</li>
+            <li>Strong experience with Spring and Front End Technologies (NodeJS, Zookeeper, etc)</li>
+            <li>Hands on Experience in web technologies (Spring MVC, JSP, HTML/DHTML, Web services, JavaScript &amp; NodeJS)</li>
+            <li>Proficiency in Core Java (JDK 8), J2EE, ANSI SQL, XML, Spring, Hibernate &amp; Rest services. </li>
+            <li>Strong Database concepts, both relational and NoSql (Mongo, Cassandra, Redis, etc)</li>
+            <li>Containerized development and deployment experience</li>
+            <li>Strong Problem solving and analytical skills (especially around the areas of performance, scalability on the above-mentioned technologies)</li>
+            <li>Strong Experience in eCommerce domain</li>
+        </ul>
+        </div>
+    - ID: "c5c8e313-007d-4456-870e-e4b11829720b"
+      Hint: Technology Logo
+      Value: |
+        <image mediaid="{4492B0A7-D1D0-4035-A518-6C499BF14790}" />
+    - ID: "c7aa4a32-7ab1-40fe-9698-d11d78bdbaba"
+      Hint: Job Title
+      Value: Java Developer
+    - ID: "ed666357-43a0-4097-a073-529892e4a4c9"
+      Hint: Location
+      Value: Bangalore

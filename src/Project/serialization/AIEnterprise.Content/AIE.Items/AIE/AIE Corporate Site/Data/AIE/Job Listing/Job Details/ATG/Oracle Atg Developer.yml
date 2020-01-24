@@ -5,6 +5,10 @@ Template: "e58828f9-5b4c-477c-a414-1aad308fba5f"
 Path: /sitecore/content/AIE/AIE Corporate Site/Data/AIE/Job Listing/Job Details/ATG/Oracle Atg Developer
 DB: master
 SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: "{E58828F9-5B4C-477C-A414-1AAD308FBA5F}"
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
   Value: 600

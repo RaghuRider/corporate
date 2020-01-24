@@ -1,0 +1,45 @@
+﻿---
+ID: "c368c1d4-d368-42e9-9de1-0d14f3c5c226"
+Parent: "bce7f746-c849-4592-b4ae-af55f5037aab"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: "/sitecore/content/AIE/AIE Corporate Site/Data/Texts/Contact Us- India Address"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190702T050118Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: |
+        <div class="col-12 contactus">
+        <div class="Contact-info">
+        <h2 class="india-address">Contact Information of India Office</h2>
+        </div>
+        <div class="col-4 contactus-right india">
+        <div class="contacts-address">
+        <ul class="contact-list india">
+            <li class="gem-contacts-item gem-contacts-address">Address :</li>
+            <li>Smartworks Sargod Imperial, </li>
+            <li>93, Field Marshal Cariappa Rd, </li>
+            <li>Shanthala Nagar,</li>
+            <li> Ashok Nagar, </li>
+            <li> Bengaluru, Karnataka 560025.</li>
+        </ul>
+        </div>
+        </div>
+        <div class="col-4 icon-cont-india">
+        <div class="gem-contacts-item gem-contacts-phone address-india">
+        <p>Phone:&nbsp; <a href="tel:+91 9108315095 ">+91 9108315095 </a></p>
+        </div>
+        </div>
+        <div class="col-4 contact-icon-india">
+        </div>
+        </div>

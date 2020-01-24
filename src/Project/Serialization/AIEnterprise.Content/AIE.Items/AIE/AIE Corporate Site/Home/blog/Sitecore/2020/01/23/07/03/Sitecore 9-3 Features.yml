@@ -78,8 +78,8 @@ Languages:
         <p class="_3f-vr _208Ie blog-post-title-font _6qah_ _3k7A1 _2QAo- _25MYV _3ZX8L _1dH_e" style="color: #000000; background-color: #ffffff; margin: 0px 0px 0px 40px; padding: 0px; border: 0px;"><span style="text-align: justify; color: #000000;">Sitecore is launching a SaaS digital experience management platform, which is expected to be released in April 2020. S</span><span style="text-align: justify; color: #000000;">itecore would provide the full Experience Platform hosted in Sitecore&rsquo;s Managed Cloud &ldquo;as a service&rdquo;. However, it appears to be a brand-new product focusing on content management with its foundation version.</span></p>
         <p class="_1BJwx _208Ie _1dH_e _1e3Rk _2j9wS _2QAo- _25MYV _3ZX8L _1dH_e" style="margin: 0px 0px 8px 160px; padding: 0px; border: 0px; list-style-type: disc; text-align: left;"><img alt="sitecore saas" src="-/media/0A9E8777509444D59FD4160685F9E103.ashx" /></p>
         <span style="white-space: pre;">	</span>
-        <h3 style="margin-left: 40px;">The new Developer Experience is in line with the JSS Headless approach and will support the use of ASP.NET Core as well as JavaScript.
-        </h3>
+        <h4 style="margin-left: 40px;">The new Developer Experience is in line with the JSS Headless approach and will support the use of ASP.NET Core as well as JavaScript.
+        </h4>
         <p class="_1BJwx _208Ie _1dH_e _1e3Rk _2j9wS _2QAo- _25MYV _3ZX8L _1dH_e" style="margin: 0px 0px 8px 160px; padding: 0px; border: 0px; list-style-type: disc; text-align: left;"><span style="background-color: #ffffff; color: #000000;"><img alt="saas headless" src="-/media/C8E87D65E49B453BB294D0A83C5F11A9.ashx" /></span></p>
         <h3 class="_3tkn1 _208Ie blog-post-title-font _1WM71 _2rIDJ _2QAo- _1iXso _1cvSD _1dH_e" style="color: #000000; background-color: #ffffff; margin: 0px 0px 0px 80px; padding: 0px; border: 0px; text-align: justify;">&nbsp;</h3>
         <h3 class="_3tkn1 _208Ie blog-post-title-font _1WM71 _2rIDJ _2QAo- _1iXso _1cvSD _1dH_e" style="color: #000000; background-color: #ffffff; margin: 0px 0px 0px 80px; padding: 0px; border: 0px; text-align: justify;">Benefits of Sitecore SAAS are:</h3>
@@ -109,32 +109,51 @@ Languages:
         <div class="carousel-blogs-sitecore">
         <div class="carousel-inner">
         <figure>
-        <img alt="horizon" src="-/media/Project/AIE/AIE-Corporate-Site/Blogs/Content/Sitecore/Sitecore-9-3-Features/horizon.jpg?la=en&amp;hash=D36B3B49673A67825AC930FC99F43D15" />
+        <div class="divClass">
+        <input type="checkbox" id="zoomCheck1" />
+        <label for="zoomCheck1">
+        <img class="blogimage-link" alt="horizon" src="-/media/Project/AIE/AIE-Corporate-Site/Blogs/Content/Sitecore/Sitecore-9-3-Features/horizon.jpg?la=en&amp;hash=D36B3B49673A67825AC930FC99F43D15&amp;hash=D36B3B49673A67825AC930FC99F43D15" />
         <figcaption style="font-size: 100%; line-height: 1.5; font-family: Verdana, Arial, sans-serif; margin: 0; padding: 0;">
         Horizon Editor
         </figcaption>
+        </label>
+        </div>
         </figure>
         <figure>
-        <img alt="horizon responsive" src="-/media/Project/AIE/AIE-Corporate-Site/Blogs/Content/Sitecore/Sitecore-9-3-Features/horizon-responsive.jpg?la=en&amp;hash=076C7B57DD51B9F41A861C0FCC350AFB" />
-        <figcaption style="font-size: 100%; line-height: 1.5; font-family: Verdana, Arial, sans-serif; margin: 0; padding: 0;">In-Built Responsive(Simulator)
-        </figcaption>
-        </figure>
-        <figure>
-        <img alt="horizon overview" src="-/media/Project/AIE/AIE-Corporate-Site/Blogs/Content/Sitecore/Sitecore-9-3-Features/horizon-overview.jpg?la=en&amp;hash=22C23796FA9AB685D1B37D07F5A05324" />
+        <div class="divClass">
+        <input type="checkbox" id="zoomCheck2" />
+        <label for="zoomCheck2">
+        <img class="blogimage-link" alt="horizon responsive" src="-/media/Project/AIE/AIE-Corporate-Site/Blogs/Content/Sitecore/Sitecore-9-3-Features/horizon-responsive.jpg?la=en&amp;hash=076C7B57DD51B9F41A861C0FCC350AFB&amp;hash=076C7B57DD51B9F41A861C0FCC350AFB" />
         <figcaption style="font-size: 100%; line-height: 1.5; font-family: Verdana, Arial, sans-serif; margin: 0; padding: 0;">
-        Horizon Overview<span style="background-color: #ffffff; text-align: justify; font-family: 'Open Sans', Arial, sans-serif; color: #000000;"></span></figcaption></figure></div>
+        Horizon Built-in Simulator(Responsive)
+        </figcaption>
+        </label>
+        </div>
+        </figure>
+        <figure>
+        <div class="divClass">
+        <input type="checkbox" id="zoomCheck3" />
+        <label for="zoomCheck3">
+        <img class="blogimage-link" alt="horizon overview" src="-/media/Project/AIE/AIE-Corporate-Site/Blogs/Content/Sitecore/Sitecore-9-3-Features/horizon-overview.jpg?la=en&amp;hash=22C23796FA9AB685D1B37D07F5A05324&amp;hash=22C23796FA9AB685D1B37D07F5A05324" />
+        <figcaption style="font-size: 100%; line-height: 1.5; font-family: Verdana, Arial, sans-serif; margin: 0; padding: 0;">
+        Horizon Overview
+        </figcaption>
+        </label>
+        </div>
+        </figure>
+        </div>
         </div>
         </section>
         <h2 class="_3f-vr _208Ie blog-post-title-font _6qah_ _3k7A1 _2QAo- _25MYV _3ZX8L _1dH_e" style="color: #000000; background-color: #ffffff; margin: 0px; padding: 0px; border: 0px;"><span style="margin: 0px; padding: 0px; border: 0px;"><strong>4. Sitecore 9.3 Forms</strong></span></h2>
         <div class="container">
         <div class="row">
         <div class="col-9-forms">
-        <ul style="margin-left: 40px;" class="auto-personalization;">
+        <ul style="margin-left: 40px;">
             <li style="margin-right: 0px; margin-left: 0px; padding: 0px; border: 0px;">You can now publish a form from the&nbsp;forms dashboard.</li>
             <li style="margin-right: 0px; margin-left: 0px; padding: 0px; border: 0px;">To add file upload functionality to your forms,</li>
             <li style="margin-right: 0px; margin-left: 0px; padding: 0px; border: 0px;">you can now use the&nbsp;File upload forms element.</li>
             <li style="margin-right: 0px; margin-left: 0px; padding: 0px; border: 0px;">Introducing Sitecore.Context.PageMode.IsExploring</li>
-            <li style="margin-right: 0px; margin-left: 0px; padding: 0px; border: 0px;">You can now use the Sitecore bot detection functionality to verify whether visitor is human.This removed the need for a Captcha element</li>
+            <li style="margin-right: 0px; margin-left: 0px; padding: 0px; border: 0px;">You can now use the Sitecore bot detection functionality to verify whether visitor is human.</li>
             <li style="margin-right: 0px; margin-left: 0px; padding: 0px; border: 0px;">xConnect Improvements</li>
         </ul>
         <p style="margin-right: 0px; margin-left: 0px; padding: 0px; border: 0px;">&nbsp;</p>

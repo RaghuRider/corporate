@@ -1,0 +1,49 @@
+﻿---
+ID: "bb6f2700-f45d-4d46-a609-cc5e8db3ac33"
+Parent: "d0748d77-17f2-47c6-826e-c7e4d572c19f"
+Template: "e58828f9-5b4c-477c-a414-1aad308fba5f"
+Path: /sitecore/content/AIE/AIE Corporate Site/Data/AIE/Job Listing/Job Details/Frontend/React 2plus
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{FDD4D90D-F31D-453C-8924-5F85BD198470}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "16108162-879f-4846-bf88-a2fe3eebf35a"
+      Hint: Experience
+      Value: 2+ Years.
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200124T093316Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{013DD6E7-FF4C-410C-825B-FFFC20EAC95E}"
+    - ID: "b4836c11-2322-4a1d-a690-12911e25e9f6"
+      Hint: Job Description
+      Value: |
+        <div class="carrer-cont">
+        <ul>
+            <li>Strong JavaScript concepts </li>
+            <li>2+ years&rsquo; experience building responsive, single page web applications using modern React</li>
+            <li>2+ years&rsquo; experience in creating and/or consuming RESTful web services</li>
+            <li>Experience with popular React.js workflows (such as Flux or Redux)</li>
+            <li>Experience with data structure and utility libraries (e.g., Immutable.js , lodash and underscore)</li>
+            <li>Experience with common front-end development tools such as Babel, Webpack, NPM, etc.</li>
+            <li>At least 1 year experience in GraphQL</li>
+            <li>Nice to have experience of React Native</li>
+        </ul>
+        </div>
+    - ID: "c5c8e313-007d-4456-870e-e4b11829720b"
+      Hint: Technology Logo
+      Value: |
+        <image mediaid="{BF223308-705A-4448-B370-D30C65291FE2}" />
+    - ID: "c7aa4a32-7ab1-40fe-9698-d11d78bdbaba"
+      Hint: Job Title
+      Value: React/Node Developer
+    - ID: "ed666357-43a0-4097-a073-529892e4a4c9"
+      Hint: Location
+      Value: Bangalore

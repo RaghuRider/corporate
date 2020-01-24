@@ -1,0 +1,43 @@
+﻿---
+ID: "af86c3ae-8c1c-48e1-bfa0-5bd5034efdfc"
+Parent: "b396fa58-8169-49ef-a1ae-76cb397fed7a"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/Project/AIE/AIE Corporate Site/Careers/Job listing/micro-services"
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/AF86C3AE8C1C48E1BFA05BD5034EFDFC.ashx?h=16&thn=1&w=16"
+- ID: "22eac599-f13b-4607-a89d-c091763a467d"
+  Hint: Width
+  Value: 150
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "36e1bc3a-3389-449f-8d0d-357fdd2bbead"
+  Value: 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
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 1993
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/png
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: png
+- ID: "cb09946f-3218-4823-87d2-d5007c199a96"
+  Hint: Dimensions
+  Value: 190 x 22
+- ID: "de2ca9e4-c117-4c8a-a139-1ff4b199d15a"
+  Hint: Height
+  Value: 44
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200124T110011Z
+    - ID: "65885c44-8fcd-4a7f-94f1-ee63703fe193"
+      Hint: Alt
+      Value: "micro-services"
