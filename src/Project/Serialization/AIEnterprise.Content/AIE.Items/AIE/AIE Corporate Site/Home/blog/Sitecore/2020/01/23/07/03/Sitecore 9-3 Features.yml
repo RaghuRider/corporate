@@ -31,80 +31,85 @@ Languages:
     - ID: "4f441595-f0b8-48fc-8f58-8ceda868003e"
       Hint: Content
       Value: |
-        <h2 style="color: #000000; background-color: #ffffff; margin-top: 0px; margin-right: 0px; padding: 0px; border: 0px;">I Highlight a few Features :</h2>
-        <ul style="margin-left: 40px;">
-            <li class="_208Ie" style="margin-right: 0px; margin-left: 0px; padding: 0px; border: 0px;">Sitecore AI</li>
-            <li class="_1BJwx _208Ie _1dH_e _1e3Rk _2j9wS _2QAo- _25MYV _3ZX8L _1dH_e" style="margin: 0px; padding: 0px; border: 0px; list-style-type: disc; text-align: left;">
+        <p style="background: white; margin-bottom: 0.0001pt;"><strong style="color: black;font-size: 20px;">This blog highlights a few features of Sitecore 9.3:</strong></p>
+        <ul style="margin-left: 20px;
+            ;">
+            <li class="_208Ie">Sitecore AI</li>
+            <li class="_1BJwx _208Ie _1dH_e _1e3Rk _2j9wS _2QAo- _25MYV _3ZX8L _1dH_e">
             <p class="_208Ie" style="margin-right: 0px; margin-left: 0px; padding: 0px; border: 0px;">Sitecore SaaS </p>
             </li>
-            <li class="_1BJwx _208Ie _1dH_e _1e3Rk _2j9wS _2QAo- _25MYV _3ZX8L _1dH_e" style="margin: 0px; padding: 0px; border: 0px; list-style-type: disc; text-align: left;">
+            <li class="_1BJwx _208Ie _1dH_e _1e3Rk _2j9wS _2QAo- _25MYV _3ZX8L _1dH_e">
             <p class="_208Ie" style="margin-right: 0px; margin-left: 0px; padding: 0px; border: 0px;">Horizon</p>
             </li>
-            <li class="_1BJwx _208Ie _1dH_e _1e3Rk _2j9wS _2QAo- _25MYV _3ZX8L _1dH_e" style="margin: 0px; padding: 0px; border: 0px; list-style-type: disc; text-align: left;">
+            <li class="_1BJwx _208Ie _1dH_e _1e3Rk _2j9wS _2QAo- _25MYV _3ZX8L _1dH_e">
             <p class="_208Ie" style="margin-right: 0px; margin-left: 0px; padding: 0px; border: 0px;">Sitecore Forms Updated Few Fields</p>
             </li>
-            <li class="_1BJwx _208Ie _1dH_e _1e3Rk _2j9wS _2QAo- _25MYV _3ZX8L _1dH_e" style="margin: 0px; padding: 0px; border: 0px; list-style-type: disc; text-align: left;">
+            <li class="_1BJwx _208Ie _1dH_e _1e3Rk _2j9wS _2QAo- _25MYV _3ZX8L _1dH_e">
             <p class="_208Ie" style="margin-right: 0px; margin-left: 0px; padding: 0px; border: 0px;">SIA(Sitecore Installation Assistant)</p>
             </li>
-            <li class="_1BJwx _208Ie _1dH_e _1e3Rk _2j9wS _2QAo- _25MYV _3ZX8L _1dH_e" style="margin: 0px; padding: 0px; border: 0px; list-style-type: disc; text-align: left;">
+            <li class="_1BJwx _208Ie _1dH_e _1e3Rk _2j9wS _2QAo- _25MYV _3ZX8L _1dH_e">
             <p class="_208Ie" style="margin-right: 0px; margin-left: 0px; padding: 0px; border: 0px;">Sitecore Container Support</p>
             </li>
-            <li class="_208Ie" style="margin-right: 0px; margin-left: 0px; padding: 0px; border: 0px;">EXM Templates</li>
+            <li class="_208Ie">EXM Templates</li>
         </ul>
-        <h2 class="_3f-vr _208Ie blog-post-title-font _6qah_ _3k7A1 _2QAo- _25MYV _3ZX8L _1dH_e" style="color: #000000; background-color: #ffffff; margin: 0px; padding: 0px; border: 0px;"><span style="margin: 0px; padding: 0px; border: 0px;">&nbsp;</span></h2>
-        <h2 class="_3f-vr _208Ie blog-post-title-font _6qah_ _3k7A1 _2QAo- _25MYV _3ZX8L _1dH_e" style="color: #000000; background-color: #ffffff; margin: 0px; padding: 0px; border: 0px;"><span style="margin: 0px; padding: 0px; border: 0px;"><strong>1. Sitecore AI</strong></span></h2>
-        <p class="_1BJwx _208Ie _1dH_e _1e3Rk _2j9wS _2QAo- _25MYV _3ZX8L _1dH_e" style="margin: 0px 0px 8px 40px; padding: 0px; border: 0px; list-style-type: disc; text-align: left;"><span style="background-color: #ffffff; text-align: justify; color: #000000;">Sitecore is about to release Sitecore AI, which is a Saas Module Called AI-as- a-service which can plug into Experience Platform from version 9.0 or higher.&nbsp;</span><span style="text-align: justify; color: #000000;">The Marketers Usually faces the content crisis to solve that Sitecore AI can be very helpful by giving them Intelligent insights they need to optimize content creation and personalized </span><span style="text-align: justify; white-space: pre; color: #000000;">	</span><span style="text-align: justify; color: #000000;">experience delivery at massive scale</span></p>
+        <p style="background: white;margin-bottom: 0.0001pt;padding-top: 10px !important;"><strong style="font-size: 20px !important; color:black;
+        ;">1. Sitecore AI</strong></p>
+        <p class="_1BJwx _208Ie _1dH_e _1e3Rk _2j9wS _2QAo- _25MYV _3ZX8L _1dH_e"><span style="text-align: justify; font-size: 17px; color: black;">Sitecore is about to release Sitecore AI, which is a Saas Module Called AI-as- a-service which can plug into Experience Platform from version 9.0 or higher.&nbsp;</span><span style="text-align: justify; font-size: 17px; color: black;">The Marketers Usually faces the content crisis to solve that Sitecore AI can be very helpful by giving them Intelligent insights they need to optimize content creation and personalized </span><span>	</span><span style="text-align: justify; font-size: 17px; color: black;">experience delivery at massive scale</span></p>
         <p class="_1BJwx _208Ie _1dH_e _1e3Rk _2j9wS _2QAo- _25MYV _3ZX8L _1dH_e" style="margin: 0px; padding: 0px; border: 0px; list-style-type: disc; text-align: left;">
         </p>
-        <ul style="margin-left: 120px;" class="auto-personalization;">
-            <li class="_208Ie" style="margin-right: 0px; margin-left: 0px; padding: 0px; border: 0px; color:black;">Its real-time</li>
-            <li class="_208Ie" style="margin-right: 0px; margin-left: 0px; padding: 0px; border: 0px; color:black;">High-performance data processing </li>
-            <li class="_208Ie" style="margin-right: 0px; margin-left: 0px; padding: 0px; border: 0px; color:black;">Analysis has the power to forecast behavior trends </li>
-            <li class="_1BJwx _208Ie _1dH_e _1e3Rk _2j9wS _2QAo- _1iXso _1cvSD _1dH_e" style="margin: 0px 0px 8px; color:black; padding: 0px; border: 0px; list-style-type: disc; text-align: justify;">
+        <ul style="margin-left:10px !important;" class="auto-personalization;">
+            <li class="_208Ie">Its real-time</li>
+            <li class="_208Ie">High-performance data processing </li>
+            <li class="_208Ie">Analysis has the power to forecast behavior trends </li>
+            <li class="_1BJwx _208Ie _1dH_e _1e3Rk _2j9wS _2QAo- _1iXso _1cvSD _1dH_e" style="text-align: justify;
+            ;">
             Generate smart campaigns with minimal human guidance, yet still customize the AI to their specific use cases. As we go forward, Sitecore AI will be infused throughout the Sitecore platform and form a core element of our SaaS vision.&rdquo;</li>
         </ul>
-        <p class="_1BJwx _208Ie _1dH_e _1e3Rk _2j9wS _2QAo- _25MYV _3ZX8L _1dH_e" style="margin: 0px 0px 8px 40px; padding: 0px; border: 0px; list-style-type: disc; text-align: left;"><span style="background-color: #ffffff; margin: 0px; padding: 0px; border: 0px; color: #000000;"><strong>Sitecore AI &ndash; Auto Personalization</strong></span><span style="background-color: #ffffff; color: #000000;"><strong> </strong></span></p>
-        <p class="_1BJwx _208Ie _1dH_e _1e3Rk _2j9wS _2QAo- _25MYV _3ZX8L _1dH_e" style="margin: 0px 0px 8px 160px; padding: 0px; border: 0px; list-style-type: disc; text-align: left;"><img alt="Auto-Personalization" src="-/media/086A5B4961404B53AABA3C6FC8815CF0.ashx" /></p>
+        <p class="_1BJwx _208Ie _1dH_e _1e3Rk _2j9wS _2QAo- _25MYV _3ZX8L _1dH_e"><span style="background-color: #ffffff; margin: 0px; padding: 0px; border: 0px; color: #000000;"><strong style="font-size: 17px;
+        ;">Sitecore AI &ndash; Auto Personalization</strong></span><span style="background-color: #ffffff; color: #000000;"><strong> </strong></span></p>
+        <p class="_1BJwx _208Ie _1dH_e _1e3Rk _2j9wS _2QAo- _25MYV _3ZX8L _1dH_e"><img alt="Auto-Personalization" src="-/media/Project/AIE/AIE-Corporate-Site/Blogs/Content/Sitecore/Sitecore-9-3-Features/Auto-Personalization.jpg?la=en&amp;hash=ED1CB211D58E2F4C86FDB9A835FE6A67&amp;hash=ED1CB211D58E2F4C86FDB9A835FE6A67" /></p>
         <p class="_1BJwx _208Ie _1dH_e _1e3Rk _2j9wS _2QAo- _25MYV _3ZX8L _1dH_e" style="margin: 0px; padding: 0px; border: 0px; list-style-type: disc; text-align: left;">
         </p>
-        <ul style="margin-left: 80px;" class="auto-personalization;">
-            <li class="_208Ie" style="margin-right: 0px; margin-left: 0px; padding: 0px; border: 0px; color:black ;">Works with 9.x or later</li>
-            <li class="_208Ie" style="margin-right: 0px; margin-left: 0px; padding: 0px; border: 0px; color:black;">Separate Licence</li>
-            <li class="_208Ie" style="margin-right: 0px; margin-left: 0px; padding: 0px; border: 0px; color:black;">Running on Cloud</li>
-            <li class="_208Ie" style="margin-right: 0px; margin-left: 0px; padding: 0px; border: 0px; color:black;">12 million visitors, 2-3 months of Interaction Data</li>
-            <li class="_208Ie" style="margin-right: 0px; margin-left: 0px; padding: 0px; border: 0px; color:black;">Work with rules</li>
+        <ul style="margin-left:10px !important;/* color: black !important; */;" class="auto-personalization;">
+            <li class="_208Ie">Works with 9.x or later</li>
+            <li class="_208Ie">Separate Licence</li>
+            <li class="_208Ie">Running on Cloud</li>
+            <li class="_208Ie">12 million visitors, 2-3 months of Interaction Data</li>
+            <li class="_208Ie">Work with rules</li>
         </ul>
-        <h2 class="_3f-vr _208Ie blog-post-title-font _6qah_ _3k7A1 _2QAo- _25MYV _3ZX8L _1dH_e" style="color: #000000; background-color: #ffffff; margin: 0px; padding: 0px; border: 0px;"><span style="margin: 0px; padding: 0px; border: 0px;"><strong>2. Sitecore SaaS</strong></span></h2>
-        <p class="_3f-vr _208Ie blog-post-title-font _6qah_ _3k7A1 _2QAo- _25MYV _3ZX8L _1dH_e" style="color: #000000; background-color: #ffffff; margin: 0px 0px 0px 40px; padding: 0px; border: 0px;"><span style="text-align: justify; color: #000000;">Sitecore is launching a SaaS digital experience management platform, which is expected to be released in April 2020. S</span><span style="text-align: justify; color: #000000;">itecore would provide the full Experience Platform hosted in Sitecore&rsquo;s Managed Cloud &ldquo;as a service&rdquo;. However, it appears to be a brand-new product focusing on content management with its foundation version.</span></p>
-        <p class="_1BJwx _208Ie _1dH_e _1e3Rk _2j9wS _2QAo- _25MYV _3ZX8L _1dH_e" style="margin: 0px 0px 8px 160px; padding: 0px; border: 0px; list-style-type: disc; text-align: left;"><img alt="sitecore saas" src="-/media/0A9E8777509444D59FD4160685F9E103.ashx" /></p>
+        <p style="background: white; margin-bottom: 0.0001pt;"><strong style="font-size: 20px !important;color:black;padding-top: 12px !important;">2. Sitecore SaaS</strong></p>
+        <p class="_3f-vr _208Ie blog-post-title-font _6qah_ _3k7A1 _2QAo- _25MYV _3ZX8L _1dH_e" style="font-family: unset;
+        ;"><span style="text-align: justify; font-size: 17px; color: black;">Sitecore is launching a SaaS digital experience management platform, which is expected to be released in April 2020. S</span><span style="text-align: justify; font-size: 17px; color: black;">itecore would provide the full Experience Platform hosted in Sitecore&rsquo;s Managed Cloud &ldquo;as a service&rdquo;. However, it appears to be a brand-new product focusing on content management with its foundation version.</span></p>
+        <p class="_1BJwx _208Ie _1dH_e _1e3Rk _2j9wS _2QAo- _25MYV _3ZX8L _1dH_e"><img alt="sitecore saas" src="-/media/Project/AIE/AIE-Corporate-Site/Blogs/Content/Sitecore/Sitecore-9-3-Features/sitecore-saas.jpg?la=en&amp;hash=BF2BE2DBC914DBFF3B459384F40D9208&amp;hash=BF2BE2DBC914DBFF3B459384F40D9208" /></p>
         <span style="white-space: pre;">	</span>
-        <h4 style="margin-left: 40px;">The new Developer Experience is in line with the JSS Headless approach and will support the use of ASP.NET Core as well as JavaScript.
-        </h4>
-        <p class="_1BJwx _208Ie _1dH_e _1e3Rk _2j9wS _2QAo- _25MYV _3ZX8L _1dH_e" style="margin: 0px 0px 8px 160px; padding: 0px; border: 0px; list-style-type: disc; text-align: left;"><span style="background-color: #ffffff; color: #000000;"><img alt="saas headless" src="-/media/C8E87D65E49B453BB294D0A83C5F11A9.ashx" /></span></p>
-        <h3 class="_3tkn1 _208Ie blog-post-title-font _1WM71 _2rIDJ _2QAo- _1iXso _1cvSD _1dH_e" style="color: #000000; background-color: #ffffff; margin: 0px 0px 0px 80px; padding: 0px; border: 0px; text-align: justify;">&nbsp;</h3>
-        <h3 class="_3tkn1 _208Ie blog-post-title-font _1WM71 _2rIDJ _2QAo- _1iXso _1cvSD _1dH_e" style="color: #000000; background-color: #ffffff; margin: 0px 0px 0px 80px; padding: 0px; border: 0px; text-align: justify;">Benefits of Sitecore SAAS are:</h3>
+        <h5 style="text-align: justify;
+        font-family: unset;
+        ;">The new Developer Experience is in line with the JSS Headless approach and will support the use of ASP.NET Core as well as JavaScript.
+        </h5>
+        <p class="_1BJwx _208Ie _1dH_e _1e3Rk _2j9wS _2QAo- _25MYV _3ZX8L _1dH_e"><span style="background-color: #ffffff; color: #000000;"><img alt="saas headless" src="-/media/Project/AIE/AIE-Corporate-Site/Blogs/Content/Sitecore/Sitecore-9-3-Features/saas-headless.jpg?la=en&amp;hash=856710ACE0DC26B203B5221F86C3F43C&amp;hash=856710ACE0DC26B203B5221F86C3F43C" /></span></p>
+        <h4 class="_3tkn1 _208Ie blog-post-title-font _1WM71 _2rIDJ _2QAo- _1iXso _1cvSD _1dH_e">Benefits of Sitecore SAAS are:</h4>
         <p class="_1BJwx _208Ie _1dH_e _1e3Rk _2j9wS _2QAo- _25MYV _3ZX8L _1dH_e" style="margin: 0px; padding: 0px; border: 0px; list-style-type: disc; text-align: left;">
         </p>
-        <ul style="margin-left: 120px;">
-            <li class="_208Ie" style="margin-right: 0px; margin-left: 0px; padding: 0px; border: 0px; color:black;">Easy to use</li>
-            <li class="_208Ie" style="margin-right: 0px; margin-left: 0px; padding: 0px; border: 0px; color:black;">Configurable and</li>
-            <li class="_208Ie" style="margin-right: 0px; margin-left: 0px; padding: 0px; border: 0px; color:black;">Extensible platform</li>
+        <ul style="margin-left: 10px! important;">
+            <li class="_208Ie">Easy to use</li>
+            <li class="_208Ie">Configurable and</li>
+            <li class="_208Ie">Extensible platform</li>
         </ul>
-        <p class="XzvDs _208Ie _1dH_e blog-post-text-font blog-post-text-color _2QAo- _25MYV _3ZX8L _1dH_e" style="color: #000000; background-color: #ffffff; margin: 0px 0px 0px 80px; padding: 0px; border: 0px;">More information about Sitecore SaaS can be found on the Sitecore SaaS FAQ page: </p>
-        <p class="XzvDs _208Ie _1dH_e blog-post-text-font blog-post-text-color _2QAo- _1iXso _1cvSD _1dH_e" style="color: #000000; background-color: #ffffff; margin-top: 0px; margin-right: 0px; margin-left: 80px; padding: 0px; border: 0px; text-align: justify;"><a rel="noopener noreferrer" href="https://www.sitecore.com/company/news-events/press-releases/2019/11/sitecore-saas-strategy/saas-faq" target="_blank" class="_2qJYG blog-link-hashtag-color _2IYtJ" style="color: #72c1bf; margin: 0px; padding: 0px; border: 0px;">
+        <p class="XzvDs _208Ie _1dH_e blog-post-text-font blog-post-text-color _2QAo- _25MYV _3ZX8L _1dH_e" style="text-align: justify;color: black;font-size: 17px;">More information about Sitecore SaaS can be found on the Sitecore SaaS FAQ page: </p>
+        <p class="XzvDs _208Ie _1dH_e blog-post-text-font blog-post-text-color _2QAo- _1iXso _1cvSD _1dH_e" style="text-align: justify;color: black;font-size: 17px;margin: 0px!important;padding: 0px !important;"><a rel="noopener noreferrer" href="https://www.sitecore.com/company/news-events/press-releases/2019/11/sitecore-saas-strategy/saas-faq" target="_blank" class="_2qJYG blog-link-hashtag-color _2IYtJ" style="color: #72c1bf; margin: 0px; padding: 0px; border: 0px;">
         <span style="margin: 0px; padding: 0px; border: 0px; color: blue;">https://www.sitecore.com/company/news-events/press-releases/2019/11/sitecore-saas-strategy/saas-faq</span></a></p>
-        <h2 class="_3f-vr _208Ie blog-post-title-font _6qah_ _3k7A1 _2QAo- _1iXso _1cvSD _1dH_e" style="color: #000000; background-color: #ffffff; margin: 0px; padding: 0px; border: 0px; text-align: justify;"><span style="margin: 0px; padding: 0px; border: 0px;"><strong>3. Horizon:</strong></span></h2>
-        <p class="_3f-vr _208Ie blog-post-title-font _6qah_ _3k7A1 _2QAo- _1iXso _1cvSD _1dH_e" style="color: #000000; background-color: #ffffff; margin: 0px 0px 0px 40px; padding: 0px; border: 0px; text-align: justify;"><span style="color: black;">Horizon is the next generation editing environment, It is the most important addition to Sitecore 9.3, and the Sitecore Experience Editor will eventually be replaced. Horizon is a separate module providing a wide range of enhanced editing features including:</span></p>
+        <p style="font-size: 20px !important;color:black;padding-top: 10px !important;"><strong style="color: black;font-family: sans-serif;">3. Horizon:</strong></p>
+        <p class="_3f-vr _208Ie blog-post-title-font _6qah_ _3k7A1 _2QAo- _1iXso _1cvSD _1dH_e" style="color: #000000;background-color: #ffffff;border: 0px;text-align: justify;font-family: unset;"><span style="text-align: justify; font-size: 17px; color: black;">Horizon is the next generation editing environment, It is the most important addition to Sitecore 9.3, and the Sitecore Experience Editor will eventually be replaced. Horizon is a separate module providing a wide range of enhanced editing features including:</span></p>
         <p class="_3_0WU _208Ie _1dH_e _1e3Rk _19kPR _2QAo- _25MYV _3ZX8L _1dH_e" style="margin: 0px; padding: 0px; border: 0px; list-style-type: decimal; text-align: left;">
         </p>
-        <ul style="margin-left: 80px;">
-            <li class="_208Ie" style="margin-right: 0px; margin-left: 0px; padding: 0px; border: 0px; color:black;">Auto-save</li>
-            <li class="_208Ie" style="margin-right: 0px; margin-left: 0px; padding: 0px; border: 0px; color:black;">Undo / redo</li>
-            <li class="_208Ie" style="margin-right: 0px; margin-left: 0px; padding: 0px; border: 0px; color:black;">Easier navigation</li>
-            <li class="_208Ie" style="margin-right: 0px; margin-left: 0px; padding: 0px; border: 0px; color:black;">Drag &amp; drop</li>
-            <li class="_208Ie" style="margin-right: 0px; margin-left: 0px; padding: 0px; border: 0px; color:black;">In-Built Responsive(Simulator)</li>
+        <ul style="margin-left: 10px !important;">
+            <li class="_208Ie">Auto-save</li>
+            <li class="_208Ie">Undo / redo</li>
+            <li class="_208Ie">Easier navigation</li>
+            <li class="_208Ie">Drag &amp; drop</li>
+            <li class="_208Ie">In-Built Responsive(Simulator)</li>
         </ul>
-        <p class="_3_0WU _208Ie _1dH_e _1e3Rk _19kPR _2QAo- _25MYV _3ZX8L _1dH_e" style="margin: 0px 0px 8px 40px; padding: 0px; border: 0px; list-style-type: decimal; text-align: justify;"><span style="background-color: #ffffff; text-align: justify; color: #000000;">Horizon's concept of making everything one-click away and being able to be enabled as a module on Sitecore 9.3 involves quick page editing, strategic analysis (page output overview) and simulator preview (different device types and date selection)&nbsp;Horizon's first version available with basic features.</span></p>
+        <p class="_3_0WU _208Ie _1dH_e _1e3Rk _19kPR _2QAo- _25MYV _3ZX8L _1dH_e" style="text-align: justify;color: black;font-size: 17px;"><span style="background-color: #ffffff; text-align: justify; color: #000000;">Horizon's concept of making everything one-click away and being able to be enabled as a module on Sitecore 9.3 involves quick page editing, strategic analysis (page output overview) and simulator preview (different device types and date selection)&nbsp;Horizon's first version available with basic features.</span></p>
         <section class="container-blogs-sitecore">
         <div class="carousel-blogs-sitecore">
         <div class="carousel-inner">
@@ -144,64 +149,66 @@ Languages:
         </div>
         </div>
         </section>
-        <h2 class="_3f-vr _208Ie blog-post-title-font _6qah_ _3k7A1 _2QAo- _25MYV _3ZX8L _1dH_e" style="color: #000000; background-color: #ffffff; margin: 0px; padding: 0px; border: 0px;"><span style="margin: 0px; padding: 0px; border: 0px;"><strong>4. Sitecore 9.3 Forms</strong></span></h2>
+        <p style="background: white; margin-bottom: 0.0001pt;"><strong style="font-size: 20px !important; color:black;
+        ;">4. Sitecore 9.3 Forms</strong></p>
         <div class="container">
         <div class="row">
-        <div class="col-9-forms">
-        <ul style="margin-left: 40px;">
-            <li style="margin-right: 0px; margin-left: 0px; padding: 0px; border: 0px;">You can now publish a form from the&nbsp;forms dashboard.</li>
-            <li style="margin-right: 0px; margin-left: 0px; padding: 0px; border: 0px;">To add file upload functionality to your forms,</li>
-            <li style="margin-right: 0px; margin-left: 0px; padding: 0px; border: 0px;">you can now use the&nbsp;File upload forms element.</li>
-            <li style="margin-right: 0px; margin-left: 0px; padding: 0px; border: 0px;">Introducing Sitecore.Context.PageMode.IsExploring</li>
-            <li style="margin-right: 0px; margin-left: 0px; padding: 0px; border: 0px;">You can now use the Sitecore bot detection functionality to verify whether visitor is human.</li>
-            <li style="margin-right: 0px; margin-left: 0px; padding: 0px; border: 0px;">xConnect Improvements</li>
+        <div class="col-lg-9">
+        <ul style="margin-left: 10px !important;">
+            <li>You can now publish a form from the&nbsp;forms dashboard.</li>
+            <li>To add file upload functionality to your forms,</li>
+            <li>you can now use the&nbsp;File upload forms element.</li>
+            <li>Introducing Sitecore.Context.PageMode.IsExploring</li>
+            <li>You can now use the Sitecore bot detection functionality to verify whether visitor is human.</li>
+            <li>xConnect Improvements</li>
         </ul>
-        <p style="margin-right: 0px; margin-left: 0px; padding: 0px; border: 0px;">&nbsp;</p>
         </div>
-        <div class="col-3"><img alt="sitecore forms" src="-/media/Project/AIE/AIE-Corporate-Site/Blogs/Content/Sitecore/Sitecore-9-3-Features/sitecore-forms.jpg?la=en&amp;hash=37B9085A504B65F2443DDC5FEB5AAAE7" /></div>
+        <div class="col-lg-3 col-sm-12 forms" style="/* align-items: center; */
+        ;"><img alt="sitecore forms" src="-/media/Project/AIE/AIE-Corporate-Site/Blogs/Content/Sitecore/Sitecore-9-3-Features/sitecore-forms.jpg?la=en&amp;hash=37B9085A504B65F2443DDC5FEB5AAAE7&amp;hash=37B9085A504B65F2443DDC5FEB5AAAE7" style="align-items: center;
+        padding: 0px 40px;
+        ;" /></div>
         </div>
         </div>
-        <h2 class="_3f-vr _208Ie blog-post-title-font _6qah_ _3k7A1 _2QAo- _25MYV _3ZX8L _1dH_e" style="color: #000000; background-color: #ffffff; margin: 0px; padding: 0px; border: 0px;"><span style="margin: 0px; padding: 0px; border: 0px;"><strong>5. Sitecore Installation Assistant(SIA)</strong></span></h2>
-        <p class="_3_0WU _208Ie _1dH_e _1e3Rk _19kPR _2QAo- _25MYV _3ZX8L _1dH_e" style="margin: 0px 0px 8px 40px; padding: 0px; border: 0px; list-style-type: decimal; text-align: justify;"><span style="text-align: justify; background-color: #ffffff; color: #000000;"> Sitecore Installation Assistant. It&rsquo;s a simple GUI that allows you to enter various parameters like the name of your site, SQL admin credentials, the port for Solr to use, etc. After entering all the various info, SIA will setup Sitecore for you.</span></p>
-        <p class="_3_0WU _208Ie _1dH_e _1e3Rk _19kPR _2QAo- _25MYV _3ZX8L _1dH_e" style="margin: 0px 0px 8px 40px; padding: 0px; border: 0px; list-style-type: decimal; text-align: justify;"><span style="text-align: left;">&nbsp;</span></p>
+        <p style="font-size: 20px !important;color:black;padding-top: 10px !important;"><strong style="color: black;font-family: sans-serif;">5. Sitecore Installation Assistant (SIA)</strong></p>
+        <p class="_3_0WU _208Ie _1dH_e _1e3Rk _19kPR _2QAo- _25MYV _3ZX8L _1dH_e"><span style="text-align: justify; font-size: 17px; color: black;"> Sitecore Installation Assistant. It&rsquo;s a simple GUI that allows you to enter various parameters like the name of your site, SQL admin credentials, the port for Solr to use, etc. After entering all the various info, SIA will setup Sitecore for you.</span></p>
+        <p class="_3_0WU _208Ie _1dH_e _1e3Rk _19kPR _2QAo- _25MYV _3ZX8L _1dH_e" style="/* margin: 0px; *//* padding: 0px; *//* border: 0px; *//* list-style-type: decimal; *//* text-align: justify; */;"><span style="text-align: left;">&nbsp;</span></p>
         <hr />
-        <h2 class="_3_0WU _208Ie _1dH_e _1e3Rk _19kPR _2QAo- _25MYV _3ZX8L _1dH_e" style="margin: 0px 0px 8px 80px; padding: 0px; border: 0px; list-style-type: decimal; text-align: justify;"><span style="text-align: justify; background-color: #ffffff; color: #000000;"><strong><span style="background-color: #ffffff; color: #5c00c4;">&nbsp;</span></strong></span></h2>
-        <h2 class="_3_0WU _208Ie _1dH_e _1e3Rk _19kPR _2QAo- _25MYV _3ZX8L _1dH_e" style="margin: 0px 0px 8px 40px; padding: 0px; border: 0px; list-style-type: decimal; text-align: justify;"><span style="text-align: justify; background-color: #ffffff; color: #000000;"><strong><span style="background-color: #ffffff; color: #5c00c4;">Other Features</span></strong></span></h2>
+        <h2 class="_3_0WU _208Ie _1dH_e _1e3Rk _19kPR _2QAo- _25MYV _3ZX8L _1dH_e" style="/* margin: 0px 0px 8px 40px; */padding: 0px;border: 0px;list-style-type: decimal;text-align: justify;"><span style="text-align: justify; background-color: #ffffff; color: #000000;"><strong><span style="background-color: #ffffff; font-size: 18px; color: #5c00c4;">Other Features</span></strong></span></h2>
         <p class="_3_0WU _208Ie _1dH_e _1e3Rk _19kPR _2QAo- _25MYV _3ZX8L _1dH_e" style="margin: 0px 0px 8px 40px; padding: 0px; border: 0px; list-style-type: decimal; text-align: justify;"><span style="text-align: justify; background-color: #ffffff; color: #000000;"><strong></strong></span></p>
         <blockquote class="_3jY04 _1J-OE _1EdST tcU2D blog-quote-border-color _2QAo- _25MYV _3ZX8L _1dH_e" style="color: #000000; background-color: #ffffff; padding: 10px 20px 10px 18px; border-width: 0px 0px 0px 2px; border-top-style: initial; border-color: #72c1bf; border-right-style: initial; border-bottom-style: initial; border-left-style: solid;">
-        <h4 style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; padding: 0px; border: 0px;"><strong>Solr: 2 new Connection Timeout settings:</strong></h4>
+        <h5 style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; padding: 0px; border: 0px;"><strong>Solr: 2 new Connection Timeout settings:</strong></h5>
         </blockquote>
-        <ul style="margin-left: 40px;">
+        <ul style="margin-left: 30px !important;">
             <li style="color: black;">Default Solr Operations</li>
             <li style="color: black;">Performing Queries</li>
         </ul>
         <blockquote class="_3jY04 _1J-OE _1EdST tcU2D blog-quote-border-color _2QAo- _25MYV _3ZX8L _1dH_e" style="color: #000000; background-color: #ffffff; padding: 10px 20px 10px 18px; border-width: 0px 0px 0px 2px; border-top-style: initial; border-color: #72c1bf; border-right-style: initial; border-bottom-style: initial; border-left-style: solid;">
-        <h4 style="margin: 0px; padding: 0px; border: 0px;"><strong>Removing Obsoletes</strong></h4>
+        <h5 style="margin: 0px; padding: 0px; border: 0px;"><strong>Removing Obsoletes</strong></h5>
         </blockquote>
-        <ul style="margin-left: 40px;">
+        <ul style="margin-left: 30px !important;">
             <li style="color: black;">Sitecore.Nvelocity</li>
             <li style="color: black;">Lucene Search Provider</li>
             <li style="color: black;">Replaced deprecated SQL data types</li>
         </ul>
         <p class="_3_0WU _208Ie _1dH_e _1e3Rk _19kPR _2QAo- _25MYV _3ZX8L _1dH_e" style="margin: 0px 0px 8px 40px; padding: 0px; border: 0px; list-style-type: decimal; text-align: justify;"><span style="text-align: justify; background-color: #ffffff; color: #000000;"><strong></strong></span></p>
         <blockquote class="_3jY04 _1J-OE _1EdST tcU2D blog-quote-border-color _2QAo- _25MYV _3ZX8L _1dH_e" style="color: #000000; background-color: #ffffff;  padding: 10px 20px 10px 18px; border-width: 0px 0px 0px 2px; border-top-style: initial; border-color: #72c1bf; border-right-style: initial; border-bottom-style: initial; border-left-style: solid;">
-        <h4 style="margin: 0px; padding: 0px; border: 0px;"><strong>Media Library in Azure Blob storage</strong></h4>
+        <h5 style="margin: 0px; padding: 0px; border: 0px;"><strong>Media Library in Azure Blob storage</strong></h5>
         </blockquote>
-        <ul style="margin-left: 40px;">
-            <li><span style="background-color: #ffffff; text-align: justify; color: #000000;">Sitecore stores default media objects in a Sitecore database, such as documents or images. Sitecore Blob Storage allows these files to be stored in Azure Blob Storage, reducing storage costs and increasing performance.</span></li>
+        <ul style="margin-left: 30px !important;font-size: 15px;">
+            <li style="color: black;font-size: 16px !important;text-align: justify;">Sitecore stores default media objects in a Sitecore database, such as documents or images. Sitecore Blob Storage allows these files to be stored in Azure Blob Storage, reducing storage costs and increasing performance.</li>
         </ul>
         <p class="_3_0WU _208Ie _1dH_e _1e3Rk _19kPR _2QAo- _25MYV _3ZX8L _1dH_e" style="margin: 0px 0px 8px 40px; padding: 0px; border: 0px; list-style-type: decimal; text-align: justify;"><span style="text-align: justify; background-color: #ffffff; color: #000000;"><strong></strong></span></p>
         <blockquote class="_3jY04 _1J-OE _1EdST tcU2D blog-quote-border-color _2QAo- _25MYV _3ZX8L _1dH_e" style="color: #000000; background-color: #ffffff; padding: 10px 20px 10px 18px; border-width: 0px 0px 0px 2px; border-top-style: initial; border-color: #72c1bf; border-right-style: initial; border-bottom-style: initial; border-left-style: solid;">
-        <h4 style="margin: 0px; padding: 0px; border: 0px;"><strong>Sitecore Container Support</strong></h4>
+        <h5 style="margin: 0px; padding: 0px; border: 0px;"><strong>Sitecore Container Support</strong></h5>
         </blockquote><blockquote class="_3jY04 _1J-OE _1EdST tcU2D blog-quote-border-color _2QAo- _25MYV _3ZX8L _1dH_e" style="color: #000000; background-color: #ffffff; padding: 10px 20px 10px 18px; border-width: 0px 0px 0px 2px; border-top-style: initial; border-color: #72c1bf; border-right-style: initial; border-bottom-style: initial; border-left-style: solid;">
-        <h4 style="margin: 0px; padding: 0px; border: 0px;"><strong>Permission Enabled Search</strong></h4>
+        <h5 style="margin: 0px; padding: 0px; border: 0px;"><strong>Permission Enabled Search</strong></h5>
         </blockquote>
-        <ul style="margin-left: 40px;">
-            <li><span style="background-color: #ffffff; text-align: justify; color: #000000;">The new feature allows customers to use the Sitecore Security model to configure the security permissions for the content they want to appear in the search results. In rare instance-specific users or roles do not have the Read permissions to the item, this item might not appear in Search results for this user or role.</span></li>
+        <ul style="margin-left: 30px !important;">
+            <li style="color: black;font-size: 16px !important;text-align: justify !important;">The new feature allows customers to use the Sitecore Security model to configure the security permissions for the content they want to appear in the search results. In rare instance-specific users or roles do not have the Read permissions to the item, this item might not appear in Search results for this user or role.</li>
         </ul>
         <p class="_3_0WU _208Ie _1dH_e _1e3Rk _19kPR _2QAo- _25MYV _3ZX8L _1dH_e" style="margin: 0px 0px 8px 40px; padding: 0px; border: 0px; list-style-type: decimal; text-align: justify;"><span style="text-align: justify; background-color: #ffffff; color: #000000;"><strong></strong></span></p>
         <blockquote class="_3jY04 _1J-OE _1EdST tcU2D blog-quote-border-color _2QAo- _25MYV _3ZX8L _1dH_e" style="color: #000000; background-color: #ffffff; padding: 10px 20px 10px 18px; border-width: 0px 0px 0px 2px; border-top-style: initial; border-color: #72c1bf; border-right-style: initial; border-bottom-style: initial; border-left-style: solid;">
-        <h4 style="margin: 0px; padding: 0px; border: 0px;"><strong>Renamed version of SXA with Same Sitecore version i.e, SXA 9.3 just to be with sync</strong></h4>
+        <h5 style="margin: 0px; padding: 0px; border: 0px;"><strong>Renamed version of SXA with Same Sitecore version i.e, SXA 9.3 just to be with sync</strong></h5>
         </blockquote>
         <p class="_3_0WU _208Ie _1dH_e _1e3Rk _19kPR _2QAo- _25MYV _3ZX8L _1dH_e" style="margin: 0px 0px 8px 40px; padding: 0px; border: 0px; list-style-type: decimal; text-align: justify;"><strong style="color: #000000;"></strong></p>
     - ID: "62c4305f-4328-4126-a0c3-657315ad18e6"
