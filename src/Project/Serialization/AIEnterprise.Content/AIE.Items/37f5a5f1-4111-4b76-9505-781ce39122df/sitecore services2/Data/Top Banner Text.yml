@@ -23,15 +23,21 @@ Languages:
     - ID: "b3635965-6786-457c-9dee-28de73c0a331"
       Hint: Text
       Value: |
-        <div class="ss-bannertitle new-services">
-        <div class="ss-toptitle new-services">Looking for that Perfect Sitecore Implementation Partner?
+        <div class="sitecore-banner-updated">
+        <div class="row banner-sitecore">
+        <div class="col-lg-8 banner ">
+        <h2 class="looking-partner">Looking for that Perfect </h2>
+        <h2 class="sitecore-Impelemnation">Sitecore Implementation </h2>
+        <h2 class="partner-banner">Partner?</h2>
         </div>
-        <div class="ss-toptext new-services">Look!&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; No!&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Further!   </div>
+        <div class="col-lg-4 look-no">
+        <h2 class="look-no-further">Look!       No!       Further!</h2>
         </div>
-        <div class="ss-onestopbanner new-services">
-        <div class="ss-aieyour new-services">AIE - YOUR</div>
-        <div class="ss-onestoptitle new-services">ONE<br />
-        STOP</div>
-        <div class="ss-sitecorepartner new-services">SITECORE<br />
-        PARTNER</div>
+        </div>
+        <div class="row banner-content">
+        <div class="banner_bottom"><img src="-/media/Project/AIE/AIE-Corporate-Site/AI-logo--White-V1.png?la=en&amp;hash=4D8CDA201A778079AA57C09F1F4847A9&amp;h=400&amp;w=144" alt="white logo" class="imagelogo" />
+        <h3 class="onestop_partner">YOUR ONE STOP SITECORE PARTNER
+        </h3>
+        </div>
+        </div>
         </div>
