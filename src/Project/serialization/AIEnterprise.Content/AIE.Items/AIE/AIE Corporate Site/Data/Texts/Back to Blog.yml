@@ -27,4 +27,4 @@ Languages:
       Hint: Text
       Value: |
         <div class="back-to-blog">
-        <span><a href="/blogs/"> <img alt="" height="40" width="40" src="-/media/2D3F77E53F734677B50FC228F5FF7B81.ashx?h=40&amp;w=40" style="height: 40px; width: 40px;" /> </a></span></div>
+        <span><a href="/blogs/"> <img alt="" src="-/media/2D3F77E53F734677B50FC228F5FF7B81.ashx?h=40&amp;w=40" style="height: 40px; width: 40px;" /><span>Go Back to Blogs </span></a></span></div>
