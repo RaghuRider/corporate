@@ -8,7 +8,9 @@ SharedFields:
 - ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
   Hint: __Base template
   Type: tree list
-  Value: "{FCDFE9CD-364F-46A6-A466-8CEB8CBF74CC}"
+  Value: |
+    {FCDFE9CD-364F-46A6-A466-8CEB8CBF74CC}
+    {C14B6289-8AC2-439C-9E5B-40DE9F820C3F}
 - ID: "d312103c-b36c-4ca5-864a-c85f9abda503"
   Hint: __Is Bucket
   Type: Checkbox

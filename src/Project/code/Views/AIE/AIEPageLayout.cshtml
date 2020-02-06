@@ -21,6 +21,17 @@
 <html class="no-js" lang="@Model.Item.Language.Name">
 <!--<![endif]-->
 <head>
+    <!-- Google Tag Manager -->
+    <script>
+    (function (w, d, s, l, i) {
+        w[l] = w[l] || []; w[l].push({
+            'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+        }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+                'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-T7CJ6PX');</script>
+    <!-- End Google Tag Manager -->
     <link rel='stylesheet' id='thegem-google-fonts-css' href='https://fonts.googleapis.com/css?family=Montserrat%3A700%2Cregular%7CSource+Sans+Pro%3Aregular%2C300&amp;subset=latin%2Clatin-ext%2Cvietnamese%2Cgreek-ext%2Ccyrillic-ext%2Ccyrillic%2Cgreek&amp;ver=4.9.1' type='text/css' media='all' />
     @foreach (string style in assetLinks.Styles)
     {
@@ -35,6 +46,12 @@
     <script async type="text/javascript" src="https://seal.godaddy.com/getSeal?sealID=1kWETC1DbNiywJ2yBZqHXPcA4QkdwkQatFnH93lHkuZ3D60LfTIhyk8HOPtg"></script>
 </head>
 <body @Html.Sxa().Body().Decorate()>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript>
+        <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T7CJ6PX"
+                height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <!-- End Google Tag Manager (noscript) -->
     @Html.Sitecore().Placeholder("body-top")
     @Html.Sxa().GridBody()
     @Html.Sitecore().Placeholder("body-bottom")

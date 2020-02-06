@@ -39,6 +39,10 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "22753447-be25-4035-a3c9-7f875afe8e57"
+      Hint: RedirectUrl
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{493300F0-160D-41D4-A6F7-958FA5A98428}" />
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20190708T062916Z
