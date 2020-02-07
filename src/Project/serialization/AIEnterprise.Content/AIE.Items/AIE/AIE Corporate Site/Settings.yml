@@ -21,6 +21,11 @@ SharedFields:
     {5A6BF1D1-836B-425A-A6E6-32CEAA8FF3A5}
     {B14BAB5B-8965-466B-886B-1F93175BCAB3}
     {041C1F9F-99A4-4EE6-8308-985499F91032}
+- ID: "64971fa7-f8ac-4c88-9bb2-2949f2a28670"
+  Hint: RobotsContent
+  Value: |
+    User-agent: *
+    Allow: / 
 - ID: "7517c0bf-69e3-4975-b141-5a2eb90ebadc"
   Hint: SitemapMode
   Value: "{D0178899-8883-4F4A-9A2C-836EF5BE9B82}"
