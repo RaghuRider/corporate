@@ -1,0 +1,18 @@
+﻿---
+ID: "21dd2e61-16ac-4bb1-8000-b62085e129ba"
+Parent: "cedada19-68e6-4f1c-bf44-9c8c86e77ea3"
+Template: "6b8aabef-d650-46e0-97d0-c0b04f7f016b"
+Path: /sitecore/content/AIE/AIE Corporate Site/Presentation/Styles/AIE/Sitecore Services/sitecoreservices_mobileBanner
+DB: master
+SharedFields:
+- ID: "09147fb2-ebfb-4949-8c8e-26a424409d5e"
+  Hint: Value
+  Value: sitecoreservices_mobileBanner
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200210T121406Z
