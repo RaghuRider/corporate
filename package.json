@@ -4,7 +4,7 @@
   "description": "AIE Node Dependencies",
   "main": "gulpfile.js",
   "dependencies": {
-    "async": "^1.5.2",
+    "async": "^2.6.4",
     "del": "^4.1.1",
     "glob": "^7.0.3",
     "gulp-autoprefixer": "^3.1.0",
